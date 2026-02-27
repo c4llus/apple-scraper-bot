@@ -1,0 +1,32 @@
+name: Bot Extraedor de Apple
+
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Se ejecuta todos los lunes a medianoche
+  workflow_dispatch: # Nos permite darle a un botón para ejecutarlo ahora mismo
+
+jobs:
+  actualizar-base-datos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el proyecto
+        uses: actions/checkout@v3
+
+      - name: Preparar entorno Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Instalar librerías
+        run: pip install requests beautifulsoup4
+
+      - name: 🤖 Ejecutar el Scraper Web
+        run: python scraper.py
+
+      - name: 💾 Guardar el nuevo JSON
+        run: |
+          git config --global user.name "Bot de Apple"
+          git config --global user.email "bot@tu-app.com"
+          git add datos_apple.json
+          git commit -m "Actualización automática de modelos Apple" || exit 0
+          git push
