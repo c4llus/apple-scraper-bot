@@ -5,15 +5,15 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-max-colors.png",
         "colores": [
+            "Azul oscuro",
             "Plata",
-            "Naranja cósmico",
-            "Azul oscuro"
+            "Naranja cósmico"
         ],
         "capacidades": [
-            "512 GB",
-            "1 TB",
             "256 GB",
-            "2 TB"
+            "512 GB",
+            "2 TB",
+            "1 TB"
         ],
         "modelos": {
             "A3257": "Estados unidos, puerto rico",
@@ -28,14 +28,14 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-colors.png",
         "colores": [
+            "Azul oscuro",
             "Plata",
-            "Naranja cósmico",
-            "Azul oscuro"
+            "Naranja cósmico"
         ],
         "capacidades": [
+            "256 GB",
             "512 GB",
-            "1 TB",
-            "256 GB"
+            "1 TB"
         ],
         "modelos": {
             "A3256": "Estados unidos, puerto rico",
@@ -50,15 +50,15 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-colors.png",
         "colores": [
-            "Azul neblina",
+            "Negro",
             "Verde salvia",
             "Blanco",
-            "Negro",
-            "Lavanda"
+            "Lavanda",
+            "Azul neblina"
         ],
         "capacidades": [
-            "512 GB",
-            "256 GB"
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
             "A3258": "Estados unidos, puerto rico",
@@ -74,14 +74,14 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-air-colors.png",
         "colores": [
             "Blanco nube",
-            "Negro espacial",
             "Dorado claro",
+            "Negro espacial",
             "Azul cielo"
         ],
         "capacidades": [
+            "256 GB",
             "512 GB",
-            "1 TB",
-            "256 GB"
+            "1 TB"
         ],
         "modelos": {
             "A3260": "Estados unidos, puerto rico, baréin, canadá, guam, kuwait, méxico, omán, qatar, arabia saudí, emiratos árabes unidos e islas vírgenes de los estados unidos",
@@ -96,13 +96,13 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16e/iphone-16e-colors.png",
         "colores": [
-            "Negro",
-            "Blanco"
+            "Blanco",
+            "Negro"
         ],
         "capacidades": [
             "128 GB",
-            "512 GB",
-            "256 GB"
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
             "A3212": "Estados unidos, puerto rico",
@@ -118,14 +118,14 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-max-colors.png",
         "colores": [
             "Titanio negro",
-            "Titanio blanco",
             "Titanio desierto",
-            "Titanio natural"
+            "Titanio natural",
+            "Titanio blanco"
         ],
         "capacidades": [
+            "256 GB",
             "512 GB",
-            "1 TB",
-            "256 GB"
+            "1 TB"
         ],
         "modelos": {
             "A3084": "Estados unidos, puerto rico",
@@ -141,15 +141,15 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-colors.png",
         "colores": [
             "Titanio negro",
-            "Titanio blanco",
             "Titanio desierto",
-            "Titanio natural"
+            "Titanio natural",
+            "Titanio blanco"
         ],
         "capacidades": [
             "128 GB",
+            "256 GB",
             "512 GB",
-            "1 TB",
-            "256 GB"
+            "1 TB"
         ],
         "modelos": {
             "A3083": "Estados unidos, puerto rico",
@@ -164,16 +164,16 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-plus-colors.png",
         "colores": [
-            "Blanco",
-            "Azul ultramar",
             "Verde azulado",
             "Negro",
+            "Azul ultramar",
+            "Blanco",
             "Rosa"
         ],
         "capacidades": [
             "128 GB",
-            "512 GB",
-            "256 GB"
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
             "A3082": "Estados unidos, puerto rico",
@@ -188,16 +188,16 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-colors.png",
         "colores": [
-            "Blanco",
-            "Azul ultramar",
             "Verde azulado",
             "Negro",
+            "Azul ultramar",
+            "Blanco",
             "Rosa"
         ],
         "capacidades": [
             "128 GB",
-            "512 GB",
-            "256 GB"
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
             "A3081": "Estados unidos, puerto rico",
@@ -213,14 +213,14 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-pro-max.png",
         "colores": [
             "Titanio negro",
-            "Titanio blanco",
+            "Titanio natural",
             "Titanio azul",
-            "Titanio natural"
+            "Titanio blanco"
         ],
         "capacidades": [
+            "256 GB",
             "512 GB",
-            "1 TB",
-            "256 GB"
+            "1 TB"
         ],
         "modelos": {
             "A2849": "Estados unidos, puerto rico",
@@ -236,15 +236,15 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-pro.png",
         "colores": [
             "Titanio negro",
-            "Titanio blanco",
+            "Titanio natural",
             "Titanio azul",
-            "Titanio natural"
+            "Titanio blanco"
         ],
         "capacidades": [
             "128 GB",
+            "256 GB",
             "512 GB",
-            "1 TB",
-            "256 GB"
+            "1 TB"
         ],
         "modelos": {
             "A2848": "Estados unidos, puerto rico",
@@ -259,16 +259,16 @@
         "año": 2023,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-plus.png",
         "colores": [
-            "Amarillo",
-            "Verde",
-            "Negro",
             "Azul",
-            "Rosa"
+            "Negro",
+            "Rosa",
+            "Amarillo",
+            "Verde"
         ],
         "capacidades": [
             "128 GB",
-            "512 GB",
-            "256 GB"
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2847": "Estados unidos, puerto rico",
@@ -283,16 +283,16 @@
         "año": 2023,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15.png",
         "colores": [
-            "Amarillo",
-            "Verde",
-            "Negro",
             "Azul",
-            "Rosa"
+            "Negro",
+            "Rosa",
+            "Amarillo",
+            "Verde"
         ],
         "capacidades": [
             "128 GB",
-            "512 GB",
-            "256 GB"
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2846": "Estados unidos, puerto rico",
@@ -307,16 +307,16 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-max-colors.png",
         "colores": [
-            "Oro",
             "Plata",
+            "Morado oscuro",
             "Negro espacial",
-            "Morado oscuro"
+            "Oro"
         ],
         "capacidades": [
             "128 GB",
+            "256 GB",
             "512 GB",
-            "1 TB",
-            "256 GB"
+            "1 TB"
         ],
         "modelos": {
             "A2651": "Estados unidos, puerto rico",
@@ -332,16 +332,16 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-colors.png",
         "colores": [
-            "Oro",
             "Plata",
+            "Morado oscuro",
             "Negro espacial",
-            "Morado oscuro"
+            "Oro"
         ],
         "capacidades": [
             "128 GB",
+            "256 GB",
             "512 GB",
-            "1 TB",
-            "256 GB"
+            "1 TB"
         ],
         "modelos": {
             "A2650": "Estados unidos, puerto rico",
@@ -358,16 +358,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-plus-colors-spring-2023.png",
         "colores": [
             "(product)red",
-            "Medianoche",
-            "Amarillo",
+            "Azul",
             "Morado",
             "Blanco estrella",
-            "Azul"
+            "Medianoche",
+            "Amarillo"
         ],
         "capacidades": [
             "128 GB",
-            "512 GB",
-            "256 GB"
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2632": "Estados unidos, puerto rico",
@@ -384,16 +384,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-colors-spring-2023.png",
         "colores": [
             "(product)red",
-            "Medianoche",
-            "Amarillo",
+            "Azul",
             "Morado",
             "Blanco estrella",
-            "Azul"
+            "Medianoche",
+            "Amarillo"
         ],
         "capacidades": [
             "128 GB",
-            "512 GB",
-            "256 GB"
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2649": "Estados unidos, puerto rico",
@@ -409,14 +409,14 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se-3rd-gen-colors.png",
         "colores": [
+            "Medianoche",
             "(product)red",
-            "Blanco estrella",
-            "Medianoche"
+            "Blanco estrella"
         ],
         "capacidades": [
-            "128 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A2595": "Arabia saudí, canadá, estados unidos, guam, islas vírgenes de los estados unidos, méxico, puerto rico",
@@ -432,17 +432,17 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-max-colors.png",
         "colores": [
-            "Plata",
-            "Grafito",
             "Oro",
             "Verde alpino",
+            "Plata",
+            "Grafito",
             "Azul sierra"
         ],
         "capacidades": [
             "128 GB",
+            "256 GB",
             "512 GB",
-            "1 TB",
-            "256 GB"
+            "1 TB"
         ],
         "modelos": {
             "A2484": "Estados unidos",
@@ -458,17 +458,17 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-colors.png",
         "colores": [
-            "Plata",
-            "Grafito",
             "Oro",
             "Verde alpino",
+            "Plata",
+            "Grafito",
             "Azul sierra"
         ],
         "capacidades": [
             "128 GB",
+            "256 GB",
             "512 GB",
-            "1 TB",
-            "256 GB"
+            "1 TB"
         ],
         "modelos": {
             "A2483": "Estados unidos",
@@ -485,16 +485,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-colors.png",
         "colores": [
             "(product)red",
-            "Medianoche",
-            "Verde",
-            "Blanco estrella",
             "Azul",
-            "Rosa"
+            "Blanco estrella",
+            "Medianoche",
+            "Rosa",
+            "Verde"
         ],
         "capacidades": [
             "128 GB",
-            "512 GB",
-            "256 GB"
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2482": "Estados unidos",
@@ -511,16 +511,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-iphone13-mini-colors.png",
         "colores": [
             "(product)red",
-            "Medianoche",
-            "Verde",
-            "Blanco estrella",
             "Azul",
-            "Rosa"
+            "Blanco estrella",
+            "Medianoche",
+            "Rosa",
+            "Verde"
         ],
         "capacidades": [
             "128 GB",
-            "512 GB",
-            "256 GB"
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2481": "Estados unidos",
@@ -536,15 +536,15 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro-max/iphone12-pro-max-colors.jpg",
         "colores": [
-            "Oro",
-            "Plata",
+            "Grafito",
             "Azul pacífico",
-            "Grafito"
+            "Plata",
+            "Oro"
         ],
         "capacidades": [
             "128 GB",
-            "512 GB",
-            "256 GB"
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2342": "Estados unidos",
@@ -559,15 +559,15 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro/iphone12-pro-colors.jpg",
         "colores": [
-            "Oro",
-            "Plata",
+            "Grafito",
             "Azul pacífico",
-            "Grafito"
+            "Plata",
+            "Oro"
         ],
         "capacidades": [
             "128 GB",
-            "512 GB",
-            "256 GB"
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2341": "Estados unidos",
@@ -583,16 +583,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-colors.png",
         "colores": [
             "(product)red",
-            "Morado",
-            "Verde",
-            "Blanco",
+            "Azul",
             "Negro",
-            "Azul"
+            "Morado",
+            "Blanco",
+            "Verde"
         ],
         "capacidades": [
-            "128 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A2172": "Estados unidos",
@@ -608,16 +608,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-mini-colors.png",
         "colores": [
             "(product)red",
-            "Morado",
-            "Verde",
-            "Blanco",
+            "Azul",
             "Negro",
-            "Azul"
+            "Morado",
+            "Blanco",
+            "Verde"
         ],
         "capacidades": [
-            "128 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A2176": "Estados unidos",
@@ -632,14 +632,14 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se/iphone-se-2nd-gen-colors.jpg",
         "colores": [
+            "Blanco",
             "(product)red",
-            "Negro",
-            "Blanco"
+            "Negro"
         ],
         "capacidades": [
-            "128 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A2275": "Canadá y estados unidos",
@@ -653,15 +653,15 @@
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11pro.jpg",
         "colores": [
-            "Oro",
-            "Plata",
             "Gris espacial",
+            "Plata",
+            "Oro",
             "Verde noche"
         ],
         "capacidades": [
-            "512 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "512 GB"
         ],
         "modelos": {
             "A2160": "Canadá y estados unidos",
@@ -675,15 +675,15 @@
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11pro-max.jpg",
         "colores": [
-            "Oro",
-            "Plata",
             "Gris espacial",
+            "Plata",
+            "Oro",
             "Verde noche"
         ],
         "capacidades": [
-            "512 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "512 GB"
         ],
         "modelos": {
             "A2161": "Canadá, estados unidos",
@@ -698,16 +698,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11-colors.jpg",
         "colores": [
             "(product)red",
-            "Malva",
+            "Negro",
+            "Blanco",
             "Amarillo",
             "Verde",
-            "Blanco",
-            "Negro"
+            "Malva"
         ],
         "capacidades": [
-            "128 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A2111": "Canadá y estados unidos",
@@ -721,14 +721,14 @@
         "año": 2018,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xs-colors.jpg",
         "colores": [
-            "Oro",
+            "Gris espacial",
             "Plata",
-            "Gris espacial"
+            "Oro"
         ],
         "capacidades": [
-            "512 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "512 GB"
         ],
         "modelos": {
             "A1920": "Región global o no especificada",
@@ -744,14 +744,14 @@
         "año": 2018,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xs-max-colors.jpg",
         "colores": [
-            "Oro",
+            "Gris espacial",
             "Plata",
-            "Gris espacial"
+            "Oro"
         ],
         "capacidades": [
-            "512 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "512 GB"
         ],
         "modelos": {
             "A1921": "Región global o no especificada",
@@ -768,16 +768,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xr/identify-iphone-xr-colors.jpg",
         "colores": [
             "(product)red",
-            "Amarillo",
-            "Blanco",
-            "Coral",
+            "Azul",
             "Negro",
-            "Azul"
+            "Coral",
+            "Blanco",
+            "Amarillo"
         ],
         "capacidades": [
-            "128 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A1984": "Región global o no especificada",
@@ -793,12 +793,12 @@
         "año": 2017,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-x-colors.jpg",
         "colores": [
-            "Plata",
-            "Gris espacial"
+            "Gris espacial",
+            "Plata"
         ],
         "capacidades": [
-            "256 GB",
-            "64 GB"
+            "64 GB",
+            "256 GB"
         ],
         "modelos": {
             "A1865": "Región global o no especificada",
@@ -813,14 +813,14 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8/iphone-8-colors.jpg",
         "colores": [
             "Plateado",
-            "Gris espacial",
             "(product)red",
-            "Dorado"
+            "Dorado",
+            "Gris espacial"
         ],
         "capacidades": [
-            "128 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A1863": "Región global o no especificada",
@@ -835,14 +835,14 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8-plus/iphone-8plus-colors.jpg",
         "colores": [
             "Plateado",
-            "Gris espacial",
             "(product)red",
-            "Dorado"
+            "Dorado",
+            "Gris espacial"
         ],
         "capacidades": [
-            "128 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A1864": "Región global o no especificada",
@@ -856,12 +856,12 @@
         "año": 2016,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7/iphone7-colors.jpg",
         "colores": [
-            "Plateado",
+            "Oro rosa",
             "(product)red",
-            "Oro",
             "Negro",
-            "Negro brillante",
-            "Oro rosa"
+            "Oro",
+            "Plateado",
+            "Negro brillante"
         ],
         "capacidades": [
             "128 GB",
@@ -880,12 +880,12 @@
         "año": 2016,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7-plus/iphone7plus-colors.jpg",
         "colores": [
-            "Plateado",
+            "Oro rosa",
             "(product)red",
-            "Oro",
             "Negro",
-            "Negro brillante",
-            "Oro rosa"
+            "Oro",
+            "Plateado",
+            "Negro brillante"
         ],
         "capacidades": [
             "128 GB",
@@ -904,16 +904,16 @@
         "año": 2016,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se/iphone-se-colors.jpg",
         "colores": [
-            "Plateado",
             "Gris espacial",
+            "Dorado",
             "Oro rosa",
-            "Dorado"
+            "Plateado"
         ],
         "capacidades": [
-            "128 GB",
-            "16 GB",
+            "64 GB",
             "32 GB",
-            "64 GB"
+            "128 GB",
+            "16 GB"
         ],
         "modelos": {
             "A1723": "Región global o no especificada",
@@ -927,16 +927,16 @@
         "año": 2015,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-6s-colors.jpg",
         "colores": [
-            "Plateado",
             "Gris espacial",
+            "Dorado",
             "Oro rosa",
-            "Dorado"
+            "Plateado"
         ],
         "capacidades": [
-            "128 GB",
-            "16 GB",
+            "64 GB",
             "32 GB",
-            "64 GB"
+            "128 GB",
+            "16 GB"
         ],
         "modelos": {
             "A1633": "Región global o no especificada",
@@ -950,16 +950,16 @@
         "año": 2015,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-6splus-colors.jpg",
         "colores": [
-            "Plateado",
             "Gris espacial",
+            "Dorado",
             "Oro rosa",
-            "Dorado"
+            "Plateado"
         ],
         "capacidades": [
-            "128 GB",
-            "16 GB",
+            "64 GB",
             "32 GB",
-            "64 GB"
+            "128 GB",
+            "16 GB"
         ],
         "modelos": {
             "A1634": "Región global o no especificada",
@@ -973,15 +973,15 @@
         "año": 2014,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone6-colors.jpg",
         "colores": [
-            "Plateado",
             "Gris espacial",
-            "Dorado"
+            "Dorado",
+            "Plateado"
         ],
         "capacidades": [
-            "128 GB",
-            "16 GB",
+            "64 GB",
             "32 GB",
-            "64 GB"
+            "128 GB",
+            "16 GB"
         ],
         "modelos": {
             "A1549": "Región global o no especificada",
@@ -995,14 +995,14 @@
         "año": 2014,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone6plus-colors.jpg",
         "colores": [
-            "Plateado",
             "Gris espacial",
-            "Dorado"
+            "Dorado",
+            "Plateado"
         ],
         "capacidades": [
+            "64 GB",
             "128 GB",
-            "16 GB",
-            "64 GB"
+            "16 GB"
         ],
         "modelos": {
             "A1522": "Región global o no especificada",
@@ -1016,14 +1016,14 @@
         "año": 2013,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5s-colors.jpg",
         "colores": [
-            "Plateado",
             "Gris espacial",
-            "Dorado"
+            "Dorado",
+            "Plateado"
         ],
         "capacidades": [
-            "16 GB",
+            "64 GB",
             "32 GB",
-            "64 GB"
+            "16 GB"
         ],
         "modelos": {
             "A1453": "Región global o no especificada",
@@ -1040,16 +1040,16 @@
         "año": 2013,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5c-colors.jpg",
         "colores": [
-            "Amarillo",
-            "Verde",
-            "Blanco",
             "Azul",
-            "Rosa"
+            "Blanco",
+            "Rosa",
+            "Amarillo",
+            "Verde"
         ],
         "capacidades": [
-            "8 GB",
+            "32 GB",
             "16 GB",
-            "32 GB"
+            "8 GB"
         ],
         "modelos": {
             "A1456": "Región global o no especificada",
@@ -1065,13 +1065,13 @@
         "año": 2012,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5-colors.jpg",
         "colores": [
-            "Negro",
-            "Blanco"
+            "Blanco",
+            "Negro"
         ],
         "capacidades": [
-            "16 GB",
+            "64 GB",
             "32 GB",
-            "64 GB"
+            "16 GB"
         ],
         "modelos": {
             "A1428": "Región global o no especificada",
@@ -1085,14 +1085,14 @@
         "año": 2011,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone4s-colors.jpg",
         "colores": [
-            "Negro",
-            "Blanco"
+            "Blanco",
+            "Negro"
         ],
         "capacidades": [
-            "8 GB",
-            "16 GB",
+            "64 GB",
             "32 GB",
-            "64 GB"
+            "16 GB",
+            "8 GB"
         ],
         "modelos": {
             "A1431": "Región global o no especificada",
@@ -1105,13 +1105,13 @@
         "año": 2010,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone4-colors.jpg",
         "colores": [
-            "Negro",
-            "Blanco"
+            "Blanco",
+            "Negro"
         ],
         "capacidades": [
-            "8 GB",
+            "32 GB",
             "16 GB",
-            "32 GB"
+            "8 GB"
         ],
         "modelos": {
             "A1349": "Región global o no especificada",
@@ -1124,14 +1124,13 @@
         "año": 2009,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone3gs-colors.jpg",
         "colores": [
-            "Negro",
-            "La parte posterior es de plástico. la imprimación de la cubierta posterior es del mismo color plateado brillante que el logotipo de apple. tiene una bandeja sim en la parte superior que aloja una tarjeta mini-sim de «segundo formato» (2ff). el número de serie está impreso en la bandeja sim.",
-            "Blanco"
+            "Blanco",
+            "Negro"
         ],
         "capacidades": [
-            "8 GB",
+            "32 GB",
             "16 GB",
-            "32 GB"
+            "8 GB"
         ],
         "modelos": {
             "A1325": "Región global o no especificada",
@@ -1147,8 +1146,8 @@
             "Consultar caja o web"
         ],
         "capacidades": [
-            "8 GB",
-            "16 GB"
+            "16 GB",
+            "8 GB"
         ],
         "modelos": {
             "A1324": "Región global o no especificada",
@@ -1164,9 +1163,9 @@
             "Consultar caja o web"
         ],
         "capacidades": [
-            "8 GB",
             "4 GB",
-            "16 GB"
+            "16 GB",
+            "8 GB"
         ],
         "modelos": {
             "A1203": "Región global o no especificada",
@@ -1175,6 +1174,1867 @@
             "A1898": "Región global o no especificada",
             "A1779": "Región global o no especificada",
             "A1785": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_de_13_pulgadas_m5": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro de 13 pulgadas (M5)",
+        "año": 2025,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/fall-2025-ipad-pro-m5-13in.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "256 GB",
+            "512 GB",
+            "2 TB",
+            "1 TB"
+        ],
+        "modelos": {
+            "A3360": "Región global o no especificada",
+            "A3361": "Región global o no especificada",
+            "A3362": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_de_11_pulgadas_m5": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro de 11 pulgadas (M5)",
+        "año": 2025,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/fall-2025-ipad-pro-m5-11in.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "256 GB",
+            "512 GB",
+            "2 TB",
+            "1 TB"
+        ],
+        "modelos": {
+            "A3357": "Región global o no especificada",
+            "A3358": "Región global o no especificada",
+            "A3359": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_de_13_pulgadas_m4": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro de 13 pulgadas (M4)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-1.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "256 GB",
+            "512 GB",
+            "2 TB",
+            "1 TB"
+        ],
+        "modelos": {
+            "A2925": "Región global o no especificada",
+            "A2926": "Región global o no especificada",
+            "A3007": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_de_11_pulgadas_m4": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro de 11 pulgadas (M4)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-2.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "256 GB",
+            "512 GB",
+            "2 TB",
+            "1 TB"
+        ],
+        "modelos": {
+            "A2836": "Región global o no especificada",
+            "A2837": "Región global o no especificada",
+            "A3006": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_de_12,9_pulgadas_6ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro de 12,9 pulgadas (6.ª generación)",
+        "año": 2022,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-12-9-inch-6gen-ipad-pro.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "256 GB",
+            "2 TB",
+            "512 GB",
+            "1 TB",
+            "128 GB"
+        ],
+        "modelos": {
+            "A2436": "Región global o no especificada",
+            "A2437": "Región global o no especificada",
+            "A2764": "Región global o no especificada",
+            "A2766": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_de_11_pulgadas_4ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro de 11 pulgadas (4.ª generación)",
+        "año": 2022,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-11-inch-4gen-ipad-pro.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "256 GB",
+            "2 TB",
+            "512 GB",
+            "4 GB",
+            "1 TB",
+            "128 GB"
+        ],
+        "modelos": {
+            "A2759": "Región global o no especificada",
+            "A2761": "Región global o no especificada",
+            "A2435": "Región global o no especificada",
+            "A2762": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_de_12,9_pulgadas_5ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro de 12,9 pulgadas (5.ª generación)",
+        "año": 2021,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/2021-ipad-pro-12-9-colors.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "256 GB",
+            "2 TB",
+            "512 GB",
+            "1 TB",
+            "128 GB"
+        ],
+        "modelos": {
+            "A2378": "Región global o no especificada",
+            "A2461": "Región global o no especificada",
+            "A2379": "Región global o no especificada",
+            "A2462": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_de_11_pulgadas_3ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro de 11 pulgadas (3.ª generación)",
+        "año": 2021,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/2021-ipad-pro-11-colors.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "256 GB",
+            "2 TB",
+            "512 GB",
+            "1 TB",
+            "128 GB"
+        ],
+        "modelos": {
+            "A2377": "Región global o no especificada",
+            "A2459": "Región global o no especificada",
+            "A2301": "Región global o no especificada",
+            "A2460": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_de_12,9_pulgadas_4ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro de 12,9 pulgadas (4.ª generación)",
+        "año": 2020,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios13-4-ipad-pro-4gen-12-9-in.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "128 GB",
+            "256 GB",
+            "512 GB",
+            "1 TB"
+        ],
+        "modelos": {
+            "A2229": "Región global o no especificada",
+            "A2069": "Región global o no especificada",
+            "A2232": "Región global o no especificada",
+            "A2233": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_de_11_pulgadas_2ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro de 11 pulgadas (2.ª generación)",
+        "año": 2020,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios13-4-ipad-pro-4gen-11-in.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "128 GB",
+            "256 GB",
+            "512 GB",
+            "1 TB"
+        ],
+        "modelos": {
+            "A2228": "Región global o no especificada",
+            "A2068": "Región global o no especificada",
+            "A2230": "Región global o no especificada",
+            "A2231": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_de_12,9_pulgadas_3ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro de 12,9 pulgadas (3.ª generación)",
+        "año": 2018,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios12-ipad-pro-12-9-in.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "256 GB",
+            "512 GB",
+            "1 TB"
+        ],
+        "modelos": {
+            "A1876": "Región global o no especificada",
+            "A2014": "Región global o no especificada",
+            "A1895": "Región global o no especificada",
+            "A1983": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_de_11_pulgadas": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro de 11 pulgadas",
+        "año": 2018,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios12-ipad-pro-11-in.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "256 GB",
+            "512 GB",
+            "1 TB"
+        ],
+        "modelos": {
+            "A1980": "Región global o no especificada",
+            "A2013": "Región global o no especificada",
+            "A1934": "Región global o no especificada",
+            "A1979": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_de_12,9_pulgadas_2ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro de 12,9 pulgadas (2.ª generación)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios11-ipad-pro-12-in.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "256 GB",
+            "512 GB"
+        ],
+        "modelos": {
+            "A1670": "Región global o no especificada",
+            "A1671": "Región global o no especificada",
+            "A1821": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_10,5_pulgadas": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro (10,5 pulgadas)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios11-ipad-pro-10-in.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "256 GB",
+            "512 GB"
+        ],
+        "modelos": {
+            "A1701": "Región global o no especificada",
+            "A1709": "Región global o no especificada",
+            "A1852": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_9,7_pulgadas": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro (9,7 pulgadas)",
+        "año": 2016,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-pro-9-7.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "128 GB",
+            "32 GB",
+            "256 GB"
+        ],
+        "modelos": {
+            "A1673": "Región global o no especificada",
+            "A1674": "Región global o no especificada",
+            "A1675": "Región global o no especificada"
+        }
+    },
+    "ipad_pro_12,9_pulgadas": {
+        "categoria": "iPad",
+        "nombre": "iPad Pro (12,9 pulgadas)",
+        "año": 2015,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-pro.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "128 GB",
+            "32 GB",
+            "256 GB"
+        ],
+        "modelos": {
+            "A1584": "Región global o no especificada",
+            "A1652": "Región global o no especificada"
+        }
+    },
+    "ipad_air_de_13_pulgadas_m3": {
+        "categoria": "iPad",
+        "nombre": "iPad Air de 13 pulgadas (M3)",
+        "año": 2025,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad-air-13.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "128 GB",
+            "256 GB",
+            "512 GB",
+            "1 TB"
+        ],
+        "modelos": {
+            "A3268": "Región global o no especificada",
+            "A3269": "Región global o no especificada",
+            "A3271": "Región global o no especificada"
+        }
+    },
+    "ipad_air_de_11_pulgadas_m3": {
+        "categoria": "iPad",
+        "nombre": "iPad Air de 11 pulgadas (M3)",
+        "año": 2025,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad-air-11.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "128 GB",
+            "256 GB",
+            "512 GB",
+            "1 TB"
+        ],
+        "modelos": {
+            "A3266": "Región global o no especificada",
+            "A3267": "Región global o no especificada",
+            "A3270": "Región global o no especificada"
+        }
+    },
+    "ipad_air_de_13_pulgadas_m2": {
+        "categoria": "iPad",
+        "nombre": "iPad Air de 13 pulgadas (M2)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-3.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "128 GB",
+            "256 GB",
+            "512 GB",
+            "1 TB"
+        ],
+        "modelos": {
+            "A2898": "Región global o no especificada",
+            "A2899": "Región global o no especificada",
+            "A2900": "Región global o no especificada"
+        }
+    },
+    "ipad_air_de_11_pulgadas_m2": {
+        "categoria": "iPad",
+        "nombre": "iPad Air de 11 pulgadas (M2)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-4.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "128 GB",
+            "256 GB",
+            "512 GB",
+            "1 TB"
+        ],
+        "modelos": {
+            "A2902": "Región global o no especificada",
+            "A2903": "Región global o no especificada",
+            "A2904": "Región global o no especificada"
+        }
+    },
+    "ipad_air_5ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad Air (5.ª generación)",
+        "año": 2022,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad-air-5th-gen-colors.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "256 GB"
+        ],
+        "modelos": {
+            "A2588": "Región global o no especificada",
+            "A2589": "Región global o no especificada",
+            "A2591": "Región global o no especificada"
+        }
+    },
+    "ipad_air_4ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad Air (4.ª generación)",
+        "año": 2020,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-air-4th-gen-colors.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "256 GB",
+            "4 GB"
+        ],
+        "modelos": {
+            "A2316": "Región global o no especificada",
+            "A2324": "Región global o no especificada",
+            "A2325": "Región global o no especificada",
+            "A2072": "Región global o no especificada"
+        }
+    },
+    "ipad_air_3ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad Air (3.ª generación)",
+        "año": 2019,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-air-3gen.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "256 GB"
+        ],
+        "modelos": {
+            "A2152": "Región global o no especificada",
+            "A2123": "Región global o no especificada",
+            "A2153": "Región global o no especificada",
+            "A2154": "Región global o no especificada"
+        }
+    },
+    "ipad_air_2": {
+        "categoria": "iPad",
+        "nombre": "iPad Air 2",
+        "año": 2014,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-air2.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "2 TB",
+            "16 GB",
+            "64 GB",
+            "32 GB",
+            "128 GB"
+        ],
+        "modelos": {
+            "A1566": "Región global o no especificada",
+            "A1567": "Región global o no especificada"
+        }
+    },
+    "ipad_air": {
+        "categoria": "iPad",
+        "nombre": "iPad Air",
+        "año": 2013,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-air.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "32 GB",
+            "128 GB",
+            "16 GB"
+        ],
+        "modelos": {
+            "A1474": "Región global o no especificada",
+            "A1475": "Región global o no especificada",
+            "A1476": "Región global o no especificada"
+        }
+    },
+    "ipad_mini_a17_pro": {
+        "categoria": "iPad",
+        "nombre": "iPad mini (A17 Pro)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad-mini/ipad-mini-2024-colors.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "128 GB",
+            "256 GB",
+            "512 GB"
+        ],
+        "modelos": {
+            "A2993": "Región global o no especificada",
+            "A2995": "Región global o no especificada",
+            "A2996": "Región global o no especificada"
+        }
+    },
+    "ipad_mini_6ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad mini (6.ª generación)",
+        "año": 2021,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-mini-2021-colors.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "256 GB"
+        ],
+        "modelos": {
+            "A2567": "Región global o no especificada",
+            "A2568": "Región global o no especificada",
+            "A2569": "Región global o no especificada"
+        }
+    },
+    "ipad_mini_5ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad mini (5.ª generación)",
+        "año": 2019,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-mini-5gen.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "256 GB"
+        ],
+        "modelos": {
+            "A2133": "Región global o no especificada",
+            "A2124": "Región global o no especificada",
+            "A2126": "Región global o no especificada",
+            "A2125": "Región global o no especificada"
+        }
+    },
+    "ipad_mini_4": {
+        "categoria": "iPad",
+        "nombre": "iPad mini 4",
+        "año": 2015,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-mini4.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "16 GB",
+            "4 GB",
+            "64 GB",
+            "32 GB",
+            "128 GB"
+        ],
+        "modelos": {
+            "A1538": "Región global o no especificada",
+            "A1550": "Región global o no especificada"
+        }
+    },
+    "ipad_mini_3": {
+        "categoria": "iPad",
+        "nombre": "iPad mini 3",
+        "año": 2014,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-mini3.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "128 GB",
+            "16 GB"
+        ],
+        "modelos": {
+            "A1599": "Región global o no especificada",
+            "A1600": "Región global o no especificada"
+        }
+    },
+    "ipad_mini_2": {
+        "categoria": "iPad",
+        "nombre": "iPad mini 2",
+        "año": 2013,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-mini2.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "2 TB",
+            "16 GB",
+            "64 GB",
+            "32 GB",
+            "128 GB"
+        ],
+        "modelos": {
+            "A1489": "Región global o no especificada",
+            "A1490": "Región global o no especificada",
+            "A1491": "Región global o no especificada"
+        }
+    },
+    "ipad_mini": {
+        "categoria": "iPad",
+        "nombre": "iPad mini",
+        "año": 2012,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-mini.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "32 GB",
+            "16 GB"
+        ],
+        "modelos": {
+            "A1432": "Región global o no especificada",
+            "A1454": "Región global o no especificada",
+            "A1455": "Región global o no especificada"
+        }
+    },
+    "ipad_a16": {
+        "categoria": "iPad",
+        "nombre": "iPad (A16)",
+        "año": 2025,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "128 GB",
+            "256 GB",
+            "512 GB"
+        ],
+        "modelos": {
+            "A3354": "Región global o no especificada",
+            "A3355": "Región global o no especificada",
+            "A3356": "Región global o no especificada"
+        }
+    },
+    "ipad_10ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad (10.ª generación)",
+        "año": 2022,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-10-gen-ipad.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "256 GB"
+        ],
+        "modelos": {
+            "A2696": "Región global o no especificada",
+            "A2757": "Región global o no especificada",
+            "A2777": "Región global o no especificada",
+            "A3162": "Región global o no especificada"
+        }
+    },
+    "ipad_9ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad (9.ª generación)",
+        "año": 2021,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-2021-colors.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "256 GB"
+        ],
+        "modelos": {
+            "A2602": "Región global o no especificada",
+            "A2604": "Región global o no especificada",
+            "A2603": "Región global o no especificada",
+            "A2605": "Región global o no especificada"
+        }
+    },
+    "ipad_8ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad (8.ª generación)",
+        "año": 2020,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-8th-gen-colors.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "128 GB",
+            "32 GB",
+            "8 GB"
+        ],
+        "modelos": {
+            "A2270": "Región global o no especificada",
+            "A2428": "Región global o no especificada",
+            "A2429": "Región global o no especificada",
+            "A2430": "Región global o no especificada"
+        }
+    },
+    "ipad_7ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad (7.ª generación)",
+        "año": 2019,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-7th-gen.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "128 GB",
+            "32 GB"
+        ],
+        "modelos": {
+            "A2197": "Región global o no especificada",
+            "A2200": "Región global o no especificada",
+            "A2198": "Región global o no especificada"
+        }
+    },
+    "ipad_6ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad (6.ª generación)",
+        "año": 2018,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios11-3-ipad-9-7-in-2018.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "128 GB",
+            "32 GB"
+        ],
+        "modelos": {
+            "A1893": "Región global o no especificada",
+            "A1954": "Región global o no especificada"
+        }
+    },
+    "ipad_5ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad (5.ª generación)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios11-ipad-5gen.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "128 GB",
+            "32 GB"
+        ],
+        "modelos": {
+            "A1822": "Región global o no especificada",
+            "A1823": "Región global o no especificada"
+        }
+    },
+    "ipad_4ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad (4.ª generación)",
+        "año": 2012,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-4gen.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "16 GB",
+            "4 GB",
+            "64 GB",
+            "32 GB",
+            "128 GB"
+        ],
+        "modelos": {
+            "A1458": "Región global o no especificada",
+            "A1459": "Región global o no especificada",
+            "A1460": "Región global o no especificada"
+        }
+    },
+    "ipad_3ª_generación": {
+        "categoria": "iPad",
+        "nombre": "iPad (3.ª generación)",
+        "año": 2012,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-3gen.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "32 GB",
+            "16 GB"
+        ],
+        "modelos": {
+            "A1416": "Región global o no especificada",
+            "A1430": "Región global o no especificada",
+            "A1403": "Región global o no especificada"
+        }
+    },
+    "ipad_2": {
+        "categoria": "iPad",
+        "nombre": "iPad 2",
+        "año": 2011,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-2gen.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "32 GB",
+            "2 TB",
+            "16 GB"
+        ],
+        "modelos": {
+            "A1395": "Región global o no especificada",
+            "A1396": "Región global o no especificada",
+            "A1397": "Región global o no especificada"
+        }
+    },
+    "ipad": {
+        "categoria": "iPad",
+        "nombre": "iPad",
+        "año": 2010,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "64 GB",
+            "32 GB",
+            "16 GB"
+        ],
+        "modelos": {
+            "A1219": "Región global o no especificada",
+            "A1337": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_11_gps": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 11 (GPS)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-11-aluminum-gps.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A3331": "Región global o no especificada",
+            "A3450": "Región global o no especificada",
+            "A3333": "Región global o no especificada",
+            "A3451": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_11_gps_+_cellular_aluminio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 11 (GPS + Cellular) aluminio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-11-aluminum-gps-cell.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A3335": "Región global o no especificada",
+            "A3452": "Región global o no especificada",
+            "A3337": "Región global o no especificada",
+            "A3453": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_11_gps_+_cellular_titanio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 11 (GPS + Cellular) titanio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-11-titanium-gps-cell.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A3335": "Región global o no especificada",
+            "A3452": "Región global o no especificada",
+            "A3337": "Región global o no especificada",
+            "A3453": "Región global o no especificada"
+        }
+    },
+    "apple_watch_hermès_series_11_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Hermès Series 11 (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-11-hermes.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A3335": "Región global o no especificada",
+            "A3452": "Región global o no especificada",
+            "A3337": "Región global o no especificada",
+            "A3453": "Región global o no especificada"
+        }
+    },
+    "apple_watch_se_3_gps": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch SE 3 (GPS)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-se-3.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A3324": "Región global o no especificada",
+            "A3391": "Región global o no especificada",
+            "A3325": "Región global o no especificada",
+            "A3392": "Región global o no especificada"
+        }
+    },
+    "apple_watch_se_3_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch SE 3 (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-se-3.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A3326": "Región global o no especificada",
+            "A3327": "Región global o no especificada",
+            "A3328": "Región global o no especificada",
+            "A3329": "Región global o no especificada"
+        }
+    },
+    "apple_watch_ultra_3_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Ultra 3 (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-3-colors.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A3281": "Región global o no especificada",
+            "A3282": "Región global o no especificada"
+        }
+    },
+    "apple_watch_hermès_ultra_3_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Hermès Ultra 3 (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-3-hermes.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A3281": "Región global o no especificada",
+            "A3282": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_10_gps": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 10 (GPS)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-10-aluminum-gps.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2997": "Región global o no especificada",
+            "A2998": "Región global o no especificada",
+            "A2999": "Región global o no especificada",
+            "A3000": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_10_gps_+_cellular_de_aluminio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 10 (GPS + Cellular) de aluminio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-10-aluminum-gps-cell.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A3001": "Región global o no especificada",
+            "A3002": "Región global o no especificada",
+            "A3003": "Región global o no especificada",
+            "A3206": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_10_gps_+_cellular_de_titanio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 10 (GPS + Cellular) de titanio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-10-titanium.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A3001": "Región global o no especificada",
+            "A3002": "Región global o no especificada",
+            "A3003": "Región global o no especificada",
+            "A3206": "Región global o no especificada"
+        }
+    },
+    "apple_watch_hermès_series_10_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Hermès Series 10 (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-10-hermes.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A3001": "Región global o no especificada",
+            "A3002": "Región global o no especificada",
+            "A3003": "Región global o no especificada",
+            "A3206": "Región global o no especificada"
+        }
+    },
+    "apple_watch_ultra_2_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Ultra 2 (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-2-colors.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2986": "Región global o no especificada",
+            "A2987": "Región global o no especificada"
+        }
+    },
+    "apple_watch_hermès_ultra_2_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Hermès Ultra 2 (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-hermes.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2986": "Región global o no especificada",
+            "A2987": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_9_gps": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 9 (GPS)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-9-gps.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2978": "Región global o no especificada",
+            "A2980": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_9_gps_+_cellular_de_aluminio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 9 (GPS + Cellular) de aluminio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-9-gps-cellular.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2982": "Región global o no especificada",
+            "A2983": "Región global o no especificada",
+            "A2984": "Región global o no especificada",
+            "A2985": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_9_gps_+_cellular_de_acero_inoxidable": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 9 (GPS + Cellular) de acero inoxidable",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-9-stainless-gps-cellular.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2982": "Región global o no especificada",
+            "A2983": "Región global o no especificada",
+            "A2984": "Región global o no especificada",
+            "A2985": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_9_hermès_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 9 Hermès (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-9-hermes.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2982": "Región global o no especificada",
+            "A2983": "Región global o no especificada",
+            "A2984": "Región global o no especificada",
+            "A2985": "Región global o no especificada"
+        }
+    },
+    "apple_watch_ultra_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Ultra (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-apple-watch-ultra.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2622": "Región global o no especificada",
+            "A2684": "Región global o no especificada",
+            "A2859": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_8_gps": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 8 (GPS)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-aluminum-gps.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2770": "Región global o no especificada",
+            "A2771": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_8_gps_+_cellular_de_aluminio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 8 (GPS + Cellular) de aluminio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-aluminum-gps-cellular.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2772": "Región global o no especificada",
+            "A2773": "Región global o no especificada",
+            "A2857": "Región global o no especificada",
+            "A2774": "Región global o no especificada",
+            "A2775": "Región global o no especificada",
+            "A2858": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_8_gps_+_cellular_de_acero_inoxidable": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 8 (GPS + Cellular) de acero inoxidable",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-stainless-gps-cellular.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2772": "Región global o no especificada",
+            "A2773": "Región global o no especificada",
+            "A2857": "Región global o no especificada",
+            "A2774": "Región global o no especificada",
+            "A2775": "Región global o no especificada",
+            "A2858": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_8_hermès_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 8 Hermès (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series-8-hermes.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2772": "Región global o no especificada",
+            "A2773": "Región global o no especificada",
+            "A2857": "Región global o no especificada",
+            "A2774": "Región global o no especificada",
+            "A2775": "Región global o no especificada",
+            "A2858": "Región global o no especificada"
+        }
+    },
+    "apple_watch_se_2_gps": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch SE 2 (GPS)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-se-gps.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2722": "Región global o no especificada",
+            "A2723": "Región global o no especificada"
+        }
+    },
+    "apple_watch_se_2_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch SE 2 (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-se-gps-cellular.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2726": "Región global o no especificada",
+            "A2725": "Región global o no especificada",
+            "A2855": "Región global o no especificada",
+            "A2727": "Región global o no especificada",
+            "A2724": "Región global o no especificada",
+            "A2856": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_7_gps": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 7 (GPS)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/2021-apple-watch-series7-aluminum-gps.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2473": "Región global o no especificada",
+            "A2474": "Región global o no especificada"
+        }
+    },
+    "apple_watch_nike_gps": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Nike (GPS)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-nike-gps.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2092": "Región global o no especificada",
+            "A2093": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_7_gps_+_cellular_de_aluminio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 7 (GPS + Cellular) de aluminio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/2021-apple-watch-series7-aluminum-gps-cellular.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2475": "Región global o no especificada",
+            "A2476": "Región global o no especificada",
+            "A2477": "Región global o no especificada",
+            "A2478": "Región global o no especificada"
+        }
+    },
+    "apple_watch_nike_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Nike (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-nike-gps-cellular.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2094": "Región global o no especificada",
+            "A2156": "Región global o no especificada",
+            "A2095": "Región global o no especificada",
+            "A2157": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_7_gps_+_cellular_de_acero_inoxidable": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 7 (GPS + Cellular) de acero inoxidable",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/2021-apple-watch-series7-stainless-gps-cellular.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2475": "Región global o no especificada",
+            "A2476": "Región global o no especificada",
+            "A2477": "Región global o no especificada",
+            "A2478": "Región global o no especificada"
+        }
+    },
+    "apple_watch_hermès_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Hermès (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-hermes.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1860": "Región global o no especificada",
+            "A1889": "Región global o no especificada",
+            "A1890": "Región global o no especificada",
+            "A1861": "Región global o no especificada",
+            "A1891": "Región global o no especificada",
+            "A1892": "Región global o no especificada"
+        }
+    },
+    "apple_watch_edition_gps_+_cellular_de_titanio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Edition (GPS + Cellular) de titanio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-titanium-edition.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2094": "Región global o no especificada",
+            "A2156": "Región global o no especificada",
+            "A2095": "Región global o no especificada",
+            "A2157": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_6_gps": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 6 (GPS)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-aluminum-gps-colors.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2291": "Región global o no especificada",
+            "A2292": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_6_gps_+_cellular_de_aluminio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 6 (GPS + Cellular) de aluminio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-aluminum-gps-cellular-colors.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2293": "Región global o no especificada",
+            "A2375": "Región global o no especificada",
+            "A2294": "Región global o no especificada",
+            "A2376": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_6_gps_+_cellular_de_acero_inoxidable": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 6 (GPS + Cellular) de acero inoxidable",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-stainless-gps-cellular-colors.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2293": "Región global o no especificada",
+            "A2375": "Región global o no especificada",
+            "A2294": "Región global o no especificada",
+            "A2376": "Región global o no especificada"
+        }
+    },
+    "apple_watch_se_gps": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch SE (GPS)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-000-aluminum-gps-colors.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2351": "Región global o no especificada",
+            "A2352": "Región global o no especificada"
+        }
+    },
+    "apple_watch_se_gps_+_cellular_de_aluminio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch SE (GPS + Cellular) de aluminio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-000-aluminum-gps-cellular-colors.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2353": "Región global o no especificada",
+            "A2355": "Región global o no especificada",
+            "A2354": "Región global o no especificada",
+            "A2356": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_5_gps": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 5 (GPS)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-aluminum-gps.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2092": "Región global o no especificada",
+            "A2093": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_5_gps_+_cellular_de_aluminio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 5 (GPS + Cellular) de aluminio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-aluminum-gps-cellular.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2094": "Región global o no especificada",
+            "A2156": "Región global o no especificada",
+            "A2095": "Región global o no especificada",
+            "A2157": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_5_gps_+_cellular_de_acero_inoxidable": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 5 (GPS + Cellular) de acero inoxidable",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-cellular-gps-stainless.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2094": "Región global o no especificada",
+            "A2156": "Región global o no especificada",
+            "A2095": "Región global o no especificada",
+            "A2157": "Región global o no especificada"
+        }
+    },
+    "apple_watch_edition_gps_+_cellular_de_cerámica": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Edition (GPS + Cellular) de cerámica",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-ceramic-edition.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A2094": "Región global o no especificada",
+            "A2156": "Región global o no especificada",
+            "A2095": "Región global o no especificada",
+            "A2157": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_4_gps": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 4 (GPS)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series4-apple-watch-aluminum-gps.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1977": "Región global o no especificada",
+            "A1978": "Región global o no especificada"
+        }
+    },
+    "apple_watch_nike+_gps": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Nike+ (GPS)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-gps-nike.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1858": "Región global o no especificada",
+            "A1859": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_4_gps_+_cellular_de_aluminio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 4 (GPS + Cellular) de aluminio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series4-apple-watch-aluminum-gps-cellular.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1975": "Región global o no especificada",
+            "A2007": "Región global o no especificada",
+            "A1976": "Región global o no especificada",
+            "A2008": "Región global o no especificada"
+        }
+    },
+    "apple_watch_nike+_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Nike+ (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-nike.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1860": "Región global o no especificada",
+            "A1889": "Región global o no especificada",
+            "A1890": "Región global o no especificada",
+            "A1861": "Región global o no especificada",
+            "A1891": "Región global o no especificada",
+            "A1892": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_4_gps_+_cellular_de_acero_inoxidable": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 4 (GPS + Cellular) de acero inoxidable",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series4-apple-watch-stainless-gps-cellular.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1975": "Región global o no especificada",
+            "A2007": "Región global o no especificada",
+            "A1976": "Región global o no especificada",
+            "A2008": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_3_gps": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 3 (GPS)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-gps-aluminum.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1858": "Región global o no especificada",
+            "A1859": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_3_gps_+_cellular_de_aluminio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 3 (GPS + Cellular) de aluminio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-aluminum.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1860": "Región global o no especificada",
+            "A1889": "Región global o no especificada",
+            "A1890": "Región global o no especificada",
+            "A1861": "Región global o no especificada",
+            "A1891": "Región global o no especificada",
+            "A1892": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_3_gps_+_cellular_de_acero_inoxidable": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 3 (GPS + Cellular) de acero inoxidable",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-stainless.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1860": "Región global o no especificada",
+            "A1889": "Región global o no especificada",
+            "A1890": "Región global o no especificada",
+            "A1861": "Región global o no especificada",
+            "A1891": "Región global o no especificada",
+            "A1892": "Región global o no especificada"
+        }
+    },
+    "apple_watch_edition_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Edition (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-ceramic.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1860": "Región global o no especificada",
+            "A1889": "Región global o no especificada",
+            "A1890": "Región global o no especificada",
+            "A1861": "Región global o no especificada",
+            "A1891": "Región global o no especificada",
+            "A1892": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_2_de_aluminio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 2 de aluminio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watch-series2-aluminum.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1757": "Región global o no especificada",
+            "A1758": "Región global o no especificada"
+        }
+    },
+    "apple_watch_nike+": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Nike+",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watch-series2-nike.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1757": "Región global o no especificada",
+            "A1758": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_2_de_acero_inoxidable": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 2 de acero inoxidable",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watch-series2-stainless.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1757": "Región global o no especificada",
+            "A1758": "Región global o no especificada"
+        }
+    },
+    "apple_watch_hermès": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Hermès",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-hermes-1st-gen.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1553": "Región global o no especificada",
+            "A1554": "Región global o no especificada"
+        }
+    },
+    "apple_watch_edition": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Edition",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/1st-gen-apple-watch-edition-gold.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1553": "Región global o no especificada",
+            "A1554": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_1_de_aluminio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 1 de aluminio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watch-series1-aluminum.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1802": "Región global o no especificada",
+            "A1803": "Región global o no especificada"
+        }
+    },
+    "apple_watch": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/1st-gen-apple-watch-stainless.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1553": "Región global o no especificada",
+            "A1554": "Región global o no especificada"
+        }
+    },
+    "apple_watch_sport": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Sport",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-sport-1st-gen.png",
+        "colores": [
+            "Consultar caja o web"
+        ],
+        "capacidades": [
+            "Consultar caja o web"
+        ],
+        "modelos": {
+            "A1553": "Región global o no especificada",
+            "A1554": "Región global o no especificada"
         }
     }
 }
