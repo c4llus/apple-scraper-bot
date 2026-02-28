@@ -18,8 +18,8 @@ def extraer_modelos_apple():
         nombre = titulo.get_text(strip=True).replace('\xa0', ' ')
         
         if "iPhone" in nombre and len(nombre) < 35 and "modelo" not in nombre.lower():
-            modelos = []
-            colores = []
+            diccionario_modelos = {} # Ahora guardaremos Modelo + Región
+            colores =[]
             capacidades =[]
             año = 2024
             imagen = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png"
@@ -44,10 +44,21 @@ def extraer_modelos_apple():
 
                 texto = nodo.get_text(" ", strip=True)
                 
-                # 🔍 2. DETECTIVE DE MODELOS (A-XXXX)
-                encontrados_a = re.findall(r'A\d{4}', texto)
-                if encontrados_a:
-                    modelos.extend(encontrados_a)
+                # 🌍 2. DETECTIVE DE MODELOS Y REGIONES (El truco de los paréntesis)
+                # Buscamos un A-XXXX seguido opcionalmente por texto entre paréntesis
+                matches = re.finditer(r'(A\d{4})(?:\s*\(([^)]+)\))?', texto)
+                for match in matches:
+                    modelo = match.group(1)
+                    region = match.group(2)
+                    
+                    if region:
+                        # Si la región existe, la limpiamos y la ponemos bonita
+                        region_limpia = region.replace("otros países y regiones", "Modelo Internacional").strip().capitalize()
+                        diccionario_modelos[modelo] = region_limpia
+                    else:
+                        # Si Apple no especificó región, no machacamos una región buena que ya tuviéramos
+                        if modelo not in diccionario_modelos:
+                            diccionario_modelos[modelo] = "Región global o no especificada"
                     
                 # 📅 3. DETECTIVE DE AÑO
                 if "presentación:" in texto.lower() or "lanzamiento:" in texto.lower():
@@ -56,15 +67,12 @@ def extraer_modelos_apple():
                         año = int(match_año.group(1))
                         
                 # 💾 4. DETECTIVE DE ALMACENAMIENTO (Inteligente)
-                # Si la línea habla de capacidad, extraemos todos los números lógicos
                 if "capacidad" in texto.lower() or "gb" in texto.lower() or "tb" in texto.lower():
                     numeros = re.findall(r'\b\d{1,4}\b', texto)
                     for n in numeros:
                         num = int(n)
-                        # Almacenamientos típicos en GB
                         if num in[4, 8, 16, 32, 64, 128, 256, 512]:
                             capacidades.append(f"{num} GB")
-                        # Almacenamientos típicos en TB
                         elif num in [1, 2]:
                             capacidades.append(f"{num} TB")
                         
@@ -74,16 +82,14 @@ def extraer_modelos_apple():
                     if len(partes) > 1:
                         texto_colores = partes[1].strip()
                         lista_c = re.split(r',|\by\b', texto_colores)
-                        # Añadimos colores que tengan más de 2 letras
                         colores_limpios =[c.strip().capitalize() for c in lista_c if len(c.strip()) > 2]
                         colores.extend(colores_limpios)
 
                 nodo = nodo.find_next_sibling()
             
             # --- GUARDADO FINAL DEL IPHONE ---
-            if modelos:
-                # Limpiamos duplicados 
-                modelos = list(set(modelos))
+            if diccionario_modelos:
+                # Limpiamos duplicados de colores y capacidades
                 colores = list(set(colores))
                 capacidades = list(set(capacidades))
                 
@@ -94,9 +100,9 @@ def extraer_modelos_apple():
                     "nombre": nombre,
                     "año": año,
                     "imagen": imagen,
-                    "colores": colores if colores else ["Consultar caja"],
-                    "capacidades": capacidades if capacidades else ["Consultar caja"],
-                    "modelos": {m: "Versión oficial extraída" for m in modelos}
+                    "colores": colores if colores else ["Consultar caja o web"],
+                    "capacidades": capacidades if capacidades else ["Consultar caja o web"],
+                    "modelos": diccionario_modelos
                 }
                 
     with open("datos_apple.json", "w", encoding="utf-8") as archivo:
