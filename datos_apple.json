@@ -5,19 +5,21 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-max-colors.png",
         "colores": [
-            "Plata",
             "Naranja cósmico",
+            "Plata",
             "Azul oscuro"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB"
+            "256 GB",
+            "1 TB",
+            "512 GB",
+            "2 TB"
         ],
         "modelos": {
-            "A3527": "Extraído de la web oficial",
-            "A3525": "Extraído de la web oficial",
-            "A3526": "Extraído de la web oficial",
-            "A3257": "Extraído de la web oficial"
+            "A3257": "Versión oficial extraída",
+            "A3527": "Versión oficial extraída",
+            "A3526": "Versión oficial extraída",
+            "A3525": "Versión oficial extraída"
         }
     },
     "iphone_17_pro": {
@@ -26,19 +28,20 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-colors.png",
         "colores": [
-            "Plata",
             "Naranja cósmico",
+            "Plata",
             "Azul oscuro"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB"
+            "256 GB",
+            "1 TB",
+            "512 GB"
         ],
         "modelos": {
-            "A3522": "Extraído de la web oficial",
-            "A3524": "Extraído de la web oficial",
-            "A3523": "Extraído de la web oficial",
-            "A3256": "Extraído de la web oficial"
+            "A3524": "Versión oficial extraída",
+            "A3522": "Versión oficial extraída",
+            "A3256": "Versión oficial extraída",
+            "A3523": "Versión oficial extraída"
         }
     },
     "iphone_17": {
@@ -48,20 +51,20 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-colors.png",
         "colores": [
             "Negro",
-            "Blanco",
             "Azul neblina",
             "Verde salvia",
+            "Blanco",
             "Lavanda"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB"
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
-            "A3521": "Extraído de la web oficial",
-            "A3258": "Extraído de la web oficial",
-            "A3520": "Extraído de la web oficial",
-            "A3519": "Extraído de la web oficial"
+            "A3521": "Versión oficial extraída",
+            "A3520": "Versión oficial extraída",
+            "A3519": "Versión oficial extraída",
+            "A3258": "Versión oficial extraída"
         }
     },
     "iphone_air": {
@@ -71,19 +74,20 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-air-colors.png",
         "colores": [
             "Negro espacial",
-            "Blanco nube",
             "Dorado claro",
+            "Blanco nube",
             "Azul cielo"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB"
+            "256 GB",
+            "1 TB",
+            "512 GB"
         ],
         "modelos": {
-            "A3516": "Extraído de la web oficial",
-            "A3260": "Extraído de la web oficial",
-            "A3517": "Extraído de la web oficial",
-            "A3518": "Extraído de la web oficial"
+            "A3516": "Versión oficial extraída",
+            "A3517": "Versión oficial extraída",
+            "A3518": "Versión oficial extraída",
+            "A3260": "Versión oficial extraída"
         }
     },
     "iphone_16e": {
@@ -96,15 +100,15 @@
             "Blanco"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "512 GB"
+            "256 GB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A3408": "Extraído de la web oficial",
-            "A3410": "Extraído de la web oficial",
-            "A3409": "Extraído de la web oficial",
-            "A3212": "Extraído de la web oficial"
+            "A3212": "Versión oficial extraída",
+            "A3408": "Versión oficial extraída",
+            "A3409": "Versión oficial extraída",
+            "A3410": "Versión oficial extraída"
         }
     },
     "iphone_16_pro_max": {
@@ -113,20 +117,21 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-max-colors.png",
         "colores": [
+            "Titanio desierto",
             "Titanio negro",
             "Titanio blanco",
-            "Titanio natural",
-            "Titanio desierto"
+            "Titanio natural"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB"
+            "256 GB",
+            "1 TB",
+            "512 GB"
         ],
         "modelos": {
-            "A3295": "Extraído de la web oficial",
-            "A3084": "Extraído de la web oficial",
-            "A3296": "Extraído de la web oficial",
-            "A3297": "Extraído de la web oficial"
+            "A3084": "Versión oficial extraída",
+            "A3296": "Versión oficial extraída",
+            "A3295": "Versión oficial extraída",
+            "A3297": "Versión oficial extraída"
         }
     },
     "iphone_16_pro": {
@@ -135,21 +140,22 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-colors.png",
         "colores": [
+            "Titanio desierto",
             "Titanio negro",
             "Titanio blanco",
-            "Titanio natural",
-            "Titanio desierto"
+            "Titanio natural"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "512 GB"
+            "256 GB",
+            "1 TB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A3293": "Extraído de la web oficial",
-            "A3083": "Extraído de la web oficial",
-            "A3292": "Extraído de la web oficial",
-            "A3294": "Extraído de la web oficial"
+            "A3294": "Versión oficial extraída",
+            "A3292": "Versión oficial extraída",
+            "A3083": "Versión oficial extraída",
+            "A3293": "Versión oficial extraída"
         }
     },
     "iphone_16_plus": {
@@ -159,21 +165,21 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-plus-colors.png",
         "colores": [
             "Negro",
+            "Azul ultramar",
             "Blanco",
-            "Rosa",
             "Verde azulado",
-            "Azul ultramar"
+            "Rosa"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "512 GB"
+            "256 GB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A3290": "Extraído de la web oficial",
-            "A3291": "Extraído de la web oficial",
-            "A3082": "Extraído de la web oficial",
-            "A3289": "Extraído de la web oficial"
+            "A3082": "Versión oficial extraída",
+            "A3289": "Versión oficial extraída",
+            "A3290": "Versión oficial extraída",
+            "A3291": "Versión oficial extraída"
         }
     },
     "iphone_16": {
@@ -183,21 +189,21 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-colors.png",
         "colores": [
             "Negro",
+            "Azul ultramar",
             "Blanco",
-            "Rosa",
             "Verde azulado",
-            "Azul ultramar"
+            "Rosa"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "512 GB"
+            "256 GB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A3286": "Extraído de la web oficial",
-            "A3287": "Extraído de la web oficial",
-            "A3288": "Extraído de la web oficial",
-            "A3081": "Extraído de la web oficial"
+            "A3287": "Versión oficial extraída",
+            "A3288": "Versión oficial extraída",
+            "A3081": "Versión oficial extraída",
+            "A3286": "Versión oficial extraída"
         }
     },
     "iphone_15_pro_max": {
@@ -212,14 +218,15 @@
             "Titanio natural"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB"
+            "256 GB",
+            "1 TB",
+            "512 GB"
         ],
         "modelos": {
-            "A3108": "Extraído de la web oficial",
-            "A3106": "Extraído de la web oficial",
-            "A2849": "Extraído de la web oficial",
-            "A3105": "Extraído de la web oficial"
+            "A2849": "Versión oficial extraída",
+            "A3106": "Versión oficial extraída",
+            "A3105": "Versión oficial extraída",
+            "A3108": "Versión oficial extraída"
         }
     },
     "iphone_15_pro": {
@@ -234,15 +241,16 @@
             "Titanio natural"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "512 GB"
+            "256 GB",
+            "1 TB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A3104": "Extraído de la web oficial",
-            "A3102": "Extraído de la web oficial",
-            "A2848": "Extraído de la web oficial",
-            "A3101": "Extraído de la web oficial"
+            "A3101": "Versión oficial extraída",
+            "A3104": "Versión oficial extraída",
+            "A2848": "Versión oficial extraída",
+            "A3102": "Versión oficial extraída"
         }
     },
     "iphone_15_plus": {
@@ -252,21 +260,21 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-plus.png",
         "colores": [
             "Negro",
-            "Azul",
             "Verde",
-            "Amarillo",
-            "Rosa"
+            "Azul",
+            "Rosa",
+            "Amarillo"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "512 GB"
+            "256 GB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A3096": "Extraído de la web oficial",
-            "A3094": "Extraído de la web oficial",
-            "A2847": "Extraído de la web oficial",
-            "A3093": "Extraído de la web oficial"
+            "A3094": "Versión oficial extraída",
+            "A3096": "Versión oficial extraída",
+            "A2847": "Versión oficial extraída",
+            "A3093": "Versión oficial extraída"
         }
     },
     "iphone_15": {
@@ -276,21 +284,21 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15.png",
         "colores": [
             "Negro",
-            "Azul",
             "Verde",
-            "Amarillo",
-            "Rosa"
+            "Azul",
+            "Rosa",
+            "Amarillo"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "512 GB"
+            "256 GB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A3089": "Extraído de la web oficial",
-            "A2846": "Extraído de la web oficial",
-            "A3092": "Extraído de la web oficial",
-            "A3090": "Extraído de la web oficial"
+            "A3090": "Versión oficial extraída",
+            "A3089": "Versión oficial extraída",
+            "A3092": "Versión oficial extraída",
+            "A2846": "Versión oficial extraída"
         }
     },
     "iphone_14_pro_max": {
@@ -299,22 +307,23 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-max-colors.png",
         "colores": [
-            "Plata",
             "Oro",
-            "Negro espacial",
-            "Morado oscuro"
+            "Plata",
+            "Morado oscuro",
+            "Negro espacial"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "512 GB"
+            "256 GB",
+            "1 TB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A2896": "Extraído de la web oficial",
-            "A2651": "Extraído de la web oficial",
-            "A2895": "Extraído de la web oficial",
-            "A2894": "Extraído de la web oficial",
-            "A2893": "Extraído de la web oficial"
+            "A2896": "Versión oficial extraída",
+            "A2894": "Versión oficial extraída",
+            "A2895": "Versión oficial extraída",
+            "A2651": "Versión oficial extraída",
+            "A2893": "Versión oficial extraída"
         }
     },
     "iphone_14_pro": {
@@ -323,22 +332,23 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-colors.png",
         "colores": [
-            "Plata",
             "Oro",
-            "Negro espacial",
-            "Morado oscuro"
+            "Plata",
+            "Morado oscuro",
+            "Negro espacial"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "512 GB"
+            "256 GB",
+            "1 TB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A2892": "Extraído de la web oficial",
-            "A2889": "Extraído de la web oficial",
-            "A2650": "Extraído de la web oficial",
-            "A2890": "Extraído de la web oficial",
-            "A2891": "Extraído de la web oficial"
+            "A2892": "Versión oficial extraída",
+            "A2891": "Versión oficial extraída",
+            "A2650": "Versión oficial extraída",
+            "A2890": "Versión oficial extraída",
+            "A2889": "Versión oficial extraída"
         }
     },
     "iphone_14_plus": {
@@ -348,23 +358,23 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-plus-colors-spring-2023.png",
         "colores": [
             "Medianoche",
-            "Blanco estrella",
-            "(product)red",
-            "Azul",
             "Morado",
-            "Amarillo"
+            "(product)red",
+            "Amarillo",
+            "Blanco estrella",
+            "Azul"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "512 GB"
+            "256 GB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A2886": "Extraído de la web oficial",
-            "A2885": "Extraído de la web oficial",
-            "A2887": "Extraído de la web oficial",
-            "A2888": "Extraído de la web oficial",
-            "A2632": "Extraído de la web oficial"
+            "A2888": "Versión oficial extraída",
+            "A2632": "Versión oficial extraída",
+            "A2885": "Versión oficial extraída",
+            "A2886": "Versión oficial extraída",
+            "A2887": "Versión oficial extraída"
         }
     },
     "iphone_14": {
@@ -374,23 +384,23 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-colors-spring-2023.png",
         "colores": [
             "Medianoche",
-            "Blanco estrella",
-            "(product)red",
-            "Azul",
             "Morado",
-            "Amarillo"
+            "(product)red",
+            "Amarillo",
+            "Blanco estrella",
+            "Azul"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "512 GB"
+            "256 GB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A2649": "Extraído de la web oficial",
-            "A2883": "Extraído de la web oficial",
-            "A2882": "Extraído de la web oficial",
-            "A2881": "Extraído de la web oficial",
-            "A2884": "Extraído de la web oficial"
+            "A2884": "Versión oficial extraída",
+            "A2881": "Versión oficial extraída",
+            "A2883": "Versión oficial extraída",
+            "A2882": "Versión oficial extraída",
+            "A2649": "Versión oficial extraída"
         }
     },
     "iphone_se_3ª_generación": {
@@ -400,20 +410,20 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se-3rd-gen-colors.png",
         "colores": [
             "(product)red",
-            "Blanco estrella",
-            "Medianoche"
+            "Medianoche",
+            "Blanco estrella"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "64 GB"
+            "256 GB",
+            "128 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A2784": "Extraído de la web oficial",
-            "A2783": "Extraído de la web oficial",
-            "A2595": "Extraído de la web oficial",
-            "A2785": "Extraído de la web oficial",
-            "A2782": "Extraído de la web oficial"
+            "A2783": "Versión oficial extraída",
+            "A2784": "Versión oficial extraída",
+            "A2595": "Versión oficial extraída",
+            "A2785": "Versión oficial extraída",
+            "A2782": "Versión oficial extraída"
         }
     },
     "iphone_13_pro_max": {
@@ -422,23 +432,24 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-max-colors.png",
         "colores": [
-            "Grafito",
-            "Oro",
+            "Verde alpino",
             "Plata",
-            "Azul sierra",
-            "Verde alpino"
+            "Oro",
+            "Grafito",
+            "Azul sierra"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "512 GB"
+            "256 GB",
+            "1 TB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A2645": "Extraído de la web oficial",
-            "A2643": "Extraído de la web oficial",
-            "A2484": "Extraído de la web oficial",
-            "A2644": "Extraído de la web oficial",
-            "A2641": "Extraído de la web oficial"
+            "A2644": "Versión oficial extraída",
+            "A2641": "Versión oficial extraída",
+            "A2645": "Versión oficial extraída",
+            "A2643": "Versión oficial extraída",
+            "A2484": "Versión oficial extraída"
         }
     },
     "iphone_13_pro": {
@@ -447,23 +458,24 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-colors.png",
         "colores": [
-            "Grafito",
-            "Oro",
+            "Verde alpino",
             "Plata",
-            "Azul sierra",
-            "Verde alpino"
+            "Oro",
+            "Grafito",
+            "Azul sierra"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "512 GB"
+            "256 GB",
+            "1 TB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A2639": "Extraído de la web oficial",
-            "A2638": "Extraído de la web oficial",
-            "A2640": "Extraído de la web oficial",
-            "A2636": "Extraído de la web oficial",
-            "A2483": "Extraído de la web oficial"
+            "A2483": "Versión oficial extraída",
+            "A2636": "Versión oficial extraída",
+            "A2640": "Versión oficial extraída",
+            "A2639": "Versión oficial extraída",
+            "A2638": "Versión oficial extraída"
         }
     },
     "iphone_13": {
@@ -472,24 +484,24 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-colors.png",
         "colores": [
+            "Verde",
+            "Medianoche",
             "(product)red",
             "Blanco estrella",
-            "Medianoche",
-            "Azul",
             "Rosa",
-            "Verde"
+            "Azul"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "512 GB"
+            "256 GB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A2631": "Extraído de la web oficial",
-            "A2635": "Extraído de la web oficial",
-            "A2634": "Extraído de la web oficial",
-            "A2482": "Extraído de la web oficial",
-            "A2633": "Extraído de la web oficial"
+            "A2633": "Versión oficial extraída",
+            "A2635": "Versión oficial extraída",
+            "A2482": "Versión oficial extraída",
+            "A2631": "Versión oficial extraída",
+            "A2634": "Versión oficial extraída"
         }
     },
     "iphone_13_mini": {
@@ -498,24 +510,24 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-iphone13-mini-colors.png",
         "colores": [
+            "Verde",
+            "Medianoche",
             "(product)red",
             "Blanco estrella",
-            "Medianoche",
-            "Azul",
             "Rosa",
-            "Verde"
+            "Azul"
         ],
         "capacidades": [
-            "256 GB",
-            "128 GB",
-            "512 GB"
+            "256 GB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A2630": "Extraído de la web oficial",
-            "A2626": "Extraído de la web oficial",
-            "A2628": "Extraído de la web oficial",
-            "A2481": "Extraído de la web oficial",
-            "A2629": "Extraído de la web oficial"
+            "A2481": "Versión oficial extraída",
+            "A2626": "Versión oficial extraída",
+            "A2628": "Versión oficial extraída",
+            "A2629": "Versión oficial extraída",
+            "A2630": "Versión oficial extraída"
         }
     },
     "iphone_12_pro_max": {
@@ -524,19 +536,21 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro-max/iphone12-pro-max-colors.jpg",
         "colores": [
-            "Plata",
             "Grafito",
             "Oro",
+            "Plata",
             "Azul pacífico"
         ],
         "capacidades": [
-            "512 GB"
+            "256 GB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A2410": "Extraído de la web oficial",
-            "A2411": "Extraído de la web oficial",
-            "A2342": "Extraído de la web oficial",
-            "A2412": "Extraído de la web oficial"
+            "A2411": "Versión oficial extraída",
+            "A2410": "Versión oficial extraída",
+            "A2412": "Versión oficial extraída",
+            "A2342": "Versión oficial extraída"
         }
     },
     "iphone_12_pro": {
@@ -545,19 +559,21 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro/iphone12-pro-colors.jpg",
         "colores": [
-            "Plata",
             "Grafito",
             "Oro",
+            "Plata",
             "Azul pacífico"
         ],
         "capacidades": [
-            "512 GB"
+            "256 GB",
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A2406": "Extraído de la web oficial",
-            "A2408": "Extraído de la web oficial",
-            "A2407": "Extraído de la web oficial",
-            "A2341": "Extraído de la web oficial"
+            "A2407": "Versión oficial extraída",
+            "A2341": "Versión oficial extraída",
+            "A2406": "Versión oficial extraída",
+            "A2408": "Versión oficial extraída"
         }
     },
     "iphone_12": {
@@ -567,20 +583,22 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-colors.png",
         "colores": [
             "Negro",
-            "Blanco",
-            "(product)red",
             "Verde",
-            "Azul",
-            "Morado"
+            "Blanco",
+            "Morado",
+            "(product)red",
+            "Azul"
         ],
         "capacidades": [
-            "256 GB"
+            "256 GB",
+            "128 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A2403": "Extraído de la web oficial",
-            "A2404": "Extraído de la web oficial",
-            "A2402": "Extraído de la web oficial",
-            "A2172": "Extraído de la web oficial"
+            "A2402": "Versión oficial extraída",
+            "A2404": "Versión oficial extraída",
+            "A2403": "Versión oficial extraída",
+            "A2172": "Versión oficial extraída"
         }
     },
     "iphone_12_mini": {
@@ -590,20 +608,22 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-mini-colors.png",
         "colores": [
             "Negro",
-            "Blanco",
-            "(product)red",
             "Verde",
-            "Azul",
-            "Morado"
+            "Blanco",
+            "Morado",
+            "(product)red",
+            "Azul"
         ],
         "capacidades": [
-            "256 GB"
+            "256 GB",
+            "128 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A2398": "Extraído de la web oficial",
-            "A2176": "Extraído de la web oficial",
-            "A2400": "Extraído de la web oficial",
-            "A2399": "Extraído de la web oficial"
+            "A2399": "Versión oficial extraída",
+            "A2400": "Versión oficial extraída",
+            "A2176": "Versión oficial extraída",
+            "A2398": "Versión oficial extraída"
         }
     },
     "iphone_se_2ª_generación": {
@@ -613,16 +633,18 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se/iphone-se-2nd-gen-colors.jpg",
         "colores": [
             "Blanco",
-            "Negro",
-            "(product)red"
+            "(product)red",
+            "Negro"
         ],
         "capacidades": [
-            "256 GB"
+            "256 GB",
+            "128 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A2298": "Extraído de la web oficial",
-            "A2275": "Extraído de la web oficial",
-            "A2296": "Extraído de la web oficial"
+            "A2275": "Versión oficial extraída",
+            "A2298": "Versión oficial extraída",
+            "A2296": "Versión oficial extraída"
         }
     },
     "iphone_11_pro": {
@@ -631,18 +653,20 @@
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11pro.jpg",
         "colores": [
+            "Oro",
             "Plata",
             "Gris espacial",
-            "Oro",
             "Verde noche"
         ],
         "capacidades": [
-            "512 GB"
+            "256 GB",
+            "512 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A2215": "Extraído de la web oficial",
-            "A2160": "Extraído de la web oficial",
-            "A2217": "Extraído de la web oficial"
+            "A2215": "Versión oficial extraída",
+            "A2217": "Versión oficial extraída",
+            "A2160": "Versión oficial extraída"
         }
     },
     "iphone_11_pro_max": {
@@ -651,18 +675,20 @@
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11pro-max.jpg",
         "colores": [
+            "Oro",
             "Plata",
             "Gris espacial",
-            "Oro",
             "Verde noche"
         ],
         "capacidades": [
-            "512 GB"
+            "256 GB",
+            "512 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A2161": "Extraído de la web oficial",
-            "A2218": "Extraído de la web oficial",
-            "A2220": "Extraído de la web oficial"
+            "A2220": "Versión oficial extraída",
+            "A2218": "Versión oficial extraída",
+            "A2161": "Versión oficial extraída"
         }
     },
     "iphone_11": {
@@ -672,19 +698,21 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11-colors.jpg",
         "colores": [
             "Malva",
-            "Verde",
-            "Amarillo",
             "Negro",
+            "Verde",
             "Blanco",
-            "(product)red"
+            "(product)red",
+            "Amarillo"
         ],
         "capacidades": [
-            "256 GB"
+            "256 GB",
+            "128 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A2111": "Extraído de la web oficial",
-            "A2223": "Extraído de la web oficial",
-            "A2221": "Extraído de la web oficial"
+            "A2223": "Versión oficial extraída",
+            "A2111": "Versión oficial extraída",
+            "A2221": "Versión oficial extraída"
         }
     },
     "iphone_xs": {
@@ -693,19 +721,21 @@
         "año": 2018,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xs-colors.jpg",
         "colores": [
+            "Oro",
             "Plata",
-            "Gris espacial",
-            "Oro"
+            "Gris espacial"
         ],
         "capacidades": [
-            "512 GB"
+            "256 GB",
+            "512 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A2098": "Extraído de la web oficial",
-            "A2099": "Extraído de la web oficial",
-            "A2100": "Extraído de la web oficial",
-            "A1920": "Extraído de la web oficial",
-            "A2097": "Extraído de la web oficial"
+            "A2098": "Versión oficial extraída",
+            "A1920": "Versión oficial extraída",
+            "A2097": "Versión oficial extraída",
+            "A2100": "Versión oficial extraída",
+            "A2099": "Versión oficial extraída"
         }
     },
     "iphone_xs_max": {
@@ -714,19 +744,21 @@
         "año": 2018,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xs-max-colors.jpg",
         "colores": [
+            "Oro",
             "Plata",
-            "Gris espacial",
-            "Oro"
+            "Gris espacial"
         ],
         "capacidades": [
-            "512 GB"
+            "256 GB",
+            "512 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A2103": "Extraído de la web oficial",
-            "A1921": "Extraído de la web oficial",
-            "A2102": "Extraído de la web oficial",
-            "A2104": "Extraído de la web oficial",
-            "A2101": "Extraído de la web oficial"
+            "A1921": "Versión oficial extraída",
+            "A2103": "Versión oficial extraída",
+            "A2102": "Versión oficial extraída",
+            "A2104": "Versión oficial extraída",
+            "A2101": "Versión oficial extraída"
         }
     },
     "iphone_xr": {
@@ -737,20 +769,22 @@
         "colores": [
             "Negro",
             "Blanco",
-            "Azul",
-            "Amarillo",
+            "(product)red",
             "Coral",
-            "(product)red"
+            "Azul",
+            "Amarillo"
         ],
         "capacidades": [
-            "256 GB"
+            "256 GB",
+            "128 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A2108": "Extraído de la web oficial",
-            "A2106": "Extraído de la web oficial",
-            "A2107": "Extraído de la web oficial",
-            "A1984": "Extraído de la web oficial",
-            "A2105": "Extraído de la web oficial"
+            "A1984": "Versión oficial extraída",
+            "A2105": "Versión oficial extraída",
+            "A2108": "Versión oficial extraída",
+            "A2106": "Versión oficial extraída",
+            "A2107": "Versión oficial extraída"
         }
     },
     "iphone_x": {
@@ -763,12 +797,13 @@
             "Gris espacial"
         ],
         "capacidades": [
-            "256 GB"
+            "256 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A1865": "Extraído de la web oficial",
-            "A1901": "Extraído de la web oficial",
-            "A1902": "Extraído de la web oficial"
+            "A1901": "Versión oficial extraída",
+            "A1865": "Versión oficial extraída",
+            "A1902": "Versión oficial extraída"
         }
     },
     "iphone_8": {
@@ -777,18 +812,20 @@
         "año": 2017,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8/iphone-8-colors.jpg",
         "colores": [
-            "Dorado",
             "Plateado",
-            "Gris espacial",
-            "(product)red"
+            "(product)red",
+            "Dorado",
+            "Gris espacial"
         ],
         "capacidades": [
-            "256 GB"
+            "256 GB",
+            "128 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A1905": "Extraído de la web oficial",
-            "A1906": "Extraído de la web oficial",
-            "A1863": "Extraído de la web oficial"
+            "A1906": "Versión oficial extraída",
+            "A1863": "Versión oficial extraída",
+            "A1905": "Versión oficial extraída"
         }
     },
     "iphone_8_plus": {
@@ -797,18 +834,20 @@
         "año": 2017,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8-plus/iphone-8plus-colors.jpg",
         "colores": [
-            "Dorado",
             "Plateado",
-            "Gris espacial",
-            "(product)red"
+            "(product)red",
+            "Dorado",
+            "Gris espacial"
         ],
         "capacidades": [
-            "256 GB"
+            "256 GB",
+            "128 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A1864": "Extraído de la web oficial",
-            "A1897": "Extraído de la web oficial",
-            "A1898": "Extraído de la web oficial"
+            "A1864": "Versión oficial extraída",
+            "A1898": "Versión oficial extraída",
+            "A1897": "Versión oficial extraída"
         }
     },
     "iphone_7": {
@@ -818,19 +857,21 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7/iphone7-colors.jpg",
         "colores": [
             "Negro",
-            "Negro brillante",
-            "Oro",
-            "Oro rosa",
             "Plateado",
-            "(product)red"
+            "Oro",
+            "(product)red",
+            "Negro brillante",
+            "Oro rosa"
         ],
         "capacidades": [
-            "256 GB"
+            "256 GB",
+            "32 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A1778": "Extraído de la web oficial",
-            "A1779": "Extraído de la web oficial",
-            "A1660": "Extraído de la web oficial"
+            "A1660": "Versión oficial extraída",
+            "A1778": "Versión oficial extraída",
+            "A1779": "Versión oficial extraída"
         }
     },
     "iphone_7_plus": {
@@ -840,19 +881,21 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7-plus/iphone7plus-colors.jpg",
         "colores": [
             "Negro",
-            "Negro brillante",
-            "Oro",
-            "Oro rosa",
             "Plateado",
-            "(product)red"
+            "Oro",
+            "(product)red",
+            "Negro brillante",
+            "Oro rosa"
         ],
         "capacidades": [
-            "256 GB"
+            "256 GB",
+            "32 GB",
+            "128 GB"
         ],
         "modelos": {
-            "A1661": "Extraído de la web oficial",
-            "A1784": "Extraído de la web oficial",
-            "A1785": "Extraído de la web oficial"
+            "A1785": "Versión oficial extraída",
+            "A1661": "Versión oficial extraída",
+            "A1784": "Versión oficial extraída"
         }
     },
     "iphone_se_1ª_generación": {
@@ -861,18 +904,21 @@
         "año": 2016,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se/iphone-se-colors.jpg",
         "colores": [
-            "Gris espacial",
             "Plateado",
             "Dorado",
-            "Oro rosa"
+            "Oro rosa",
+            "Gris espacial"
         ],
         "capacidades": [
-            "128 GB"
+            "128 GB",
+            "32 GB",
+            "16 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A1723": "Extraído de la web oficial",
-            "A1724": "Extraído de la web oficial",
-            "A1662": "Extraído de la web oficial"
+            "A1723": "Versión oficial extraída",
+            "A1724": "Versión oficial extraída",
+            "A1662": "Versión oficial extraída"
         }
     },
     "iphone_6s": {
@@ -881,18 +927,21 @@
         "año": 2015,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-6s-colors.jpg",
         "colores": [
-            "Gris espacial",
             "Plateado",
             "Dorado",
-            "Oro rosa"
+            "Oro rosa",
+            "Gris espacial"
         ],
         "capacidades": [
-            "128 GB"
+            "128 GB",
+            "32 GB",
+            "16 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A1633": "Extraído de la web oficial",
-            "A1688": "Extraído de la web oficial",
-            "A1700": "Extraído de la web oficial"
+            "A1688": "Versión oficial extraída",
+            "A1700": "Versión oficial extraída",
+            "A1633": "Versión oficial extraída"
         }
     },
     "iphone_6s_plus": {
@@ -901,18 +950,21 @@
         "año": 2015,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-6splus-colors.jpg",
         "colores": [
-            "Gris espacial",
             "Plateado",
             "Dorado",
-            "Oro rosa"
+            "Oro rosa",
+            "Gris espacial"
         ],
         "capacidades": [
-            "128 GB"
+            "128 GB",
+            "32 GB",
+            "16 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A1634": "Extraído de la web oficial",
-            "A1687": "Extraído de la web oficial",
-            "A1699": "Extraído de la web oficial"
+            "A1634": "Versión oficial extraída",
+            "A1699": "Versión oficial extraída",
+            "A1687": "Versión oficial extraída"
         }
     },
     "iphone_6": {
@@ -921,17 +973,20 @@
         "año": 2014,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone6-colors.jpg",
         "colores": [
-            "Gris espacial",
             "Plateado",
-            "Dorado"
+            "Dorado",
+            "Gris espacial"
         ],
         "capacidades": [
-            "128 GB"
+            "128 GB",
+            "32 GB",
+            "16 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A1586": "Extraído de la web oficial",
-            "A1589": "Extraído de la web oficial",
-            "A1549": "Extraído de la web oficial"
+            "A1589": "Versión oficial extraída",
+            "A1586": "Versión oficial extraída",
+            "A1549": "Versión oficial extraída"
         }
     },
     "iphone_6_plus": {
@@ -940,17 +995,19 @@
         "año": 2014,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone6plus-colors.jpg",
         "colores": [
-            "Gris espacial",
             "Plateado",
-            "Dorado"
+            "Dorado",
+            "Gris espacial"
         ],
         "capacidades": [
-            "128 GB"
+            "128 GB",
+            "16 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A1593": "Extraído de la web oficial",
-            "A1524": "Extraído de la web oficial",
-            "A1522": "Extraído de la web oficial"
+            "A1524": "Versión oficial extraída",
+            "A1593": "Versión oficial extraída",
+            "A1522": "Versión oficial extraída"
         }
     },
     "iphone_5s": {
@@ -959,20 +1016,22 @@
         "año": 2013,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5s-colors.jpg",
         "colores": [
-            "Gris espacial",
             "Plateado",
-            "Dorado"
+            "Dorado",
+            "Gris espacial"
         ],
         "capacidades": [
-            "64 GB"
+            "32 GB",
+            "16 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A1518": "Extraído de la web oficial",
-            "A1457": "Extraído de la web oficial",
-            "A1530": "Extraído de la web oficial",
-            "A1528": "Extraído de la web oficial",
-            "A1453": "Extraído de la web oficial",
-            "A1533": "Extraído de la web oficial"
+            "A1457": "Versión oficial extraída",
+            "A1453": "Versión oficial extraída",
+            "A1528": "Versión oficial extraída",
+            "A1533": "Versión oficial extraída",
+            "A1530": "Versión oficial extraída",
+            "A1518": "Versión oficial extraída"
         }
     },
     "iphone_5c": {
@@ -981,21 +1040,23 @@
         "año": 2013,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5c-colors.jpg",
         "colores": [
+            "Verde",
             "Blanco",
             "Azul",
             "Rosa",
-            "Verde",
             "Amarillo"
         ],
         "capacidades": [
-            "32 GB"
+            "32 GB",
+            "16 GB",
+            "8 GB"
         ],
         "modelos": {
-            "A1516": "Extraído de la web oficial",
-            "A1507": "Extraído de la web oficial",
-            "A1532": "Extraído de la web oficial",
-            "A1456": "Extraído de la web oficial",
-            "A1529": "Extraído de la web oficial"
+            "A1529": "Versión oficial extraída",
+            "A1507": "Versión oficial extraída",
+            "A1532": "Versión oficial extraída",
+            "A1456": "Versión oficial extraída",
+            "A1516": "Versión oficial extraída"
         }
     },
     "iphone_5": {
@@ -1008,12 +1069,14 @@
             "Blanco"
         ],
         "capacidades": [
-            "64 GB"
+            "32 GB",
+            "16 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A1428": "Extraído de la web oficial",
-            "A1429": "Extraído de la web oficial",
-            "A1442": "Extraído de la web oficial"
+            "A1428": "Versión oficial extraída",
+            "A1442": "Versión oficial extraída",
+            "A1429": "Versión oficial extraída"
         }
     },
     "iphone_4s": {
@@ -1026,11 +1089,14 @@
             "Blanco"
         ],
         "capacidades": [
-            "64 GB"
+            "32 GB",
+            "16 GB",
+            "64 GB",
+            "8 GB"
         ],
         "modelos": {
-            "A1387": "Extraído de la web oficial",
-            "A1431": "Extraído de la web oficial"
+            "A1387": "Versión oficial extraída",
+            "A1431": "Versión oficial extraída"
         }
     },
     "iphone_4": {
@@ -1043,11 +1109,13 @@
             "Blanco"
         ],
         "capacidades": [
-            "32 GB"
+            "32 GB",
+            "16 GB",
+            "8 GB"
         ],
         "modelos": {
-            "A1349": "Extraído de la web oficial",
-            "A1332": "Extraído de la web oficial"
+            "A1332": "Versión oficial extraída",
+            "A1349": "Versión oficial extraída"
         }
     },
     "iphone_3gs": {
@@ -1056,14 +1124,18 @@
         "año": 2009,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone3gs-colors.jpg",
         "colores": [
-            "La parte posterior es de plástico. la imprimación de la cubierta posterior es del mismo color plateado brillante que el logotipo de apple. tiene una bandeja sim en la parte superior que aloja una tarjeta mini-sim de «segundo formato» (2ff). el número de serie está impreso en la bandeja sim."
+            "Negro",
+            "La parte posterior es de plástico. la imprimación de la cubierta posterior es del mismo color plateado brillante que el logotipo de apple. tiene una bandeja sim en la parte superior que aloja una tarjeta mini-sim de «segundo formato» (2ff). el número de serie está impreso en la bandeja sim.",
+            "Blanco"
         ],
         "capacidades": [
-            "32 GB"
+            "32 GB",
+            "16 GB",
+            "8 GB"
         ],
         "modelos": {
-            "A1325": "Extraído de la web oficial",
-            "A1303": "Extraído de la web oficial"
+            "A1303": "Versión oficial extraída",
+            "A1325": "Versión oficial extraída"
         }
     },
     "iphone_3g": {
@@ -1072,14 +1144,15 @@
         "año": 2008,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone3g-colors.jpg",
         "colores": [
-            "Consultar en Apple"
+            "Consultar caja"
         ],
         "capacidades": [
-            "16 GB"
+            "16 GB",
+            "8 GB"
         ],
         "modelos": {
-            "A1241": "Extraído de la web oficial",
-            "A1324": "Extraído de la web oficial"
+            "A1324": "Versión oficial extraída",
+            "A1241": "Versión oficial extraída"
         }
     },
     "iphone": {
@@ -1088,18 +1161,20 @@
         "año": 2007,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone-original-colors.jpg",
         "colores": [
-            "Consultar en Apple"
+            "Consultar caja"
         ],
         "capacidades": [
-            "16 GB"
+            "4 GB",
+            "16 GB",
+            "8 GB"
         ],
         "modelos": {
-            "A1906": "Extraído de la web oficial",
-            "A1779": "Extraído de la web oficial",
-            "A1203": "Extraído de la web oficial",
-            "A1898": "Extraído de la web oficial",
-            "A1785": "Extraído de la web oficial",
-            "A1902": "Extraído de la web oficial"
+            "A1779": "Versión oficial extraída",
+            "A1898": "Versión oficial extraída",
+            "A1906": "Versión oficial extraída",
+            "A1902": "Versión oficial extraída",
+            "A1785": "Versión oficial extraída",
+            "A1203": "Versión oficial extraída"
         }
     }
 }
