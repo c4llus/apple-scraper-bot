@@ -6,12 +6,14 @@ import re
 def extraer_ecosistema_apple():
     print("🤖 Iniciando escaneo masivo del Ecosistema Apple...")
     
-    # Lista de misiones: Todas las páginas oficiales de Apple
+    # Hemos añadido los iMac y los Mac mini al escaneo
     paginas_soporte =[
         {"url": "https://support.apple.com/es-es/HT201296", "categoria": "iPhone", "filtro": "iPhone"},
         {"url": "https://support.apple.com/es-es/HT201471", "categoria": "iPad", "filtro": "iPad"},
         {"url": "https://support.apple.com/es-es/HT201300", "categoria": "Mac", "filtro": "MacBook Pro"},
         {"url": "https://support.apple.com/es-es/HT201862", "categoria": "Mac", "filtro": "MacBook Air"},
+        {"url": "https://support.apple.com/es-es/HT201634", "categoria": "Mac", "filtro": "iMac"},
+        {"url": "https://support.apple.com/es-es/HT201894", "categoria": "Mac", "filtro": "Mac mini"},
         {"url": "https://support.apple.com/es-es/HT204507", "categoria": "Watch", "filtro": "Apple Watch"}
     ]
     
@@ -28,7 +30,6 @@ def extraer_ecosistema_apple():
         for titulo in titulos:
             nombre = titulo.get_text(strip=True).replace('\xa0', ' ')
             
-            # Filtramos para que coincida con el dispositivo que buscamos (y nombres de hasta 60 letras para iPads largos)
             if pagina['filtro'].lower() in nombre.lower() and len(nombre) < 60 and "identificar" not in nombre.lower():
                 diccionario_modelos = {}
                 colores =[]
@@ -55,33 +56,57 @@ def extraer_ecosistema_apple():
 
                     texto = nodo.get_text(" ", strip=True)
                     
-                    # 🌍 DETECTIVE DE MODELOS (A-XXXX) y Regiones
-                    matches = re.finditer(r'(A\d{4})(?:\s*\(([^)]+)\))?', texto)
-                    for match in matches:
+                    # 🌍 DETECTIVE DE MODELOS (A-XXXX para iPhone/iPad/Watch)
+                    matches_a = re.finditer(r'(A\d{4})(?:\s*\(([^)]+)\))?', texto)
+                    for match in matches_a:
                         modelo = match.group(1)
                         region = match.group(2)
-                        
                         if region:
                             region_limpia = region.replace("otros países y regiones", "Modelo Internacional").strip().capitalize()
                             diccionario_modelos[modelo] = region_limpia
                         else:
                             if modelo not in diccionario_modelos:
                                 diccionario_modelos[modelo] = "Región global o no especificada"
+                    
+                    # 💻 DETECTIVE DE MACS (Identificadores y Part Numbers)
+                    if pagina['categoria'] == 'Mac':
                         
+                        # 1. Busca el "Identificador de modelo" (Ej: MacBookPro16,1)
+                        match_id = re.search(r'identificador(?:es)? d[e|el] modelo:\s*([^.]+)', texto, re.IGNORECASE)
+                        if match_id:
+                            ids_raw = match_id.group(1)
+                            # A veces hay varios separados por comas
+                            ids = re.split(r',|\by\b', ids_raw)
+                            for i in ids:
+                                i_clean = i.strip()
+                                if len(i_clean) > 4:
+                                    diccionario_modelos[i_clean] = "Identificador interno (Sistema Mac)"
+                            
+                        # 2. Busca los "Números de pieza" de las tiendas (Ej: MVVK2xx/A)
+                        match_pieza = re.search(r'pieza:\s*([^.]+)', texto, re.IGNORECASE)
+                        if match_pieza:
+                            piezas_raw = match_pieza.group(1)
+                            piezas = re.split(r',|\by\b|\s+', piezas_raw)
+                            for p in piezas:
+                                p_clean = p.strip()
+                                # Aseguramos que sea un código con letras y números
+                                if len(p_clean) > 4 and any(c.isdigit() for c in p_clean):
+                                    diccionario_modelos[p_clean] = "Número de pieza comercial (Caja)"
+
                     # 📅 DETECTIVE DE AÑO
                     if "presentación:" in texto.lower() or "lanzamiento:" in texto.lower() or "año:" in texto.lower():
                         match_año = re.search(r'(\d{4})', texto)
                         if match_año:
                             año = int(match_año.group(1))
                             
-                    # 💾 DETECTIVE DE ALMACENAMIENTO (Adaptado a Macs)
-                    if "capacidad" in texto.lower() or "gb" in texto.lower() or "tb" in texto.lower():
+                    # 💾 DETECTIVE DE ALMACENAMIENTO
+                    if "capacidad" in texto.lower() or "gb" in texto.lower() or "tb" in texto.lower() or "almacenamiento" in texto.lower():
                         numeros = re.findall(r'\b\d{1,4}\b', texto)
                         for n in numeros:
                             num = int(n)
                             if num in[4, 8, 16, 32, 64, 128, 256, 512]:
                                 capacidades.append(f"{num} GB")
-                            elif num in [1, 2, 4, 8]: # Ampliado a 4 y 8 TB para portátiles
+                            elif num in [1, 2, 4, 8]:
                                 capacidades.append(f"{num} TB")
                             
                     # 🎨 DETECTIVE DE COLORES Y ACABADOS
@@ -107,8 +132,8 @@ def extraer_ecosistema_apple():
                         "nombre": nombre,
                         "año": año,
                         "imagen": imagen,
-                        "colores": colores if colores else ["Consultar caja o web"],
-                        "capacidades": capacidades if capacidades else ["Consultar caja o web"],
+                        "colores": colores if colores else ["Consultar especificaciones"],
+                        "capacidades": capacidades if capacidades else ["Consultar especificaciones"],
                         "modelos": diccionario_modelos
                     }
                     
