@@ -5,7 +5,7 @@ import re
 
 def extraer_modelos_apple():
     print("🤖 Conectando con Apple Support...")
-    url = "https://support.apple.com/es-es/112025"
+    url = "url = "https://support.apple.com/es-es/HT201296"
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
     
     respuesta = requests.get(url, headers=headers)
