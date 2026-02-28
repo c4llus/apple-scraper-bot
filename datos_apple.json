@@ -1,13 +1,914 @@
 {
-    "error_bot": {
-        "categoria": "Sistema",
-        "nombre": "Error de Lectura",
-        "año": 2024,
-        "imagen": "",
-        "colores": [],
-        "capacidades": [],
+    "iphone_17_pro_max": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 17 Pro Max",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
         "modelos": {
-            "A0000": "Apple no mostró los modelos. Título de la web: Mac Pro (finales de 2013) - Especificaciones técnicas - Soporte técnico de Apple (ES)"
+            "A3526": "Versión oficial extraída de la web",
+            "A3525": "Versión oficial extraída de la web",
+            "A3257": "Versión oficial extraída de la web",
+            "A3527": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_17_pro": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 17 Pro",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A3522": "Versión oficial extraída de la web",
+            "A3523": "Versión oficial extraída de la web",
+            "A3524": "Versión oficial extraída de la web",
+            "A3256": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_17": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 17",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A3521": "Versión oficial extraída de la web",
+            "A3258": "Versión oficial extraída de la web",
+            "A3520": "Versión oficial extraída de la web",
+            "A3519": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_air": {
+        "categoria": "iPhone",
+        "nombre": "iPhone Air",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A3517": "Versión oficial extraída de la web",
+            "A3518": "Versión oficial extraída de la web",
+            "A3260": "Versión oficial extraída de la web",
+            "A3516": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_16e": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 16e",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A3409": "Versión oficial extraída de la web",
+            "A3408": "Versión oficial extraída de la web",
+            "A3410": "Versión oficial extraída de la web",
+            "A3212": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_16_pro_max": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 16 Pro Max",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A3296": "Versión oficial extraída de la web",
+            "A3297": "Versión oficial extraída de la web",
+            "A3295": "Versión oficial extraída de la web",
+            "A3084": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_16_pro": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 16 Pro",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A3293": "Versión oficial extraída de la web",
+            "A3083": "Versión oficial extraída de la web",
+            "A3294": "Versión oficial extraída de la web",
+            "A3292": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_16_plus": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 16 Plus",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A3289": "Versión oficial extraída de la web",
+            "A3082": "Versión oficial extraída de la web",
+            "A3291": "Versión oficial extraída de la web",
+            "A3290": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_16": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 16",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A3287": "Versión oficial extraída de la web",
+            "A3288": "Versión oficial extraída de la web",
+            "A3286": "Versión oficial extraída de la web",
+            "A3081": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_15_pro_max": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 15 Pro Max",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2849": "Versión oficial extraída de la web",
+            "A3106": "Versión oficial extraída de la web",
+            "A3105": "Versión oficial extraída de la web",
+            "A3108": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_15_pro": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 15 Pro",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A3101": "Versión oficial extraída de la web",
+            "A3102": "Versión oficial extraída de la web",
+            "A2848": "Versión oficial extraída de la web",
+            "A3104": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_15_plus": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 15 Plus",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2847": "Versión oficial extraída de la web",
+            "A3096": "Versión oficial extraída de la web",
+            "A3093": "Versión oficial extraída de la web",
+            "A3094": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_15": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 15",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A3092": "Versión oficial extraída de la web",
+            "A3089": "Versión oficial extraída de la web",
+            "A2846": "Versión oficial extraída de la web",
+            "A3090": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_14_pro_max": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 14 Pro Max",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2896": "Versión oficial extraída de la web",
+            "A2651": "Versión oficial extraída de la web",
+            "A2895": "Versión oficial extraída de la web",
+            "A2893": "Versión oficial extraída de la web",
+            "A2894": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_14_pro": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 14 Pro",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2890": "Versión oficial extraída de la web",
+            "A2892": "Versión oficial extraída de la web",
+            "A2891": "Versión oficial extraída de la web",
+            "A2650": "Versión oficial extraída de la web",
+            "A2889": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_14_plus": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 14 Plus",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2885": "Versión oficial extraída de la web",
+            "A2886": "Versión oficial extraída de la web",
+            "A2887": "Versión oficial extraída de la web",
+            "A2888": "Versión oficial extraída de la web",
+            "A2632": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_14": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 14",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2882": "Versión oficial extraída de la web",
+            "A2881": "Versión oficial extraída de la web",
+            "A2649": "Versión oficial extraída de la web",
+            "A2884": "Versión oficial extraída de la web",
+            "A2883": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_se_3ª generación": {
+        "categoria": "iPhone",
+        "nombre": "iPhone SE (3.ª generación)",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2595": "Versión oficial extraída de la web",
+            "A2784": "Versión oficial extraída de la web",
+            "A2782": "Versión oficial extraída de la web",
+            "A2785": "Versión oficial extraída de la web",
+            "A2783": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_13_pro_max": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 13 Pro Max",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2645": "Versión oficial extraída de la web",
+            "A2643": "Versión oficial extraída de la web",
+            "A2641": "Versión oficial extraída de la web",
+            "A2484": "Versión oficial extraída de la web",
+            "A2644": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_13_pro": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 13 Pro",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2639": "Versión oficial extraída de la web",
+            "A2640": "Versión oficial extraída de la web",
+            "A2483": "Versión oficial extraída de la web",
+            "A2636": "Versión oficial extraída de la web",
+            "A2638": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_13": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 13",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2633": "Versión oficial extraída de la web",
+            "A2631": "Versión oficial extraída de la web",
+            "A2482": "Versión oficial extraída de la web",
+            "A2634": "Versión oficial extraída de la web",
+            "A2635": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_13_mini": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 13 mini",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2481": "Versión oficial extraída de la web",
+            "A2629": "Versión oficial extraída de la web",
+            "A2630": "Versión oficial extraída de la web",
+            "A2628": "Versión oficial extraída de la web",
+            "A2626": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_12_pro_max": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 12 Pro Max",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2342": "Versión oficial extraída de la web",
+            "A2410": "Versión oficial extraída de la web",
+            "A2412": "Versión oficial extraída de la web",
+            "A2411": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_12_pro": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 12 Pro",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2407": "Versión oficial extraída de la web",
+            "A2408": "Versión oficial extraída de la web",
+            "A2341": "Versión oficial extraída de la web",
+            "A2406": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_12": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 12",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2402": "Versión oficial extraída de la web",
+            "A2172": "Versión oficial extraída de la web",
+            "A2404": "Versión oficial extraída de la web",
+            "A2403": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_12_mini": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 12 mini",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2400": "Versión oficial extraída de la web",
+            "A2176": "Versión oficial extraída de la web",
+            "A2398": "Versión oficial extraída de la web",
+            "A2399": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_se_2ª generación": {
+        "categoria": "iPhone",
+        "nombre": "iPhone SE (2.ª generación)",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2296": "Versión oficial extraída de la web",
+            "A2275": "Versión oficial extraída de la web",
+            "A2298": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_11_pro": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 11 Pro",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2217": "Versión oficial extraída de la web",
+            "A2215": "Versión oficial extraída de la web",
+            "A2160": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_11_pro_max": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 11 Pro Max",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2218": "Versión oficial extraída de la web",
+            "A2161": "Versión oficial extraída de la web",
+            "A2220": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_11": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 11",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2111": "Versión oficial extraída de la web",
+            "A2221": "Versión oficial extraída de la web",
+            "A2223": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_xs": {
+        "categoria": "iPhone",
+        "nombre": "iPhone XS",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2100": "Versión oficial extraída de la web",
+            "A1920": "Versión oficial extraída de la web",
+            "A2097": "Versión oficial extraída de la web",
+            "A2098": "Versión oficial extraída de la web",
+            "A2099": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_xs_max": {
+        "categoria": "iPhone",
+        "nombre": "iPhone XS Max",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2102": "Versión oficial extraída de la web",
+            "A1921": "Versión oficial extraída de la web",
+            "A2104": "Versión oficial extraída de la web",
+            "A2103": "Versión oficial extraída de la web",
+            "A2101": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_xr": {
+        "categoria": "iPhone",
+        "nombre": "iPhone XR",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A2106": "Versión oficial extraída de la web",
+            "A2108": "Versión oficial extraída de la web",
+            "A2107": "Versión oficial extraída de la web",
+            "A1984": "Versión oficial extraída de la web",
+            "A2105": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_x": {
+        "categoria": "iPhone",
+        "nombre": "iPhone X",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1902": "Versión oficial extraída de la web",
+            "A1901": "Versión oficial extraída de la web",
+            "A1865": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_8": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 8",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1863": "Versión oficial extraída de la web",
+            "A1905": "Versión oficial extraída de la web",
+            "A1906": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_8_plus": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 8 Plus",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1898": "Versión oficial extraída de la web",
+            "A1897": "Versión oficial extraída de la web",
+            "A1864": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_7": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 7",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1778": "Versión oficial extraída de la web",
+            "A1660": "Versión oficial extraída de la web",
+            "A1779": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_7_plus": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 7 Plus",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1785": "Versión oficial extraída de la web",
+            "A1661": "Versión oficial extraída de la web",
+            "A1784": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_se_1ª generación": {
+        "categoria": "iPhone",
+        "nombre": "iPhone SE (1.ª generación)",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1662": "Versión oficial extraída de la web",
+            "A1724": "Versión oficial extraída de la web",
+            "A1723": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_6s": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 6s",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1700": "Versión oficial extraída de la web",
+            "A1688": "Versión oficial extraída de la web",
+            "A1633": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_6s_plus": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 6s Plus",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1634": "Versión oficial extraída de la web",
+            "A1699": "Versión oficial extraída de la web",
+            "A1687": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_6": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 6",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1549": "Versión oficial extraída de la web",
+            "A1586": "Versión oficial extraída de la web",
+            "A1589": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_6_plus": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 6 Plus",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1593": "Versión oficial extraída de la web",
+            "A1524": "Versión oficial extraída de la web",
+            "A1522": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_5s": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 5s",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1457": "Versión oficial extraída de la web",
+            "A1533": "Versión oficial extraída de la web",
+            "A1528": "Versión oficial extraída de la web",
+            "A1518": "Versión oficial extraída de la web",
+            "A1453": "Versión oficial extraída de la web",
+            "A1530": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_5c": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 5c",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1507": "Versión oficial extraída de la web",
+            "A1516": "Versión oficial extraída de la web",
+            "A1532": "Versión oficial extraída de la web",
+            "A1456": "Versión oficial extraída de la web",
+            "A1529": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_5": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 5",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1429": "Versión oficial extraída de la web",
+            "A1428": "Versión oficial extraída de la web",
+            "A1442": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_4s": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 4s",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1387": "Versión oficial extraída de la web",
+            "A1431": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_4": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 4",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1349": "Versión oficial extraída de la web",
+            "A1332": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_3gs": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 3GS",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1325": "Versión oficial extraída de la web",
+            "A1303": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone_3g": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 3G",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1241": "Versión oficial extraída de la web",
+            "A1324": "Versión oficial extraída de la web"
+        }
+    },
+    "iphone": {
+        "categoria": "iPhone",
+        "nombre": "iPhone",
+        "año": "Automático",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Extraído de Apple.com"
+        ],
+        "capacidades": [
+            "Varias"
+        ],
+        "modelos": {
+            "A1902": "Versión oficial extraída de la web",
+            "A1898": "Versión oficial extraída de la web",
+            "A1203": "Versión oficial extraída de la web",
+            "A1906": "Versión oficial extraída de la web",
+            "A1779": "Versión oficial extraída de la web",
+            "A1785": "Versión oficial extraída de la web"
         }
     }
 }
