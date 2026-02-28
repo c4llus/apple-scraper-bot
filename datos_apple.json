@@ -5,21 +5,21 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-max-colors.png",
         "colores": [
-            "Naranja cósmico",
             "Plata",
+            "Naranja cósmico",
             "Azul oscuro"
         ],
         "capacidades": [
-            "256 GB",
-            "1 TB",
             "512 GB",
+            "1 TB",
+            "256 GB",
             "2 TB"
         ],
         "modelos": {
-            "A3257": "Versión oficial extraída",
-            "A3527": "Versión oficial extraída",
-            "A3526": "Versión oficial extraída",
-            "A3525": "Versión oficial extraída"
+            "A3257": "Estados unidos, puerto rico",
+            "A3525": "Baréin, canadá, guam, japón, kuwait, méxico, omán, qatar, arabia saudí, emiratos árabes unidos e islas vírgenes de los estados unidos",
+            "A3527": "China continental",
+            "A3526": "Modelo internacional"
         }
     },
     "iphone_17_pro": {
@@ -28,20 +28,20 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-colors.png",
         "colores": [
-            "Naranja cósmico",
             "Plata",
+            "Naranja cósmico",
             "Azul oscuro"
         ],
         "capacidades": [
-            "256 GB",
+            "512 GB",
             "1 TB",
-            "512 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A3524": "Versión oficial extraída",
-            "A3522": "Versión oficial extraída",
-            "A3256": "Versión oficial extraída",
-            "A3523": "Versión oficial extraída"
+            "A3256": "Estados unidos, puerto rico",
+            "A3522": "Baréin, canadá, guam, japón, kuwait, méxico, omán, qatar, arabia saudí, emiratos árabes unidos e islas vírgenes de los estados unidos",
+            "A3524": "China continental",
+            "A3523": "Modelo internacional"
         }
     },
     "iphone_17": {
@@ -50,21 +50,21 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-colors.png",
         "colores": [
-            "Negro",
             "Azul neblina",
             "Verde salvia",
             "Blanco",
+            "Negro",
             "Lavanda"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
-            "A3521": "Versión oficial extraída",
-            "A3520": "Versión oficial extraída",
-            "A3519": "Versión oficial extraída",
-            "A3258": "Versión oficial extraída"
+            "A3258": "Estados unidos, puerto rico",
+            "A3519": "Baréin, canadá, guam, japón, kuwait, méxico, omán, qatar, arabia saudí, emiratos árabes unidos e islas vírgenes de los estados unidos",
+            "A3521": "China continental",
+            "A3520": "Modelo internacional"
         }
     },
     "iphone_air": {
@@ -73,21 +73,21 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-air-colors.png",
         "colores": [
+            "Blanco nube",
             "Negro espacial",
             "Dorado claro",
-            "Blanco nube",
             "Azul cielo"
         ],
         "capacidades": [
-            "256 GB",
+            "512 GB",
             "1 TB",
-            "512 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A3516": "Versión oficial extraída",
-            "A3517": "Versión oficial extraída",
-            "A3518": "Versión oficial extraída",
-            "A3260": "Versión oficial extraída"
+            "A3260": "Estados unidos, puerto rico, baréin, canadá, guam, kuwait, méxico, omán, qatar, arabia saudí, emiratos árabes unidos e islas vírgenes de los estados unidos",
+            "A3516": "Japón",
+            "A3518": "China continental",
+            "A3517": "Modelo internacional"
         }
     },
     "iphone_16e": {
@@ -100,15 +100,15 @@
             "Blanco"
         ],
         "capacidades": [
-            "256 GB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A3212": "Versión oficial extraída",
-            "A3408": "Versión oficial extraída",
-            "A3409": "Versión oficial extraída",
-            "A3410": "Versión oficial extraída"
+            "A3212": "Estados unidos, puerto rico",
+            "A3408": "Baréin, canadá, irak, guam, jordania, kuwait, méxico, omán, qatar, arabia saudí, emiratos árabes unidos e islas vírgenes de los estados unidos",
+            "A3410": "China continental",
+            "A3409": "Modelo internacional"
         }
     },
     "iphone_16_pro_max": {
@@ -117,21 +117,21 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-max-colors.png",
         "colores": [
-            "Titanio desierto",
             "Titanio negro",
             "Titanio blanco",
+            "Titanio desierto",
             "Titanio natural"
         ],
         "capacidades": [
-            "256 GB",
+            "512 GB",
             "1 TB",
-            "512 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A3084": "Versión oficial extraída",
-            "A3296": "Versión oficial extraída",
-            "A3295": "Versión oficial extraída",
-            "A3297": "Versión oficial extraída"
+            "A3084": "Estados unidos, puerto rico",
+            "A3295": "Arabia saudí, baréin, canadá, emiratos árabes unidos, irak, guam, japón, jordania, kuwait, méxico, omán, qatar, islas vírgenes de los estados unidos",
+            "A3297": "China continental, hong kong, macao",
+            "A3296": "Modelo internacional"
         }
     },
     "iphone_16_pro": {
@@ -140,22 +140,22 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-colors.png",
         "colores": [
-            "Titanio desierto",
             "Titanio negro",
             "Titanio blanco",
+            "Titanio desierto",
             "Titanio natural"
         ],
         "capacidades": [
-            "256 GB",
-            "1 TB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "1 TB",
+            "256 GB"
         ],
         "modelos": {
-            "A3294": "Versión oficial extraída",
-            "A3292": "Versión oficial extraída",
-            "A3083": "Versión oficial extraída",
-            "A3293": "Versión oficial extraída"
+            "A3083": "Estados unidos, puerto rico",
+            "A3292": "Arabia saudí, baréin, canadá, emiratos árabes unidos, irak, guam, japón, jordania, kuwait, méxico, omán, qatar, islas vírgenes de los estados unidos",
+            "A3294": "China continental, hong kong, macao",
+            "A3293": "Modelo internacional"
         }
     },
     "iphone_16_plus": {
@@ -164,22 +164,22 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-plus-colors.png",
         "colores": [
-            "Negro",
-            "Azul ultramar",
             "Blanco",
+            "Azul ultramar",
             "Verde azulado",
+            "Negro",
             "Rosa"
         ],
         "capacidades": [
-            "256 GB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A3082": "Versión oficial extraída",
-            "A3289": "Versión oficial extraída",
-            "A3290": "Versión oficial extraída",
-            "A3291": "Versión oficial extraída"
+            "A3082": "Estados unidos, puerto rico",
+            "A3289": "Arabia saudí, baréin, canadá, emiratos árabes unidos, irak, guam, japón, jordania, kuwait, méxico, omán, qatar, islas vírgenes de los estados unidos",
+            "A3291": "China continental, hong kong, macao",
+            "A3290": "Modelo internacional"
         }
     },
     "iphone_16": {
@@ -188,22 +188,22 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-colors.png",
         "colores": [
-            "Negro",
-            "Azul ultramar",
             "Blanco",
+            "Azul ultramar",
             "Verde azulado",
+            "Negro",
             "Rosa"
         ],
         "capacidades": [
-            "256 GB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A3287": "Versión oficial extraída",
-            "A3288": "Versión oficial extraída",
-            "A3081": "Versión oficial extraída",
-            "A3286": "Versión oficial extraída"
+            "A3081": "Estados unidos, puerto rico",
+            "A3286": "Arabia saudí, baréin, canadá, emiratos árabes unidos, irak, guam, japón, jordania, kuwait, méxico, omán, qatar, islas vírgenes de los estados unidos",
+            "A3288": "China continental, hong kong, macao",
+            "A3287": "Modelo internacional"
         }
     },
     "iphone_15_pro_max": {
@@ -218,15 +218,15 @@
             "Titanio natural"
         ],
         "capacidades": [
-            "256 GB",
+            "512 GB",
             "1 TB",
-            "512 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A2849": "Versión oficial extraída",
-            "A3106": "Versión oficial extraída",
-            "A3105": "Versión oficial extraída",
-            "A3108": "Versión oficial extraída"
+            "A2849": "Estados unidos, puerto rico",
+            "A3105": "Arabia saudí, canadá, guam, islas vírgenes de los estados unidos, japón, méxico",
+            "A3108": "China continental, hong kong, macao",
+            "A3106": "Modelo internacional"
         }
     },
     "iphone_15_pro": {
@@ -241,16 +241,16 @@
             "Titanio natural"
         ],
         "capacidades": [
-            "256 GB",
-            "1 TB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "1 TB",
+            "256 GB"
         ],
         "modelos": {
-            "A3101": "Versión oficial extraída",
-            "A3104": "Versión oficial extraída",
-            "A2848": "Versión oficial extraída",
-            "A3102": "Versión oficial extraída"
+            "A2848": "Estados unidos, puerto rico",
+            "A3101": "Arabia saudí, canadá, guam, islas vírgenes de los estados unidos, japón, méxico",
+            "A3104": "China continental, hong kong, macao",
+            "A3102": "Modelo internacional"
         }
     },
     "iphone_15_plus": {
@@ -259,22 +259,22 @@
         "año": 2023,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-plus.png",
         "colores": [
-            "Negro",
+            "Amarillo",
             "Verde",
+            "Negro",
             "Azul",
-            "Rosa",
-            "Amarillo"
+            "Rosa"
         ],
         "capacidades": [
-            "256 GB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A3094": "Versión oficial extraída",
-            "A3096": "Versión oficial extraída",
-            "A2847": "Versión oficial extraída",
-            "A3093": "Versión oficial extraída"
+            "A2847": "Estados unidos, puerto rico",
+            "A3093": "Arabia saudí, canadá, guam, islas vírgenes de los estados unidos, japón, méxico",
+            "A3096": "China continental, hong kong, macao",
+            "A3094": "Modelo internacional"
         }
     },
     "iphone_15": {
@@ -283,22 +283,22 @@
         "año": 2023,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15.png",
         "colores": [
-            "Negro",
+            "Amarillo",
             "Verde",
+            "Negro",
             "Azul",
-            "Rosa",
-            "Amarillo"
+            "Rosa"
         ],
         "capacidades": [
-            "256 GB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A3090": "Versión oficial extraída",
-            "A3089": "Versión oficial extraída",
-            "A3092": "Versión oficial extraída",
-            "A2846": "Versión oficial extraída"
+            "A2846": "Estados unidos, puerto rico",
+            "A3089": "Arabia saudí, canadá, guam, islas vírgenes de los estados unidos, japón, méxico",
+            "A3092": "China continental, hong kong, macao",
+            "A3090": "Modelo internacional"
         }
     },
     "iphone_14_pro_max": {
@@ -309,21 +309,21 @@
         "colores": [
             "Oro",
             "Plata",
-            "Morado oscuro",
-            "Negro espacial"
+            "Negro espacial",
+            "Morado oscuro"
         ],
         "capacidades": [
-            "256 GB",
-            "1 TB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "1 TB",
+            "256 GB"
         ],
         "modelos": {
-            "A2896": "Versión oficial extraída",
-            "A2894": "Versión oficial extraída",
-            "A2895": "Versión oficial extraída",
-            "A2651": "Versión oficial extraída",
-            "A2893": "Versión oficial extraída"
+            "A2651": "Estados unidos, puerto rico",
+            "A2893": "Arabia saudí, canadá, guam, islas vírgenes de los estados unidos, japón, méxico",
+            "A2896": "China continental, hong kong, macao",
+            "A2895": "Armenia, bielorrusia, kazajistán, kirguistán, rusia",
+            "A2894": "Modelo internacional"
         }
     },
     "iphone_14_pro": {
@@ -334,21 +334,21 @@
         "colores": [
             "Oro",
             "Plata",
-            "Morado oscuro",
-            "Negro espacial"
+            "Negro espacial",
+            "Morado oscuro"
         ],
         "capacidades": [
-            "256 GB",
-            "1 TB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "1 TB",
+            "256 GB"
         ],
         "modelos": {
-            "A2892": "Versión oficial extraída",
-            "A2891": "Versión oficial extraída",
-            "A2650": "Versión oficial extraída",
-            "A2890": "Versión oficial extraída",
-            "A2889": "Versión oficial extraída"
+            "A2650": "Estados unidos, puerto rico",
+            "A2889": "Arabia saudí, canadá, guam, islas vírgenes de los estados unidos, japón, méxico",
+            "A2892": "China continental, hong kong, macao",
+            "A2891": "Armenia, bielorrusia, kazajistán, kirguistán, rusia",
+            "A2890": "Modelo internacional"
         }
     },
     "iphone_14_plus": {
@@ -357,24 +357,24 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-plus-colors-spring-2023.png",
         "colores": [
-            "Medianoche",
-            "Morado",
             "(product)red",
+            "Medianoche",
             "Amarillo",
+            "Morado",
             "Blanco estrella",
             "Azul"
         ],
         "capacidades": [
-            "256 GB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A2888": "Versión oficial extraída",
-            "A2632": "Versión oficial extraída",
-            "A2885": "Versión oficial extraída",
-            "A2886": "Versión oficial extraída",
-            "A2887": "Versión oficial extraída"
+            "A2632": "Estados unidos, puerto rico",
+            "A2885": "Arabia saudí, canadá, guam, islas vírgenes de los estados unidos, japón, méxico",
+            "A2888": "China continental, hong kong, macao",
+            "A2887": "Armenia, bielorrusia, kazajistán, kirguistán, rusia",
+            "A2886": "Modelo internacional"
         }
     },
     "iphone_14": {
@@ -383,24 +383,24 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-colors-spring-2023.png",
         "colores": [
-            "Medianoche",
-            "Morado",
             "(product)red",
+            "Medianoche",
             "Amarillo",
+            "Morado",
             "Blanco estrella",
             "Azul"
         ],
         "capacidades": [
-            "256 GB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A2884": "Versión oficial extraída",
-            "A2881": "Versión oficial extraída",
-            "A2883": "Versión oficial extraída",
-            "A2882": "Versión oficial extraída",
-            "A2649": "Versión oficial extraída"
+            "A2649": "Estados unidos, puerto rico",
+            "A2881": "Arabia saudí, canadá, guam, islas vírgenes de los estados unidos, japón, méxico",
+            "A2884": "China continental, hong kong, macao",
+            "A2883": "Armenia, bielorrusia, kazajistán, kirguistán, rusia",
+            "A2882": "Modelo internacional"
         }
     },
     "iphone_se_3ª_generación": {
@@ -410,20 +410,20 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se-3rd-gen-colors.png",
         "colores": [
             "(product)red",
-            "Medianoche",
-            "Blanco estrella"
+            "Blanco estrella",
+            "Medianoche"
         ],
         "capacidades": [
-            "256 GB",
             "128 GB",
+            "256 GB",
             "64 GB"
         ],
         "modelos": {
-            "A2783": "Versión oficial extraída",
-            "A2784": "Versión oficial extraída",
-            "A2595": "Versión oficial extraída",
-            "A2785": "Versión oficial extraída",
-            "A2782": "Versión oficial extraída"
+            "A2595": "Arabia saudí, canadá, estados unidos, guam, islas vírgenes de los estados unidos, méxico, puerto rico",
+            "A2782": "Japón",
+            "A2784": "Armenia, bielorrusia, kazajistán, kirguistán, rusia",
+            "A2785": "China",
+            "A2783": "Modelo internacional"
         }
     },
     "iphone_13_pro_max": {
@@ -432,24 +432,24 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-max-colors.png",
         "colores": [
-            "Verde alpino",
             "Plata",
-            "Oro",
             "Grafito",
+            "Oro",
+            "Verde alpino",
             "Azul sierra"
         ],
         "capacidades": [
-            "256 GB",
-            "1 TB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "1 TB",
+            "256 GB"
         ],
         "modelos": {
-            "A2644": "Versión oficial extraída",
-            "A2641": "Versión oficial extraída",
-            "A2645": "Versión oficial extraída",
-            "A2643": "Versión oficial extraída",
-            "A2484": "Versión oficial extraída"
+            "A2484": "Estados unidos",
+            "A2641": "Arabia saudí, canadá, japón y méxico",
+            "A2644": "China continental, hong kong y macao",
+            "A2645": "Armenia, bielorrusia, kazajistán, kirguistán y rusia",
+            "A2643": "Modelo internacional"
         }
     },
     "iphone_13_pro": {
@@ -458,24 +458,24 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-colors.png",
         "colores": [
-            "Verde alpino",
             "Plata",
-            "Oro",
             "Grafito",
+            "Oro",
+            "Verde alpino",
             "Azul sierra"
         ],
         "capacidades": [
-            "256 GB",
-            "1 TB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "1 TB",
+            "256 GB"
         ],
         "modelos": {
-            "A2483": "Versión oficial extraída",
-            "A2636": "Versión oficial extraída",
-            "A2640": "Versión oficial extraída",
-            "A2639": "Versión oficial extraída",
-            "A2638": "Versión oficial extraída"
+            "A2483": "Estados unidos",
+            "A2636": "Arabia saudí, canadá, japón y méxico",
+            "A2639": "China continental, hong kong y macao",
+            "A2640": "Armenia, bielorrusia, kazajistán, kirguistán y rusia",
+            "A2638": "Modelo internacional"
         }
     },
     "iphone_13": {
@@ -484,24 +484,24 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-colors.png",
         "colores": [
-            "Verde",
-            "Medianoche",
             "(product)red",
+            "Medianoche",
+            "Verde",
             "Blanco estrella",
-            "Rosa",
-            "Azul"
+            "Azul",
+            "Rosa"
         ],
         "capacidades": [
-            "256 GB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A2633": "Versión oficial extraída",
-            "A2635": "Versión oficial extraída",
-            "A2482": "Versión oficial extraída",
-            "A2631": "Versión oficial extraída",
-            "A2634": "Versión oficial extraída"
+            "A2482": "Estados unidos",
+            "A2631": "Arabia saudí, canadá, japón y méxico",
+            "A2634": "China continental, hong kong y macao",
+            "A2635": "Armenia, bielorrusia, kazajistán, kirguistán y rusia",
+            "A2633": "Modelo internacional"
         }
     },
     "iphone_13_mini": {
@@ -510,24 +510,24 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-iphone13-mini-colors.png",
         "colores": [
-            "Verde",
-            "Medianoche",
             "(product)red",
+            "Medianoche",
+            "Verde",
             "Blanco estrella",
-            "Rosa",
-            "Azul"
+            "Azul",
+            "Rosa"
         ],
         "capacidades": [
-            "256 GB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A2481": "Versión oficial extraída",
-            "A2626": "Versión oficial extraída",
-            "A2628": "Versión oficial extraída",
-            "A2629": "Versión oficial extraída",
-            "A2630": "Versión oficial extraída"
+            "A2481": "Estados unidos",
+            "A2626": "Arabia saudí, canadá, japón y méxico",
+            "A2629": "China continental, hong kong y macao",
+            "A2630": "Armenia, bielorrusia, kazajistán, kirguistán y rusia",
+            "A2628": "Modelo internacional"
         }
     },
     "iphone_12_pro_max": {
@@ -536,21 +536,21 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro-max/iphone12-pro-max-colors.jpg",
         "colores": [
-            "Grafito",
             "Oro",
             "Plata",
-            "Azul pacífico"
+            "Azul pacífico",
+            "Grafito"
         ],
         "capacidades": [
-            "256 GB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A2411": "Versión oficial extraída",
-            "A2410": "Versión oficial extraída",
-            "A2412": "Versión oficial extraída",
-            "A2342": "Versión oficial extraída"
+            "A2342": "Estados unidos",
+            "A2410": "Canadá y japón",
+            "A2412": "China continental, hong kong y macao",
+            "A2411": "Modelo internacional"
         }
     },
     "iphone_12_pro": {
@@ -559,21 +559,21 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro/iphone12-pro-colors.jpg",
         "colores": [
-            "Grafito",
             "Oro",
             "Plata",
-            "Azul pacífico"
+            "Azul pacífico",
+            "Grafito"
         ],
         "capacidades": [
-            "256 GB",
+            "128 GB",
             "512 GB",
-            "128 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A2407": "Versión oficial extraída",
-            "A2341": "Versión oficial extraída",
-            "A2406": "Versión oficial extraída",
-            "A2408": "Versión oficial extraída"
+            "A2341": "Estados unidos",
+            "A2406": "Canadá y japón",
+            "A2408": "China continental, hong kong y macao",
+            "A2407": "Modelo internacional"
         }
     },
     "iphone_12": {
@@ -582,23 +582,23 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-colors.png",
         "colores": [
-            "Negro",
+            "(product)red",
+            "Morado",
             "Verde",
             "Blanco",
-            "Morado",
-            "(product)red",
+            "Negro",
             "Azul"
         ],
         "capacidades": [
-            "256 GB",
             "128 GB",
+            "256 GB",
             "64 GB"
         ],
         "modelos": {
-            "A2402": "Versión oficial extraída",
-            "A2404": "Versión oficial extraída",
-            "A2403": "Versión oficial extraída",
-            "A2172": "Versión oficial extraída"
+            "A2172": "Estados unidos",
+            "A2402": "Canadá y japón",
+            "A2404": "China continental, hong kong y macao",
+            "A2403": "Modelo internacional"
         }
     },
     "iphone_12_mini": {
@@ -607,23 +607,23 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-mini-colors.png",
         "colores": [
-            "Negro",
+            "(product)red",
+            "Morado",
             "Verde",
             "Blanco",
-            "Morado",
-            "(product)red",
+            "Negro",
             "Azul"
         ],
         "capacidades": [
-            "256 GB",
             "128 GB",
+            "256 GB",
             "64 GB"
         ],
         "modelos": {
-            "A2399": "Versión oficial extraída",
-            "A2400": "Versión oficial extraída",
-            "A2176": "Versión oficial extraída",
-            "A2398": "Versión oficial extraída"
+            "A2176": "Estados unidos",
+            "A2398": "Canadá y japón",
+            "A2400": "China continental",
+            "A2399": "Modelo internacional"
         }
     },
     "iphone_se_2ª_generación": {
@@ -632,19 +632,19 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se/iphone-se-2nd-gen-colors.jpg",
         "colores": [
-            "Blanco",
             "(product)red",
-            "Negro"
+            "Negro",
+            "Blanco"
         ],
         "capacidades": [
-            "256 GB",
             "128 GB",
+            "256 GB",
             "64 GB"
         ],
         "modelos": {
-            "A2275": "Versión oficial extraída",
-            "A2298": "Versión oficial extraída",
-            "A2296": "Versión oficial extraída"
+            "A2275": "Canadá y estados unidos",
+            "A2298": "China continental",
+            "A2296": "Modelo internacional"
         }
     },
     "iphone_11_pro": {
@@ -659,14 +659,14 @@
             "Verde noche"
         ],
         "capacidades": [
-            "256 GB",
             "512 GB",
+            "256 GB",
             "64 GB"
         ],
         "modelos": {
-            "A2215": "Versión oficial extraída",
-            "A2217": "Versión oficial extraída",
-            "A2160": "Versión oficial extraída"
+            "A2160": "Canadá y estados unidos",
+            "A2217": "China continental, hong kong y macao",
+            "A2215": "Modelo internacional"
         }
     },
     "iphone_11_pro_max": {
@@ -681,14 +681,14 @@
             "Verde noche"
         ],
         "capacidades": [
-            "256 GB",
             "512 GB",
+            "256 GB",
             "64 GB"
         ],
         "modelos": {
-            "A2220": "Versión oficial extraída",
-            "A2218": "Versión oficial extraída",
-            "A2161": "Versión oficial extraída"
+            "A2161": "Canadá, estados unidos",
+            "A2220": "China continental, hong kong y macao",
+            "A2218": "Modelo internacional"
         }
     },
     "iphone_11": {
@@ -697,22 +697,22 @@
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11-colors.jpg",
         "colores": [
+            "(product)red",
             "Malva",
-            "Negro",
+            "Amarillo",
             "Verde",
             "Blanco",
-            "(product)red",
-            "Amarillo"
+            "Negro"
         ],
         "capacidades": [
-            "256 GB",
             "128 GB",
+            "256 GB",
             "64 GB"
         ],
         "modelos": {
-            "A2223": "Versión oficial extraída",
-            "A2111": "Versión oficial extraída",
-            "A2221": "Versión oficial extraída"
+            "A2111": "Canadá y estados unidos",
+            "A2223": "China continental, hong kong y macao",
+            "A2221": "Modelo internacional"
         }
     },
     "iphone_xs": {
@@ -726,16 +726,16 @@
             "Gris espacial"
         ],
         "capacidades": [
-            "256 GB",
             "512 GB",
+            "256 GB",
             "64 GB"
         ],
         "modelos": {
-            "A2098": "Versión oficial extraída",
-            "A1920": "Versión oficial extraída",
-            "A2097": "Versión oficial extraída",
-            "A2100": "Versión oficial extraída",
-            "A2099": "Versión oficial extraída"
+            "A1920": "Región global o no especificada",
+            "A2097": "Región global o no especificada",
+            "A2098": "Japón",
+            "A2099": "Región global o no especificada",
+            "A2100": "China continental"
         }
     },
     "iphone_xs_max": {
@@ -749,16 +749,16 @@
             "Gris espacial"
         ],
         "capacidades": [
-            "256 GB",
             "512 GB",
+            "256 GB",
             "64 GB"
         ],
         "modelos": {
-            "A1921": "Versión oficial extraída",
-            "A2103": "Versión oficial extraída",
-            "A2102": "Versión oficial extraída",
-            "A2104": "Versión oficial extraída",
-            "A2101": "Versión oficial extraída"
+            "A1921": "Región global o no especificada",
+            "A2101": "Región global o no especificada",
+            "A2102": "Japón",
+            "A2103": "Región global o no especificada",
+            "A2104": "China continental"
         }
     },
     "iphone_xr": {
@@ -767,24 +767,24 @@
         "año": 2018,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xr/identify-iphone-xr-colors.jpg",
         "colores": [
-            "Negro",
-            "Blanco",
             "(product)red",
+            "Amarillo",
+            "Blanco",
             "Coral",
-            "Azul",
-            "Amarillo"
+            "Negro",
+            "Azul"
         ],
         "capacidades": [
-            "256 GB",
             "128 GB",
+            "256 GB",
             "64 GB"
         ],
         "modelos": {
-            "A1984": "Versión oficial extraída",
-            "A2105": "Versión oficial extraída",
-            "A2108": "Versión oficial extraída",
-            "A2106": "Versión oficial extraída",
-            "A2107": "Versión oficial extraída"
+            "A1984": "Región global o no especificada",
+            "A2105": "Región global o no especificada",
+            "A2106": "Japón",
+            "A2107": "Región global o no especificada",
+            "A2108": "China continental"
         }
     },
     "iphone_x": {
@@ -801,9 +801,9 @@
             "64 GB"
         ],
         "modelos": {
-            "A1901": "Versión oficial extraída",
-            "A1865": "Versión oficial extraída",
-            "A1902": "Versión oficial extraída"
+            "A1865": "Región global o no especificada",
+            "A1901": "Región global o no especificada",
+            "A1902": "Japón 2"
         }
     },
     "iphone_8": {
@@ -813,19 +813,19 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8/iphone-8-colors.jpg",
         "colores": [
             "Plateado",
+            "Gris espacial",
             "(product)red",
-            "Dorado",
-            "Gris espacial"
+            "Dorado"
         ],
         "capacidades": [
-            "256 GB",
             "128 GB",
+            "256 GB",
             "64 GB"
         ],
         "modelos": {
-            "A1906": "Versión oficial extraída",
-            "A1863": "Versión oficial extraída",
-            "A1905": "Versión oficial extraída"
+            "A1863": "Región global o no especificada",
+            "A1905": "Región global o no especificada",
+            "A1906": "Japón 2"
         }
     },
     "iphone_8_plus": {
@@ -835,19 +835,19 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8-plus/iphone-8plus-colors.jpg",
         "colores": [
             "Plateado",
+            "Gris espacial",
             "(product)red",
-            "Dorado",
-            "Gris espacial"
+            "Dorado"
         ],
         "capacidades": [
-            "256 GB",
             "128 GB",
+            "256 GB",
             "64 GB"
         ],
         "modelos": {
-            "A1864": "Versión oficial extraída",
-            "A1898": "Versión oficial extraída",
-            "A1897": "Versión oficial extraída"
+            "A1864": "Región global o no especificada",
+            "A1897": "Región global o no especificada",
+            "A1898": "Japón 2"
         }
     },
     "iphone_7": {
@@ -856,22 +856,22 @@
         "año": 2016,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7/iphone7-colors.jpg",
         "colores": [
-            "Negro",
             "Plateado",
-            "Oro",
             "(product)red",
+            "Oro",
+            "Negro",
             "Negro brillante",
             "Oro rosa"
         ],
         "capacidades": [
-            "256 GB",
+            "128 GB",
             "32 GB",
-            "128 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A1660": "Versión oficial extraída",
-            "A1778": "Versión oficial extraída",
-            "A1779": "Versión oficial extraída"
+            "A1660": "Región global o no especificada",
+            "A1778": "Región global o no especificada",
+            "A1779": "Japón 4"
         }
     },
     "iphone_7_plus": {
@@ -880,22 +880,22 @@
         "año": 2016,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7-plus/iphone7plus-colors.jpg",
         "colores": [
-            "Negro",
             "Plateado",
-            "Oro",
             "(product)red",
+            "Oro",
+            "Negro",
             "Negro brillante",
             "Oro rosa"
         ],
         "capacidades": [
-            "256 GB",
+            "128 GB",
             "32 GB",
-            "128 GB"
+            "256 GB"
         ],
         "modelos": {
-            "A1785": "Versión oficial extraída",
-            "A1661": "Versión oficial extraída",
-            "A1784": "Versión oficial extraída"
+            "A1661": "Región global o no especificada",
+            "A1784": "Región global o no especificada",
+            "A1785": "Japón 4"
         }
     },
     "iphone_se_1ª_generación": {
@@ -905,20 +905,20 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se/iphone-se-colors.jpg",
         "colores": [
             "Plateado",
-            "Dorado",
+            "Gris espacial",
             "Oro rosa",
-            "Gris espacial"
+            "Dorado"
         ],
         "capacidades": [
             "128 GB",
-            "32 GB",
             "16 GB",
+            "32 GB",
             "64 GB"
         ],
         "modelos": {
-            "A1723": "Versión oficial extraída",
-            "A1724": "Versión oficial extraída",
-            "A1662": "Versión oficial extraída"
+            "A1723": "Región global o no especificada",
+            "A1662": "Región global o no especificada",
+            "A1724": "Región global o no especificada"
         }
     },
     "iphone_6s": {
@@ -928,20 +928,20 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-6s-colors.jpg",
         "colores": [
             "Plateado",
-            "Dorado",
+            "Gris espacial",
             "Oro rosa",
-            "Gris espacial"
+            "Dorado"
         ],
         "capacidades": [
             "128 GB",
-            "32 GB",
             "16 GB",
+            "32 GB",
             "64 GB"
         ],
         "modelos": {
-            "A1688": "Versión oficial extraída",
-            "A1700": "Versión oficial extraída",
-            "A1633": "Versión oficial extraída"
+            "A1633": "Región global o no especificada",
+            "A1688": "Región global o no especificada",
+            "A1700": "Región global o no especificada"
         }
     },
     "iphone_6s_plus": {
@@ -951,20 +951,20 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-6splus-colors.jpg",
         "colores": [
             "Plateado",
-            "Dorado",
+            "Gris espacial",
             "Oro rosa",
-            "Gris espacial"
+            "Dorado"
         ],
         "capacidades": [
             "128 GB",
-            "32 GB",
             "16 GB",
+            "32 GB",
             "64 GB"
         ],
         "modelos": {
-            "A1634": "Versión oficial extraída",
-            "A1699": "Versión oficial extraída",
-            "A1687": "Versión oficial extraída"
+            "A1634": "Región global o no especificada",
+            "A1687": "Región global o no especificada",
+            "A1699": "Región global o no especificada"
         }
     },
     "iphone_6": {
@@ -974,19 +974,19 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone6-colors.jpg",
         "colores": [
             "Plateado",
-            "Dorado",
-            "Gris espacial"
+            "Gris espacial",
+            "Dorado"
         ],
         "capacidades": [
             "128 GB",
-            "32 GB",
             "16 GB",
+            "32 GB",
             "64 GB"
         ],
         "modelos": {
-            "A1589": "Versión oficial extraída",
-            "A1586": "Versión oficial extraída",
-            "A1549": "Versión oficial extraída"
+            "A1549": "Región global o no especificada",
+            "A1586": "Región global o no especificada",
+            "A1589": "Región global o no especificada"
         }
     },
     "iphone_6_plus": {
@@ -996,8 +996,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone6plus-colors.jpg",
         "colores": [
             "Plateado",
-            "Dorado",
-            "Gris espacial"
+            "Gris espacial",
+            "Dorado"
         ],
         "capacidades": [
             "128 GB",
@@ -1005,9 +1005,9 @@
             "64 GB"
         ],
         "modelos": {
-            "A1524": "Versión oficial extraída",
-            "A1593": "Versión oficial extraída",
-            "A1522": "Versión oficial extraída"
+            "A1522": "Región global o no especificada",
+            "A1524": "Región global o no especificada",
+            "A1593": "Región global o no especificada"
         }
     },
     "iphone_5s": {
@@ -1017,21 +1017,21 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5s-colors.jpg",
         "colores": [
             "Plateado",
-            "Dorado",
-            "Gris espacial"
+            "Gris espacial",
+            "Dorado"
         ],
         "capacidades": [
-            "32 GB",
             "16 GB",
+            "32 GB",
             "64 GB"
         ],
         "modelos": {
-            "A1457": "Versión oficial extraída",
-            "A1453": "Versión oficial extraída",
-            "A1528": "Versión oficial extraída",
-            "A1533": "Versión oficial extraída",
-            "A1530": "Versión oficial extraída",
-            "A1518": "Versión oficial extraída"
+            "A1453": "Región global o no especificada",
+            "A1457": "Región global o no especificada",
+            "A1518": "Región global o no especificada",
+            "A1528": "Región global o no especificada",
+            "A1530": "Región global o no especificada",
+            "A1533": "Región global o no especificada"
         }
     },
     "iphone_5c": {
@@ -1040,23 +1040,23 @@
         "año": 2013,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5c-colors.jpg",
         "colores": [
+            "Amarillo",
             "Verde",
             "Blanco",
             "Azul",
-            "Rosa",
-            "Amarillo"
+            "Rosa"
         ],
         "capacidades": [
-            "32 GB",
+            "8 GB",
             "16 GB",
-            "8 GB"
+            "32 GB"
         ],
         "modelos": {
-            "A1529": "Versión oficial extraída",
-            "A1507": "Versión oficial extraída",
-            "A1532": "Versión oficial extraída",
-            "A1456": "Versión oficial extraída",
-            "A1516": "Versión oficial extraída"
+            "A1456": "Región global o no especificada",
+            "A1507": "Región global o no especificada",
+            "A1516": "Región global o no especificada",
+            "A1529": "Región global o no especificada",
+            "A1532": "Región global o no especificada"
         }
     },
     "iphone_5": {
@@ -1069,14 +1069,14 @@
             "Blanco"
         ],
         "capacidades": [
-            "32 GB",
             "16 GB",
+            "32 GB",
             "64 GB"
         ],
         "modelos": {
-            "A1428": "Versión oficial extraída",
-            "A1442": "Versión oficial extraída",
-            "A1429": "Versión oficial extraída"
+            "A1428": "Región global o no especificada",
+            "A1429": "Región global o no especificada",
+            "A1442": "Región global o no especificada"
         }
     },
     "iphone_4s": {
@@ -1089,14 +1089,14 @@
             "Blanco"
         ],
         "capacidades": [
-            "32 GB",
+            "8 GB",
             "16 GB",
-            "64 GB",
-            "8 GB"
+            "32 GB",
+            "64 GB"
         ],
         "modelos": {
-            "A1387": "Versión oficial extraída",
-            "A1431": "Versión oficial extraída"
+            "A1431": "Región global o no especificada",
+            "A1387": "Región global o no especificada"
         }
     },
     "iphone_4": {
@@ -1109,13 +1109,13 @@
             "Blanco"
         ],
         "capacidades": [
-            "32 GB",
+            "8 GB",
             "16 GB",
-            "8 GB"
+            "32 GB"
         ],
         "modelos": {
-            "A1332": "Versión oficial extraída",
-            "A1349": "Versión oficial extraída"
+            "A1349": "Región global o no especificada",
+            "A1332": "Región global o no especificada"
         }
     },
     "iphone_3gs": {
@@ -1129,13 +1129,13 @@
             "Blanco"
         ],
         "capacidades": [
-            "32 GB",
+            "8 GB",
             "16 GB",
-            "8 GB"
+            "32 GB"
         ],
         "modelos": {
-            "A1303": "Versión oficial extraída",
-            "A1325": "Versión oficial extraída"
+            "A1325": "Región global o no especificada",
+            "A1303": "Región global o no especificada"
         }
     },
     "iphone_3g": {
@@ -1144,15 +1144,15 @@
         "año": 2008,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone3g-colors.jpg",
         "colores": [
-            "Consultar caja"
+            "Consultar caja o web"
         ],
         "capacidades": [
-            "16 GB",
-            "8 GB"
+            "8 GB",
+            "16 GB"
         ],
         "modelos": {
-            "A1324": "Versión oficial extraída",
-            "A1241": "Versión oficial extraída"
+            "A1324": "Región global o no especificada",
+            "A1241": "Región global o no especificada"
         }
     },
     "iphone": {
@@ -1161,20 +1161,20 @@
         "año": 2007,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone-original-colors.jpg",
         "colores": [
-            "Consultar caja"
+            "Consultar caja o web"
         ],
         "capacidades": [
+            "8 GB",
             "4 GB",
-            "16 GB",
-            "8 GB"
+            "16 GB"
         ],
         "modelos": {
-            "A1779": "Versión oficial extraída",
-            "A1898": "Versión oficial extraída",
-            "A1906": "Versión oficial extraída",
-            "A1902": "Versión oficial extraída",
-            "A1785": "Versión oficial extraída",
-            "A1203": "Versión oficial extraída"
+            "A1203": "Región global o no especificada",
+            "A1902": "Región global o no especificada",
+            "A1906": "Región global o no especificada",
+            "A1898": "Región global o no especificada",
+            "A1779": "Región global o no especificada",
+            "A1785": "Región global o no especificada"
         }
     }
 }
