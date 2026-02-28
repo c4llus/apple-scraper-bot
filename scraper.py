@@ -12,24 +12,18 @@ def extraer_modelos_apple():
     sopa = BeautifulSoup(respuesta.text, 'html.parser')
     base_de_datos = {}
     
-    # Encontramos todos los bloques de la página web
     titulos = sopa.find_all(['h2', 'h3'])
     
     for titulo in titulos:
         nombre = titulo.get_text(strip=True).replace('\xa0', ' ')
         
-        # Comprobamos que sea un título de un iPhone real
         if "iPhone" in nombre and len(nombre) < 35 and "modelo" not in nombre.lower():
-            
-            # Preparamos las variables en blanco para este móvil
-            modelos =[]
+            modelos = []
             colores = []
             capacidades =[]
             año = 2024
-            # Imagen por defecto por si Apple no ha puesto foto en ese modelo
             imagen = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png"
             
-            # Exploramos todos los párrafos que hay debajo de este iPhone
             nodo = titulo.find_next_sibling()
             
             while nodo and nodo.name not in ['h2', 'h3']:
@@ -42,14 +36,12 @@ def extraer_modelos_apple():
                     
                 if img_tag and img_tag.get('src'):
                     src = img_tag.get('src')
-                    # Filtramos para no coger iconos minúsculos de la web
                     if "image/svg" not in src and "icon" not in src:
                         if src.startswith('/'):
                             imagen = "https://support.apple.com" + src
                         elif src.startswith('http'):
                             imagen = src
 
-                # Extraemos el texto de este párrafo concreto
                 texto = nodo.get_text(" ", strip=True)
                 
                 # 🔍 2. DETECTIVE DE MODELOS (A-XXXX)
@@ -63,31 +55,36 @@ def extraer_modelos_apple():
                     if match_año:
                         año = int(match_año.group(1))
                         
-                # 💾 4. DETECTIVE DE ALMACENAMIENTO (GB / TB)
+                # 💾 4. DETECTIVE DE ALMACENAMIENTO (Inteligente)
+                # Si la línea habla de capacidad, extraemos todos los números lógicos
                 if "capacidad" in texto.lower() or "gb" in texto.lower() or "tb" in texto.lower():
-                    caps = re.findall(r'\b\d{2,4}\s?[GgTt][Bb]\b', texto, re.IGNORECASE)
-                    if caps:
-                        # Lo convertimos a mayúsculas para que quede bonito: "128 GB"
-                        for c in caps:
-                            capacidades.append(c.upper())
+                    numeros = re.findall(r'\b\d{1,4}\b', texto)
+                    for n in numeros:
+                        num = int(n)
+                        # Almacenamientos típicos en GB
+                        if num in[4, 8, 16, 32, 64, 128, 256, 512]:
+                            capacidades.append(f"{num} GB")
+                        # Almacenamientos típicos en TB
+                        elif num in [1, 2]:
+                            capacidades.append(f"{num} TB")
                         
                 # 🎨 5. DETECTIVE DE COLORES
                 if "color" in texto.lower() or "colores:" in texto.lower():
                     partes = texto.split(":")
                     if len(partes) > 1:
                         texto_colores = partes[1].strip()
-                        # Cortamos la frase por las comas (,) o la letra 'y'
                         lista_c = re.split(r',|\by\b', texto_colores)
-                        # Limpiamos los espacios y ponemos la primera letra en mayúscula
-                        colores =[c.strip().capitalize() for c in lista_c if len(c.strip()) > 2]
+                        # Añadimos colores que tengan más de 2 letras
+                        colores_limpios =[c.strip().capitalize() for c in lista_c if len(c.strip()) > 2]
+                        colores.extend(colores_limpios)
 
-                # Pasamos al siguiente párrafo
                 nodo = nodo.find_next_sibling()
             
             # --- GUARDADO FINAL DEL IPHONE ---
             if modelos:
-                # Limpiamos duplicados (a veces Apple repite el mismo modelo 2 veces)
+                # Limpiamos duplicados 
                 modelos = list(set(modelos))
+                colores = list(set(colores))
                 capacidades = list(set(capacidades))
                 
                 id_prod = nombre.lower().replace(" ", "_").replace("(", "").replace(")", "").replace(".", "")
@@ -97,10 +94,9 @@ def extraer_modelos_apple():
                     "nombre": nombre,
                     "año": año,
                     "imagen": imagen,
-                    # Si no encuentra colores o capacidades, pone un texto de aviso
-                    "colores": colores if colores else ["Consultar en Apple"],
+                    "colores": colores if colores else ["Consultar caja"],
                     "capacidades": capacidades if capacidades else ["Consultar caja"],
-                    "modelos": {m: "Extraído de la web oficial" for m in modelos}
+                    "modelos": {m: "Versión oficial extraída" for m in modelos}
                 }
                 
     with open("datos_apple.json", "w", encoding="utf-8") as archivo:
