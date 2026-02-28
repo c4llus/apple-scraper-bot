@@ -1,1 +1,13 @@
-{}
+{
+    "error_bot": {
+        "categoria": "Sistema",
+        "nombre": "Error de Extracción",
+        "año": 2024,
+        "imagen": "",
+        "colores": [],
+        "capacidades": [],
+        "modelos": {
+            "A0000": "Apple bloqueó al bot. Código HTTP: 200"
+        }
+    }
+}
