@@ -1,13 +1,13 @@
 {
     "error_bot": {
         "categoria": "Sistema",
-        "nombre": "Error de Extracción",
+        "nombre": "Error de Lectura",
         "año": 2024,
         "imagen": "",
         "colores": [],
         "capacidades": [],
         "modelos": {
-            "A0000": "Apple bloqueó al bot. Código HTTP: 200"
+            "A0000": "Apple no mostró los modelos. Título de la web: Mac Pro (finales de 2013) - Especificaciones técnicas - Soporte técnico de Apple (ES)"
         }
     }
 }
