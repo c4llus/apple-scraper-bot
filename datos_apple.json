@@ -5,15 +5,15 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-max-colors.png",
         "colores": [
-            "Azul oscuro",
+            "Naranja cósmico",
             "Plata",
-            "Naranja cósmico"
+            "Azul oscuro"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB",
+            "1 TB",
             "2 TB",
-            "1 TB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A3257": "Estados unidos, puerto rico",
@@ -28,14 +28,14 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-colors.png",
         "colores": [
-            "Azul oscuro",
+            "Naranja cósmico",
             "Plata",
-            "Naranja cósmico"
+            "Azul oscuro"
         ],
         "capacidades": [
-            "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A3256": "Estados unidos, puerto rico",
@@ -50,15 +50,15 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-colors.png",
         "colores": [
-            "Negro",
-            "Verde salvia",
-            "Blanco",
             "Lavanda",
+            "Negro",
+            "Blanco",
+            "Verde salvia",
             "Azul neblina"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A3258": "Estados unidos, puerto rico",
@@ -73,15 +73,15 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-air-colors.png",
         "colores": [
-            "Blanco nube",
             "Dorado claro",
             "Negro espacial",
+            "Blanco nube",
             "Azul cielo"
         ],
         "capacidades": [
-            "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A3260": "Estados unidos, puerto rico, baréin, canadá, guam, kuwait, méxico, omán, qatar, arabia saudí, emiratos árabes unidos e islas vírgenes de los estados unidos",
@@ -96,13 +96,13 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16e/iphone-16e-colors.png",
         "colores": [
-            "Blanco",
-            "Negro"
+            "Negro",
+            "Blanco"
         ],
         "capacidades": [
             "128 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A3212": "Estados unidos, puerto rico",
@@ -117,15 +117,15 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-max-colors.png",
         "colores": [
+            "Titanio blanco",
             "Titanio negro",
             "Titanio desierto",
-            "Titanio natural",
-            "Titanio blanco"
+            "Titanio natural"
         ],
         "capacidades": [
-            "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A3084": "Estados unidos, puerto rico",
@@ -140,16 +140,16 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-colors.png",
         "colores": [
+            "Titanio blanco",
             "Titanio negro",
             "Titanio desierto",
-            "Titanio natural",
-            "Titanio blanco"
+            "Titanio natural"
         ],
         "capacidades": [
+            "1 TB",
             "128 GB",
-            "256 GB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A3083": "Estados unidos, puerto rico",
@@ -164,16 +164,16 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-plus-colors.png",
         "colores": [
-            "Verde azulado",
-            "Negro",
             "Azul ultramar",
+            "Rosa",
+            "Negro",
             "Blanco",
-            "Rosa"
+            "Verde azulado"
         ],
         "capacidades": [
             "128 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A3082": "Estados unidos, puerto rico",
@@ -188,16 +188,16 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-colors.png",
         "colores": [
-            "Verde azulado",
-            "Negro",
             "Azul ultramar",
+            "Rosa",
+            "Negro",
             "Blanco",
-            "Rosa"
+            "Verde azulado"
         ],
         "capacidades": [
             "128 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A3081": "Estados unidos, puerto rico",
@@ -212,15 +212,15 @@
         "año": 2023,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-pro-max.png",
         "colores": [
+            "Titanio blanco",
             "Titanio negro",
-            "Titanio natural",
             "Titanio azul",
-            "Titanio blanco"
+            "Titanio natural"
         ],
         "capacidades": [
-            "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A2849": "Estados unidos, puerto rico",
@@ -235,16 +235,16 @@
         "año": 2023,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-pro.png",
         "colores": [
+            "Titanio blanco",
             "Titanio negro",
-            "Titanio natural",
             "Titanio azul",
-            "Titanio blanco"
+            "Titanio natural"
         ],
         "capacidades": [
+            "1 TB",
             "128 GB",
-            "256 GB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A2848": "Estados unidos, puerto rico",
@@ -259,16 +259,16 @@
         "año": 2023,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-plus.png",
         "colores": [
-            "Azul",
-            "Negro",
             "Rosa",
+            "Negro",
             "Amarillo",
+            "Azul",
             "Verde"
         ],
         "capacidades": [
             "128 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2847": "Estados unidos, puerto rico",
@@ -283,16 +283,16 @@
         "año": 2023,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15.png",
         "colores": [
-            "Azul",
-            "Negro",
             "Rosa",
+            "Negro",
             "Amarillo",
+            "Azul",
             "Verde"
         ],
         "capacidades": [
             "128 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2846": "Estados unidos, puerto rico",
@@ -307,16 +307,16 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-max-colors.png",
         "colores": [
-            "Plata",
             "Morado oscuro",
             "Negro espacial",
+            "Plata",
             "Oro"
         ],
         "capacidades": [
+            "1 TB",
             "128 GB",
-            "256 GB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A2651": "Estados unidos, puerto rico",
@@ -332,16 +332,16 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-colors.png",
         "colores": [
-            "Plata",
             "Morado oscuro",
             "Negro espacial",
+            "Plata",
             "Oro"
         ],
         "capacidades": [
+            "1 TB",
             "128 GB",
-            "256 GB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A2650": "Estados unidos, puerto rico",
@@ -358,16 +358,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-plus-colors-spring-2023.png",
         "colores": [
             "(product)red",
-            "Azul",
-            "Morado",
             "Blanco estrella",
             "Medianoche",
+            "Morado",
+            "Azul",
             "Amarillo"
         ],
         "capacidades": [
             "128 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2632": "Estados unidos, puerto rico",
@@ -384,16 +384,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-colors-spring-2023.png",
         "colores": [
             "(product)red",
-            "Azul",
-            "Morado",
             "Blanco estrella",
             "Medianoche",
+            "Morado",
+            "Azul",
             "Amarillo"
         ],
         "capacidades": [
             "128 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2649": "Estados unidos, puerto rico",
@@ -415,8 +415,8 @@
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
-            "128 GB"
+            "128 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2595": "Arabia saudí, canadá, estados unidos, guam, islas vírgenes de los estados unidos, méxico, puerto rico",
@@ -433,16 +433,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-max-colors.png",
         "colores": [
             "Oro",
-            "Verde alpino",
-            "Plata",
             "Grafito",
-            "Azul sierra"
+            "Verde alpino",
+            "Azul sierra",
+            "Plata"
         ],
         "capacidades": [
+            "1 TB",
             "128 GB",
-            "256 GB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A2484": "Estados unidos",
@@ -459,16 +459,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-colors.png",
         "colores": [
             "Oro",
-            "Verde alpino",
-            "Plata",
             "Grafito",
-            "Azul sierra"
+            "Verde alpino",
+            "Azul sierra",
+            "Plata"
         ],
         "capacidades": [
+            "1 TB",
             "128 GB",
-            "256 GB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A2483": "Estados unidos",
@@ -485,16 +485,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-colors.png",
         "colores": [
             "(product)red",
-            "Azul",
+            "Rosa",
             "Blanco estrella",
             "Medianoche",
-            "Rosa",
+            "Azul",
             "Verde"
         ],
         "capacidades": [
             "128 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2482": "Estados unidos",
@@ -511,16 +511,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-iphone13-mini-colors.png",
         "colores": [
             "(product)red",
-            "Azul",
+            "Rosa",
             "Blanco estrella",
             "Medianoche",
-            "Rosa",
+            "Azul",
             "Verde"
         ],
         "capacidades": [
             "128 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2481": "Estados unidos",
@@ -536,15 +536,15 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro-max/iphone12-pro-max-colors.jpg",
         "colores": [
-            "Grafito",
-            "Azul pacífico",
+            "Oro",
             "Plata",
-            "Oro"
+            "Grafito",
+            "Azul pacífico"
         ],
         "capacidades": [
             "128 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2342": "Estados unidos",
@@ -559,15 +559,15 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro/iphone12-pro-colors.jpg",
         "colores": [
-            "Grafito",
-            "Azul pacífico",
+            "Oro",
             "Plata",
-            "Oro"
+            "Grafito",
+            "Azul pacífico"
         ],
         "capacidades": [
             "128 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2341": "Estados unidos",
@@ -583,16 +583,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-colors.png",
         "colores": [
             "(product)red",
-            "Azul",
             "Negro",
-            "Morado",
             "Blanco",
+            "Morado",
+            "Azul",
             "Verde"
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
-            "128 GB"
+            "128 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2172": "Estados unidos",
@@ -608,16 +608,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-mini-colors.png",
         "colores": [
             "(product)red",
-            "Azul",
             "Negro",
-            "Morado",
             "Blanco",
+            "Morado",
+            "Azul",
             "Verde"
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
-            "128 GB"
+            "128 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2176": "Estados unidos",
@@ -632,14 +632,14 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se/iphone-se-2nd-gen-colors.jpg",
         "colores": [
-            "Blanco",
+            "Negro",
             "(product)red",
-            "Negro"
+            "Blanco"
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
-            "128 GB"
+            "128 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2275": "Canadá y estados unidos",
@@ -653,15 +653,15 @@
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11pro.jpg",
         "colores": [
+            "Verde noche",
             "Gris espacial",
             "Plata",
-            "Oro",
-            "Verde noche"
+            "Oro"
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2160": "Canadá y estados unidos",
@@ -675,15 +675,15 @@
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11pro-max.jpg",
         "colores": [
+            "Verde noche",
             "Gris espacial",
             "Plata",
-            "Oro",
-            "Verde noche"
+            "Oro"
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2161": "Canadá, estados unidos",
@@ -706,8 +706,8 @@
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
-            "128 GB"
+            "128 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2111": "Canadá y estados unidos",
@@ -727,8 +727,8 @@
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A1920": "Región global o no especificada",
@@ -750,8 +750,8 @@
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A1921": "Región global o no especificada",
@@ -768,16 +768,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xr/identify-iphone-xr-colors.jpg",
         "colores": [
             "(product)red",
-            "Azul",
             "Negro",
-            "Coral",
             "Blanco",
-            "Amarillo"
+            "Amarillo",
+            "Azul",
+            "Coral"
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
-            "128 GB"
+            "128 GB",
+            "256 GB"
         ],
         "modelos": {
             "A1984": "Región global o no especificada",
@@ -812,15 +812,15 @@
         "año": 2017,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8/iphone-8-colors.jpg",
         "colores": [
-            "Plateado",
-            "(product)red",
+            "Gris espacial",
             "Dorado",
-            "Gris espacial"
+            "(product)red",
+            "Plateado"
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
-            "128 GB"
+            "128 GB",
+            "256 GB"
         ],
         "modelos": {
             "A1863": "Región global o no especificada",
@@ -834,15 +834,15 @@
         "año": 2017,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8-plus/iphone-8plus-colors.jpg",
         "colores": [
-            "Plateado",
-            "(product)red",
+            "Gris espacial",
             "Dorado",
-            "Gris espacial"
+            "(product)red",
+            "Plateado"
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
-            "128 GB"
+            "128 GB",
+            "256 GB"
         ],
         "modelos": {
             "A1864": "Región global o no especificada",
@@ -856,11 +856,11 @@
         "año": 2016,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7/iphone7-colors.jpg",
         "colores": [
-            "Oro rosa",
             "(product)red",
-            "Negro",
             "Oro",
+            "Negro",
             "Plateado",
+            "Oro rosa",
             "Negro brillante"
         ],
         "capacidades": [
@@ -880,11 +880,11 @@
         "año": 2016,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7-plus/iphone7plus-colors.jpg",
         "colores": [
-            "Oro rosa",
             "(product)red",
-            "Negro",
             "Oro",
+            "Negro",
             "Plateado",
+            "Oro rosa",
             "Negro brillante"
         ],
         "capacidades": [
@@ -910,9 +910,9 @@
             "Plateado"
         ],
         "capacidades": [
+            "128 GB",
             "64 GB",
             "32 GB",
-            "128 GB",
             "16 GB"
         ],
         "modelos": {
@@ -933,9 +933,9 @@
             "Plateado"
         ],
         "capacidades": [
+            "128 GB",
             "64 GB",
             "32 GB",
-            "128 GB",
             "16 GB"
         ],
         "modelos": {
@@ -956,9 +956,9 @@
             "Plateado"
         ],
         "capacidades": [
+            "128 GB",
             "64 GB",
             "32 GB",
-            "128 GB",
             "16 GB"
         ],
         "modelos": {
@@ -978,9 +978,9 @@
             "Plateado"
         ],
         "capacidades": [
+            "128 GB",
             "64 GB",
             "32 GB",
-            "128 GB",
             "16 GB"
         ],
         "modelos": {
@@ -1040,16 +1040,16 @@
         "año": 2013,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5c-colors.jpg",
         "colores": [
-            "Azul",
-            "Blanco",
             "Rosa",
+            "Blanco",
             "Amarillo",
+            "Azul",
             "Verde"
         ],
         "capacidades": [
+            "8 GB",
             "32 GB",
-            "16 GB",
-            "8 GB"
+            "16 GB"
         ],
         "modelos": {
             "A1456": "Región global o no especificada",
@@ -1065,8 +1065,8 @@
         "año": 2012,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5-colors.jpg",
         "colores": [
-            "Blanco",
-            "Negro"
+            "Negro",
+            "Blanco"
         ],
         "capacidades": [
             "64 GB",
@@ -1085,14 +1085,14 @@
         "año": 2011,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone4s-colors.jpg",
         "colores": [
-            "Blanco",
-            "Negro"
+            "Negro",
+            "Blanco"
         ],
         "capacidades": [
+            "8 GB",
             "64 GB",
             "32 GB",
-            "16 GB",
-            "8 GB"
+            "16 GB"
         ],
         "modelos": {
             "A1431": "Región global o no especificada",
@@ -1105,13 +1105,13 @@
         "año": 2010,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone4-colors.jpg",
         "colores": [
-            "Blanco",
-            "Negro"
+            "Negro",
+            "Blanco"
         ],
         "capacidades": [
+            "8 GB",
             "32 GB",
-            "16 GB",
-            "8 GB"
+            "16 GB"
         ],
         "modelos": {
             "A1349": "Región global o no especificada",
@@ -1124,13 +1124,13 @@
         "año": 2009,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone3gs-colors.jpg",
         "colores": [
-            "Blanco",
-            "Negro"
+            "Negro",
+            "Blanco"
         ],
         "capacidades": [
+            "8 GB",
             "32 GB",
-            "16 GB",
-            "8 GB"
+            "16 GB"
         ],
         "modelos": {
             "A1325": "Región global o no especificada",
@@ -1143,11 +1143,11 @@
         "año": 2008,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone3g-colors.jpg",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "16 GB",
-            "8 GB"
+            "8 GB",
+            "16 GB"
         ],
         "modelos": {
             "A1324": "Región global o no especificada",
@@ -1160,12 +1160,12 @@
         "año": 2007,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone-original-colors.jpg",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "4 GB",
-            "16 GB",
-            "8 GB"
+            "8 GB",
+            "16 GB"
         ],
         "modelos": {
             "A1203": "Región global o no especificada",
@@ -1182,13 +1182,13 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/fall-2025-ipad-pro-m5-13in.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB",
+            "1 TB",
             "2 TB",
-            "1 TB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A3360": "Región global o no especificada",
@@ -1202,13 +1202,13 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/fall-2025-ipad-pro-m5-11in.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB",
+            "1 TB",
             "2 TB",
-            "1 TB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A3357": "Región global o no especificada",
@@ -1222,13 +1222,13 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-1.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB",
+            "1 TB",
             "2 TB",
-            "1 TB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2925": "Región global o no especificada",
@@ -1242,13 +1242,13 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-2.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB",
+            "1 TB",
             "2 TB",
-            "1 TB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2836": "Región global o no especificada",
@@ -1262,14 +1262,14 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-12-9-inch-6gen-ipad-pro.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
+            "128 GB",
             "256 GB",
-            "2 TB",
-            "512 GB",
             "1 TB",
-            "128 GB"
+            "512 GB",
+            "2 TB"
         ],
         "modelos": {
             "A2436": "Región global o no especificada",
@@ -1284,15 +1284,15 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-11-inch-4gen-ipad-pro.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "256 GB",
-            "2 TB",
-            "512 GB",
             "4 GB",
+            "128 GB",
+            "256 GB",
             "1 TB",
-            "128 GB"
+            "512 GB",
+            "2 TB"
         ],
         "modelos": {
             "A2759": "Región global o no especificada",
@@ -1307,14 +1307,14 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/2021-ipad-pro-12-9-colors.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
+            "128 GB",
             "256 GB",
-            "2 TB",
-            "512 GB",
             "1 TB",
-            "128 GB"
+            "512 GB",
+            "2 TB"
         ],
         "modelos": {
             "A2378": "Región global o no especificada",
@@ -1329,14 +1329,14 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/2021-ipad-pro-11-colors.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
+            "128 GB",
             "256 GB",
-            "2 TB",
-            "512 GB",
             "1 TB",
-            "128 GB"
+            "512 GB",
+            "2 TB"
         ],
         "modelos": {
             "A2377": "Región global o no especificada",
@@ -1351,13 +1351,13 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios13-4-ipad-pro-4gen-12-9-in.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
+            "1 TB",
             "128 GB",
-            "256 GB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A2229": "Región global o no especificada",
@@ -1372,13 +1372,13 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios13-4-ipad-pro-4gen-11-in.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
+            "1 TB",
             "128 GB",
-            "256 GB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A2228": "Región global o no especificada",
@@ -1393,13 +1393,13 @@
         "año": 2018,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios12-ipad-pro-12-9-in.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A1876": "Región global o no especificada",
@@ -1414,13 +1414,13 @@
         "año": 2018,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios12-ipad-pro-11-in.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A1980": "Región global o no especificada",
@@ -1435,12 +1435,12 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios11-ipad-pro-12-in.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A1670": "Región global o no especificada",
@@ -1454,12 +1454,12 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios11-ipad-pro-10-in.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "64 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A1701": "Región global o no especificada",
@@ -1473,7 +1473,7 @@
         "año": 2016,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-pro-9-7.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "128 GB",
@@ -1492,7 +1492,7 @@
         "año": 2015,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-pro.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "128 GB",
@@ -1510,13 +1510,13 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad-air-13.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
+            "1 TB",
             "128 GB",
-            "256 GB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A3268": "Región global o no especificada",
@@ -1530,13 +1530,13 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad-air-11.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
+            "1 TB",
             "128 GB",
-            "256 GB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A3266": "Región global o no especificada",
@@ -1550,13 +1550,13 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-3.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
+            "1 TB",
             "128 GB",
-            "256 GB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A2898": "Región global o no especificada",
@@ -1570,13 +1570,13 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-4.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
+            "1 TB",
             "128 GB",
-            "256 GB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A2902": "Región global o no especificada",
@@ -1590,7 +1590,7 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad-air-5th-gen-colors.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "64 GB",
@@ -1608,12 +1608,12 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-air-4th-gen-colors.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
+            "4 GB",
             "64 GB",
-            "256 GB",
-            "4 GB"
+            "256 GB"
         ],
         "modelos": {
             "A2316": "Región global o no especificada",
@@ -1628,7 +1628,7 @@
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-air-3gen.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "64 GB",
@@ -1647,14 +1647,14 @@
         "año": 2014,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-air2.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "2 TB",
-            "16 GB",
             "64 GB",
+            "128 GB",
             "32 GB",
-            "128 GB"
+            "16 GB",
+            "2 TB"
         ],
         "modelos": {
             "A1566": "Región global o no especificada",
@@ -1667,12 +1667,12 @@
         "año": 2013,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-air.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
+            "128 GB",
             "64 GB",
             "32 GB",
-            "128 GB",
             "16 GB"
         ],
         "modelos": {
@@ -1687,12 +1687,12 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad-mini/ipad-mini-2024-colors.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "128 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2993": "Región global o no especificada",
@@ -1706,7 +1706,7 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-mini-2021-colors.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "64 GB",
@@ -1724,7 +1724,7 @@
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-mini-5gen.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "64 GB",
@@ -1743,14 +1743,14 @@
         "año": 2015,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-mini4.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "16 GB",
             "4 GB",
             "64 GB",
+            "128 GB",
             "32 GB",
-            "128 GB"
+            "16 GB"
         ],
         "modelos": {
             "A1538": "Región global o no especificada",
@@ -1763,7 +1763,7 @@
         "año": 2014,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-mini3.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "64 GB",
@@ -1781,14 +1781,14 @@
         "año": 2013,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-mini2.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "2 TB",
-            "16 GB",
             "64 GB",
+            "128 GB",
             "32 GB",
-            "128 GB"
+            "16 GB",
+            "2 TB"
         ],
         "modelos": {
             "A1489": "Región global o no especificada",
@@ -1802,7 +1802,7 @@
         "año": 2012,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-mini.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "64 GB",
@@ -1821,12 +1821,12 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "128 GB",
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A3354": "Región global o no especificada",
@@ -1840,7 +1840,7 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-10-gen-ipad.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "64 GB",
@@ -1859,7 +1859,7 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-2021-colors.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "64 GB",
@@ -1878,12 +1878,12 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-8th-gen-colors.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
+            "8 GB",
             "128 GB",
-            "32 GB",
-            "8 GB"
+            "32 GB"
         ],
         "modelos": {
             "A2270": "Región global o no especificada",
@@ -1898,7 +1898,7 @@
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-7th-gen.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "128 GB",
@@ -1916,7 +1916,7 @@
         "año": 2018,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios11-3-ipad-9-7-in-2018.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "128 GB",
@@ -1933,7 +1933,7 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios11-ipad-5gen.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "128 GB",
@@ -1950,14 +1950,14 @@
         "año": 2012,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-4gen.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "16 GB",
             "4 GB",
             "64 GB",
+            "128 GB",
             "32 GB",
-            "128 GB"
+            "16 GB"
         ],
         "modelos": {
             "A1458": "Región global o no especificada",
@@ -1971,7 +1971,7 @@
         "año": 2012,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-3gen.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "64 GB",
@@ -1990,7 +1990,7 @@
         "año": 2011,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-2gen.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "64 GB",
@@ -2010,7 +2010,7 @@
         "año": 2010,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
             "64 GB",
@@ -2022,16 +2022,2212 @@
             "A1337": "Región global o no especificada"
         }
     },
+    "macbook_pro_14_pulgadas,_m5": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (14 pulgadas, M5)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m5-colors.png",
+        "colores": [
+            "Negro espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MDE04xx/A": "Número de pieza comercial (Caja)",
+            "MDE14xx/A": "Número de pieza comercial (Caja)",
+            "MDE34xx/A": "Número de pieza comercial (Caja)",
+            "MDE44xx/A": "Número de pieza comercial (Caja)",
+            "MDE54xx/A": "Número de pieza comercial (Caja)",
+            "MDE64xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_14_pulgadas,_2024": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (14 pulgadas, 2024)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-2024-m4-pro-m4-max-colors.png",
+        "colores": [
+            "Negro espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MXE63xx/A": "Número de pieza comercial (Caja)",
+            "MX2E3xx/A": "Número de pieza comercial (Caja)",
+            "MX2F3xx/A": "Número de pieza comercial (Caja)",
+            "MX2G3xx/A": "Número de pieza comercial (Caja)",
+            "MX2H3xx/A": "Número de pieza comercial (Caja)",
+            "MX2J3xx/A": "Número de pieza comercial (Caja)",
+            "MX2K3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_16_pulgadas,_2024": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (16 pulgadas, 2024)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-2024-colors.png",
+        "colores": [
+            "Negro espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MX2T3xx/A": "Número de pieza comercial (Caja)",
+            "MX2U3xx/A": "Número de pieza comercial (Caja)",
+            "MX2V3xx/A": "Número de pieza comercial (Caja)",
+            "MX2W3xx/A": "Número de pieza comercial (Caja)",
+            "MX2X3xx/A": "Número de pieza comercial (Caja)",
+            "MX2Y3xx/A": "Número de pieza comercial (Caja)",
+            "MX303xx/A": "Número de pieza comercial (Caja)",
+            "MX313xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_14_pulgadas,_noviembre_de_2023": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (14 pulgadas, noviembre de 2023)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m3-pro-m3-max-nov-2023-silver-space-black.png",
+        "colores": [
+            "Negro espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "FRX33xx/A": "Número de pieza comercial (Caja)",
+            "FRX43xx/A": "Número de pieza comercial (Caja)",
+            "FRX54xx/A": "Número de pieza comercial (Caja)",
+            "FRX63xx/A": "Número de pieza comercial (Caja)",
+            "FRX73xx/A": "Número de pieza comercial (Caja)",
+            "FRX83xx/A": "Número de pieza comercial (Caja)",
+            "MRX33xx/A": "Número de pieza comercial (Caja)",
+            "MRX43xx/A": "Número de pieza comercial (Caja)",
+            "MRX53xx/A": "Número de pieza comercial (Caja)",
+            "MRX63xx/A": "Número de pieza comercial (Caja)",
+            "MRX73xx/A": "Número de pieza comercial (Caja)",
+            "MRX83xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_16_pulgadas,_noviembre_de_2023": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (16 pulgadas, noviembre de 2023)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-m3-pro-m3-max-nov-2023-silver-space-black.png",
+        "colores": [
+            "Negro espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "FRW13xx/A": "Número de pieza comercial (Caja)",
+            "FRW23xx/A": "Número de pieza comercial (Caja)",
+            "FRW33xx/A": "Número de pieza comercial (Caja)",
+            "FRW43xx/A": "Número de pieza comercial (Caja)",
+            "FRW63xx/A": "Número de pieza comercial (Caja)",
+            "FRW73xx/A": "Número de pieza comercial (Caja)",
+            "FUW63xx/A": "Número de pieza comercial (Caja)",
+            "FUW73xx/A": "Número de pieza comercial (Caja)",
+            "MRW13xx/A": "Número de pieza comercial (Caja)",
+            "MRW23xx/A": "Número de pieza comercial (Caja)",
+            "MRW33xx/A": "Número de pieza comercial (Caja)",
+            "MRW43xx/A": "Número de pieza comercial (Caja)",
+            "MRW63xx/A": "Número de pieza comercial (Caja)",
+            "MRW73xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_14_pulgadas,_2023": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (14 pulgadas, 2023)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-2023.png",
+        "colores": [
+            "Gris espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MPHE3xx/A": "Número de pieza comercial (Caja)",
+            "MPHF3xx/A": "Número de pieza comercial (Caja)",
+            "MPHG3xx/A": "Número de pieza comercial (Caja)",
+            "MPHH3xx/A": "Número de pieza comercial (Caja)",
+            "MPHJ3xx/A": "Número de pieza comercial (Caja)",
+            "MPHK3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_16_pulgadas,_2023": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (16 pulgadas, 2023)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-2023.png",
+        "colores": [
+            "Gris espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MNWG3xx/A": "Número de pieza comercial (Caja)",
+            "MNW93xx/A": "Número de pieza comercial (Caja)",
+            "MNWK3xx/A": "Número de pieza comercial (Caja)",
+            "MNWD3xx/A": "Número de pieza comercial (Caja)",
+            "MNWF3xx/A": "Número de pieza comercial (Caja)",
+            "MNW83xx/A": "Número de pieza comercial (Caja)",
+            "MNWJ3xx/A": "Número de pieza comercial (Caja)",
+            "MNWC3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_13_pulgadas,_m2,_2022": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (13 pulgadas, M2, 2022)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-13-in-M2-2022.png",
+        "colores": [
+            "Gris espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MNEH3xx/A": "Número de pieza comercial (Caja)",
+            "MNEJ3xx/A": "Número de pieza comercial (Caja)",
+            "MNEP3xx/A": "Número de pieza comercial (Caja)",
+            "MNEQ3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_14_pulgadas,_2021": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (14 pulgadas, 2021)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2021-14in.png",
+        "colores": [
+            "Gris espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MKGP3xx/A": "Número de pieza comercial (Caja)",
+            "MKGQ3xx/A": "Número de pieza comercial (Caja)",
+            "MKGR3xx/A": "Número de pieza comercial (Caja)",
+            "MKGT3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_16_pulgadas,_2021": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (16 pulgadas, 2021)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2021-16in.png",
+        "colores": [
+            "Gris espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MK183xx/A": "Número de pieza comercial (Caja)",
+            "MK193xx/A": "Número de pieza comercial (Caja)",
+            "MK1A3xx/A": "Número de pieza comercial (Caja)",
+            "MK1E3xx/A": "Número de pieza comercial (Caja)",
+            "MK1F3xx/A": "Número de pieza comercial (Caja)",
+            "MK1H3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_13_pulgadas,_m1,_2020": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (13 pulgadas, M1, 2020)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2020-late-13in-device.jpg",
+        "colores": [
+            "Gris espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MYD83xx/A": "Número de pieza comercial (Caja)",
+            "MYD92xx/A": "Número de pieza comercial (Caja)",
+            "MYDA2xx/A": "Número de pieza comercial (Caja)",
+            "MYDC2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_13_pulgadas,_2020,_dos_puertos_thunderbolt_3": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (13 pulgadas, 2020, dos puertos Thunderbolt 3)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2020-13in-device-3.jpg",
+        "colores": [
+            "Gris espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MXK32xx/A": "Número de pieza comercial (Caja)",
+            "MXK52xx/A": "Número de pieza comercial (Caja)",
+            "MXK62xx/A": "Número de pieza comercial (Caja)",
+            "MXK72xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_16_pulgadas,_2019": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (16 pulgadas, 2019)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-2019.jpg",
+        "colores": [
+            "Gris espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MVVJ2xx/A": "Número de pieza comercial (Caja)",
+            "MVVK2xx/A": "Número de pieza comercial (Caja)",
+            "MVVL2xx/A": "Número de pieza comercial (Caja)",
+            "MVVM2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_13_pulgadas,_2019,_dos_puertos_thunderbolt_3": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (13 pulgadas, 2019, dos puertos Thunderbolt 3)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2018-13in-device.jpg",
+        "colores": [
+            "Gris espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MUHN2xx/A": "Número de pieza comercial (Caja)",
+            "MUHP2xx/a": "Número de pieza comercial (Caja)",
+            "MUHQ2xx/A": "Número de pieza comercial (Caja)",
+            "MUHR2xx/A": "Número de pieza comercial (Caja)",
+            "MUHR2xx/B": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_15_pulgadas,_2019": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (15 pulgadas, 2019)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2018-15in-device-2.jpg",
+        "colores": [
+            "Gris espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MV902xx/A": "Número de pieza comercial (Caja)",
+            "MV912xx/A": "Número de pieza comercial (Caja)",
+            "MV922xx/A": "Número de pieza comercial (Caja)",
+            "MV932xx/A": "Número de pieza comercial (Caja)",
+            "MV942xx/A": "Número de pieza comercial (Caja)",
+            "MV952xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_15_pulgadas,_2018": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (15 pulgadas, 2018)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2018-15in-device-2.jpg",
+        "colores": [
+            "Gris espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MR932xx/A": "Número de pieza comercial (Caja)",
+            "MR942xx/A": "Número de pieza comercial (Caja)",
+            "MR952xx/A": "Número de pieza comercial (Caja)",
+            "MR962xx/A": "Número de pieza comercial (Caja)",
+            "MR972xx/A": "Número de pieza comercial (Caja)",
+            "MUQH2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_15_pulgadas,_2017": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (15 pulgadas, 2017)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2017-15in-device.jpg",
+        "colores": [
+            "Gris espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MPTR2xx/A": "Número de pieza comercial (Caja)",
+            "MPTT2xx/A": "Número de pieza comercial (Caja)",
+            "MPTU2xx/A": "Número de pieza comercial (Caja)",
+            "MPTV2xx/A": "Número de pieza comercial (Caja)",
+            "MPTW2xx/A": "Número de pieza comercial (Caja)",
+            "MPTX2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_13_pulgadas,_2017,_dos_puertos_thunderbolt_3": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (13 pulgadas, 2017, dos puertos Thunderbolt 3)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2017-13in-device-2thunderbolt-3ports.jpg",
+        "colores": [
+            "Gris espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MPXQ2xx/A": "Número de pieza comercial (Caja)",
+            "MPXR2xx/A": "Número de pieza comercial (Caja)",
+            "MPXT2xx/A": "Número de pieza comercial (Caja)",
+            "MPXU2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_15_pulgadas,_2016": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (15 pulgadas, 2016)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2016-15in-device.jpg",
+        "colores": [
+            "Gris espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MLH32xx/A": "Número de pieza comercial (Caja)",
+            "MLH42xx/A": "Número de pieza comercial (Caja)",
+            "MLH52xx/A": "Número de pieza comercial (Caja)",
+            "MLW72xx/A": "Número de pieza comercial (Caja)",
+            "MLW82xx/A": "Número de pieza comercial (Caja)",
+            "MLW92xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_13_pulgadas,_2016,_dos_puertos_thunderbolt_3": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (13 pulgadas, 2016, dos puertos Thunderbolt 3)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2016-13in-device.jpg",
+        "colores": [
+            "Gris espacial",
+            "Plata"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MLL42xx/A": "Número de pieza comercial (Caja)",
+            "MLUQ2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_retina,_15_pulgadas,_mediados_de_2015": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (Retina, 15 pulgadas, mediados de 2015)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2015-15in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MJLQ2xx/A": "Número de pieza comercial (Caja)",
+            "MJLT2xx/A": "Número de pieza comercial (Caja)",
+            "MJLU2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_retina,_13_pulgadas,_principios_de_2015": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (Retina, 13 pulgadas, principios de 2015)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2015-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MF839xx/A": "Número de pieza comercial (Caja)",
+            "MF840xx/A": "Número de pieza comercial (Caja)",
+            "MF841xx/A": "Número de pieza comercial (Caja)",
+            "MF843xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_retina,_15_pulgadas,_mediados_de_2014": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (Retina, 15 pulgadas, mediados de 2014)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2014-15in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MGXC2xx/A": "Número de pieza comercial (Caja)",
+            "MGXA2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_retina,_13_pulgadas,_mediados_de_2014": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (Retina, 13 pulgadas, mediados de 2014)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2014-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MGX72xx/A": "Número de pieza comercial (Caja)",
+            "MGX82xx/A": "Número de pieza comercial (Caja)",
+            "MGX92xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_retina,_15_pulgadas,_finales_de_2013": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (Retina, 15 pulgadas, finales de 2013)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2013-15in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "ME293xx/A": "Número de pieza comercial (Caja)",
+            "ME294xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_retina,_13_pulgadas,_finales_de_2013": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (Retina, 13 pulgadas, finales de 2013)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2013-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "ME864xx/A": "Número de pieza comercial (Caja)",
+            "ME865xx/A": "Número de pieza comercial (Caja)",
+            "ME866xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_retina,_15_pulgadas,_principios_de_2013": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (Retina, 15 pulgadas, principios de 2013)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2013-15in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "ME664xx/A": "Número de pieza comercial (Caja)",
+            "ME665xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_retina,_13_pulgadas,_principios_de_2013": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (Retina, 13 pulgadas, principios de 2013)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2013-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MD212xx/A": "Número de pieza comercial (Caja)",
+            "ME662xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_retina,_13_pulgadas,_finales_de_2012": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (Retina, 13 pulgadas, finales de 2012)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2012-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MD212xx/A": "Número de pieza comercial (Caja)",
+            "MD213xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_15_pulgadas,_mediados_de_2012": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (15 pulgadas, mediados de 2012)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2012-15in-device2.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MD103xx/A": "Número de pieza comercial (Caja)",
+            "MD104xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_13_pulgadas,_mediados_de_2012": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (13 pulgadas, mediados de 2012)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2012-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MD101xx/A": "Número de pieza comercial (Caja)",
+            "MD102xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_17_pulgadas,_finales_de_2011": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (17 pulgadas, finales de 2011)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2011-17in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MD311xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_15_pulgadas,_finales_de_2011": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (15 pulgadas, finales de 2011)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2011-15in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MD322xx/A": "Número de pieza comercial (Caja)",
+            "MD318xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_13_pulgadas,_finales_de_2011": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (13 pulgadas, finales de 2011)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2011-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MD314xx/A": "Número de pieza comercial (Caja)",
+            "MD313xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_17_pulgadas,_principios_de_2011": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (17 pulgadas, principios de 2011)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2011-17in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MC725xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_15_pulgadas,_principios_de_2011": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (15 pulgadas, principios de 2011)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2011-15in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MC723xx/A": "Número de pieza comercial (Caja)",
+            "MC721xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_13_pulgadas,_principios_de_2011": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (13 pulgadas, principios de 2011)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2011-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MC724xx/A": "Número de pieza comercial (Caja)",
+            "MC700xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_17_pulgadas,_mediados_de_2010": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (17 pulgadas, mediados de 2010)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2010-17in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MC024xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_15_pulgadas,_mediados_de_2010": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (15 pulgadas, mediados de 2010)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2010-15in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MC373xx/A": "Número de pieza comercial (Caja)",
+            "MC372xx/A": "Número de pieza comercial (Caja)",
+            "MC371xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_13_pulgadas,_mediados_de_2010": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (13 pulgadas, mediados de 2010)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2010-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MC375xx/A": "Número de pieza comercial (Caja)",
+            "MC374xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_17_pulgadas,_mediados_de_2009": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (17 pulgadas, mediados de 2009)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-mid-2009-17in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MC226xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_15_pulgadas,_mediados_de_2009": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (15 pulgadas, mediados de 2009)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2009-15in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MB985xx/A": "Número de pieza comercial (Caja)",
+            "MB986xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_15_pulgadas;_2,53_ghz,_mediados_de_2009": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (15 pulgadas; 2,53 GHz, mediados de 2009)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2009-15in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MC118xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_13_pulgadas,_mediados_de_2009": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (13 pulgadas, mediados de 2009)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2009-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MB991xx/A": "Número de pieza comercial (Caja)",
+            "MB990xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_17_pulgadas,_principios_de_2009": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (17 pulgadas, principios de 2009)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-mid-2009-17in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MB604xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_15_pulgadas,_finales_de_2008": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (15 pulgadas, finales de 2008)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2008-15in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MB470xx/A": "Número de pieza comercial (Caja)",
+            "MB471xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_17_pulgadas,_principios_de_2008": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (17 pulgadas, principios de 2008)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2008-17in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MB166xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_pro_15_pulgadas,_principios_de_2008": {
+        "categoria": "Mac",
+        "nombre": "MacBook Pro (15 pulgadas, principios de 2008)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2008-15in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MB133xx/A": "Número de pieza comercial (Caja)",
+            "MB134xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_15_pulgadas,_m4,_2025": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (15 pulgadas, M4, 2025)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2025-macbook-air-15in-colors.png",
+        "colores": [
+            "Medianoche",
+            "Azul cielo",
+            "Plata",
+            "Blanco estrella"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MC6J4xx/A": "Número de pieza comercial (Caja)",
+            "MC6K4xx/A": "Número de pieza comercial (Caja)",
+            "MC6L4xx/A": "Número de pieza comercial (Caja)",
+            "MC7A4xx/A": "Número de pieza comercial (Caja)",
+            "MC7C4xx/A": "Número de pieza comercial (Caja)",
+            "MC7D4xx/A": "Número de pieza comercial (Caja)",
+            "MDG34xx/A": "Número de pieza comercial (Caja)",
+            "MDG84xx/A": "Número de pieza comercial (Caja)",
+            "MDG94xx/A": "Número de pieza comercial (Caja)",
+            "MW1G3xx/A": "Número de pieza comercial (Caja)",
+            "MW1H3xx/A": "Número de pieza comercial (Caja)",
+            "MW1J3xx/A": "Número de pieza comercial (Caja)",
+            "MW1K3xx/A": "Número de pieza comercial (Caja)",
+            "MW1L3xx/A": "Número de pieza comercial (Caja)",
+            "MW1M3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_13_pulgadas,_m4,_2025": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (13 pulgadas, M4, 2025)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2025-macbook-air-13in-colors.png",
+        "colores": [
+            "Medianoche",
+            "Azul cielo",
+            "Plata",
+            "Blanco estrella"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MC654xx/A": "Número de pieza comercial (Caja)",
+            "MC6A4xx/A": "Número de pieza comercial (Caja)",
+            "MC6C4xx/A": "Número de pieza comercial (Caja)",
+            "MC6T4xx/A": "Número de pieza comercial (Caja)",
+            "MC6U4xx/A": "Número de pieza comercial (Caja)",
+            "MC6V4xx/A": "Número de pieza comercial (Caja)",
+            "MDG24xx/A": "Número de pieza comercial (Caja)",
+            "MDG54xx/A": "Número de pieza comercial (Caja)",
+            "MDG64xx/A": "Número de pieza comercial (Caja)",
+            "MW0W3xx/A": "Número de pieza comercial (Caja)",
+            "MW0X3xx/A": "Número de pieza comercial (Caja)",
+            "MW0Y3xx/A": "Número de pieza comercial (Caja)",
+            "MW103xx/A": "Número de pieza comercial (Caja)",
+            "MW123xx/A": "Número de pieza comercial (Caja)",
+            "MW133xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_15_pulgadas,_m3,_2024": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (15 pulgadas, M3, 2024)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2024-macbook-air-15in-m3-colors.png",
+        "colores": [
+            "Medianoche",
+            "Gris espacial",
+            "Plata",
+            "Blanco estrella"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MRYM3xx/A": "Número de pieza comercial (Caja)",
+            "MRYP3xx/A": "Número de pieza comercial (Caja)",
+            "MRYR3xx/A": "Número de pieza comercial (Caja)",
+            "MRYU3xx/A": "Número de pieza comercial (Caja)",
+            "MRYN3xx/A": "Número de pieza comercial (Caja)",
+            "MRYQ3xx/A": "Número de pieza comercial (Caja)",
+            "MRYT3xx/A": "Número de pieza comercial (Caja)",
+            "MRYV3xx/A": "Número de pieza comercial (Caja)",
+            "MXD13xx/A": "Número de pieza comercial (Caja)",
+            "MXD23xx/A": "Número de pieza comercial (Caja)",
+            "MXD33xx/A": "Número de pieza comercial (Caja)",
+            "MXD43xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_13_pulgadas,_m3,_2024": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (13 pulgadas, M3, 2024)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2024-macbook-air-13in-m3-colors.png",
+        "colores": [
+            "Medianoche",
+            "Gris espacial",
+            "Plata",
+            "Blanco estrella"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "Mac15": "Identificador interno (Sistema Mac)",
+            "MRXN3xx/A": "Número de pieza comercial (Caja)",
+            "MRXQ3xx/A": "Número de pieza comercial (Caja)",
+            "MRXT3xx/A": "Número de pieza comercial (Caja)",
+            "MRXV3xx/A": "Número de pieza comercial (Caja)",
+            "MRXP3xx/A": "Número de pieza comercial (Caja)",
+            "MRXR3xx/A": "Número de pieza comercial (Caja)",
+            "MRXU3xx/A": "Número de pieza comercial (Caja)",
+            "MRXW3xx/A": "Número de pieza comercial (Caja)",
+            "MXCR3xx/A": "Número de pieza comercial (Caja)",
+            "MXCT3xx/A": "Número de pieza comercial (Caja)",
+            "MXCU3xx/A": "Número de pieza comercial (Caja)",
+            "MXCV3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_15_pulgadas,_m2,_2023": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (15 pulgadas, M2, 2023)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2023-macbook-air-15in-m2-colors.png",
+        "colores": [
+            "Medianoche",
+            "Gris espacial",
+            "Plata",
+            "Blanco estrella"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MQKP3xx/A": "Número de pieza comercial (Caja)",
+            "MQKQ3xx/A": "Número de pieza comercial (Caja)",
+            "MQKR3xx/A": "Número de pieza comercial (Caja)",
+            "MQKT3xx/A": "Número de pieza comercial (Caja)",
+            "MQKU3xx/A": "Número de pieza comercial (Caja)",
+            "MQKV3xx/A": "Número de pieza comercial (Caja)",
+            "MQKW3xx/A": "Número de pieza comercial (Caja)",
+            "MQKX3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_m2,_2022": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (M2, 2022)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2022-macbook-air-m2-colors.png",
+        "colores": [
+            "Medianoche",
+            "Gris espacial",
+            "Plata",
+            "Blanco estrella"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MLXW3xx/A": "Número de pieza comercial (Caja)",
+            "MLXX3xx/A": "Número de pieza comercial (Caja)",
+            "MLXY3xx/A": "Número de pieza comercial (Caja)",
+            "MLY03xx/A": "Número de pieza comercial (Caja)",
+            "MLY13xx/A": "Número de pieza comercial (Caja)",
+            "MLY23xx/A": "Número de pieza comercial (Caja)",
+            "MLY33xx/A": "Número de pieza comercial (Caja)",
+            "MLY43xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_m1,_2020": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (M1, 2020)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2020-late-device.jpg",
+        "colores": [
+            "Gris espacial",
+            "Plata",
+            "Oro"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MGN63xx/A": "Número de pieza comercial (Caja)",
+            "MGN93xx/A": "Número de pieza comercial (Caja)",
+            "MGND3xx/A": "Número de pieza comercial (Caja)",
+            "MGN73xx/A": "Número de pieza comercial (Caja)",
+            "MGNA3xx/A": "Número de pieza comercial (Caja)",
+            "MGNE3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_retina,_13_pulgadas,_2020": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (Retina, 13 pulgadas, 2020)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2020-device.jpg",
+        "colores": [
+            "Gris espacial",
+            "Plata",
+            "Oro"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MVH22xx/A": "Número de pieza comercial (Caja)",
+            "MVH42xx/A": "Número de pieza comercial (Caja)",
+            "MVH52xx/A": "Número de pieza comercial (Caja)",
+            "MWTJ2xx/A": "Número de pieza comercial (Caja)",
+            "MWTK2xx/A": "Número de pieza comercial (Caja)",
+            "MWTL2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_retina,_13_pulgadas,_2019": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (Retina, 13 pulgadas, 2019)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2018-device.jpg",
+        "colores": [
+            "Gris espacial",
+            "Plata",
+            "Oro"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MVFH2xx/A": "Número de pieza comercial (Caja)",
+            "MVFJ2xx/A": "Número de pieza comercial (Caja)",
+            "MVFK2xx/A": "Número de pieza comercial (Caja)",
+            "MVFL2xx/A": "Número de pieza comercial (Caja)",
+            "MVFM2xx/A": "Número de pieza comercial (Caja)",
+            "MVFN2xx/A": "Número de pieza comercial (Caja)",
+            "MVH62xx/A": "Número de pieza comercial (Caja)",
+            "MVH82xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_retina,_13_pulgadas,_2018": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (Retina, 13 pulgadas, 2018)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2018-device.jpg",
+        "colores": [
+            "Gris espacial",
+            "Plata",
+            "Oro"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MRE82xx/A": "Número de pieza comercial (Caja)",
+            "MREA2xx/A": "Número de pieza comercial (Caja)",
+            "MREE2xx/A": "Número de pieza comercial (Caja)",
+            "MRE92xx/A": "Número de pieza comercial (Caja)",
+            "MREC2xx/A": "Número de pieza comercial (Caja)",
+            "MREF2xx/A": "Número de pieza comercial (Caja)",
+            "MUQT2xx/A": "Número de pieza comercial (Caja)",
+            "MUQU2xx/A": "Número de pieza comercial (Caja)",
+            "MUQV2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_13_pulgadas,_2017": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (13 pulgadas, 2017)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2017-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MQD32xx/A": "Número de pieza comercial (Caja)",
+            "MQD42xx/A": "Número de pieza comercial (Caja)",
+            "MQD52xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_13_pulgadas,_principios_de_2015": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (13 pulgadas, principios de 2015)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2015-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MJVE2xx/A": "Número de pieza comercial (Caja)",
+            "MJVG2xx/A": "Número de pieza comercial (Caja)",
+            "MMGF2xx/A": "Número de pieza comercial (Caja)",
+            "MMGG2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_11_pulgadas,_principios_de_2015": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (11 pulgadas, principios de 2015)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2015-11in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MJVM2xx/A": "Número de pieza comercial (Caja)",
+            "MJVP2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_13_pulgadas,_principios_de_2014": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (13 pulgadas, principios de 2014)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2013-2014-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MD760xx/B": "Número de pieza comercial (Caja)",
+            "MD761xx/B": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_11_pulgadas,_principios_de_2014": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (11 pulgadas, principios de 2014)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2013-2014-11in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MD711xx/B": "Número de pieza comercial (Caja)",
+            "MD712xx/B": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_13_pulgadas,_mediados_de_2013": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (13 pulgadas, mediados de 2013)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2013-2014-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MD760xx/A": "Número de pieza comercial (Caja)",
+            "MD761xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_11_pulgadas,_mediados_de_2013": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (11 pulgadas, mediados de 2013)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2013-2014-11in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MD711xx/A": "Número de pieza comercial (Caja)",
+            "MD712xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_13_pulgadas,_mediados_de_2012": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (13 pulgadas, mediados de 2012)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2012-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MD231xx/A": "Número de pieza comercial (Caja)",
+            "MD232xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_11_pulgadas,_mediados_de_2012": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (11 pulgadas, mediados de 2012)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2012-11in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MD223xx/A": "Número de pieza comercial (Caja)",
+            "MD224xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_13_pulgadas,_mediados_de_2011": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (13 pulgadas, mediados de 2011)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2011-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MC965xx/A": "Número de pieza comercial (Caja)",
+            "MC966xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_11_pulgadas,_mediados_de_2011": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (11 pulgadas, mediados de 2011)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2011-11in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MC968xx/A": "Número de pieza comercial (Caja)",
+            "MC969xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_13_pulgadas,_finales_de_2010": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (13 pulgadas, finales de 2010)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2009-2010-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MC503xx/A": "Número de pieza comercial (Caja)",
+            "MC504xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_11_pulgadas,_finales_de_2010": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (11 pulgadas, finales de 2010)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2010-11in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MC505xx/A": "Número de pieza comercial (Caja)",
+            "MC506xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "macbook_air_mediados_de_2009": {
+        "categoria": "Mac",
+        "nombre": "MacBook Air (mediados de 2009)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2009-2010-13in-device.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MC505xx/A": "Número de pieza comercial (Caja)",
+            "MC233xx/A": "Número de pieza comercial (Caja)",
+            "MC234xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_24_pulgadas,_2024,_cuatro_puertos": {
+        "categoria": "Mac",
+        "nombre": "iMac (24 pulgadas, 2024, cuatro puertos)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2024-four-ports-colors.png",
+        "colores": [
+            "Rosa",
+            "Morado",
+            "Azul",
+            "Amarillo",
+            "Naranja",
+            "Plata",
+            "Verde"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MCR24xx/A": "Número de pieza comercial (Caja)",
+            "MD2P4xx/A": "Número de pieza comercial (Caja)",
+            "MD2Q4xx/A": "Número de pieza comercial (Caja)",
+            "MD2T4xx/A": "Número de pieza comercial (Caja)",
+            "MD2U4xx/A": "Número de pieza comercial (Caja)",
+            "MD2V4xx/A": "Número de pieza comercial (Caja)",
+            "MD2W4xx/A": "Número de pieza comercial (Caja)",
+            "MD2X4xx/A": "Número de pieza comercial (Caja)",
+            "MD2Y4xx/A": "Número de pieza comercial (Caja)",
+            "MD3A4xx/A": "Número de pieza comercial (Caja)",
+            "MD3D4xx/A": "Número de pieza comercial (Caja)",
+            "MD3E4xx/A": "Número de pieza comercial (Caja)",
+            "MD3F4xx/A": "Número de pieza comercial (Caja)",
+            "MD3G4xx/A": "Número de pieza comercial (Caja)",
+            "MD3H4xx/A": "Número de pieza comercial (Caja)",
+            "MWUU3xx/A": "Número de pieza comercial (Caja)",
+            "MWUV3xx/A": "Número de pieza comercial (Caja)",
+            "MWUW3xx/A": "Número de pieza comercial (Caja)",
+            "MWUX3xx/A": "Número de pieza comercial (Caja)",
+            "MWUY3xx/A": "Número de pieza comercial (Caja)",
+            "MWV03xx/A": "Número de pieza comercial (Caja)",
+            "MWV13xx/A": "Número de pieza comercial (Caja)",
+            "MWV33xx/A": "Número de pieza comercial (Caja)",
+            "MWV43xx/A": "Número de pieza comercial (Caja)",
+            "MWV53xx/A": "Número de pieza comercial (Caja)",
+            "MWV63xx/A": "Número de pieza comercial (Caja)",
+            "MWV73xx/A": "Número de pieza comercial (Caja)",
+            "MWV83xx/A": "Número de pieza comercial (Caja)",
+            "MWV93xx/A": "Número de pieza comercial (Caja)",
+            "MWVA3xx/A": "Número de pieza comercial (Caja)",
+            "MWVC3xx/A": "Número de pieza comercial (Caja)",
+            "MWVD3xx/A": "Número de pieza comercial (Caja)",
+            "MWVE3xx/A": "Número de pieza comercial (Caja)",
+            "MWVF3xx/A": "Número de pieza comercial (Caja)",
+            "MWVG3xx/A": "Número de pieza comercial (Caja)",
+            "MWVH3xx/A": "Número de pieza comercial (Caja)",
+            "MWVJ3xx/A": "Número de pieza comercial (Caja)",
+            "MWVK3xx/A": "Número de pieza comercial (Caja)",
+            "MWVL3xx/A": "Número de pieza comercial (Caja)",
+            "MWVN3xx/A": "Número de pieza comercial (Caja)",
+            "MWVP3xx/A": "Número de pieza comercial (Caja)",
+            "MWVQ3xx/A": "Número de pieza comercial (Caja)",
+            "MWVR3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_24_pulgadas,_2024,_dos_puertos": {
+        "categoria": "Mac",
+        "nombre": "iMac (24 pulgadas, 2024, dos puertos)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2023-two-ports-colors.png",
+        "colores": [
+            "Mqrc3xx/a",
+            "Cuatro puertos)",
+            "Mqrv3xx/a",
+            "Morado",
+            "Mqrx3xx/a",
+            "Mqrr3xx/a",
+            "Azul",
+            "Mqrq3xx/a",
+            "Mqrl3xx/a",
+            "Dos puertos)",
+            "2023",
+            "Verde identificador de modelo: mac15",
+            "Mqru3xx/a",
+            "4 números de pieza: mqr93xx/a",
+            "Amarillo",
+            "Naranja",
+            "Plata",
+            "Mqry3xx/a sistema operativo compatible más reciente: macos tahoe 26 especificaciones técnicas para imac (24 pulgadas",
+            "Mqrn3xx/a",
+            "Amarillo identificador de modelo: mac15",
+            "Mqra3xx/a",
+            "Mqrt3xx/a",
+            "Mqrm3xx/a",
+            "Verde",
+            "5 números de pieza: mqrj3xx/a",
+            "Rosa",
+            "Dos puertos) manual de uso del imac (24 pulgadas",
+            "Mqrw3xx/a",
+            "Mqrd3xx/a sistema operativo compatible más reciente: macos tahoe 26 especificaciones técnicas para imac (24 pulgadas",
+            "Mqrk3xx/a",
+            "Mqrp3xx/a",
+            "Cuatro puertos) manual de uso del mac (24 pulgadas"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MWUD3xx/A": "Número de pieza comercial (Caja)",
+            "MWUE3xx/A": "Número de pieza comercial (Caja)",
+            "MWUF3xx/A": "Número de pieza comercial (Caja)",
+            "MWUG3xx/A": "Número de pieza comercial (Caja)",
+            "MWUH3xx/A": "Número de pieza comercial (Caja)",
+            "MWUJ3xx/A": "Número de pieza comercial (Caja)",
+            "MWUK3xx/A": "Número de pieza comercial (Caja)",
+            "MWUL3xx/A": "Número de pieza comercial (Caja)",
+            "MWUN3xx/A": "Número de pieza comercial (Caja)",
+            "MWUQ3xx/A": "Número de pieza comercial (Caja)",
+            "MWUR3xx/A": "Número de pieza comercial (Caja)",
+            "MWUT3xx/A": "Número de pieza comercial (Caja)",
+            "Mac15": "Identificador interno (Sistema Mac)",
+            "5 Números de pieza: MQRJ3xx/A": "Identificador interno (Sistema Mac)",
+            "MQRK3xx/A": "Número de pieza comercial (Caja)",
+            "MQRL3xx/A": "Número de pieza comercial (Caja)",
+            "MQRM3xx/A": "Número de pieza comercial (Caja)",
+            "MQRN3xx/A": "Número de pieza comercial (Caja)",
+            "MQRP3xx/A": "Número de pieza comercial (Caja)",
+            "MQRQ3xx/A": "Número de pieza comercial (Caja)",
+            "MQRR3xx/A": "Número de pieza comercial (Caja)",
+            "MQRT3xx/A": "Número de pieza comercial (Caja)",
+            "MQRU3xx/A": "Número de pieza comercial (Caja)",
+            "MQRV3xx/A": "Número de pieza comercial (Caja)",
+            "MQRW3xx/A": "Número de pieza comercial (Caja)",
+            "MQRX3xx/A": "Número de pieza comercial (Caja)",
+            "MQRY3xx/A Sistema operativo compatible más reciente: macOS Tahoe 26 Especificaciones técnicas para iMac (24 pulgadas": "Identificador interno (Sistema Mac)",
+            "cuatro puertos) Manual de uso del Mac (24 pulgadas": "Identificador interno (Sistema Mac)",
+            "cuatro puertos)": "Identificador interno (Sistema Mac)",
+            "MQRJ3xx/A": "Número de pieza comercial (Caja)",
+            "MQRY3xx/A": "Número de pieza comercial (Caja)",
+            "4 Números de pieza: MQR93xx/A": "Identificador interno (Sistema Mac)",
+            "MQRA3xx/A": "Número de pieza comercial (Caja)",
+            "MQRC3xx/A": "Número de pieza comercial (Caja)",
+            "MQRD3xx/A Sistema operativo compatible más reciente: macOS Tahoe 26 Especificaciones técnicas para iMac (24 pulgadas": "Identificador interno (Sistema Mac)",
+            "dos puertos) Manual de uso del iMac (24 pulgadas": "Identificador interno (Sistema Mac)",
+            "dos puertos)": "Identificador interno (Sistema Mac)",
+            "MQR93xx/A": "Número de pieza comercial (Caja)",
+            "MQRD3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_24_pulgadas,_2023,_cuatro_puertos": {
+        "categoria": "Mac",
+        "nombre": "iMac (24 pulgadas, 2023, cuatro puertos)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2023-four-ports-colors.png",
+        "colores": [
+            "Rosa",
+            "Morado",
+            "Azul",
+            "Amarillo",
+            "Naranja",
+            "Plata",
+            "Verde"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "Mac15": "Identificador interno (Sistema Mac)",
+            "MQRJ3xx/A": "Número de pieza comercial (Caja)",
+            "MQRK3xx/A": "Número de pieza comercial (Caja)",
+            "MQRL3xx/A": "Número de pieza comercial (Caja)",
+            "MQRM3xx/A": "Número de pieza comercial (Caja)",
+            "MQRN3xx/A": "Número de pieza comercial (Caja)",
+            "MQRP3xx/A": "Número de pieza comercial (Caja)",
+            "MQRQ3xx/A": "Número de pieza comercial (Caja)",
+            "MQRR3xx/A": "Número de pieza comercial (Caja)",
+            "MQRT3xx/A": "Número de pieza comercial (Caja)",
+            "MQRU3xx/A": "Número de pieza comercial (Caja)",
+            "MQRV3xx/A": "Número de pieza comercial (Caja)",
+            "MQRW3xx/A": "Número de pieza comercial (Caja)",
+            "MQRX3xx/A": "Número de pieza comercial (Caja)",
+            "MQRY3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_24_pulgadas,_2023,_dos_puertos": {
+        "categoria": "Mac",
+        "nombre": "iMac (24 pulgadas, 2023, dos puertos)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2023-two-ports-colors.png",
+        "colores": [
+            "Rosa",
+            "Plata",
+            "Verde",
+            "Azul"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "Mac15": "Identificador interno (Sistema Mac)",
+            "MQR93xx/A": "Número de pieza comercial (Caja)",
+            "MQRA3xx/A": "Número de pieza comercial (Caja)",
+            "MQRC3xx/A": "Número de pieza comercial (Caja)",
+            "MQRD3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_24_pulgadas,_m1,_2021": {
+        "categoria": "Mac",
+        "nombre": "iMac (24 pulgadas, M1, 2021)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/id-imac-24-2021-2.png",
+        "colores": [
+            "Rosa",
+            "Plata",
+            "Verde",
+            "Azul"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac21": "Identificador interno (Sistema Mac)",
+            "MGTF3xx/a": "Número de pieza comercial (Caja)",
+            "MJV83xx/a": "Número de pieza comercial (Caja)",
+            "MJV93xx/a": "Número de pieza comercial (Caja)",
+            "MJVA3xx/a": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_retina_5k,_27_pulgadas,_2020": {
+        "categoria": "Mac",
+        "nombre": "iMac (Retina 5K, 27 pulgadas, 2020)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2020.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac20": "Identificador interno (Sistema Mac)",
+            "MXWT2xx/A": "Número de pieza comercial (Caja)",
+            "MXWU2xx/A": "Número de pieza comercial (Caja)",
+            "MXWV2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_retina_5k,_27_pulgadas,_2019": {
+        "categoria": "Mac",
+        "nombre": "iMac (Retina 5K, 27 pulgadas, 2019)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2019.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac19": "Identificador interno (Sistema Mac)",
+            "MRR0xx/A": "Número de pieza comercial (Caja)",
+            "MRR1xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_retina_4k,_21,5_pulgadas,_2019": {
+        "categoria": "Mac",
+        "nombre": "iMac (Retina 4K, 21,5 pulgadas, 2019)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2019.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac19": "Identificador interno (Sistema Mac)",
+            "MRT3xx/A": "Número de pieza comercial (Caja)",
+            "MRT4xx/A": "Número de pieza comercial (Caja)",
+            "MHK23xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_pro_2017": {
+        "categoria": "Mac",
+        "nombre": "iMac Pro (2017)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-pro-2017.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMacPro1": "Identificador interno (Sistema Mac)",
+            "MQ2Y2xx/A": "Número de pieza comercial (Caja)",
+            "MHLV3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_retina_5k,_27_pulgadas,_2017": {
+        "categoria": "Mac",
+        "nombre": "iMac (Retina 5K, 27 pulgadas, 2017)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2017.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac18": "Identificador interno (Sistema Mac)",
+            "MNE92xx/A": "Número de pieza comercial (Caja)",
+            "MNEA2xx/A": "Número de pieza comercial (Caja)",
+            "MNED2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_retina_4k,_21,5_pulgadas,_2017": {
+        "categoria": "Mac",
+        "nombre": "iMac (Retina 4K, 21,5 pulgadas, 2017)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2017.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac18": "Identificador interno (Sistema Mac)",
+            "MNDY2xx/A": "Número de pieza comercial (Caja)",
+            "MNE02xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_21,5_pulgadas,_2017": {
+        "categoria": "Mac",
+        "nombre": "iMac (21,5 pulgadas, 2017)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2017.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac18": "Identificador interno (Sistema Mac)",
+            "MMQA2xx/A": "Número de pieza comercial (Caja)",
+            "MHK03xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_retina_5k,_27_pulgadas,_finales_de_2015": {
+        "categoria": "Mac",
+        "nombre": "iMac (Retina 5K, 27 pulgadas, finales de 2015)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-late-2015.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac17": "Identificador interno (Sistema Mac)",
+            "MK462xx/A": "Número de pieza comercial (Caja)",
+            "MK472xx/A": "Número de pieza comercial (Caja)",
+            "MK482xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_retina_4k,_21,5_pulgadas,_finales_de_2015": {
+        "categoria": "Mac",
+        "nombre": "iMac (Retina 4K, 21,5 pulgadas, finales de 2015)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2015.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac16": "Identificador interno (Sistema Mac)",
+            "MK452xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_21,5_pulgadas,_finales_de_2015": {
+        "categoria": "Mac",
+        "nombre": "iMac (21,5 pulgadas, finales de 2015)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2015.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac16": "Identificador interno (Sistema Mac)",
+            "MK142xx/A": "Número de pieza comercial (Caja)",
+            "MK442xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_retina_5k,_27_pulgadas,_mediados_de_2015": {
+        "categoria": "Mac",
+        "nombre": "iMac (Retina 5K, 27 pulgadas, mediados de 2015)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-mid-2015.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac15": "Identificador interno (Sistema Mac)",
+            "MF885xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_retina_5k,_27_pulgadas,_finales_de_2014": {
+        "categoria": "Mac",
+        "nombre": "iMac (Retina 5K, 27 pulgadas, finales de 2014)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2014.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac15": "Identificador interno (Sistema Mac)",
+            "MF886xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_21,5_pulgadas,_mediados_de_2014": {
+        "categoria": "Mac",
+        "nombre": "iMac (21,5 pulgadas, mediados de 2014)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2014.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac14": "Identificador interno (Sistema Mac)",
+            "MF883xx/A": "Número de pieza comercial (Caja)",
+            "MG022xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_27_pulgadas,_finales_de_2013": {
+        "categoria": "Mac",
+        "nombre": "iMac (27 pulgadas, finales de 2013)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2013.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac14": "Identificador interno (Sistema Mac)",
+            "ME086xx/A": "Número de pieza comercial (Caja)",
+            "ME088xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_21,5_pulgadas,_finales_de_2013": {
+        "categoria": "Mac",
+        "nombre": "iMac (21,5 pulgadas, finales de 2013)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2013.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac14": "Identificador interno (Sistema Mac)",
+            "ME086xx/A": "Número de pieza comercial (Caja)",
+            "ME087xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_27_pulgadas,_finales_de_2012": {
+        "categoria": "Mac",
+        "nombre": "iMac (27 pulgadas, finales de 2012)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2012.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac13": "Identificador interno (Sistema Mac)",
+            "MD095xx/A": "Número de pieza comercial (Caja)",
+            "MD096xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_21,5_pulgadas,_finales_de_2012": {
+        "categoria": "Mac",
+        "nombre": "iMac (21,5 pulgadas, finales de 2012)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2012.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac13": "Identificador interno (Sistema Mac)",
+            "MD093xx/A": "Número de pieza comercial (Caja)",
+            "MD094xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_27_pulgadas,_mediados_de_2011": {
+        "categoria": "Mac",
+        "nombre": "iMac (27 pulgadas, mediados de 2011)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2011.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac12": "Identificador interno (Sistema Mac)",
+            "MC813xx/A": "Número de pieza comercial (Caja)",
+            "MC814xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_21,5_pulgadas,_mediados_de_2011": {
+        "categoria": "Mac",
+        "nombre": "iMac (21,5 pulgadas, mediados de 2011)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2011.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac12": "Identificador interno (Sistema Mac)",
+            "MC309xx/A": "Número de pieza comercial (Caja)",
+            "MC812xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_27_pulgadas,_mediados_de_2010": {
+        "categoria": "Mac",
+        "nombre": "iMac (27 pulgadas, mediados de 2010)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2010.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac11": "Identificador interno (Sistema Mac)",
+            "MC510xx/A": "Número de pieza comercial (Caja)",
+            "MC511xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_21,5_pulgadas,_mediados_de_2010": {
+        "categoria": "Mac",
+        "nombre": "iMac (21,5 pulgadas, mediados de 2010)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2010.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac11": "Identificador interno (Sistema Mac)",
+            "MC508xx/A": "Número de pieza comercial (Caja)",
+            "MC509xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_27_pulgadas,_finales_de_2009": {
+        "categoria": "Mac",
+        "nombre": "iMac (27 pulgadas, finales de 2009)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2009-late.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac10": "Identificador interno (Sistema Mac)",
+            "MB952xx/A": "Número de pieza comercial (Caja)",
+            "MB953xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_21,5_pulgadas,_finales_de_2009": {
+        "categoria": "Mac",
+        "nombre": "iMac (21,5 pulgadas, finales de 2009)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2009-late.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac10": "Identificador interno (Sistema Mac)",
+            "MB950xx/A": "Número de pieza comercial (Caja)",
+            "MC413xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_24_pulgadas,_principios_de_2009": {
+        "categoria": "Mac",
+        "nombre": "iMac (24 pulgadas, principios de 2009)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24-2009-early.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac9": "Identificador interno (Sistema Mac)",
+            "MB418xx/A": "Número de pieza comercial (Caja)",
+            "MB419xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "imac_20_pulgadas,_principios_de_2009": {
+        "categoria": "Mac",
+        "nombre": "iMac (20 pulgadas, principios de 2009)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-20-2009-early.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "iMac9": "Identificador interno (Sistema Mac)",
+            "MB417xx/A": "Número de pieza comercial (Caja)",
+            "MC019xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "mac_mini_2024": {
+        "categoria": "Mac",
+        "nombre": "Mac mini (2024)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-2024.png",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MCX44xx/A": "Número de pieza comercial (Caja)",
+            "MCYT4xx/A": "Número de pieza comercial (Caja)",
+            "MDAP4xx/A": "Número de pieza comercial (Caja)",
+            "MDAQ4xx/A": "Número de pieza comercial (Caja)",
+            "MDAY4xx/A": "Número de pieza comercial (Caja)",
+            "MU9D3xx/A": "Número de pieza comercial (Caja)",
+            "MU9E3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "mac_mini_2023": {
+        "categoria": "Mac",
+        "nombre": "Mac mini (2023)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-2023-m2-pro.png",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "Mac14": "Identificador interno (Sistema Mac)",
+            "MNH73xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "mac_mini_m1,_2020": {
+        "categoria": "Mac",
+        "nombre": "Mac mini (M1, 2020)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-2020-m1.png",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "Macmini9": "Identificador interno (Sistema Mac)",
+            "MGNR3xx/A": "Número de pieza comercial (Caja)",
+            "MGNT3xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "mac_mini_2018": {
+        "categoria": "Mac",
+        "nombre": "Mac mini (2018)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-2018.png",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "Macmini8": "Identificador interno (Sistema Mac)",
+            "MRTR2xx/A": "Número de pieza comercial (Caja)",
+            "MRTT2xx/A": "Número de pieza comercial (Caja)",
+            "MXNF2xx/A": "Número de pieza comercial (Caja)",
+            "MXNG2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "mac_mini_finales_de_2014": {
+        "categoria": "Mac",
+        "nombre": "Mac mini (finales de 2014)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-late-2014.png",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "Macmini7": "Identificador interno (Sistema Mac)",
+            "MGEM2xx/A": "Número de pieza comercial (Caja)",
+            "MGEN2xx/A": "Número de pieza comercial (Caja)",
+            "MGEQ2xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "mac_mini_finales_de_2012": {
+        "categoria": "Mac",
+        "nombre": "Mac mini (finales de 2012)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-late-2012.png",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "Macmini6": "Identificador interno (Sistema Mac)",
+            "1; Macmini6": "Identificador interno (Sistema Mac)",
+            "MD387xx/A;": "Número de pieza comercial (Caja)",
+            "MD388xx/A": "Número de pieza comercial (Caja)",
+            "MD389xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "mac_mini_mediados_de_2011": {
+        "categoria": "Mac",
+        "nombre": "Mac mini (mediados de 2011)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-mid-2011.png",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "Macmini5": "Identificador interno (Sistema Mac)",
+            "1; Macmini5": "Identificador interno (Sistema Mac)",
+            "MC815xx/A;": "Número de pieza comercial (Caja)",
+            "MC816xx/A": "Número de pieza comercial (Caja)",
+            "MC936xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "mac_mini_mediados_de_2010": {
+        "categoria": "Mac",
+        "nombre": "Mac mini (mediados de 2010)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-mid-2010.png",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "Macmini4": "Identificador interno (Sistema Mac)",
+            "MC438xx/A": "Número de pieza comercial (Caja)",
+            "MC270xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "mac_mini_finales_de_2009": {
+        "categoria": "Mac",
+        "nombre": "Mac mini (finales de 2009)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-late-2009.png",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "Macmini3": "Identificador interno (Sistema Mac)",
+            "MC238xx/A": "Número de pieza comercial (Caja)",
+            "MC239xx/A": "Número de pieza comercial (Caja)",
+            "MC408xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
+    "mac_mini_principios_de_2009": {
+        "categoria": "Mac",
+        "nombre": "Mac mini (principios de 2009)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-early-2009.png",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "Macmini3": "Identificador interno (Sistema Mac)",
+            "MB464xx/A": "Número de pieza comercial (Caja)",
+            "MB463xx/A": "Número de pieza comercial (Caja)"
+        }
+    },
     "apple_watch_series_11_gps": {
         "categoria": "Watch",
         "nombre": "Apple Watch Series 11 (GPS)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-11-aluminum-gps.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A3331": "Región global o no especificada",
@@ -2046,10 +4242,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-11-aluminum-gps-cell.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A3335": "Región global o no especificada",
@@ -2064,10 +4260,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-11-titanium-gps-cell.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A3335": "Región global o no especificada",
@@ -2082,10 +4278,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-11-hermes.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A3335": "Región global o no especificada",
@@ -2100,10 +4296,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-se-3.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A3324": "Región global o no especificada",
@@ -2118,10 +4314,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-se-3.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A3326": "Región global o no especificada",
@@ -2136,10 +4332,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-3-colors.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A3281": "Región global o no especificada",
@@ -2152,10 +4348,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-3-hermes.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A3281": "Región global o no especificada",
@@ -2168,10 +4364,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-10-aluminum-gps.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2997": "Región global o no especificada",
@@ -2186,10 +4382,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-10-aluminum-gps-cell.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A3001": "Región global o no especificada",
@@ -2204,10 +4400,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-10-titanium.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A3001": "Región global o no especificada",
@@ -2222,10 +4418,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-10-hermes.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A3001": "Región global o no especificada",
@@ -2240,10 +4436,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-2-colors.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2986": "Región global o no especificada",
@@ -2256,10 +4452,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-hermes.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2986": "Región global o no especificada",
@@ -2272,10 +4468,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-9-gps.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2978": "Región global o no especificada",
@@ -2288,10 +4484,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-9-gps-cellular.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2982": "Región global o no especificada",
@@ -2306,10 +4502,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-9-stainless-gps-cellular.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2982": "Región global o no especificada",
@@ -2324,10 +4520,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-9-hermes.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2982": "Región global o no especificada",
@@ -2342,10 +4538,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-apple-watch-ultra.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2622": "Región global o no especificada",
@@ -2359,10 +4555,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-aluminum-gps.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2770": "Región global o no especificada",
@@ -2375,10 +4571,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-aluminum-gps-cellular.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2772": "Región global o no especificada",
@@ -2395,10 +4591,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-stainless-gps-cellular.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2772": "Región global o no especificada",
@@ -2415,10 +4611,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series-8-hermes.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2772": "Región global o no especificada",
@@ -2435,10 +4631,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-se-gps.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2722": "Región global o no especificada",
@@ -2451,10 +4647,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-se-gps-cellular.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2726": "Región global o no especificada",
@@ -2471,10 +4667,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/2021-apple-watch-series7-aluminum-gps.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2473": "Región global o no especificada",
@@ -2487,10 +4683,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-nike-gps.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2092": "Región global o no especificada",
@@ -2503,10 +4699,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/2021-apple-watch-series7-aluminum-gps-cellular.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2475": "Región global o no especificada",
@@ -2521,10 +4717,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-nike-gps-cellular.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2094": "Región global o no especificada",
@@ -2539,10 +4735,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/2021-apple-watch-series7-stainless-gps-cellular.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2475": "Región global o no especificada",
@@ -2557,10 +4753,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-hermes.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1860": "Región global o no especificada",
@@ -2577,10 +4773,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-titanium-edition.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2094": "Región global o no especificada",
@@ -2595,10 +4791,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-aluminum-gps-colors.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2291": "Región global o no especificada",
@@ -2611,10 +4807,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-aluminum-gps-cellular-colors.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2293": "Región global o no especificada",
@@ -2629,10 +4825,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-stainless-gps-cellular-colors.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2293": "Región global o no especificada",
@@ -2647,10 +4843,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-000-aluminum-gps-colors.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2351": "Región global o no especificada",
@@ -2663,10 +4859,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-000-aluminum-gps-cellular-colors.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2353": "Región global o no especificada",
@@ -2681,10 +4877,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-aluminum-gps.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2092": "Región global o no especificada",
@@ -2697,10 +4893,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-aluminum-gps-cellular.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2094": "Región global o no especificada",
@@ -2715,10 +4911,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-cellular-gps-stainless.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2094": "Región global o no especificada",
@@ -2733,10 +4929,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-ceramic-edition.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A2094": "Región global o no especificada",
@@ -2751,10 +4947,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series4-apple-watch-aluminum-gps.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1977": "Región global o no especificada",
@@ -2767,10 +4963,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-gps-nike.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1858": "Región global o no especificada",
@@ -2783,10 +4979,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series4-apple-watch-aluminum-gps-cellular.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1975": "Región global o no especificada",
@@ -2801,10 +4997,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-nike.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1860": "Región global o no especificada",
@@ -2821,10 +5017,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series4-apple-watch-stainless-gps-cellular.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1975": "Región global o no especificada",
@@ -2839,10 +5035,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-gps-aluminum.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1858": "Región global o no especificada",
@@ -2855,10 +5051,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-aluminum.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1860": "Región global o no especificada",
@@ -2875,10 +5071,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-stainless.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1860": "Región global o no especificada",
@@ -2895,10 +5091,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-ceramic.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1860": "Región global o no especificada",
@@ -2915,10 +5111,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watch-series2-aluminum.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1757": "Región global o no especificada",
@@ -2931,10 +5127,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watch-series2-nike.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1757": "Región global o no especificada",
@@ -2947,10 +5143,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watch-series2-stainless.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1757": "Región global o no especificada",
@@ -2963,10 +5159,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-hermes-1st-gen.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1553": "Región global o no especificada",
@@ -2979,10 +5175,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/1st-gen-apple-watch-edition-gold.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1553": "Región global o no especificada",
@@ -2995,10 +5191,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watch-series1-aluminum.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1802": "Región global o no especificada",
@@ -3011,10 +5207,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/1st-gen-apple-watch-stainless.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1553": "Región global o no especificada",
@@ -3027,10 +5223,10 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-sport-1st-gen.png",
         "colores": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "capacidades": [
-            "Consultar caja o web"
+            "Consultar especificaciones"
         ],
         "modelos": {
             "A1553": "Región global o no especificada",
