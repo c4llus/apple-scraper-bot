@@ -5,15 +5,15 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-max-colors.png",
         "colores": [
-            "Azul oscuro",
             "Naranja cósmico",
-            "Plata"
+            "Plata",
+            "Azul oscuro"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "2 TB",
-            "1 TB"
+            "512 GB",
+            "2 TB"
         ],
         "modelos": {
             "A3257": "Estados unidos, puerto rico",
@@ -28,14 +28,14 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-colors.png",
         "colores": [
-            "Azul oscuro",
             "Naranja cósmico",
-            "Plata"
+            "Plata",
+            "Azul oscuro"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "1 TB"
+            "512 GB"
         ],
         "modelos": {
             "A3256": "Estados unidos, puerto rico",
@@ -50,15 +50,15 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-colors.png",
         "colores": [
-            "Lavanda",
-            "Blanco",
-            "Azul neblina",
+            "Verde salvia",
             "Negro",
-            "Verde salvia"
+            "Azul neblina",
+            "Blanco",
+            "Lavanda"
         ],
         "capacidades": [
-            "512 GB",
-            "256 GB"
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
             "A3258": "Estados unidos, puerto rico",
@@ -74,14 +74,14 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-air-colors.png",
         "colores": [
             "Dorado claro",
-            "Azul cielo",
             "Negro espacial",
+            "Azul cielo",
             "Blanco nube"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "1 TB"
+            "512 GB"
         ],
         "modelos": {
             "A3260": "Estados unidos, puerto rico, baréin, canadá, guam, kuwait, méxico, omán, qatar, arabia saudí, emiratos árabes unidos e islas vírgenes de los estados unidos",
@@ -96,12 +96,12 @@
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16e/iphone-16e-colors.png",
         "colores": [
-            "Negro",
-            "Blanco"
+            "Blanco",
+            "Negro"
         ],
         "capacidades": [
-            "512 GB",
             "256 GB",
+            "512 GB",
             "128 GB"
         ],
         "modelos": {
@@ -119,13 +119,13 @@
         "colores": [
             "Titanio negro",
             "Titanio blanco",
-            "Titanio desierto",
-            "Titanio natural"
+            "Titanio natural",
+            "Titanio desierto"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "1 TB"
+            "512 GB"
         ],
         "modelos": {
             "A3084": "Estados unidos, puerto rico",
@@ -142,14 +142,14 @@
         "colores": [
             "Titanio negro",
             "Titanio blanco",
-            "Titanio desierto",
-            "Titanio natural"
+            "Titanio natural",
+            "Titanio desierto"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "128 GB",
-            "1 TB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A3083": "Estados unidos, puerto rico",
@@ -164,15 +164,15 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-plus-colors.png",
         "colores": [
+            "Rosa",
             "Verde azulado",
             "Azul ultramar",
-            "Rosa",
-            "Blanco",
-            "Negro"
+            "Negro",
+            "Blanco"
         ],
         "capacidades": [
-            "512 GB",
             "256 GB",
+            "512 GB",
             "128 GB"
         ],
         "modelos": {
@@ -188,15 +188,15 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-colors.png",
         "colores": [
+            "Rosa",
             "Verde azulado",
             "Azul ultramar",
-            "Rosa",
-            "Blanco",
-            "Negro"
+            "Negro",
+            "Blanco"
         ],
         "capacidades": [
-            "512 GB",
             "256 GB",
+            "512 GB",
             "128 GB"
         ],
         "modelos": {
@@ -214,13 +214,13 @@
         "colores": [
             "Titanio negro",
             "Titanio blanco",
-            "Titanio azul",
-            "Titanio natural"
+            "Titanio natural",
+            "Titanio azul"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "1 TB"
+            "512 GB"
         ],
         "modelos": {
             "A2849": "Estados unidos, puerto rico",
@@ -237,14 +237,14 @@
         "colores": [
             "Titanio negro",
             "Titanio blanco",
-            "Titanio azul",
-            "Titanio natural"
+            "Titanio natural",
+            "Titanio azul"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "128 GB",
-            "1 TB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2848": "Estados unidos, puerto rico",
@@ -261,13 +261,13 @@
         "colores": [
             "Rosa",
             "Azul",
-            "Amarillo",
+            "Negro",
             "Verde",
-            "Negro"
+            "Amarillo"
         ],
         "capacidades": [
-            "512 GB",
             "256 GB",
+            "512 GB",
             "128 GB"
         ],
         "modelos": {
@@ -285,13 +285,13 @@
         "colores": [
             "Rosa",
             "Azul",
-            "Amarillo",
+            "Negro",
             "Verde",
-            "Negro"
+            "Amarillo"
         ],
         "capacidades": [
-            "512 GB",
             "256 GB",
+            "512 GB",
             "128 GB"
         ],
         "modelos": {
@@ -307,16 +307,16 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-max-colors.png",
         "colores": [
-            "Morado oscuro",
             "Oro",
+            "Negro espacial",
             "Plata",
-            "Negro espacial"
+            "Morado oscuro"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "128 GB",
-            "1 TB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2651": "Estados unidos, puerto rico",
@@ -332,16 +332,16 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-colors.png",
         "colores": [
-            "Morado oscuro",
             "Oro",
+            "Negro espacial",
             "Plata",
-            "Negro espacial"
+            "Morado oscuro"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "128 GB",
-            "1 TB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2650": "Estados unidos, puerto rico",
@@ -357,16 +357,16 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-plus-colors-spring-2023.png",
         "colores": [
-            "Medianoche",
-            "Blanco estrella",
-            "(product)red",
-            "Azul",
             "Morado",
-            "Amarillo"
+            "(product)red",
+            "Medianoche",
+            "Azul",
+            "Amarillo",
+            "Blanco estrella"
         ],
         "capacidades": [
-            "512 GB",
             "256 GB",
+            "512 GB",
             "128 GB"
         ],
         "modelos": {
@@ -383,16 +383,16 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-colors-spring-2023.png",
         "colores": [
-            "Medianoche",
-            "Blanco estrella",
-            "(product)red",
-            "Azul",
             "Morado",
-            "Amarillo"
+            "(product)red",
+            "Medianoche",
+            "Azul",
+            "Amarillo",
+            "Blanco estrella"
         ],
         "capacidades": [
-            "512 GB",
             "256 GB",
+            "512 GB",
             "128 GB"
         ],
         "modelos": {
@@ -409,14 +409,14 @@
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se-3rd-gen-colors.png",
         "colores": [
+            "Blanco estrella",
             "(product)red",
-            "Medianoche",
-            "Blanco estrella"
+            "Medianoche"
         ],
         "capacidades": [
+            "64 GB",
             "256 GB",
-            "128 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A2595": "Arabia saudí, canadá, estados unidos, guam, islas vírgenes de los estados unidos, méxico, puerto rico",
@@ -432,17 +432,17 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-max-colors.png",
         "colores": [
-            "Azul sierra",
             "Grafito",
-            "Plata",
+            "Azul sierra",
             "Verde alpino",
+            "Plata",
             "Oro"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "128 GB",
-            "1 TB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2484": "Estados unidos",
@@ -458,17 +458,17 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-colors.png",
         "colores": [
-            "Azul sierra",
             "Grafito",
-            "Plata",
+            "Azul sierra",
             "Verde alpino",
+            "Plata",
             "Oro"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "128 GB",
-            "1 TB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2483": "Estados unidos",
@@ -484,16 +484,16 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-colors.png",
         "colores": [
-            "Medianoche",
-            "(product)red",
-            "Blanco estrella",
             "Rosa",
+            "(product)red",
+            "Medianoche",
             "Azul",
-            "Verde"
+            "Verde",
+            "Blanco estrella"
         ],
         "capacidades": [
-            "512 GB",
             "256 GB",
+            "512 GB",
             "128 GB"
         ],
         "modelos": {
@@ -510,16 +510,16 @@
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-iphone13-mini-colors.png",
         "colores": [
-            "Medianoche",
-            "(product)red",
-            "Blanco estrella",
             "Rosa",
+            "(product)red",
+            "Medianoche",
             "Azul",
-            "Verde"
+            "Verde",
+            "Blanco estrella"
         ],
         "capacidades": [
-            "512 GB",
             "256 GB",
+            "512 GB",
             "128 GB"
         ],
         "modelos": {
@@ -537,13 +537,13 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro-max/iphone12-pro-max-colors.jpg",
         "colores": [
             "Grafito",
+            "Azul pacífico",
             "Oro",
-            "Plata",
-            "Azul pacífico"
+            "Plata"
         ],
         "capacidades": [
-            "512 GB",
             "256 GB",
+            "512 GB",
             "128 GB"
         ],
         "modelos": {
@@ -560,13 +560,13 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro/iphone12-pro-colors.jpg",
         "colores": [
             "Grafito",
+            "Azul pacífico",
             "Oro",
-            "Plata",
-            "Azul pacífico"
+            "Plata"
         ],
         "capacidades": [
-            "512 GB",
             "256 GB",
+            "512 GB",
             "128 GB"
         ],
         "modelos": {
@@ -582,17 +582,17 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-colors.png",
         "colores": [
-            "(product)red",
-            "Blanco",
-            "Azul",
             "Morado",
+            "(product)red",
+            "Azul",
+            "Negro",
             "Verde",
-            "Negro"
+            "Blanco"
         ],
         "capacidades": [
+            "64 GB",
             "256 GB",
-            "128 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A2172": "Estados unidos",
@@ -607,17 +607,17 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-mini-colors.png",
         "colores": [
-            "(product)red",
-            "Blanco",
-            "Azul",
             "Morado",
+            "(product)red",
+            "Azul",
+            "Negro",
             "Verde",
-            "Negro"
+            "Blanco"
         ],
         "capacidades": [
+            "64 GB",
             "256 GB",
-            "128 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A2176": "Estados unidos",
@@ -632,14 +632,14 @@
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se/iphone-se-2nd-gen-colors.jpg",
         "colores": [
+            "Blanco",
             "(product)red",
-            "Negro",
-            "Blanco"
+            "Negro"
         ],
         "capacidades": [
+            "64 GB",
             "256 GB",
-            "128 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A2275": "Canadá y estados unidos",
@@ -659,9 +659,9 @@
             "Plata"
         ],
         "capacidades": [
-            "512 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "512 GB"
         ],
         "modelos": {
             "A2160": "Canadá y estados unidos",
@@ -681,9 +681,9 @@
             "Plata"
         ],
         "capacidades": [
-            "512 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "512 GB"
         ],
         "modelos": {
             "A2161": "Canadá, estados unidos",
@@ -697,17 +697,17 @@
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11-colors.jpg",
         "colores": [
-            "Malva",
             "(product)red",
+            "Negro",
+            "Verde",
             "Blanco",
             "Amarillo",
-            "Verde",
-            "Negro"
+            "Malva"
         ],
         "capacidades": [
+            "64 GB",
             "256 GB",
-            "128 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A2111": "Canadá y estados unidos",
@@ -726,9 +726,9 @@
             "Plata"
         ],
         "capacidades": [
-            "512 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "512 GB"
         ],
         "modelos": {
             "A1920": "Región global o no especificada",
@@ -749,9 +749,9 @@
             "Plata"
         ],
         "capacidades": [
-            "512 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "512 GB"
         ],
         "modelos": {
             "A1921": "Región global o no especificada",
@@ -769,15 +769,15 @@
         "colores": [
             "(product)red",
             "Azul",
+            "Negro",
             "Blanco",
             "Coral",
-            "Amarillo",
-            "Negro"
+            "Amarillo"
         ],
         "capacidades": [
+            "64 GB",
             "256 GB",
-            "128 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A1984": "Región global o no especificada",
@@ -797,8 +797,8 @@
             "Plata"
         ],
         "capacidades": [
-            "256 GB",
-            "64 GB"
+            "64 GB",
+            "256 GB"
         ],
         "modelos": {
             "A1865": "Región global o no especificada",
@@ -812,15 +812,15 @@
         "año": 2017,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8/iphone-8-colors.jpg",
         "colores": [
-            "(product)red",
             "Plateado",
             "Gris espacial",
+            "(product)red",
             "Dorado"
         ],
         "capacidades": [
+            "64 GB",
             "256 GB",
-            "128 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A1863": "Región global o no especificada",
@@ -834,15 +834,15 @@
         "año": 2017,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8-plus/iphone-8plus-colors.jpg",
         "colores": [
-            "(product)red",
             "Plateado",
             "Gris espacial",
+            "(product)red",
             "Dorado"
         ],
         "capacidades": [
+            "64 GB",
             "256 GB",
-            "128 GB",
-            "64 GB"
+            "128 GB"
         ],
         "modelos": {
             "A1864": "Región global o no especificada",
@@ -858,14 +858,14 @@
         "colores": [
             "(product)red",
             "Plateado",
-            "Oro rosa",
             "Negro",
-            "Negro brillante",
-            "Oro"
+            "Oro rosa",
+            "Oro",
+            "Negro brillante"
         ],
         "capacidades": [
-            "32 GB",
             "256 GB",
+            "32 GB",
             "128 GB"
         ],
         "modelos": {
@@ -882,14 +882,14 @@
         "colores": [
             "(product)red",
             "Plateado",
-            "Oro rosa",
             "Negro",
-            "Negro brillante",
-            "Oro"
+            "Oro rosa",
+            "Oro",
+            "Negro brillante"
         ],
         "capacidades": [
-            "32 GB",
             "256 GB",
+            "32 GB",
             "128 GB"
         ],
         "modelos": {
@@ -904,16 +904,16 @@
         "año": 2016,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se/iphone-se-colors.jpg",
         "colores": [
-            "Oro rosa",
             "Plateado",
             "Gris espacial",
+            "Oro rosa",
             "Dorado"
         ],
         "capacidades": [
-            "32 GB",
-            "128 GB",
             "16 GB",
-            "64 GB"
+            "64 GB",
+            "32 GB",
+            "128 GB"
         ],
         "modelos": {
             "A1723": "Región global o no especificada",
@@ -927,16 +927,16 @@
         "año": 2015,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-6s-colors.jpg",
         "colores": [
-            "Oro rosa",
             "Plateado",
             "Gris espacial",
+            "Oro rosa",
             "Dorado"
         ],
         "capacidades": [
-            "32 GB",
-            "128 GB",
             "16 GB",
-            "64 GB"
+            "64 GB",
+            "32 GB",
+            "128 GB"
         ],
         "modelos": {
             "A1633": "Región global o no especificada",
@@ -950,16 +950,16 @@
         "año": 2015,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-6splus-colors.jpg",
         "colores": [
-            "Oro rosa",
             "Plateado",
             "Gris espacial",
+            "Oro rosa",
             "Dorado"
         ],
         "capacidades": [
-            "32 GB",
-            "128 GB",
             "16 GB",
-            "64 GB"
+            "64 GB",
+            "32 GB",
+            "128 GB"
         ],
         "modelos": {
             "A1634": "Región global o no especificada",
@@ -978,10 +978,10 @@
             "Dorado"
         ],
         "capacidades": [
-            "32 GB",
-            "128 GB",
             "16 GB",
-            "64 GB"
+            "64 GB",
+            "32 GB",
+            "128 GB"
         ],
         "modelos": {
             "A1549": "Región global o no especificada",
@@ -1000,9 +1000,9 @@
             "Dorado"
         ],
         "capacidades": [
-            "128 GB",
             "16 GB",
-            "64 GB"
+            "64 GB",
+            "128 GB"
         ],
         "modelos": {
             "A1522": "Región global o no especificada",
@@ -1021,9 +1021,9 @@
             "Dorado"
         ],
         "capacidades": [
-            "32 GB",
             "16 GB",
-            "64 GB"
+            "64 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1453": "Región global o no especificada",
@@ -1042,14 +1042,14 @@
         "colores": [
             "Rosa",
             "Azul",
+            "Verde",
             "Blanco",
-            "Amarillo",
-            "Verde"
+            "Amarillo"
         ],
         "capacidades": [
-            "32 GB",
+            "16 GB",
             "8 GB",
-            "16 GB"
+            "32 GB"
         ],
         "modelos": {
             "A1456": "Región global o no especificada",
@@ -1065,13 +1065,13 @@
         "año": 2012,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5-colors.jpg",
         "colores": [
-            "Negro",
-            "Blanco"
+            "Blanco",
+            "Negro"
         ],
         "capacidades": [
-            "32 GB",
             "16 GB",
-            "64 GB"
+            "64 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1428": "Región global o no especificada",
@@ -1085,14 +1085,14 @@
         "año": 2011,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone4s-colors.jpg",
         "colores": [
-            "Negro",
-            "Blanco"
+            "Blanco",
+            "Negro"
         ],
         "capacidades": [
-            "32 GB",
-            "8 GB",
             "16 GB",
-            "64 GB"
+            "8 GB",
+            "64 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1431": "Región global o no especificada",
@@ -1105,13 +1105,13 @@
         "año": 2010,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone4-colors.jpg",
         "colores": [
-            "Negro",
-            "Blanco"
+            "Blanco",
+            "Negro"
         ],
         "capacidades": [
-            "32 GB",
+            "16 GB",
             "8 GB",
-            "16 GB"
+            "32 GB"
         ],
         "modelos": {
             "A1349": "Región global o no especificada",
@@ -1124,13 +1124,13 @@
         "año": 2009,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone3gs-colors.jpg",
         "colores": [
-            "Negro",
-            "Blanco"
+            "Blanco",
+            "Negro"
         ],
         "capacidades": [
-            "32 GB",
+            "16 GB",
             "8 GB",
-            "16 GB"
+            "32 GB"
         ],
         "modelos": {
             "A1325": "Región global o no especificada",
@@ -1146,8 +1146,8 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "8 GB",
-            "16 GB"
+            "16 GB",
+            "8 GB"
         ],
         "modelos": {
             "A1324": "Región global o no especificada",
@@ -1163,9 +1163,9 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
+            "16 GB",
             "4 GB",
-            "8 GB",
-            "16 GB"
+            "8 GB"
         ],
         "modelos": {
             "A1203": "Región global o no especificada",
@@ -1185,10 +1185,10 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "2 TB",
-            "1 TB"
+            "512 GB",
+            "2 TB"
         ],
         "modelos": {
             "A3360": "Región global o no especificada",
@@ -1205,10 +1205,10 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "2 TB",
-            "1 TB"
+            "512 GB",
+            "2 TB"
         ],
         "modelos": {
             "A3357": "Región global o no especificada",
@@ -1225,10 +1225,10 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "2 TB",
-            "1 TB"
+            "512 GB",
+            "2 TB"
         ],
         "modelos": {
             "A2925": "Región global o no especificada",
@@ -1245,10 +1245,10 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "2 TB",
-            "1 TB"
+            "512 GB",
+            "2 TB"
         ],
         "modelos": {
             "A2836": "Región global o no especificada",
@@ -1265,11 +1265,11 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
-            "256 GB",
+            "128 GB",
             "1 TB",
-            "2 TB",
-            "128 GB"
+            "256 GB",
+            "512 GB",
+            "2 TB"
         ],
         "modelos": {
             "A2436": "Región global o no especificada",
@@ -1287,12 +1287,12 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
-            "256 GB",
+            "128 GB",
             "1 TB",
-            "4 GB",
+            "256 GB",
+            "512 GB",
             "2 TB",
-            "128 GB"
+            "4 GB"
         ],
         "modelos": {
             "A2759": "Región global o no especificada",
@@ -1310,11 +1310,11 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
-            "256 GB",
+            "128 GB",
             "1 TB",
-            "2 TB",
-            "128 GB"
+            "256 GB",
+            "512 GB",
+            "2 TB"
         ],
         "modelos": {
             "A2378": "Región global o no especificada",
@@ -1332,11 +1332,11 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
-            "256 GB",
+            "128 GB",
             "1 TB",
-            "2 TB",
-            "128 GB"
+            "256 GB",
+            "512 GB",
+            "2 TB"
         ],
         "modelos": {
             "A2377": "Región global o no especificada",
@@ -1354,10 +1354,10 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "128 GB",
-            "1 TB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2229": "Región global o no especificada",
@@ -1375,10 +1375,10 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "128 GB",
-            "1 TB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2228": "Región global o no especificada",
@@ -1396,10 +1396,10 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
-            "256 GB",
             "1 TB",
-            "64 GB"
+            "64 GB",
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
             "A1876": "Región global o no especificada",
@@ -1417,10 +1417,10 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
-            "256 GB",
             "1 TB",
-            "64 GB"
+            "64 GB",
+            "256 GB",
+            "512 GB"
         ],
         "modelos": {
             "A1980": "Región global o no especificada",
@@ -1438,9 +1438,9 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "512 GB"
         ],
         "modelos": {
             "A1670": "Región global o no especificada",
@@ -1457,9 +1457,9 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
+            "64 GB",
             "256 GB",
-            "64 GB"
+            "512 GB"
         ],
         "modelos": {
             "A1701": "Región global o no especificada",
@@ -1476,8 +1476,8 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "32 GB",
             "256 GB",
+            "32 GB",
             "128 GB"
         ],
         "modelos": {
@@ -1495,8 +1495,8 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "32 GB",
             "256 GB",
+            "32 GB",
             "128 GB"
         ],
         "modelos": {
@@ -1513,10 +1513,10 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "128 GB",
-            "1 TB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A3268": "Región global o no especificada",
@@ -1533,10 +1533,10 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "128 GB",
-            "1 TB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A3266": "Región global o no especificada",
@@ -1553,10 +1553,10 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "128 GB",
-            "1 TB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2898": "Región global o no especificada",
@@ -1573,10 +1573,10 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
+            "1 TB",
             "256 GB",
-            "128 GB",
-            "1 TB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2902": "Región global o no especificada",
@@ -1593,8 +1593,8 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "256 GB",
-            "64 GB"
+            "64 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2588": "Región global o no especificada",
@@ -1612,8 +1612,8 @@
         ],
         "capacidades": [
             "4 GB",
-            "256 GB",
-            "64 GB"
+            "64 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2316": "Región global o no especificada",
@@ -1631,8 +1631,8 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "256 GB",
-            "64 GB"
+            "64 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2152": "Región global o no especificada",
@@ -1650,11 +1650,11 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "32 GB",
-            "16 GB",
             "64 GB",
-            "2 TB",
-            "128 GB"
+            "32 GB",
+            "128 GB",
+            "16 GB",
+            "2 TB"
         ],
         "modelos": {
             "A1566": "Región global o no especificada",
@@ -1670,10 +1670,10 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "32 GB",
-            "128 GB",
             "16 GB",
-            "64 GB"
+            "64 GB",
+            "32 GB",
+            "128 GB"
         ],
         "modelos": {
             "A1474": "Región global o no especificada",
@@ -1690,8 +1690,8 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
             "256 GB",
+            "512 GB",
             "128 GB"
         ],
         "modelos": {
@@ -1709,8 +1709,8 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "256 GB",
-            "64 GB"
+            "64 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2567": "Región global o no especificada",
@@ -1727,8 +1727,8 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "256 GB",
-            "64 GB"
+            "64 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2133": "Región global o no especificada",
@@ -1746,11 +1746,11 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "32 GB",
-            "16 GB",
             "64 GB",
-            "4 GB",
-            "128 GB"
+            "32 GB",
+            "128 GB",
+            "16 GB",
+            "4 GB"
         ],
         "modelos": {
             "A1538": "Región global o no especificada",
@@ -1766,9 +1766,9 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "128 GB",
             "16 GB",
-            "64 GB"
+            "64 GB",
+            "128 GB"
         ],
         "modelos": {
             "A1599": "Región global o no especificada",
@@ -1784,11 +1784,11 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "32 GB",
-            "16 GB",
             "64 GB",
-            "2 TB",
-            "128 GB"
+            "32 GB",
+            "128 GB",
+            "16 GB",
+            "2 TB"
         ],
         "modelos": {
             "A1489": "Región global o no especificada",
@@ -1805,9 +1805,9 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "32 GB",
             "16 GB",
-            "64 GB"
+            "64 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1432": "Región global o no especificada",
@@ -1824,8 +1824,8 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "512 GB",
             "256 GB",
+            "512 GB",
             "128 GB"
         ],
         "modelos": {
@@ -1843,8 +1843,8 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "256 GB",
-            "64 GB"
+            "64 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2696": "Región global o no especificada",
@@ -1862,8 +1862,8 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "256 GB",
-            "64 GB"
+            "64 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2602": "Región global o no especificada",
@@ -1881,9 +1881,9 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
+            "8 GB",
             "32 GB",
-            "128 GB",
-            "8 GB"
+            "128 GB"
         ],
         "modelos": {
             "A2270": "Región global o no especificada",
@@ -1953,11 +1953,11 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "32 GB",
-            "16 GB",
             "64 GB",
-            "4 GB",
-            "128 GB"
+            "32 GB",
+            "128 GB",
+            "16 GB",
+            "4 GB"
         ],
         "modelos": {
             "A1458": "Región global o no especificada",
@@ -1974,9 +1974,9 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "32 GB",
             "16 GB",
-            "64 GB"
+            "64 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1416": "Región global o no especificada",
@@ -1993,10 +1993,10 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "32 GB",
-            "2 TB",
             "16 GB",
-            "64 GB"
+            "64 GB",
+            "32 GB",
+            "2 TB"
         ],
         "modelos": {
             "A1395": "Región global o no especificada",
@@ -2013,9 +2013,9 @@
             "Consultar especificaciones"
         ],
         "capacidades": [
-            "32 GB",
             "16 GB",
-            "64 GB"
+            "64 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1219": "Región global o no especificada",
@@ -2028,19 +2028,19 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m5-colors.png",
         "colores": [
-            "Plata",
-            "Negro espacial"
+            "Negro espacial",
+            "Plata"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MDE04xx/A": "Número de pieza (Caja)",
-            "MDE14xx/A": "Número de pieza (Caja)",
-            "MDE34xx/A": "Número de pieza (Caja)",
-            "MDE44xx/A": "Número de pieza (Caja)",
-            "MDE54xx/A": "Número de pieza (Caja)",
-            "MDE64xx/A": "Número de pieza (Caja)"
+            "MDE04xx/A": "Número de pieza comercial",
+            "MDE14xx/A": "Número de pieza comercial",
+            "MDE34xx/A": "Número de pieza comercial",
+            "MDE44xx/A": "Número de pieza comercial",
+            "MDE54xx/A": "Número de pieza comercial",
+            "MDE64xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_14_pulgadas,_2024": {
@@ -2049,20 +2049,20 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-2024-m4-pro-m4-max-colors.png",
         "colores": [
-            "Plata",
-            "Negro espacial"
+            "Negro espacial",
+            "Plata"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MXE63xx/A": "Número de pieza (Caja)",
-            "MX2E3xx/A": "Número de pieza (Caja)",
-            "MX2F3xx/A": "Número de pieza (Caja)",
-            "MX2G3xx/A": "Número de pieza (Caja)",
-            "MX2H3xx/A": "Número de pieza (Caja)",
-            "MX2J3xx/A": "Número de pieza (Caja)",
-            "MX2K3xx/A": "Número de pieza (Caja)"
+            "MXE63xx/A": "Número de pieza comercial",
+            "MX2E3xx/A": "Número de pieza comercial",
+            "MX2F3xx/A": "Número de pieza comercial",
+            "MX2G3xx/A": "Número de pieza comercial",
+            "MX2H3xx/A": "Número de pieza comercial",
+            "MX2J3xx/A": "Número de pieza comercial",
+            "MX2K3xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_16_pulgadas,_2024": {
@@ -2071,21 +2071,21 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-2024-colors.png",
         "colores": [
-            "Plata",
-            "Negro espacial"
+            "Negro espacial",
+            "Plata"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MX2T3xx/A": "Número de pieza (Caja)",
-            "MX2U3xx/A": "Número de pieza (Caja)",
-            "MX2V3xx/A": "Número de pieza (Caja)",
-            "MX2W3xx/A": "Número de pieza (Caja)",
-            "MX2X3xx/A": "Número de pieza (Caja)",
-            "MX2Y3xx/A": "Número de pieza (Caja)",
-            "MX303xx/A": "Número de pieza (Caja)",
-            "MX313xx/A": "Número de pieza (Caja)"
+            "MX2T3xx/A": "Número de pieza comercial",
+            "MX2U3xx/A": "Número de pieza comercial",
+            "MX2V3xx/A": "Número de pieza comercial",
+            "MX2W3xx/A": "Número de pieza comercial",
+            "MX2X3xx/A": "Número de pieza comercial",
+            "MX2Y3xx/A": "Número de pieza comercial",
+            "MX303xx/A": "Número de pieza comercial",
+            "MX313xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_14_pulgadas,_noviembre_de_2023": {
@@ -2094,25 +2094,25 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m3-pro-m3-max-nov-2023-silver-space-black.png",
         "colores": [
-            "Plata",
-            "Negro espacial"
+            "Negro espacial",
+            "Plata"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
-            "FRX33xx/A": "Número de pieza (Caja)",
-            "FRX43xx/A": "Número de pieza (Caja)",
-            "FRX54xx/A": "Número de pieza (Caja)",
-            "FRX63xx/A": "Número de pieza (Caja)",
-            "FRX73xx/A": "Número de pieza (Caja)",
-            "FRX83xx/A": "Número de pieza (Caja)",
-            "MRX33xx/A": "Número de pieza (Caja)",
-            "MRX43xx/A": "Número de pieza (Caja)",
-            "MRX53xx/A": "Número de pieza (Caja)",
-            "MRX63xx/A": "Número de pieza (Caja)",
-            "MRX73xx/A": "Número de pieza (Caja)",
-            "MRX83xx/A": "Número de pieza (Caja)"
+            "FRX33xx/A": "Número de pieza comercial",
+            "FRX43xx/A": "Número de pieza comercial",
+            "FRX54xx/A": "Número de pieza comercial",
+            "FRX63xx/A": "Número de pieza comercial",
+            "FRX73xx/A": "Número de pieza comercial",
+            "FRX83xx/A": "Número de pieza comercial",
+            "MRX33xx/A": "Número de pieza comercial",
+            "MRX43xx/A": "Número de pieza comercial",
+            "MRX53xx/A": "Número de pieza comercial",
+            "MRX63xx/A": "Número de pieza comercial",
+            "MRX73xx/A": "Número de pieza comercial",
+            "MRX83xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_16_pulgadas,_noviembre_de_2023": {
@@ -2121,27 +2121,27 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-m3-pro-m3-max-nov-2023-silver-space-black.png",
         "colores": [
-            "Plata",
-            "Negro espacial"
+            "Negro espacial",
+            "Plata"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
-            "FRW13xx/A": "Número de pieza (Caja)",
-            "FRW23xx/A": "Número de pieza (Caja)",
-            "FRW33xx/A": "Número de pieza (Caja)",
-            "FRW43xx/A": "Número de pieza (Caja)",
-            "FRW63xx/A": "Número de pieza (Caja)",
-            "FRW73xx/A": "Número de pieza (Caja)",
-            "FUW63xx/A": "Número de pieza (Caja)",
-            "FUW73xx/A": "Número de pieza (Caja)",
-            "MRW13xx/A": "Número de pieza (Caja)",
-            "MRW23xx/A": "Número de pieza (Caja)",
-            "MRW33xx/A": "Número de pieza (Caja)",
-            "MRW43xx/A": "Número de pieza (Caja)",
-            "MRW63xx/A": "Número de pieza (Caja)",
-            "MRW73xx/A": "Número de pieza (Caja)"
+            "FRW13xx/A": "Número de pieza comercial",
+            "FRW23xx/A": "Número de pieza comercial",
+            "FRW33xx/A": "Número de pieza comercial",
+            "FRW43xx/A": "Número de pieza comercial",
+            "FRW63xx/A": "Número de pieza comercial",
+            "FRW73xx/A": "Número de pieza comercial",
+            "FUW63xx/A": "Número de pieza comercial",
+            "FUW73xx/A": "Número de pieza comercial",
+            "MRW13xx/A": "Número de pieza comercial",
+            "MRW23xx/A": "Número de pieza comercial",
+            "MRW33xx/A": "Número de pieza comercial",
+            "MRW43xx/A": "Número de pieza comercial",
+            "MRW63xx/A": "Número de pieza comercial",
+            "MRW73xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_14_pulgadas,_2023": {
@@ -2157,12 +2157,12 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MPHE3xx/A": "Número de pieza (Caja)",
-            "MPHF3xx/A": "Número de pieza (Caja)",
-            "MPHG3xx/A": "Número de pieza (Caja)",
-            "MPHH3xx/A": "Número de pieza (Caja)",
-            "MPHJ3xx/A": "Número de pieza (Caja)",
-            "MPHK3xx/A": "Número de pieza (Caja)"
+            "MPHE3xx/A": "Número de pieza comercial",
+            "MPHF3xx/A": "Número de pieza comercial",
+            "MPHG3xx/A": "Número de pieza comercial",
+            "MPHH3xx/A": "Número de pieza comercial",
+            "MPHJ3xx/A": "Número de pieza comercial",
+            "MPHK3xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_16_pulgadas,_2023": {
@@ -2178,14 +2178,14 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MNWG3xx/A": "Número de pieza (Caja)",
-            "MNW93xx/A": "Número de pieza (Caja)",
-            "MNWK3xx/A": "Número de pieza (Caja)",
-            "MNWD3xx/A": "Número de pieza (Caja)",
-            "MNWF3xx/A": "Número de pieza (Caja)",
-            "MNW83xx/A": "Número de pieza (Caja)",
-            "MNWJ3xx/A": "Número de pieza (Caja)",
-            "MNWC3xx/A": "Número de pieza (Caja)"
+            "MNWG3xx/A": "Número de pieza comercial",
+            "MNW93xx/A": "Número de pieza comercial",
+            "MNWK3xx/A": "Número de pieza comercial",
+            "MNWD3xx/A": "Número de pieza comercial",
+            "MNWF3xx/A": "Número de pieza comercial",
+            "MNW83xx/A": "Número de pieza comercial",
+            "MNWJ3xx/A": "Número de pieza comercial",
+            "MNWC3xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_13_pulgadas,_m2,_2022": {
@@ -2202,10 +2202,10 @@
         ],
         "modelos": {
             "A2338": "Número de chasis (Físico)",
-            "MNEH3xx/A": "Número de pieza (Caja)",
-            "MNEJ3xx/A": "Número de pieza (Caja)",
-            "MNEP3xx/A": "Número de pieza (Caja)",
-            "MNEQ3xx/A": "Número de pieza (Caja)"
+            "MNEH3xx/A": "Número de pieza comercial",
+            "MNEJ3xx/A": "Número de pieza comercial",
+            "MNEP3xx/A": "Número de pieza comercial",
+            "MNEQ3xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_14_pulgadas,_2021": {
@@ -2221,10 +2221,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MKGP3xx/A": "Número de pieza (Caja)",
-            "MKGQ3xx/A": "Número de pieza (Caja)",
-            "MKGR3xx/A": "Número de pieza (Caja)",
-            "MKGT3xx/A": "Número de pieza (Caja)"
+            "MKGP3xx/A": "Número de pieza comercial",
+            "MKGQ3xx/A": "Número de pieza comercial",
+            "MKGR3xx/A": "Número de pieza comercial",
+            "MKGT3xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_16_pulgadas,_2021": {
@@ -2240,12 +2240,12 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MK183xx/A": "Número de pieza (Caja)",
-            "MK193xx/A": "Número de pieza (Caja)",
-            "MK1A3xx/A": "Número de pieza (Caja)",
-            "MK1E3xx/A": "Número de pieza (Caja)",
-            "MK1F3xx/A": "Número de pieza (Caja)",
-            "MK1H3xx/A": "Número de pieza (Caja)"
+            "MK183xx/A": "Número de pieza comercial",
+            "MK193xx/A": "Número de pieza comercial",
+            "MK1A3xx/A": "Número de pieza comercial",
+            "MK1E3xx/A": "Número de pieza comercial",
+            "MK1F3xx/A": "Número de pieza comercial",
+            "MK1H3xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_13_pulgadas,_m1,_2020": {
@@ -2262,10 +2262,10 @@
         ],
         "modelos": {
             "A2338": "Número de chasis (Físico)",
-            "MYD83xx/A": "Número de pieza (Caja)",
-            "MYD92xx/A": "Número de pieza (Caja)",
-            "MYDA2xx/A": "Número de pieza (Caja)",
-            "MYDC2xx/A": "Número de pieza (Caja)"
+            "MYD83xx/A": "Número de pieza comercial",
+            "MYD92xx/A": "Número de pieza comercial",
+            "MYDA2xx/A": "Número de pieza comercial",
+            "MYDC2xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_13_pulgadas,_2020,_dos_puertos_thunderbolt_3": {
@@ -2283,10 +2283,10 @@
         "modelos": {
             "A2289": "Número de chasis (Físico)",
             "A2251": "Número de chasis (Físico)",
-            "MXK32xx/A": "Número de pieza (Caja)",
-            "MXK52xx/A": "Número de pieza (Caja)",
-            "MXK62xx/A": "Número de pieza (Caja)",
-            "MXK72xx/A": "Número de pieza (Caja)"
+            "MXK32xx/A": "Número de pieza comercial",
+            "MXK52xx/A": "Número de pieza comercial",
+            "MXK62xx/A": "Número de pieza comercial",
+            "MXK72xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_16_pulgadas,_2019": {
@@ -2303,10 +2303,10 @@
         ],
         "modelos": {
             "A2141": "Número de chasis (Físico)",
-            "MVVJ2xx/A": "Número de pieza (Caja)",
-            "MVVK2xx/A": "Número de pieza (Caja)",
-            "MVVL2xx/A": "Número de pieza (Caja)",
-            "MVVM2xx/A": "Número de pieza (Caja)"
+            "MVVJ2xx/A": "Número de pieza comercial",
+            "MVVK2xx/A": "Número de pieza comercial",
+            "MVVL2xx/A": "Número de pieza comercial",
+            "MVVM2xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_13_pulgadas,_2019,_dos_puertos_thunderbolt_3": {
@@ -2324,11 +2324,11 @@
         "modelos": {
             "A1989": "Número de chasis (Físico)",
             "A2159": "Número de chasis (Físico)",
-            "MUHN2xx/A": "Número de pieza (Caja)",
-            "MUHP2xx/a": "Número de pieza (Caja)",
-            "MUHQ2xx/A": "Número de pieza (Caja)",
-            "MUHR2xx/A": "Número de pieza (Caja)",
-            "MUHR2xx/B": "Número de pieza (Caja)"
+            "MUHN2xx/A": "Número de pieza comercial",
+            "MUHP2xx/a": "Número de pieza comercial",
+            "MUHQ2xx/A": "Número de pieza comercial",
+            "MUHR2xx/A": "Número de pieza comercial",
+            "MUHR2xx/B": "Número de pieza comercial"
         }
     },
     "macbook_pro_15_pulgadas,_2019": {
@@ -2345,12 +2345,12 @@
         ],
         "modelos": {
             "A1990": "Número de chasis (Físico)",
-            "MV902xx/A": "Número de pieza (Caja)",
-            "MV912xx/A": "Número de pieza (Caja)",
-            "MV922xx/A": "Número de pieza (Caja)",
-            "MV932xx/A": "Número de pieza (Caja)",
-            "MV942xx/A": "Número de pieza (Caja)",
-            "MV952xx/A": "Número de pieza (Caja)"
+            "MV902xx/A": "Número de pieza comercial",
+            "MV912xx/A": "Número de pieza comercial",
+            "MV922xx/A": "Número de pieza comercial",
+            "MV932xx/A": "Número de pieza comercial",
+            "MV942xx/A": "Número de pieza comercial",
+            "MV952xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_15_pulgadas,_2018": {
@@ -2367,12 +2367,12 @@
         ],
         "modelos": {
             "A1990": "Número de chasis (Físico)",
-            "MR932xx/A": "Número de pieza (Caja)",
-            "MR942xx/A": "Número de pieza (Caja)",
-            "MR952xx/A": "Número de pieza (Caja)",
-            "MR962xx/A": "Número de pieza (Caja)",
-            "MR972xx/A": "Número de pieza (Caja)",
-            "MUQH2xx/A": "Número de pieza (Caja)"
+            "MR932xx/A": "Número de pieza comercial",
+            "MR942xx/A": "Número de pieza comercial",
+            "MR952xx/A": "Número de pieza comercial",
+            "MR962xx/A": "Número de pieza comercial",
+            "MR972xx/A": "Número de pieza comercial",
+            "MUQH2xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_15_pulgadas,_2017": {
@@ -2389,12 +2389,12 @@
         ],
         "modelos": {
             "A1707": "Número de chasis (Físico)",
-            "MPTR2xx/A": "Número de pieza (Caja)",
-            "MPTT2xx/A": "Número de pieza (Caja)",
-            "MPTU2xx/A": "Número de pieza (Caja)",
-            "MPTV2xx/A": "Número de pieza (Caja)",
-            "MPTW2xx/A": "Número de pieza (Caja)",
-            "MPTX2xx/A": "Número de pieza (Caja)"
+            "MPTR2xx/A": "Número de pieza comercial",
+            "MPTT2xx/A": "Número de pieza comercial",
+            "MPTU2xx/A": "Número de pieza comercial",
+            "MPTV2xx/A": "Número de pieza comercial",
+            "MPTW2xx/A": "Número de pieza comercial",
+            "MPTX2xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_13_pulgadas,_2017,_dos_puertos_thunderbolt_3": {
@@ -2412,10 +2412,10 @@
         "modelos": {
             "A1706": "Número de chasis (Físico)",
             "A1708": "Número de chasis (Físico)",
-            "MPXQ2xx/A": "Número de pieza (Caja)",
-            "MPXR2xx/A": "Número de pieza (Caja)",
-            "MPXT2xx/A": "Número de pieza (Caja)",
-            "MPXU2xx/A": "Número de pieza (Caja)"
+            "MPXQ2xx/A": "Número de pieza comercial",
+            "MPXR2xx/A": "Número de pieza comercial",
+            "MPXT2xx/A": "Número de pieza comercial",
+            "MPXU2xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_15_pulgadas,_2016": {
@@ -2432,12 +2432,12 @@
         ],
         "modelos": {
             "A1707": "Número de chasis (Físico)",
-            "MLH32xx/A": "Número de pieza (Caja)",
-            "MLH42xx/A": "Número de pieza (Caja)",
-            "MLH52xx/A": "Número de pieza (Caja)",
-            "MLW72xx/A": "Número de pieza (Caja)",
-            "MLW82xx/A": "Número de pieza (Caja)",
-            "MLW92xx/A": "Número de pieza (Caja)"
+            "MLH32xx/A": "Número de pieza comercial",
+            "MLH42xx/A": "Número de pieza comercial",
+            "MLH52xx/A": "Número de pieza comercial",
+            "MLW72xx/A": "Número de pieza comercial",
+            "MLW82xx/A": "Número de pieza comercial",
+            "MLW92xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_13_pulgadas,_2016,_dos_puertos_thunderbolt_3": {
@@ -2455,8 +2455,8 @@
         "modelos": {
             "A1706": "Número de chasis (Físico)",
             "A1708": "Número de chasis (Físico)",
-            "MLL42xx/A": "Número de pieza (Caja)",
-            "MLUQ2xx/A": "Número de pieza (Caja)"
+            "MLL42xx/A": "Número de pieza comercial",
+            "MLUQ2xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_retina,_15_pulgadas,_mediados_de_2015": {
@@ -2472,9 +2472,9 @@
         ],
         "modelos": {
             "A1398": "Número de chasis (Físico)",
-            "MJLQ2xx/A": "Número de pieza (Caja)",
-            "MJLT2xx/A": "Número de pieza (Caja)",
-            "MJLU2xx/A": "Número de pieza (Caja)"
+            "MJLQ2xx/A": "Número de pieza comercial",
+            "MJLT2xx/A": "Número de pieza comercial",
+            "MJLU2xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_retina,_13_pulgadas,_principios_de_2015": {
@@ -2490,10 +2490,10 @@
         ],
         "modelos": {
             "A1502": "Número de chasis (Físico)",
-            "MF839xx/A": "Número de pieza (Caja)",
-            "MF840xx/A": "Número de pieza (Caja)",
-            "MF841xx/A": "Número de pieza (Caja)",
-            "MF843xx/A": "Número de pieza (Caja)"
+            "MF839xx/A": "Número de pieza comercial",
+            "MF840xx/A": "Número de pieza comercial",
+            "MF841xx/A": "Número de pieza comercial",
+            "MF843xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_retina,_15_pulgadas,_mediados_de_2014": {
@@ -2508,8 +2508,8 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MGXC2xx/A": "Número de pieza (Caja)",
-            "MGXA2xx/A": "Número de pieza (Caja)"
+            "MGXC2xx/A": "Número de pieza comercial",
+            "MGXA2xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_retina,_13_pulgadas,_mediados_de_2014": {
@@ -2525,9 +2525,9 @@
         ],
         "modelos": {
             "A1502": "Número de chasis (Físico)",
-            "MGX72xx/A": "Número de pieza (Caja)",
-            "MGX82xx/A": "Número de pieza (Caja)",
-            "MGX92xx/A": "Número de pieza (Caja)"
+            "MGX72xx/A": "Número de pieza comercial",
+            "MGX82xx/A": "Número de pieza comercial",
+            "MGX92xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_retina,_15_pulgadas,_finales_de_2013": {
@@ -2543,8 +2543,8 @@
         ],
         "modelos": {
             "A1425": "Número de chasis (Físico)",
-            "ME293xx/A": "Número de pieza (Caja)",
-            "ME294xx/A": "Número de pieza (Caja)"
+            "ME293xx/A": "Número de pieza comercial",
+            "ME294xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_retina,_13_pulgadas,_finales_de_2013": {
@@ -2560,9 +2560,9 @@
         ],
         "modelos": {
             "A1425": "Número de chasis (Físico)",
-            "ME864xx/A": "Número de pieza (Caja)",
-            "ME865xx/A": "Número de pieza (Caja)",
-            "ME866xx/A": "Número de pieza (Caja)"
+            "ME864xx/A": "Número de pieza comercial",
+            "ME865xx/A": "Número de pieza comercial",
+            "ME866xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_retina,_15_pulgadas,_principios_de_2013": {
@@ -2578,8 +2578,8 @@
         ],
         "modelos": {
             "A1425": "Número de chasis (Físico)",
-            "ME664xx/A": "Número de pieza (Caja)",
-            "ME665xx/A": "Número de pieza (Caja)"
+            "ME664xx/A": "Número de pieza comercial",
+            "ME665xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_retina,_13_pulgadas,_principios_de_2013": {
@@ -2595,8 +2595,8 @@
         ],
         "modelos": {
             "A1425": "Número de chasis (Físico)",
-            "MD212xx/A": "Número de pieza (Caja)",
-            "ME662xx/A": "Número de pieza (Caja)"
+            "MD212xx/A": "Número de pieza comercial",
+            "ME662xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_retina,_13_pulgadas,_finales_de_2012": {
@@ -2612,8 +2612,8 @@
         ],
         "modelos": {
             "A1425": "Número de chasis (Físico)",
-            "MD212xx/A": "Número de pieza (Caja)",
-            "MD213xx/A": "Número de pieza (Caja)"
+            "MD212xx/A": "Número de pieza comercial",
+            "MD213xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_retina,_15_pulgadas,_mediados_de_2012": {
@@ -2644,8 +2644,8 @@
         ],
         "modelos": {
             "A1286": "Número de chasis (Físico)",
-            "MD103xx/A": "Número de pieza (Caja)",
-            "MD104xx/A": "Número de pieza (Caja)"
+            "MD103xx/A": "Número de pieza comercial",
+            "MD104xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_13_pulgadas,_mediados_de_2012": {
@@ -2661,8 +2661,8 @@
         ],
         "modelos": {
             "A1278": "Número de chasis (Físico)",
-            "MD101xx/A": "Número de pieza (Caja)",
-            "MD102xx/A": "Número de pieza (Caja)"
+            "MD101xx/A": "Número de pieza comercial",
+            "MD102xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_17_pulgadas,_finales_de_2011": {
@@ -2677,8 +2677,12 @@
             "Consultar especificaciones"
         ],
         "modelos": {
+            "A1151": "Número de chasis (Físico)",
+            "A1212": "Número de chasis (Físico)",
+            "A1229": "Número de chasis (Físico)",
+            "A1261": "Número de chasis (Físico)",
             "A1297": "Número de chasis (Físico)",
-            "MD311xx/A": "Número de pieza (Caja)"
+            "MD311xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_15_pulgadas,_finales_de_2011": {
@@ -2694,8 +2698,8 @@
         ],
         "modelos": {
             "A1286": "Número de chasis (Físico)",
-            "MD322xx/A": "Número de pieza (Caja)",
-            "MD318xx/A": "Número de pieza (Caja)"
+            "MD322xx/A": "Número de pieza comercial",
+            "MD318xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_13_pulgadas,_finales_de_2011": {
@@ -2711,8 +2715,8 @@
         ],
         "modelos": {
             "A1278": "Número de chasis (Físico)",
-            "MD314xx/A": "Número de pieza (Caja)",
-            "MD313xx/A": "Número de pieza (Caja)"
+            "MD314xx/A": "Número de pieza comercial",
+            "MD313xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_17_pulgadas,_principios_de_2011": {
@@ -2727,8 +2731,12 @@
             "Consultar especificaciones"
         ],
         "modelos": {
+            "A1151": "Número de chasis (Físico)",
+            "A1212": "Número de chasis (Físico)",
+            "A1229": "Número de chasis (Físico)",
+            "A1261": "Número de chasis (Físico)",
             "A1297": "Número de chasis (Físico)",
-            "MC725xx/A": "Número de pieza (Caja)"
+            "MC725xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_15_pulgadas,_principios_de_2011": {
@@ -2744,8 +2752,8 @@
         ],
         "modelos": {
             "A1286": "Número de chasis (Físico)",
-            "MC723xx/A": "Número de pieza (Caja)",
-            "MC721xx/A": "Número de pieza (Caja)"
+            "MC723xx/A": "Número de pieza comercial",
+            "MC721xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_13_pulgadas,_principios_de_2011": {
@@ -2761,8 +2769,8 @@
         ],
         "modelos": {
             "A1278": "Número de chasis (Físico)",
-            "MC724xx/A": "Número de pieza (Caja)",
-            "MC700xx/A": "Número de pieza (Caja)"
+            "MC724xx/A": "Número de pieza comercial",
+            "MC700xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_17_pulgadas,_mediados_de_2010": {
@@ -2777,8 +2785,12 @@
             "Consultar especificaciones"
         ],
         "modelos": {
+            "A1151": "Número de chasis (Físico)",
+            "A1212": "Número de chasis (Físico)",
+            "A1229": "Número de chasis (Físico)",
+            "A1261": "Número de chasis (Físico)",
             "A1297": "Número de chasis (Físico)",
-            "MC024xx/A": "Número de pieza (Caja)"
+            "MC024xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_15_pulgadas,_mediados_de_2010": {
@@ -2794,9 +2806,9 @@
         ],
         "modelos": {
             "A1286": "Número de chasis (Físico)",
-            "MC373xx/A": "Número de pieza (Caja)",
-            "MC372xx/A": "Número de pieza (Caja)",
-            "MC371xx/A": "Número de pieza (Caja)"
+            "MC373xx/A": "Número de pieza comercial",
+            "MC372xx/A": "Número de pieza comercial",
+            "MC371xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_13_pulgadas,_mediados_de_2010": {
@@ -2812,8 +2824,8 @@
         ],
         "modelos": {
             "A1278": "Número de chasis (Físico)",
-            "MC375xx/A": "Número de pieza (Caja)",
-            "MC374xx/A": "Número de pieza (Caja)"
+            "MC375xx/A": "Número de pieza comercial",
+            "MC374xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_17_pulgadas,_mediados_de_2009": {
@@ -2828,8 +2840,12 @@
             "Consultar especificaciones"
         ],
         "modelos": {
+            "A1151": "Número de chasis (Físico)",
+            "A1212": "Número de chasis (Físico)",
+            "A1229": "Número de chasis (Físico)",
+            "A1261": "Número de chasis (Físico)",
             "A1297": "Número de chasis (Físico)",
-            "MC226xx/A": "Número de pieza (Caja)"
+            "MC226xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_15_pulgadas,_mediados_de_2009": {
@@ -2845,8 +2861,8 @@
         ],
         "modelos": {
             "A1286": "Número de chasis (Físico)",
-            "MB985xx/A": "Número de pieza (Caja)",
-            "MB986xx/A": "Número de pieza (Caja)"
+            "MB985xx/A": "Número de pieza comercial",
+            "MB986xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_15_pulgadas;_2,53_ghz,_mediados_de_2009": {
@@ -2862,7 +2878,7 @@
         ],
         "modelos": {
             "A1286": "Número de chasis (Físico)",
-            "MC118xx/A": "Número de pieza (Caja)"
+            "MC118xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_13_pulgadas,_mediados_de_2009": {
@@ -2878,8 +2894,8 @@
         ],
         "modelos": {
             "A1278": "Número de chasis (Físico)",
-            "MB991xx/A": "Número de pieza (Caja)",
-            "MB990xx/A": "Número de pieza (Caja)"
+            "MB991xx/A": "Número de pieza comercial",
+            "MB990xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_17_pulgadas,_principios_de_2009": {
@@ -2894,8 +2910,12 @@
             "Consultar especificaciones"
         ],
         "modelos": {
+            "A1151": "Número de chasis (Físico)",
+            "A1212": "Número de chasis (Físico)",
+            "A1229": "Número de chasis (Físico)",
+            "A1261": "Número de chasis (Físico)",
             "A1297": "Número de chasis (Físico)",
-            "MB604xx/A": "Número de pieza (Caja)"
+            "MB604xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_15_pulgadas,_finales_de_2008": {
@@ -2910,9 +2930,12 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1286": "Número de chasis (Físico)",
-            "MB470xx/A": "Número de pieza (Caja)",
-            "MB471xx/A": "Número de pieza (Caja)"
+            "A1150": "Número de chasis (Físico)",
+            "A1211": "Número de chasis (Físico)",
+            "A1226": "Número de chasis (Físico)",
+            "A1260": "Número de chasis (Físico)",
+            "MB470xx/A": "Número de pieza comercial",
+            "MB471xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_17_pulgadas,_principios_de_2008": {
@@ -2927,8 +2950,12 @@
             "Consultar especificaciones"
         ],
         "modelos": {
+            "A1151": "Número de chasis (Físico)",
+            "A1212": "Número de chasis (Físico)",
+            "A1229": "Número de chasis (Físico)",
+            "A1261": "Número de chasis (Físico)",
             "A1297": "Número de chasis (Físico)",
-            "MB166xx/A": "Número de pieza (Caja)"
+            "MB166xx/A": "Número de pieza comercial"
         }
     },
     "macbook_pro_15_pulgadas,_principios_de_2008": {
@@ -2943,9 +2970,12 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1286": "Número de chasis (Físico)",
-            "MB133xx/A": "Número de pieza (Caja)",
-            "MB134xx/A": "Número de pieza (Caja)"
+            "A1150": "Número de chasis (Físico)",
+            "A1211": "Número de chasis (Físico)",
+            "A1226": "Número de chasis (Físico)",
+            "A1260": "Número de chasis (Físico)",
+            "MB133xx/A": "Número de pieza comercial",
+            "MB134xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_15_pulgadas,_m4,_2025": {
@@ -2955,29 +2985,29 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2025-macbook-air-15in-colors.png",
         "colores": [
             "Blanco estrella",
+            "Plata",
             "Medianoche",
-            "Azul cielo",
-            "Plata"
+            "Azul cielo"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MC6J4xx/A": "Número de pieza (Caja)",
-            "MC6K4xx/A": "Número de pieza (Caja)",
-            "MC6L4xx/A": "Número de pieza (Caja)",
-            "MC7A4xx/A": "Número de pieza (Caja)",
-            "MC7C4xx/A": "Número de pieza (Caja)",
-            "MC7D4xx/A": "Número de pieza (Caja)",
-            "MDG34xx/A": "Número de pieza (Caja)",
-            "MDG84xx/A": "Número de pieza (Caja)",
-            "MDG94xx/A": "Número de pieza (Caja)",
-            "MW1G3xx/A": "Número de pieza (Caja)",
-            "MW1H3xx/A": "Número de pieza (Caja)",
-            "MW1J3xx/A": "Número de pieza (Caja)",
-            "MW1K3xx/A": "Número de pieza (Caja)",
-            "MW1L3xx/A": "Número de pieza (Caja)",
-            "MW1M3xx/A": "Número de pieza (Caja)"
+            "MC6J4xx/A": "Número de pieza comercial",
+            "MC6K4xx/A": "Número de pieza comercial",
+            "MC6L4xx/A": "Número de pieza comercial",
+            "MC7A4xx/A": "Número de pieza comercial",
+            "MC7C4xx/A": "Número de pieza comercial",
+            "MC7D4xx/A": "Número de pieza comercial",
+            "MDG34xx/A": "Número de pieza comercial",
+            "MDG84xx/A": "Número de pieza comercial",
+            "MDG94xx/A": "Número de pieza comercial",
+            "MW1G3xx/A": "Número de pieza comercial",
+            "MW1H3xx/A": "Número de pieza comercial",
+            "MW1J3xx/A": "Número de pieza comercial",
+            "MW1K3xx/A": "Número de pieza comercial",
+            "MW1L3xx/A": "Número de pieza comercial",
+            "MW1M3xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_13_pulgadas,_m4,_2025": {
@@ -2987,29 +3017,29 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2025-macbook-air-13in-colors.png",
         "colores": [
             "Blanco estrella",
+            "Plata",
             "Medianoche",
-            "Azul cielo",
-            "Plata"
+            "Azul cielo"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MC654xx/A": "Número de pieza (Caja)",
-            "MC6A4xx/A": "Número de pieza (Caja)",
-            "MC6C4xx/A": "Número de pieza (Caja)",
-            "MC6T4xx/A": "Número de pieza (Caja)",
-            "MC6U4xx/A": "Número de pieza (Caja)",
-            "MC6V4xx/A": "Número de pieza (Caja)",
-            "MDG24xx/A": "Número de pieza (Caja)",
-            "MDG54xx/A": "Número de pieza (Caja)",
-            "MDG64xx/A": "Número de pieza (Caja)",
-            "MW0W3xx/A": "Número de pieza (Caja)",
-            "MW0X3xx/A": "Número de pieza (Caja)",
-            "MW0Y3xx/A": "Número de pieza (Caja)",
-            "MW103xx/A": "Número de pieza (Caja)",
-            "MW123xx/A": "Número de pieza (Caja)",
-            "MW133xx/A": "Número de pieza (Caja)"
+            "MC654xx/A": "Número de pieza comercial",
+            "MC6A4xx/A": "Número de pieza comercial",
+            "MC6C4xx/A": "Número de pieza comercial",
+            "MC6T4xx/A": "Número de pieza comercial",
+            "MC6U4xx/A": "Número de pieza comercial",
+            "MC6V4xx/A": "Número de pieza comercial",
+            "MDG24xx/A": "Número de pieza comercial",
+            "MDG54xx/A": "Número de pieza comercial",
+            "MDG64xx/A": "Número de pieza comercial",
+            "MW0W3xx/A": "Número de pieza comercial",
+            "MW0X3xx/A": "Número de pieza comercial",
+            "MW0Y3xx/A": "Número de pieza comercial",
+            "MW103xx/A": "Número de pieza comercial",
+            "MW123xx/A": "Número de pieza comercial",
+            "MW133xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_15_pulgadas,_m3,_2024": {
@@ -3019,27 +3049,27 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2024-macbook-air-15in-m3-colors.png",
         "colores": [
             "Blanco estrella",
-            "Medianoche",
+            "Plata",
             "Gris espacial",
-            "Plata"
+            "Medianoche"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
             "A3114": "Número de chasis (Físico)",
-            "MRYM3xx/A": "Número de pieza (Caja)",
-            "MRYP3xx/A": "Número de pieza (Caja)",
-            "MRYR3xx/A": "Número de pieza (Caja)",
-            "MRYU3xx/A": "Número de pieza (Caja)",
-            "MRYN3xx/A": "Número de pieza (Caja)",
-            "MRYQ3xx/A": "Número de pieza (Caja)",
-            "MRYT3xx/A": "Número de pieza (Caja)",
-            "MRYV3xx/A": "Número de pieza (Caja)",
-            "MXD13xx/A": "Número de pieza (Caja)",
-            "MXD23xx/A": "Número de pieza (Caja)",
-            "MXD33xx/A": "Número de pieza (Caja)",
-            "MXD43xx/A": "Número de pieza (Caja)"
+            "MRYM3xx/A": "Número de pieza comercial",
+            "MRYP3xx/A": "Número de pieza comercial",
+            "MRYR3xx/A": "Número de pieza comercial",
+            "MRYU3xx/A": "Número de pieza comercial",
+            "MRYN3xx/A": "Número de pieza comercial",
+            "MRYQ3xx/A": "Número de pieza comercial",
+            "MRYT3xx/A": "Número de pieza comercial",
+            "MRYV3xx/A": "Número de pieza comercial",
+            "MXD13xx/A": "Número de pieza comercial",
+            "MXD23xx/A": "Número de pieza comercial",
+            "MXD33xx/A": "Número de pieza comercial",
+            "MXD43xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_13_pulgadas,_m3,_2024": {
@@ -3049,28 +3079,28 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2024-macbook-air-13in-m3-colors.png",
         "colores": [
             "Blanco estrella",
-            "Medianoche",
+            "Plata",
             "Gris espacial",
-            "Plata"
+            "Medianoche"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
             "A3113": "Número de chasis (Físico)",
-            "Mac15": "Identificador interno (Sistema Mac)",
-            "MRXN3xx/A": "Número de pieza (Caja)",
-            "MRXQ3xx/A": "Número de pieza (Caja)",
-            "MRXT3xx/A": "Número de pieza (Caja)",
-            "MRXV3xx/A": "Número de pieza (Caja)",
-            "MRXP3xx/A": "Número de pieza (Caja)",
-            "MRXR3xx/A": "Número de pieza (Caja)",
-            "MRXU3xx/A": "Número de pieza (Caja)",
-            "MRXW3xx/A": "Número de pieza (Caja)",
-            "MXCR3xx/A": "Número de pieza (Caja)",
-            "MXCT3xx/A": "Número de pieza (Caja)",
-            "MXCU3xx/A": "Número de pieza (Caja)",
-            "MXCV3xx/A": "Número de pieza (Caja)"
+            "Mac15": "Identificador interno (Sistema)",
+            "MRXN3xx/A": "Número de pieza comercial",
+            "MRXQ3xx/A": "Número de pieza comercial",
+            "MRXT3xx/A": "Número de pieza comercial",
+            "MRXV3xx/A": "Número de pieza comercial",
+            "MRXP3xx/A": "Número de pieza comercial",
+            "MRXR3xx/A": "Número de pieza comercial",
+            "MRXU3xx/A": "Número de pieza comercial",
+            "MRXW3xx/A": "Número de pieza comercial",
+            "MXCR3xx/A": "Número de pieza comercial",
+            "MXCT3xx/A": "Número de pieza comercial",
+            "MXCU3xx/A": "Número de pieza comercial",
+            "MXCV3xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_15_pulgadas,_m2,_2023": {
@@ -3080,23 +3110,23 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2023-macbook-air-15in-m2-colors.png",
         "colores": [
             "Blanco estrella",
-            "Medianoche",
+            "Plata",
             "Gris espacial",
-            "Plata"
+            "Medianoche"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
             "A2941": "Número de chasis (Físico)",
-            "MQKP3xx/A": "Número de pieza (Caja)",
-            "MQKQ3xx/A": "Número de pieza (Caja)",
-            "MQKR3xx/A": "Número de pieza (Caja)",
-            "MQKT3xx/A": "Número de pieza (Caja)",
-            "MQKU3xx/A": "Número de pieza (Caja)",
-            "MQKV3xx/A": "Número de pieza (Caja)",
-            "MQKW3xx/A": "Número de pieza (Caja)",
-            "MQKX3xx/A": "Número de pieza (Caja)"
+            "MQKP3xx/A": "Número de pieza comercial",
+            "MQKQ3xx/A": "Número de pieza comercial",
+            "MQKR3xx/A": "Número de pieza comercial",
+            "MQKT3xx/A": "Número de pieza comercial",
+            "MQKU3xx/A": "Número de pieza comercial",
+            "MQKV3xx/A": "Número de pieza comercial",
+            "MQKW3xx/A": "Número de pieza comercial",
+            "MQKX3xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_m2,_2022": {
@@ -3106,22 +3136,22 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2022-macbook-air-m2-colors.png",
         "colores": [
             "Blanco estrella",
-            "Medianoche",
+            "Plata",
             "Gris espacial",
-            "Plata"
+            "Medianoche"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MLXW3xx/A": "Número de pieza (Caja)",
-            "MLXX3xx/A": "Número de pieza (Caja)",
-            "MLXY3xx/A": "Número de pieza (Caja)",
-            "MLY03xx/A": "Número de pieza (Caja)",
-            "MLY13xx/A": "Número de pieza (Caja)",
-            "MLY23xx/A": "Número de pieza (Caja)",
-            "MLY33xx/A": "Número de pieza (Caja)",
-            "MLY43xx/A": "Número de pieza (Caja)"
+            "MLXW3xx/A": "Número de pieza comercial",
+            "MLXX3xx/A": "Número de pieza comercial",
+            "MLXY3xx/A": "Número de pieza comercial",
+            "MLY03xx/A": "Número de pieza comercial",
+            "MLY13xx/A": "Número de pieza comercial",
+            "MLY23xx/A": "Número de pieza comercial",
+            "MLY33xx/A": "Número de pieza comercial",
+            "MLY43xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_m1,_2020": {
@@ -3138,12 +3168,12 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MGN63xx/A": "Número de pieza (Caja)",
-            "MGN93xx/A": "Número de pieza (Caja)",
-            "MGND3xx/A": "Número de pieza (Caja)",
-            "MGN73xx/A": "Número de pieza (Caja)",
-            "MGNA3xx/A": "Número de pieza (Caja)",
-            "MGNE3xx/A": "Número de pieza (Caja)"
+            "MGN63xx/A": "Número de pieza comercial",
+            "MGN93xx/A": "Número de pieza comercial",
+            "MGND3xx/A": "Número de pieza comercial",
+            "MGN73xx/A": "Número de pieza comercial",
+            "MGNA3xx/A": "Número de pieza comercial",
+            "MGNE3xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_retina,_13_pulgadas,_2020": {
@@ -3161,12 +3191,12 @@
         ],
         "modelos": {
             "A2179": "Número de chasis (Físico)",
-            "MVH22xx/A": "Número de pieza (Caja)",
-            "MVH42xx/A": "Número de pieza (Caja)",
-            "MVH52xx/A": "Número de pieza (Caja)",
-            "MWTJ2xx/A": "Número de pieza (Caja)",
-            "MWTK2xx/A": "Número de pieza (Caja)",
-            "MWTL2xx/A": "Número de pieza (Caja)"
+            "MVH22xx/A": "Número de pieza comercial",
+            "MVH42xx/A": "Número de pieza comercial",
+            "MVH52xx/A": "Número de pieza comercial",
+            "MWTJ2xx/A": "Número de pieza comercial",
+            "MWTK2xx/A": "Número de pieza comercial",
+            "MWTL2xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_retina,_13_pulgadas,_2019": {
@@ -3184,14 +3214,14 @@
         ],
         "modelos": {
             "A1932": "Número de chasis (Físico)",
-            "MVFH2xx/A": "Número de pieza (Caja)",
-            "MVFJ2xx/A": "Número de pieza (Caja)",
-            "MVFK2xx/A": "Número de pieza (Caja)",
-            "MVFL2xx/A": "Número de pieza (Caja)",
-            "MVFM2xx/A": "Número de pieza (Caja)",
-            "MVFN2xx/A": "Número de pieza (Caja)",
-            "MVH62xx/A": "Número de pieza (Caja)",
-            "MVH82xx/A": "Número de pieza (Caja)"
+            "MVFH2xx/A": "Número de pieza comercial",
+            "MVFJ2xx/A": "Número de pieza comercial",
+            "MVFK2xx/A": "Número de pieza comercial",
+            "MVFL2xx/A": "Número de pieza comercial",
+            "MVFM2xx/A": "Número de pieza comercial",
+            "MVFN2xx/A": "Número de pieza comercial",
+            "MVH62xx/A": "Número de pieza comercial",
+            "MVH82xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_retina,_13_pulgadas,_2018": {
@@ -3209,15 +3239,15 @@
         ],
         "modelos": {
             "A1932": "Número de chasis (Físico)",
-            "MRE82xx/A": "Número de pieza (Caja)",
-            "MREA2xx/A": "Número de pieza (Caja)",
-            "MREE2xx/A": "Número de pieza (Caja)",
-            "MRE92xx/A": "Número de pieza (Caja)",
-            "MREC2xx/A": "Número de pieza (Caja)",
-            "MREF2xx/A": "Número de pieza (Caja)",
-            "MUQT2xx/A": "Número de pieza (Caja)",
-            "MUQU2xx/A": "Número de pieza (Caja)",
-            "MUQV2xx/A": "Número de pieza (Caja)"
+            "MRE82xx/A": "Número de pieza comercial",
+            "MREA2xx/A": "Número de pieza comercial",
+            "MREE2xx/A": "Número de pieza comercial",
+            "MRE92xx/A": "Número de pieza comercial",
+            "MREC2xx/A": "Número de pieza comercial",
+            "MREF2xx/A": "Número de pieza comercial",
+            "MUQT2xx/A": "Número de pieza comercial",
+            "MUQU2xx/A": "Número de pieza comercial",
+            "MUQV2xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_13_pulgadas,_2017": {
@@ -3233,9 +3263,9 @@
         ],
         "modelos": {
             "A1466": "Número de chasis (Físico)",
-            "MQD32xx/A": "Número de pieza (Caja)",
-            "MQD42xx/A": "Número de pieza (Caja)",
-            "MQD52xx/A": "Número de pieza (Caja)"
+            "MQD32xx/A": "Número de pieza comercial",
+            "MQD42xx/A": "Número de pieza comercial",
+            "MQD52xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_13_pulgadas,_principios_de_2015": {
@@ -3251,10 +3281,10 @@
         ],
         "modelos": {
             "A1466": "Número de chasis (Físico)",
-            "MJVE2xx/A": "Número de pieza (Caja)",
-            "MJVG2xx/A": "Número de pieza (Caja)",
-            "MMGF2xx/A": "Número de pieza (Caja)",
-            "MMGG2xx/A": "Número de pieza (Caja)"
+            "MJVE2xx/A": "Número de pieza comercial",
+            "MJVG2xx/A": "Número de pieza comercial",
+            "MMGF2xx/A": "Número de pieza comercial",
+            "MMGG2xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_11_pulgadas,_principios_de_2015": {
@@ -3270,8 +3300,8 @@
         ],
         "modelos": {
             "A1465": "Número de chasis (Físico)",
-            "MJVM2xx/A": "Número de pieza (Caja)",
-            "MJVP2xx/A": "Número de pieza (Caja)"
+            "MJVM2xx/A": "Número de pieza comercial",
+            "MJVP2xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_13_pulgadas,_principios_de_2014": {
@@ -3287,8 +3317,8 @@
         ],
         "modelos": {
             "A1466": "Número de chasis (Físico)",
-            "MD760xx/B": "Número de pieza (Caja)",
-            "MD761xx/B": "Número de pieza (Caja)"
+            "MD760xx/B": "Número de pieza comercial",
+            "MD761xx/B": "Número de pieza comercial"
         }
     },
     "macbook_air_11_pulgadas,_principios_de_2014": {
@@ -3304,8 +3334,8 @@
         ],
         "modelos": {
             "A1465": "Número de chasis (Físico)",
-            "MD711xx/B": "Número de pieza (Caja)",
-            "MD712xx/B": "Número de pieza (Caja)"
+            "MD711xx/B": "Número de pieza comercial",
+            "MD712xx/B": "Número de pieza comercial"
         }
     },
     "macbook_air_13_pulgadas,_mediados_de_2013": {
@@ -3321,8 +3351,8 @@
         ],
         "modelos": {
             "A1466": "Número de chasis (Físico)",
-            "MD760xx/A": "Número de pieza (Caja)",
-            "MD761xx/A": "Número de pieza (Caja)"
+            "MD760xx/A": "Número de pieza comercial",
+            "MD761xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_11_pulgadas,_mediados_de_2013": {
@@ -3338,8 +3368,8 @@
         ],
         "modelos": {
             "A1465": "Número de chasis (Físico)",
-            "MD711xx/A": "Número de pieza (Caja)",
-            "MD712xx/A": "Número de pieza (Caja)"
+            "MD711xx/A": "Número de pieza comercial",
+            "MD712xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_13_pulgadas,_mediados_de_2012": {
@@ -3355,8 +3385,8 @@
         ],
         "modelos": {
             "A1466": "Número de chasis (Físico)",
-            "MD231xx/A": "Número de pieza (Caja)",
-            "MD232xx/A": "Número de pieza (Caja)"
+            "MD231xx/A": "Número de pieza comercial",
+            "MD232xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_11_pulgadas,_mediados_de_2012": {
@@ -3372,8 +3402,8 @@
         ],
         "modelos": {
             "A1465": "Número de chasis (Físico)",
-            "MD223xx/A": "Número de pieza (Caja)",
-            "MD224xx/A": "Número de pieza (Caja)"
+            "MD223xx/A": "Número de pieza comercial",
+            "MD224xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_13_pulgadas,_mediados_de_2011": {
@@ -3389,8 +3419,8 @@
         ],
         "modelos": {
             "A1370": "Número de chasis (Físico)",
-            "MC965xx/A": "Número de pieza (Caja)",
-            "MC966xx/A": "Número de pieza (Caja)"
+            "MC965xx/A": "Número de pieza comercial",
+            "MC966xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_11_pulgadas,_mediados_de_2011": {
@@ -3406,8 +3436,8 @@
         ],
         "modelos": {
             "A1370": "Número de chasis (Físico)",
-            "MC968xx/A": "Número de pieza (Caja)",
-            "MC969xx/A": "Número de pieza (Caja)"
+            "MC968xx/A": "Número de pieza comercial",
+            "MC969xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_13_pulgadas,_finales_de_2010": {
@@ -3423,8 +3453,8 @@
         ],
         "modelos": {
             "A1369": "Número de chasis (Físico)",
-            "MC503xx/A": "Número de pieza (Caja)",
-            "MC504xx/A": "Número de pieza (Caja)"
+            "MC503xx/A": "Número de pieza comercial",
+            "MC504xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_11_pulgadas,_finales_de_2010": {
@@ -3440,8 +3470,8 @@
         ],
         "modelos": {
             "A1370": "Número de chasis (Físico)",
-            "MC505xx/A": "Número de pieza (Caja)",
-            "MC506xx/A": "Número de pieza (Caja)"
+            "MC505xx/A": "Número de pieza comercial",
+            "MC506xx/A": "Número de pieza comercial"
         }
     },
     "macbook_air_mediados_de_2009": {
@@ -3456,9 +3486,24 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MC505xx/A": "Número de pieza (Caja)",
-            "MC233xx/A": "Número de pieza (Caja)",
-            "MC234xx/A": "Número de pieza (Caja)"
+            "MC505xx/A": "Número de pieza comercial",
+            "MC233xx/A": "Número de pieza comercial",
+            "MC234xx/A": "Número de pieza comercial"
+        }
+    },
+    "lista_de_modelos_de_macbook": {
+        "categoria": "Mac",
+        "nombre": "Lista de modelos de MacBook",
+        "año": 2024,
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "A1181": "Número de chasis (Físico)"
         }
     },
     "imac_24_pulgadas,_2024,_cuatro_puertos": {
@@ -3467,61 +3512,62 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2024-four-ports-colors.png",
         "colores": [
+            "Morado",
             "Rosa",
             "Azul",
+            "Verde",
             "Plata",
-            "Morado",
             "Naranja",
-            "Amarillo",
-            "Verde"
+            "Amarillo"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MCR24xx/A": "Número de pieza (Caja)",
-            "MD2P4xx/A": "Número de pieza (Caja)",
-            "MD2Q4xx/A": "Número de pieza (Caja)",
-            "MD2T4xx/A": "Número de pieza (Caja)",
-            "MD2U4xx/A": "Número de pieza (Caja)",
-            "MD2V4xx/A": "Número de pieza (Caja)",
-            "MD2W4xx/A": "Número de pieza (Caja)",
-            "MD2X4xx/A": "Número de pieza (Caja)",
-            "MD2Y4xx/A": "Número de pieza (Caja)",
-            "MD3A4xx/A": "Número de pieza (Caja)",
-            "MD3D4xx/A": "Número de pieza (Caja)",
-            "MD3E4xx/A": "Número de pieza (Caja)",
-            "MD3F4xx/A": "Número de pieza (Caja)",
-            "MD3G4xx/A": "Número de pieza (Caja)",
-            "MD3H4xx/A": "Número de pieza (Caja)",
-            "MWUU3xx/A": "Número de pieza (Caja)",
-            "MWUV3xx/A": "Número de pieza (Caja)",
-            "MWUW3xx/A": "Número de pieza (Caja)",
-            "MWUX3xx/A": "Número de pieza (Caja)",
-            "MWUY3xx/A": "Número de pieza (Caja)",
-            "MWV03xx/A": "Número de pieza (Caja)",
-            "MWV13xx/A": "Número de pieza (Caja)",
-            "MWV33xx/A": "Número de pieza (Caja)",
-            "MWV43xx/A": "Número de pieza (Caja)",
-            "MWV53xx/A": "Número de pieza (Caja)",
-            "MWV63xx/A": "Número de pieza (Caja)",
-            "MWV73xx/A": "Número de pieza (Caja)",
-            "MWV83xx/A": "Número de pieza (Caja)",
-            "MWV93xx/A": "Número de pieza (Caja)",
-            "MWVA3xx/A": "Número de pieza (Caja)",
-            "MWVC3xx/A": "Número de pieza (Caja)",
-            "MWVD3xx/A": "Número de pieza (Caja)",
-            "MWVE3xx/A": "Número de pieza (Caja)",
-            "MWVF3xx/A": "Número de pieza (Caja)",
-            "MWVG3xx/A": "Número de pieza (Caja)",
-            "MWVH3xx/A": "Número de pieza (Caja)",
-            "MWVJ3xx/A": "Número de pieza (Caja)",
-            "MWVK3xx/A": "Número de pieza (Caja)",
-            "MWVL3xx/A": "Número de pieza (Caja)",
-            "MWVN3xx/A": "Número de pieza (Caja)",
-            "MWVP3xx/A": "Número de pieza (Caja)",
-            "MWVQ3xx/A": "Número de pieza (Caja)",
-            "MWVR3xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "MCR24xx/A": "Número de pieza comercial",
+            "MD2P4xx/A": "Número de pieza comercial",
+            "MD2Q4xx/A": "Número de pieza comercial",
+            "MD2T4xx/A": "Número de pieza comercial",
+            "MD2U4xx/A": "Número de pieza comercial",
+            "MD2V4xx/A": "Número de pieza comercial",
+            "MD2W4xx/A": "Número de pieza comercial",
+            "MD2X4xx/A": "Número de pieza comercial",
+            "MD2Y4xx/A": "Número de pieza comercial",
+            "MD3A4xx/A": "Número de pieza comercial",
+            "MD3D4xx/A": "Número de pieza comercial",
+            "MD3E4xx/A": "Número de pieza comercial",
+            "MD3F4xx/A": "Número de pieza comercial",
+            "MD3G4xx/A": "Número de pieza comercial",
+            "MD3H4xx/A": "Número de pieza comercial",
+            "MWUU3xx/A": "Número de pieza comercial",
+            "MWUV3xx/A": "Número de pieza comercial",
+            "MWUW3xx/A": "Número de pieza comercial",
+            "MWUX3xx/A": "Número de pieza comercial",
+            "MWUY3xx/A": "Número de pieza comercial",
+            "MWV03xx/A": "Número de pieza comercial",
+            "MWV13xx/A": "Número de pieza comercial",
+            "MWV33xx/A": "Número de pieza comercial",
+            "MWV43xx/A": "Número de pieza comercial",
+            "MWV53xx/A": "Número de pieza comercial",
+            "MWV63xx/A": "Número de pieza comercial",
+            "MWV73xx/A": "Número de pieza comercial",
+            "MWV83xx/A": "Número de pieza comercial",
+            "MWV93xx/A": "Número de pieza comercial",
+            "MWVA3xx/A": "Número de pieza comercial",
+            "MWVC3xx/A": "Número de pieza comercial",
+            "MWVD3xx/A": "Número de pieza comercial",
+            "MWVE3xx/A": "Número de pieza comercial",
+            "MWVF3xx/A": "Número de pieza comercial",
+            "MWVG3xx/A": "Número de pieza comercial",
+            "MWVH3xx/A": "Número de pieza comercial",
+            "MWVJ3xx/A": "Número de pieza comercial",
+            "MWVK3xx/A": "Número de pieza comercial",
+            "MWVL3xx/A": "Número de pieza comercial",
+            "MWVN3xx/A": "Número de pieza comercial",
+            "MWVP3xx/A": "Número de pieza comercial",
+            "MWVQ3xx/A": "Número de pieza comercial",
+            "MWVR3xx/A": "Número de pieza comercial"
         }
     },
     "imac_24_pulgadas,_2024,_dos_puertos": {
@@ -3530,82 +3576,83 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2023-two-ports-colors.png",
         "colores": [
-            "Mqrk3xx/a",
-            "Dos puertos) manual de uso del imac (24 pulgadas",
-            "Azul",
-            "Mqrx3xx/a",
-            "Plata",
-            "Verde identificador de modelo: mac15",
-            "Morado",
-            "Amarillo",
-            "Mqry3xx/a sistema operativo compatible más reciente: macos tahoe 26 especificaciones técnicas para imac (24 pulgadas",
-            "Verde",
-            "Mqrd3xx/a sistema operativo compatible más reciente: macos tahoe 26 especificaciones técnicas para imac (24 pulgadas",
-            "Cuatro puertos) manual de uso del mac (24 pulgadas",
-            "Mqrc3xx/a",
-            "5 números de pieza: mqrj3xx/a",
-            "Mqrr3xx/a",
-            "4 números de pieza: mqr93xx/a",
-            "Mqrq3xx/a",
-            "Mqrt3xx/a",
-            "Dos puertos)",
-            "Mqrl3xx/a",
             "Rosa",
-            "Mqrv3xx/a",
-            "2023",
-            "Naranja",
-            "Mqru3xx/a",
-            "Cuatro puertos)",
+            "Dos puertos)",
+            "Dos puertos) manual de uso del imac (24 pulgadas",
             "Mqrp3xx/a",
+            "Cuatro puertos) manual de uso del mac (24 pulgadas",
+            "Mqry3xx/a sistema operativo compatible más reciente: macos tahoe 26 especificaciones técnicas para imac (24 pulgadas",
             "Mqrw3xx/a",
-            "Mqrn3xx/a",
-            "Mqra3xx/a",
+            "Mqrc3xx/a",
+            "Verde",
             "Amarillo identificador de modelo: mac15",
-            "Mqrm3xx/a"
+            "4 números de pieza: mqr93xx/a",
+            "Plata",
+            "Naranja",
+            "Mqrt3xx/a",
+            "Morado",
+            "Mqrl3xx/a",
+            "Mqrx3xx/a",
+            "2023",
+            "Mqrv3xx/a",
+            "Mqru3xx/a",
+            "Mqrr3xx/a",
+            "Amarillo",
+            "Cuatro puertos)",
+            "Mqrk3xx/a",
+            "Verde identificador de modelo: mac15",
+            "Mqrm3xx/a",
+            "Mqrd3xx/a sistema operativo compatible más reciente: macos tahoe 26 especificaciones técnicas para imac (24 pulgadas",
+            "Mqrn3xx/a",
+            "Azul",
+            "Mqra3xx/a",
+            "Mqrq3xx/a",
+            "5 números de pieza: mqrj3xx/a"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MWUD3xx/A": "Número de pieza (Caja)",
-            "MWUE3xx/A": "Número de pieza (Caja)",
-            "MWUF3xx/A": "Número de pieza (Caja)",
-            "MWUG3xx/A": "Número de pieza (Caja)",
-            "MWUH3xx/A": "Número de pieza (Caja)",
-            "MWUJ3xx/A": "Número de pieza (Caja)",
-            "MWUK3xx/A": "Número de pieza (Caja)",
-            "MWUL3xx/A": "Número de pieza (Caja)",
-            "MWUN3xx/A": "Número de pieza (Caja)",
-            "MWUQ3xx/A": "Número de pieza (Caja)",
-            "MWUR3xx/A": "Número de pieza (Caja)",
-            "MWUT3xx/A": "Número de pieza (Caja)",
-            "Mac15": "Identificador interno (Sistema Mac)",
-            "5 Números de pieza: MQRJ3xx/A": "Identificador interno (Sistema Mac)",
-            "MQRK3xx/A": "Número de pieza (Caja)",
-            "MQRL3xx/A": "Número de pieza (Caja)",
-            "MQRM3xx/A": "Número de pieza (Caja)",
-            "MQRN3xx/A": "Número de pieza (Caja)",
-            "MQRP3xx/A": "Número de pieza (Caja)",
-            "MQRQ3xx/A": "Número de pieza (Caja)",
-            "MQRR3xx/A": "Número de pieza (Caja)",
-            "MQRT3xx/A": "Número de pieza (Caja)",
-            "MQRU3xx/A": "Número de pieza (Caja)",
-            "MQRV3xx/A": "Número de pieza (Caja)",
-            "MQRW3xx/A": "Número de pieza (Caja)",
-            "MQRX3xx/A": "Número de pieza (Caja)",
-            "MQRY3xx/A Sistema operativo compatible más reciente: macOS Tahoe 26 Especificaciones técnicas para iMac (24 pulgadas": "Identificador interno (Sistema Mac)",
-            "cuatro puertos) Manual de uso del Mac (24 pulgadas": "Identificador interno (Sistema Mac)",
-            "cuatro puertos)": "Identificador interno (Sistema Mac)",
-            "MQRJ3xx/A": "Número de pieza (Caja)",
-            "MQRY3xx/A": "Número de pieza (Caja)",
-            "4 Números de pieza: MQR93xx/A": "Identificador interno (Sistema Mac)",
-            "MQRA3xx/A": "Número de pieza (Caja)",
-            "MQRC3xx/A": "Número de pieza (Caja)",
-            "MQRD3xx/A Sistema operativo compatible más reciente: macOS Tahoe 26 Especificaciones técnicas para iMac (24 pulgadas": "Identificador interno (Sistema Mac)",
-            "dos puertos) Manual de uso del iMac (24 pulgadas": "Identificador interno (Sistema Mac)",
-            "dos puertos)": "Identificador interno (Sistema Mac)",
-            "MQR93xx/A": "Número de pieza (Caja)",
-            "MQRD3xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "MWUD3xx/A": "Número de pieza comercial",
+            "MWUE3xx/A": "Número de pieza comercial",
+            "MWUF3xx/A": "Número de pieza comercial",
+            "MWUG3xx/A": "Número de pieza comercial",
+            "MWUH3xx/A": "Número de pieza comercial",
+            "MWUJ3xx/A": "Número de pieza comercial",
+            "MWUK3xx/A": "Número de pieza comercial",
+            "MWUL3xx/A": "Número de pieza comercial",
+            "MWUN3xx/A": "Número de pieza comercial",
+            "MWUQ3xx/A": "Número de pieza comercial",
+            "MWUR3xx/A": "Número de pieza comercial",
+            "MWUT3xx/A": "Número de pieza comercial",
+            "Mac15": "Identificador interno (Sistema)",
+            "5 Números de pieza: MQRJ3xx/A": "Identificador interno (Sistema)",
+            "MQRK3xx/A": "Número de pieza comercial",
+            "MQRL3xx/A": "Número de pieza comercial",
+            "MQRM3xx/A": "Número de pieza comercial",
+            "MQRN3xx/A": "Número de pieza comercial",
+            "MQRP3xx/A": "Número de pieza comercial",
+            "MQRQ3xx/A": "Número de pieza comercial",
+            "MQRR3xx/A": "Número de pieza comercial",
+            "MQRT3xx/A": "Número de pieza comercial",
+            "MQRU3xx/A": "Número de pieza comercial",
+            "MQRV3xx/A": "Número de pieza comercial",
+            "MQRW3xx/A": "Número de pieza comercial",
+            "MQRX3xx/A": "Número de pieza comercial",
+            "MQRY3xx/A Sistema operativo compatible más reciente: macOS Tahoe 26 Especificaciones técnicas para iMac (24 pulgadas": "Identificador interno (Sistema)",
+            "cuatro puertos) Manual de uso del Mac (24 pulgadas": "Identificador interno (Sistema)",
+            "cuatro puertos)": "Identificador interno (Sistema)",
+            "MQRJ3xx/A": "Número de pieza comercial",
+            "MQRY3xx/A": "Número de pieza comercial",
+            "4 Números de pieza: MQR93xx/A": "Identificador interno (Sistema)",
+            "MQRA3xx/A": "Número de pieza comercial",
+            "MQRC3xx/A": "Número de pieza comercial",
+            "MQRD3xx/A Sistema operativo compatible más reciente: macOS Tahoe 26 Especificaciones técnicas para iMac (24 pulgadas": "Identificador interno (Sistema)",
+            "dos puertos) Manual de uso del iMac (24 pulgadas": "Identificador interno (Sistema)",
+            "dos puertos)": "Identificador interno (Sistema)",
+            "MQR93xx/A": "Número de pieza comercial",
+            "MQRD3xx/A": "Número de pieza comercial"
         }
     },
     "imac_24_pulgadas,_2023,_cuatro_puertos": {
@@ -3614,34 +3661,34 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2023-four-ports-colors.png",
         "colores": [
+            "Morado",
             "Rosa",
             "Azul",
+            "Verde",
             "Plata",
-            "Morado",
             "Naranja",
-            "Amarillo",
-            "Verde"
+            "Amarillo"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A2902": "Número de chasis (Físico)",
-            "Mac15": "Identificador interno (Sistema Mac)",
-            "MQRJ3xx/A": "Número de pieza (Caja)",
-            "MQRK3xx/A": "Número de pieza (Caja)",
-            "MQRL3xx/A": "Número de pieza (Caja)",
-            "MQRM3xx/A": "Número de pieza (Caja)",
-            "MQRN3xx/A": "Número de pieza (Caja)",
-            "MQRP3xx/A": "Número de pieza (Caja)",
-            "MQRQ3xx/A": "Número de pieza (Caja)",
-            "MQRR3xx/A": "Número de pieza (Caja)",
-            "MQRT3xx/A": "Número de pieza (Caja)",
-            "MQRU3xx/A": "Número de pieza (Caja)",
-            "MQRV3xx/A": "Número de pieza (Caja)",
-            "MQRW3xx/A": "Número de pieza (Caja)",
-            "MQRX3xx/A": "Número de pieza (Caja)",
-            "MQRY3xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "Mac15": "Identificador interno (Sistema)",
+            "MQRJ3xx/A": "Número de pieza comercial",
+            "MQRK3xx/A": "Número de pieza comercial",
+            "MQRL3xx/A": "Número de pieza comercial",
+            "MQRM3xx/A": "Número de pieza comercial",
+            "MQRN3xx/A": "Número de pieza comercial",
+            "MQRP3xx/A": "Número de pieza comercial",
+            "MQRQ3xx/A": "Número de pieza comercial",
+            "MQRR3xx/A": "Número de pieza comercial",
+            "MQRT3xx/A": "Número de pieza comercial",
+            "MQRU3xx/A": "Número de pieza comercial",
+            "MQRV3xx/A": "Número de pieza comercial",
+            "MQRW3xx/A": "Número de pieza comercial",
+            "MQRX3xx/A": "Número de pieza comercial",
+            "MQRY3xx/A": "Número de pieza comercial"
         }
     },
     "imac_24_pulgadas,_2023,_dos_puertos": {
@@ -3650,21 +3697,21 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2023-two-ports-colors.png",
         "colores": [
-            "Rosa",
-            "Azul",
             "Verde",
-            "Plata"
+            "Rosa",
+            "Plata",
+            "Azul"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A2902": "Número de chasis (Físico)",
-            "Mac15": "Identificador interno (Sistema Mac)",
-            "MQR93xx/A": "Número de pieza (Caja)",
-            "MQRA3xx/A": "Número de pieza (Caja)",
-            "MQRC3xx/A": "Número de pieza (Caja)",
-            "MQRD3xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "Mac15": "Identificador interno (Sistema)",
+            "MQR93xx/A": "Número de pieza comercial",
+            "MQRA3xx/A": "Número de pieza comercial",
+            "MQRC3xx/A": "Número de pieza comercial",
+            "MQRD3xx/A": "Número de pieza comercial"
         }
     },
     "imac_24_pulgadas,_m1,_2021": {
@@ -3673,22 +3720,21 @@
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/id-imac-24-2021-2.png",
         "colores": [
-            "Rosa",
-            "Azul",
             "Verde",
-            "Plata"
+            "Rosa",
+            "Plata",
+            "Azul"
         ],
         "capacidades": [
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A2438": "Número de chasis (Físico)",
-            "A2439": "Número de chasis (Físico)",
-            "iMac21": "Identificador interno (Sistema Mac)",
-            "MGTF3xx/a": "Número de pieza (Caja)",
-            "MJV83xx/a": "Número de pieza (Caja)",
-            "MJV93xx/a": "Número de pieza (Caja)",
-            "MJVA3xx/a": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac21": "Identificador interno (Sistema)",
+            "MGTF3xx/a": "Número de pieza comercial",
+            "MJV83xx/a": "Número de pieza comercial",
+            "MJV93xx/a": "Número de pieza comercial",
+            "MJVA3xx/a": "Número de pieza comercial"
         }
     },
     "imac_retina_5k,_27_pulgadas,_2020": {
@@ -3703,11 +3749,11 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A2115": "Número de chasis (Físico)",
-            "iMac20": "Identificador interno (Sistema Mac)",
-            "MXWT2xx/A": "Número de pieza (Caja)",
-            "MXWU2xx/A": "Número de pieza (Caja)",
-            "MXWV2xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac20": "Identificador interno (Sistema)",
+            "MXWT2xx/A": "Número de pieza comercial",
+            "MXWU2xx/A": "Número de pieza comercial",
+            "MXWV2xx/A": "Número de pieza comercial"
         }
     },
     "imac_retina_5k,_27_pulgadas,_2019": {
@@ -3722,10 +3768,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A2115": "Número de chasis (Físico)",
-            "iMac19": "Identificador interno (Sistema Mac)",
-            "MRR0xx/A": "Número de pieza (Caja)",
-            "MRR1xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac19": "Identificador interno (Sistema)",
+            "MRR0xx/A": "Número de pieza comercial",
+            "MRR1xx/A": "Número de pieza comercial"
         }
     },
     "imac_retina_4k,_21,5_pulgadas,_2019": {
@@ -3740,11 +3786,11 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A2116": "Número de chasis (Físico)",
-            "iMac19": "Identificador interno (Sistema Mac)",
-            "MRT3xx/A": "Número de pieza (Caja)",
-            "MRT4xx/A": "Número de pieza (Caja)",
-            "MHK23xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac19": "Identificador interno (Sistema)",
+            "MRT3xx/A": "Número de pieza comercial",
+            "MRT4xx/A": "Número de pieza comercial",
+            "MHK23xx/A": "Número de pieza comercial"
         }
     },
     "imac_pro_2017": {
@@ -3759,9 +3805,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "iMacPro1": "Identificador interno (Sistema Mac)",
-            "MQ2Y2xx/A": "Número de pieza (Caja)",
-            "MHLV3xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMacPro1": "Identificador interno (Sistema)",
+            "MQ2Y2xx/A": "Número de pieza comercial",
+            "MHLV3xx/A": "Número de pieza comercial"
         }
     },
     "imac_retina_5k,_27_pulgadas,_2017": {
@@ -3776,11 +3823,11 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1419": "Número de chasis (Físico)",
-            "iMac18": "Identificador interno (Sistema Mac)",
-            "MNE92xx/A": "Número de pieza (Caja)",
-            "MNEA2xx/A": "Número de pieza (Caja)",
-            "MNED2xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac18": "Identificador interno (Sistema)",
+            "MNE92xx/A": "Número de pieza comercial",
+            "MNEA2xx/A": "Número de pieza comercial",
+            "MNED2xx/A": "Número de pieza comercial"
         }
     },
     "imac_retina_4k,_21,5_pulgadas,_2017": {
@@ -3795,10 +3842,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1418": "Número de chasis (Físico)",
-            "iMac18": "Identificador interno (Sistema Mac)",
-            "MNDY2xx/A": "Número de pieza (Caja)",
-            "MNE02xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac18": "Identificador interno (Sistema)",
+            "MNDY2xx/A": "Número de pieza comercial",
+            "MNE02xx/A": "Número de pieza comercial"
         }
     },
     "imac_21,5_pulgadas,_2017": {
@@ -3813,10 +3860,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1418": "Número de chasis (Físico)",
-            "iMac18": "Identificador interno (Sistema Mac)",
-            "MMQA2xx/A": "Número de pieza (Caja)",
-            "MHK03xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac18": "Identificador interno (Sistema)",
+            "MMQA2xx/A": "Número de pieza comercial",
+            "MHK03xx/A": "Número de pieza comercial"
         }
     },
     "imac_retina_5k,_27_pulgadas,_finales_de_2015": {
@@ -3831,11 +3878,11 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1419": "Número de chasis (Físico)",
-            "iMac17": "Identificador interno (Sistema Mac)",
-            "MK462xx/A": "Número de pieza (Caja)",
-            "MK472xx/A": "Número de pieza (Caja)",
-            "MK482xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac17": "Identificador interno (Sistema)",
+            "MK462xx/A": "Número de pieza comercial",
+            "MK472xx/A": "Número de pieza comercial",
+            "MK482xx/A": "Número de pieza comercial"
         }
     },
     "imac_retina_4k,_21,5_pulgadas,_finales_de_2015": {
@@ -3850,9 +3897,9 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1418": "Número de chasis (Físico)",
-            "iMac16": "Identificador interno (Sistema Mac)",
-            "MK452xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac16": "Identificador interno (Sistema)",
+            "MK452xx/A": "Número de pieza comercial"
         }
     },
     "imac_21,5_pulgadas,_finales_de_2015": {
@@ -3867,10 +3914,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1418": "Número de chasis (Físico)",
-            "iMac16": "Identificador interno (Sistema Mac)",
-            "MK142xx/A": "Número de pieza (Caja)",
-            "MK442xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac16": "Identificador interno (Sistema)",
+            "MK142xx/A": "Número de pieza comercial",
+            "MK442xx/A": "Número de pieza comercial"
         }
     },
     "imac_retina_5k,_27_pulgadas,_mediados_de_2015": {
@@ -3885,9 +3932,9 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1419": "Número de chasis (Físico)",
-            "iMac15": "Identificador interno (Sistema Mac)",
-            "MF885xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac15": "Identificador interno (Sistema)",
+            "MF885xx/A": "Número de pieza comercial"
         }
     },
     "imac_retina_5k,_27_pulgadas,_finales_de_2014": {
@@ -3902,9 +3949,9 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1419": "Número de chasis (Físico)",
-            "iMac15": "Identificador interno (Sistema Mac)",
-            "MF886xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac15": "Identificador interno (Sistema)",
+            "MF886xx/A": "Número de pieza comercial"
         }
     },
     "imac_21,5_pulgadas,_mediados_de_2014": {
@@ -3919,10 +3966,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1418": "Número de chasis (Físico)",
-            "iMac14": "Identificador interno (Sistema Mac)",
-            "MF883xx/A": "Número de pieza (Caja)",
-            "MG022xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac14": "Identificador interno (Sistema)",
+            "MF883xx/A": "Número de pieza comercial",
+            "MG022xx/A": "Número de pieza comercial"
         }
     },
     "imac_27_pulgadas,_finales_de_2013": {
@@ -3937,10 +3984,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1419": "Número de chasis (Físico)",
-            "iMac14": "Identificador interno (Sistema Mac)",
-            "ME086xx/A": "Número de pieza (Caja)",
-            "ME088xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac14": "Identificador interno (Sistema)",
+            "ME086xx/A": "Número de pieza comercial",
+            "ME088xx/A": "Número de pieza comercial"
         }
     },
     "imac_21,5_pulgadas,_finales_de_2013": {
@@ -3955,10 +4002,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1418": "Número de chasis (Físico)",
-            "iMac14": "Identificador interno (Sistema Mac)",
-            "ME086xx/A": "Número de pieza (Caja)",
-            "ME087xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac14": "Identificador interno (Sistema)",
+            "ME086xx/A": "Número de pieza comercial",
+            "ME087xx/A": "Número de pieza comercial"
         }
     },
     "imac_27_pulgadas,_finales_de_2012": {
@@ -3973,10 +4020,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1419": "Número de chasis (Físico)",
-            "iMac13": "Identificador interno (Sistema Mac)",
-            "MD095xx/A": "Número de pieza (Caja)",
-            "MD096xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac13": "Identificador interno (Sistema)",
+            "MD095xx/A": "Número de pieza comercial",
+            "MD096xx/A": "Número de pieza comercial"
         }
     },
     "imac_21,5_pulgadas,_finales_de_2012": {
@@ -3991,10 +4038,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1418": "Número de chasis (Físico)",
-            "iMac13": "Identificador interno (Sistema Mac)",
-            "MD093xx/A": "Número de pieza (Caja)",
-            "MD094xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac13": "Identificador interno (Sistema)",
+            "MD093xx/A": "Número de pieza comercial",
+            "MD094xx/A": "Número de pieza comercial"
         }
     },
     "imac_27_pulgadas,_mediados_de_2011": {
@@ -4009,10 +4056,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1312": "Número de chasis (Físico)",
-            "iMac12": "Identificador interno (Sistema Mac)",
-            "MC813xx/A": "Número de pieza (Caja)",
-            "MC814xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac12": "Identificador interno (Sistema)",
+            "MC813xx/A": "Número de pieza comercial",
+            "MC814xx/A": "Número de pieza comercial"
         }
     },
     "imac_21,5_pulgadas,_mediados_de_2011": {
@@ -4027,10 +4074,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1311": "Número de chasis (Físico)",
-            "iMac12": "Identificador interno (Sistema Mac)",
-            "MC309xx/A": "Número de pieza (Caja)",
-            "MC812xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac12": "Identificador interno (Sistema)",
+            "MC309xx/A": "Número de pieza comercial",
+            "MC812xx/A": "Número de pieza comercial"
         }
     },
     "imac_27_pulgadas,_mediados_de_2010": {
@@ -4045,10 +4092,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1312": "Número de chasis (Físico)",
-            "iMac11": "Identificador interno (Sistema Mac)",
-            "MC510xx/A": "Número de pieza (Caja)",
-            "MC511xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac11": "Identificador interno (Sistema)",
+            "MC510xx/A": "Número de pieza comercial",
+            "MC511xx/A": "Número de pieza comercial"
         }
     },
     "imac_21,5_pulgadas,_mediados_de_2010": {
@@ -4063,10 +4110,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1311": "Número de chasis (Físico)",
-            "iMac11": "Identificador interno (Sistema Mac)",
-            "MC508xx/A": "Número de pieza (Caja)",
-            "MC509xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac11": "Identificador interno (Sistema)",
+            "MC508xx/A": "Número de pieza comercial",
+            "MC509xx/A": "Número de pieza comercial"
         }
     },
     "imac_27_pulgadas,_finales_de_2009": {
@@ -4081,10 +4128,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1312": "Número de chasis (Físico)",
-            "iMac10": "Identificador interno (Sistema Mac)",
-            "MB952xx/A": "Número de pieza (Caja)",
-            "MB953xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac10": "Identificador interno (Sistema)",
+            "MB952xx/A": "Número de pieza comercial",
+            "MB953xx/A": "Número de pieza comercial"
         }
     },
     "imac_21,5_pulgadas,_finales_de_2009": {
@@ -4099,10 +4146,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "A1311": "Número de chasis (Físico)",
-            "iMac10": "Identificador interno (Sistema Mac)",
-            "MB950xx/A": "Número de pieza (Caja)",
-            "MC413xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac10": "Identificador interno (Sistema)",
+            "MB950xx/A": "Número de pieza comercial",
+            "MC413xx/A": "Número de pieza comercial"
         }
     },
     "imac_24_pulgadas,_principios_de_2009": {
@@ -4117,9 +4164,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "iMac9": "Identificador interno (Sistema Mac)",
-            "MB418xx/A": "Número de pieza (Caja)",
-            "MB419xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac9": "Identificador interno (Sistema)",
+            "MB418xx/A": "Número de pieza comercial",
+            "MB419xx/A": "Número de pieza comercial"
         }
     },
     "imac_20_pulgadas,_principios_de_2009": {
@@ -4134,9 +4182,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "iMac9": "Identificador interno (Sistema Mac)",
-            "MB417xx/A": "Número de pieza (Caja)",
-            "MC019xx/A": "Número de pieza (Caja)"
+            "A1224": "Número de chasis (Físico)",
+            "iMac9": "Identificador interno (Sistema)",
+            "MB417xx/A": "Número de pieza comercial",
+            "MC019xx/A": "Número de pieza comercial"
         }
     },
     "mac_mini_2024": {
@@ -4151,13 +4200,13 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "MCX44xx/A": "Número de pieza (Caja)",
-            "MCYT4xx/A": "Número de pieza (Caja)",
-            "MDAP4xx/A": "Número de pieza (Caja)",
-            "MDAQ4xx/A": "Número de pieza (Caja)",
-            "MDAY4xx/A": "Número de pieza (Caja)",
-            "MU9D3xx/A": "Número de pieza (Caja)",
-            "MU9E3xx/A": "Número de pieza (Caja)"
+            "MCX44xx/A": "Número de pieza comercial",
+            "MCYT4xx/A": "Número de pieza comercial",
+            "MDAP4xx/A": "Número de pieza comercial",
+            "MDAQ4xx/A": "Número de pieza comercial",
+            "MDAY4xx/A": "Número de pieza comercial",
+            "MU9D3xx/A": "Número de pieza comercial",
+            "MU9E3xx/A": "Número de pieza comercial"
         }
     },
     "mac_mini_2023": {
@@ -4172,8 +4221,8 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "Mac14": "Identificador interno (Sistema Mac)",
-            "MNH73xx/A": "Número de pieza (Caja)"
+            "Mac14": "Identificador interno (Sistema)",
+            "MNH73xx/A": "Número de pieza comercial"
         }
     },
     "mac_mini_m1,_2020": {
@@ -4188,9 +4237,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "Macmini9": "Identificador interno (Sistema Mac)",
-            "MGNR3xx/A": "Número de pieza (Caja)",
-            "MGNT3xx/A": "Número de pieza (Caja)"
+            "A2348": "Número de chasis (Físico)",
+            "Macmini9": "Identificador interno (Sistema)",
+            "MGNR3xx/A": "Número de pieza comercial",
+            "MGNT3xx/A": "Número de pieza comercial"
         }
     },
     "mac_mini_2018": {
@@ -4205,11 +4255,12 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "Macmini8": "Identificador interno (Sistema Mac)",
-            "MRTR2xx/A": "Número de pieza (Caja)",
-            "MRTT2xx/A": "Número de pieza (Caja)",
-            "MXNF2xx/A": "Número de pieza (Caja)",
-            "MXNG2xx/A": "Número de pieza (Caja)"
+            "A1993": "Número de chasis (Físico)",
+            "Macmini8": "Identificador interno (Sistema)",
+            "MRTR2xx/A": "Número de pieza comercial",
+            "MRTT2xx/A": "Número de pieza comercial",
+            "MXNF2xx/A": "Número de pieza comercial",
+            "MXNG2xx/A": "Número de pieza comercial"
         }
     },
     "mac_mini_finales_de_2014": {
@@ -4224,10 +4275,11 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "Macmini7": "Identificador interno (Sistema Mac)",
-            "MGEM2xx/A": "Número de pieza (Caja)",
-            "MGEN2xx/A": "Número de pieza (Caja)",
-            "MGEQ2xx/A": "Número de pieza (Caja)"
+            "A1347": "Número de chasis (Físico)",
+            "Macmini7": "Identificador interno (Sistema)",
+            "MGEM2xx/A": "Número de pieza comercial",
+            "MGEN2xx/A": "Número de pieza comercial",
+            "MGEQ2xx/A": "Número de pieza comercial"
         }
     },
     "mac_mini_finales_de_2012": {
@@ -4242,11 +4294,12 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "Macmini6": "Identificador interno (Sistema Mac)",
-            "1; Macmini6": "Identificador interno (Sistema Mac)",
-            "MD387xx/A;": "Número de pieza (Caja)",
-            "MD388xx/A": "Número de pieza (Caja)",
-            "MD389xx/A": "Número de pieza (Caja)"
+            "A1347": "Número de chasis (Físico)",
+            "Macmini6": "Identificador interno (Sistema)",
+            "1; Macmini6": "Identificador interno (Sistema)",
+            "MD387xx/A;": "Número de pieza comercial",
+            "MD388xx/A": "Número de pieza comercial",
+            "MD389xx/A": "Número de pieza comercial"
         }
     },
     "mac_mini_mediados_de_2011": {
@@ -4261,11 +4314,12 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "Macmini5": "Identificador interno (Sistema Mac)",
-            "1; Macmini5": "Identificador interno (Sistema Mac)",
-            "MC815xx/A;": "Número de pieza (Caja)",
-            "MC816xx/A": "Número de pieza (Caja)",
-            "MC936xx/A": "Número de pieza (Caja)"
+            "A1347": "Número de chasis (Físico)",
+            "Macmini5": "Identificador interno (Sistema)",
+            "1; Macmini5": "Identificador interno (Sistema)",
+            "MC815xx/A;": "Número de pieza comercial",
+            "MC816xx/A": "Número de pieza comercial",
+            "MC936xx/A": "Número de pieza comercial"
         }
     },
     "mac_mini_mediados_de_2010": {
@@ -4280,9 +4334,10 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "Macmini4": "Identificador interno (Sistema Mac)",
-            "MC438xx/A": "Número de pieza (Caja)",
-            "MC270xx/A": "Número de pieza (Caja)"
+            "A1347": "Número de chasis (Físico)",
+            "Macmini4": "Identificador interno (Sistema)",
+            "MC438xx/A": "Número de pieza comercial",
+            "MC270xx/A": "Número de pieza comercial"
         }
     },
     "mac_mini_finales_de_2009": {
@@ -4297,10 +4352,11 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "Macmini3": "Identificador interno (Sistema Mac)",
-            "MC238xx/A": "Número de pieza (Caja)",
-            "MC239xx/A": "Número de pieza (Caja)",
-            "MC408xx/A": "Número de pieza (Caja)"
+            "A1283": "Número de chasis (Físico)",
+            "Macmini3": "Identificador interno (Sistema)",
+            "MC238xx/A": "Número de pieza comercial",
+            "MC239xx/A": "Número de pieza comercial",
+            "MC408xx/A": "Número de pieza comercial"
         }
     },
     "mac_mini_principios_de_2009": {
@@ -4315,9 +4371,226 @@
             "Consultar especificaciones"
         ],
         "modelos": {
-            "Macmini3": "Identificador interno (Sistema Mac)",
-            "MB464xx/A": "Número de pieza (Caja)",
-            "MB463xx/A": "Número de pieza (Caja)"
+            "A1283": "Número de chasis (Físico)",
+            "Macmini3": "Identificador interno (Sistema)",
+            "MB464xx/A": "Número de pieza comercial",
+            "MB463xx/A": "Número de pieza comercial"
+        }
+    },
+    "mac_pro_2023": {
+        "categoria": "Mac",
+        "nombre": "Mac Pro (2023)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2019.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "A2786": "Número de chasis (Físico)"
+        }
+    },
+    "mac_pro_rack,_2023": {
+        "categoria": "Mac",
+        "nombre": "Mac Pro (rack, 2023)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2019-rack.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "A2786": "Número de chasis (Físico)"
+        }
+    },
+    "mac_pro_2019": {
+        "categoria": "Mac",
+        "nombre": "Mac Pro (2019)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2019.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "A1991": "Número de chasis (Físico)",
+            "MacPro7": "Identificador interno (Sistema)"
+        }
+    },
+    "mac_pro_rack,_2019": {
+        "categoria": "Mac",
+        "nombre": "Mac Pro (rack, 2019)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2019-rack.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "A1991": "Número de chasis (Físico)",
+            "MacPro7": "Identificador interno (Sistema)"
+        }
+    },
+    "mac_pro_finales_de_2013": {
+        "categoria": "Mac",
+        "nombre": "Mac Pro (finales de 2013)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2013.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "A1481": "Número de chasis (Físico)",
+            "MacPro6": "Identificador interno (Sistema)",
+            "ME253xx/A": "Número de pieza comercial",
+            "MD878xx/A": "Número de pieza comercial"
+        }
+    },
+    "mac_pro_mediados_de_2012": {
+        "categoria": "Mac",
+        "nombre": "Mac Pro (mediados de 2012)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2009-2012.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "A1289": "Número de chasis (Físico)",
+            "MacPro5": "Identificador interno (Sistema)",
+            "MD770xx/A": "Número de pieza comercial",
+            "MD771xx/A": "Número de pieza comercial"
+        }
+    },
+    "mac_pro_server_mediados_de_2012": {
+        "categoria": "Mac",
+        "nombre": "Mac Pro Server (mediados de 2012)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2009-2012.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "A1289": "Número de chasis (Físico)",
+            "MacPro5": "Identificador interno (Sistema)",
+            "MD772xx/A": "Número de pieza comercial"
+        }
+    },
+    "mac_pro_mediados_de_2010": {
+        "categoria": "Mac",
+        "nombre": "Mac Pro (mediados de 2010)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2009-2012.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "A1289": "Número de chasis (Físico)",
+            "MacPro5": "Identificador interno (Sistema)",
+            "MC250xx/A": "Número de pieza comercial",
+            "MC560xx/A": "Número de pieza comercial",
+            "MC561xx/A": "Número de pieza comercial"
+        }
+    },
+    "mac_pro_server_mediados_de_2010": {
+        "categoria": "Mac",
+        "nombre": "Mac Pro Server (mediados de 2010)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2009-2012.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "A1289": "Número de chasis (Físico)",
+            "MacPro5": "Identificador interno (Sistema)",
+            "MC915xx/A": "Número de pieza comercial"
+        }
+    },
+    "mac_pro_principios_de_2009": {
+        "categoria": "Mac",
+        "nombre": "Mac Pro (principios de 2009)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2009-2012.jpg",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "A1289": "Número de chasis (Físico)",
+            "MacPro4": "Identificador interno (Sistema)",
+            "MB871xx/A": "Número de pieza comercial",
+            "MB535xx/A": "Número de pieza comercial"
+        }
+    },
+    "mac_studio_2025": {
+        "categoria": "Mac",
+        "nombre": "Mac Studio (2025)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-2025-m3-ultra.png",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "MU973xx/A": "Número de pieza comercial"
+        }
+    },
+    "mac_studio_2023": {
+        "categoria": "Mac",
+        "nombre": "Mac Studio (2023)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-2023-m2-ultra.png",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "A2901": "Número de chasis (Físico)",
+            "MQH63xx/A": "Número de pieza comercial"
+        }
+    },
+    "mac_studio_2022": {
+        "categoria": "Mac",
+        "nombre": "Mac Studio (2022)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-2022-m1-ultra.png",
+        "colores": [
+            "Consultar especificaciones"
+        ],
+        "capacidades": [
+            "Consultar especificaciones"
+        ],
+        "modelos": {
+            "A2615": "Número de chasis (Físico)",
+            "MJMW3xx/a": "Número de pieza comercial"
         }
     },
     "apple_watch_series_11_gps": {
