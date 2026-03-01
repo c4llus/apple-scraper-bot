@@ -4,16 +4,17 @@
         "nombre": "iPhone 17 Pro Max",
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-max-colors.png",
+        "url_specs": "https://support.apple.com/125091",
         "colores": [
-            "Naranja cósmico",
             "Plata",
+            "Naranja cósmico",
             "Azul oscuro"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "2 TB"
+            "2 TB",
+            "512 GB"
         ],
         "modelos": {
             "A3257": "Estados unidos, puerto rico",
@@ -27,9 +28,10 @@
         "nombre": "iPhone 17 Pro",
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-colors.png",
+        "url_specs": "https://support.apple.com/125090",
         "colores": [
-            "Naranja cósmico",
             "Plata",
+            "Naranja cósmico",
             "Azul oscuro"
         ],
         "capacidades": [
@@ -49,12 +51,13 @@
         "nombre": "iPhone 17",
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-colors.png",
+        "url_specs": "https://support.apple.com/125089",
         "colores": [
-            "Verde salvia",
             "Negro",
+            "Lavanda",
             "Azul neblina",
             "Blanco",
-            "Lavanda"
+            "Verde salvia"
         ],
         "capacidades": [
             "256 GB",
@@ -72,11 +75,12 @@
         "nombre": "iPhone Air",
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-air-colors.png",
+        "url_specs": "https://support.apple.com/125092",
         "colores": [
-            "Dorado claro",
             "Negro espacial",
+            "Blanco nube",
             "Azul cielo",
-            "Blanco nube"
+            "Dorado claro"
         ],
         "capacidades": [
             "1 TB",
@@ -95,14 +99,15 @@
         "nombre": "iPhone 16e",
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16e/iphone-16e-colors.png",
+        "url_specs": "https://support.apple.com/122208",
         "colores": [
-            "Blanco",
-            "Negro"
+            "Negro",
+            "Blanco"
         ],
         "capacidades": [
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A3212": "Estados unidos, puerto rico",
@@ -116,11 +121,12 @@
         "nombre": "iPhone 16 Pro Max",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-max-colors.png",
+        "url_specs": "https://support.apple.com/121032",
         "colores": [
             "Titanio negro",
-            "Titanio blanco",
+            "Titanio desierto",
             "Titanio natural",
-            "Titanio desierto"
+            "Titanio blanco"
         ],
         "capacidades": [
             "1 TB",
@@ -139,17 +145,18 @@
         "nombre": "iPhone 16 Pro",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-colors.png",
+        "url_specs": "https://support.apple.com/121031",
         "colores": [
             "Titanio negro",
-            "Titanio blanco",
+            "Titanio desierto",
             "Titanio natural",
-            "Titanio desierto"
+            "Titanio blanco"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A3083": "Estados unidos, puerto rico",
@@ -163,17 +170,18 @@
         "nombre": "iPhone 16 Plus",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-plus-colors.png",
+        "url_specs": "https://support.apple.com/121030",
         "colores": [
             "Rosa",
-            "Verde azulado",
-            "Azul ultramar",
             "Negro",
-            "Blanco"
+            "Blanco",
+            "Azul ultramar",
+            "Verde azulado"
         ],
         "capacidades": [
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A3082": "Estados unidos, puerto rico",
@@ -187,17 +195,18 @@
         "nombre": "iPhone 16",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-colors.png",
+        "url_specs": "https://support.apple.com/121029",
         "colores": [
             "Rosa",
-            "Verde azulado",
-            "Azul ultramar",
             "Negro",
-            "Blanco"
+            "Blanco",
+            "Azul ultramar",
+            "Verde azulado"
         ],
         "capacidades": [
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A3081": "Estados unidos, puerto rico",
@@ -211,11 +220,12 @@
         "nombre": "iPhone 15 Pro Max",
         "año": 2023,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-pro-max.png",
+        "url_specs": "https://support.apple.com/kb/SP904?locale=es_ES",
         "colores": [
             "Titanio negro",
-            "Titanio blanco",
             "Titanio natural",
-            "Titanio azul"
+            "Titanio azul",
+            "Titanio blanco"
         ],
         "capacidades": [
             "1 TB",
@@ -234,17 +244,18 @@
         "nombre": "iPhone 15 Pro",
         "año": 2023,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-pro.png",
+        "url_specs": "https://support.apple.com/kb/SP903?locale=es_ES",
         "colores": [
             "Titanio negro",
-            "Titanio blanco",
             "Titanio natural",
-            "Titanio azul"
+            "Titanio azul",
+            "Titanio blanco"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2848": "Estados unidos, puerto rico",
@@ -258,17 +269,18 @@
         "nombre": "iPhone 15 Plus",
         "año": 2023,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-plus.png",
+        "url_specs": "https://support.apple.com/kb/SP902?locale=es_ES",
         "colores": [
-            "Rosa",
             "Azul",
+            "Rosa",
             "Negro",
-            "Verde",
-            "Amarillo"
+            "Amarillo",
+            "Verde"
         ],
         "capacidades": [
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2847": "Estados unidos, puerto rico",
@@ -282,17 +294,18 @@
         "nombre": "iPhone 15",
         "año": 2023,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15.png",
+        "url_specs": "https://support.apple.com/kb/SP901?locale=es_ES",
         "colores": [
-            "Rosa",
             "Azul",
+            "Rosa",
             "Negro",
-            "Verde",
-            "Amarillo"
+            "Amarillo",
+            "Verde"
         ],
         "capacidades": [
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2846": "Estados unidos, puerto rico",
@@ -306,17 +319,18 @@
         "nombre": "iPhone 14 Pro Max",
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-max-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP876?locale=es_ES",
         "colores": [
-            "Oro",
             "Negro espacial",
+            "Oro",
             "Plata",
             "Morado oscuro"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2651": "Estados unidos, puerto rico",
@@ -331,17 +345,18 @@
         "nombre": "iPhone 14 Pro",
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP875?locale=es_ES",
         "colores": [
-            "Oro",
             "Negro espacial",
+            "Oro",
             "Plata",
             "Morado oscuro"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2650": "Estados unidos, puerto rico",
@@ -356,18 +371,19 @@
         "nombre": "iPhone 14 Plus",
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-plus-colors-spring-2023.png",
+        "url_specs": "https://support.apple.com/kb/SP874?locale=es_ES",
         "colores": [
-            "Morado",
-            "(product)red",
-            "Medianoche",
             "Azul",
+            "Blanco estrella",
+            "(product)red",
             "Amarillo",
-            "Blanco estrella"
+            "Morado",
+            "Medianoche"
         ],
         "capacidades": [
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2632": "Estados unidos, puerto rico",
@@ -382,18 +398,19 @@
         "nombre": "iPhone 14",
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-colors-spring-2023.png",
+        "url_specs": "https://support.apple.com/kb/SP873?locale=es_ES",
         "colores": [
-            "Morado",
-            "(product)red",
-            "Medianoche",
             "Azul",
+            "Blanco estrella",
+            "(product)red",
             "Amarillo",
-            "Blanco estrella"
+            "Morado",
+            "Medianoche"
         ],
         "capacidades": [
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2649": "Estados unidos, puerto rico",
@@ -408,14 +425,15 @@
         "nombre": "iPhone SE (3.ª generación)",
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se-3rd-gen-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP867?locale=es_ES",
         "colores": [
-            "Blanco estrella",
             "(product)red",
+            "Blanco estrella",
             "Medianoche"
         ],
         "capacidades": [
-            "64 GB",
             "256 GB",
+            "64 GB",
             "128 GB"
         ],
         "modelos": {
@@ -431,18 +449,19 @@
         "nombre": "iPhone 13 Pro Max",
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-max-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP848?locale=es_ES",
         "colores": [
-            "Grafito",
             "Azul sierra",
-            "Verde alpino",
+            "Grafito",
             "Plata",
+            "Verde alpino",
             "Oro"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2484": "Estados unidos",
@@ -457,18 +476,19 @@
         "nombre": "iPhone 13 Pro",
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP852?locale=es_ES",
         "colores": [
-            "Grafito",
             "Azul sierra",
-            "Verde alpino",
+            "Grafito",
             "Plata",
+            "Verde alpino",
             "Oro"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2483": "Estados unidos",
@@ -483,18 +503,19 @@
         "nombre": "iPhone 13",
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP851?locale=es_ES",
         "colores": [
+            "Azul",
+            "Blanco estrella",
             "Rosa",
             "(product)red",
             "Medianoche",
-            "Azul",
-            "Verde",
-            "Blanco estrella"
+            "Verde"
         ],
         "capacidades": [
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2482": "Estados unidos",
@@ -509,18 +530,19 @@
         "nombre": "iPhone 13 mini",
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-iphone13-mini-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP847?locale=es_ES",
         "colores": [
+            "Azul",
+            "Blanco estrella",
             "Rosa",
             "(product)red",
             "Medianoche",
-            "Azul",
-            "Verde",
-            "Blanco estrella"
+            "Verde"
         ],
         "capacidades": [
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2481": "Estados unidos",
@@ -535,16 +557,17 @@
         "nombre": "iPhone 12 Pro Max",
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro-max/iphone12-pro-max-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP832?locale=es_ES",
         "colores": [
-            "Grafito",
             "Azul pacífico",
             "Oro",
-            "Plata"
+            "Plata",
+            "Grafito"
         ],
         "capacidades": [
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2342": "Estados unidos",
@@ -558,16 +581,17 @@
         "nombre": "iPhone 12 Pro",
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro/iphone12-pro-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP831?locale=es_ES",
         "colores": [
-            "Grafito",
             "Azul pacífico",
             "Oro",
-            "Plata"
+            "Plata",
+            "Grafito"
         ],
         "capacidades": [
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2341": "Estados unidos",
@@ -581,17 +605,18 @@
         "nombre": "iPhone 12",
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP830?locale=es_ES",
         "colores": [
-            "Morado",
-            "(product)red",
             "Azul",
             "Negro",
-            "Verde",
-            "Blanco"
+            "(product)red",
+            "Blanco",
+            "Morado",
+            "Verde"
         ],
         "capacidades": [
-            "64 GB",
             "256 GB",
+            "64 GB",
             "128 GB"
         ],
         "modelos": {
@@ -606,17 +631,18 @@
         "nombre": "iPhone 12 mini",
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-mini-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP829?locale=es_ES",
         "colores": [
-            "Morado",
-            "(product)red",
             "Azul",
             "Negro",
-            "Verde",
-            "Blanco"
+            "(product)red",
+            "Blanco",
+            "Morado",
+            "Verde"
         ],
         "capacidades": [
-            "64 GB",
             "256 GB",
+            "64 GB",
             "128 GB"
         ],
         "modelos": {
@@ -631,14 +657,15 @@
         "nombre": "iPhone SE (2.ª generación)",
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se/iphone-se-2nd-gen-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP820?locale=es_ES",
         "colores": [
+            "Negro",
             "Blanco",
-            "(product)red",
-            "Negro"
+            "(product)red"
         ],
         "capacidades": [
-            "64 GB",
             "256 GB",
+            "64 GB",
             "128 GB"
         ],
         "modelos": {
@@ -652,15 +679,16 @@
         "nombre": "iPhone 11 Pro",
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11pro.jpg",
+        "url_specs": "https://support.apple.com/kb/SP805?locale=es_ES",
         "colores": [
-            "Verde noche",
             "Oro",
             "Gris espacial",
-            "Plata"
+            "Plata",
+            "Verde noche"
         ],
         "capacidades": [
-            "64 GB",
             "256 GB",
+            "64 GB",
             "512 GB"
         ],
         "modelos": {
@@ -674,15 +702,16 @@
         "nombre": "iPhone 11 Pro Max",
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11pro-max.jpg",
+        "url_specs": "https://support.apple.com/kb/SP806?locale=es_ES",
         "colores": [
-            "Verde noche",
             "Oro",
             "Gris espacial",
-            "Plata"
+            "Plata",
+            "Verde noche"
         ],
         "capacidades": [
-            "64 GB",
             "256 GB",
+            "64 GB",
             "512 GB"
         ],
         "modelos": {
@@ -696,17 +725,18 @@
         "nombre": "iPhone 11",
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP804?locale=es_ES",
         "colores": [
-            "(product)red",
             "Negro",
-            "Verde",
+            "(product)red",
+            "Malva",
             "Blanco",
             "Amarillo",
-            "Malva"
+            "Verde"
         ],
         "capacidades": [
-            "64 GB",
             "256 GB",
+            "64 GB",
             "128 GB"
         ],
         "modelos": {
@@ -720,14 +750,15 @@
         "nombre": "iPhone XS",
         "año": 2018,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xs-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP779?locale=es_ES",
         "colores": [
             "Oro",
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "64 GB",
             "256 GB",
+            "64 GB",
             "512 GB"
         ],
         "modelos": {
@@ -743,14 +774,15 @@
         "nombre": "iPhone XS Max",
         "año": 2018,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xs-max-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP780?locale=es_ES",
         "colores": [
             "Oro",
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "64 GB",
             "256 GB",
+            "64 GB",
             "512 GB"
         ],
         "modelos": {
@@ -766,17 +798,18 @@
         "nombre": "iPhone XR",
         "año": 2018,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xr/identify-iphone-xr-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP781?locale=es_ES",
         "colores": [
-            "(product)red",
             "Azul",
             "Negro",
+            "(product)red",
             "Blanco",
-            "Coral",
-            "Amarillo"
+            "Amarillo",
+            "Coral"
         ],
         "capacidades": [
-            "64 GB",
             "256 GB",
+            "64 GB",
             "128 GB"
         ],
         "modelos": {
@@ -792,13 +825,14 @@
         "nombre": "iPhone X",
         "año": 2017,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-x-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP770?locale=es_ES",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "64 GB",
-            "256 GB"
+            "256 GB",
+            "64 GB"
         ],
         "modelos": {
             "A1865": "Región global o no especificada",
@@ -811,6 +845,7 @@
         "nombre": "iPhone 8",
         "año": 2017,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8/iphone-8-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP767?locale=es_ES",
         "colores": [
             "Plateado",
             "Gris espacial",
@@ -818,8 +853,8 @@
             "Dorado"
         ],
         "capacidades": [
-            "64 GB",
             "256 GB",
+            "64 GB",
             "128 GB"
         ],
         "modelos": {
@@ -833,6 +868,7 @@
         "nombre": "iPhone 8 Plus",
         "año": 2017,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8-plus/iphone-8plus-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP768?locale=es_ES",
         "colores": [
             "Plateado",
             "Gris espacial",
@@ -840,8 +876,8 @@
             "Dorado"
         ],
         "capacidades": [
-            "64 GB",
             "256 GB",
+            "64 GB",
             "128 GB"
         ],
         "modelos": {
@@ -855,18 +891,19 @@
         "nombre": "iPhone 7",
         "año": 2016,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7/iphone7-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP743?locale=es_ES",
         "colores": [
-            "(product)red",
             "Plateado",
             "Negro",
+            "(product)red",
+            "Negro brillante",
             "Oro rosa",
-            "Oro",
-            "Negro brillante"
+            "Oro"
         ],
         "capacidades": [
             "256 GB",
-            "32 GB",
-            "128 GB"
+            "128 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1660": "Región global o no especificada",
@@ -879,18 +916,19 @@
         "nombre": "iPhone 7 Plus",
         "año": 2016,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7-plus/iphone7plus-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP744?locale=es_ES",
         "colores": [
-            "(product)red",
             "Plateado",
             "Negro",
+            "(product)red",
+            "Negro brillante",
             "Oro rosa",
-            "Oro",
-            "Negro brillante"
+            "Oro"
         ],
         "capacidades": [
             "256 GB",
-            "32 GB",
-            "128 GB"
+            "128 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1661": "Región global o no especificada",
@@ -903,17 +941,18 @@
         "nombre": "iPhone SE (1.ª generación)",
         "año": 2016,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se/iphone-se-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP738?locale=es_ES",
         "colores": [
+            "Oro rosa",
             "Plateado",
             "Gris espacial",
-            "Oro rosa",
             "Dorado"
         ],
         "capacidades": [
-            "16 GB",
+            "128 GB",
             "64 GB",
-            "32 GB",
-            "128 GB"
+            "16 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1723": "Región global o no especificada",
@@ -926,17 +965,18 @@
         "nombre": "iPhone 6s",
         "año": 2015,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-6s-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP726?locale=es_ES",
         "colores": [
+            "Oro rosa",
             "Plateado",
             "Gris espacial",
-            "Oro rosa",
             "Dorado"
         ],
         "capacidades": [
-            "16 GB",
+            "128 GB",
             "64 GB",
-            "32 GB",
-            "128 GB"
+            "16 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1633": "Región global o no especificada",
@@ -949,17 +989,18 @@
         "nombre": "iPhone 6s Plus",
         "año": 2015,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-6splus-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP727?locale=es_ES",
         "colores": [
+            "Oro rosa",
             "Plateado",
             "Gris espacial",
-            "Oro rosa",
             "Dorado"
         ],
         "capacidades": [
-            "16 GB",
+            "128 GB",
             "64 GB",
-            "32 GB",
-            "128 GB"
+            "16 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1634": "Región global o no especificada",
@@ -972,16 +1013,17 @@
         "nombre": "iPhone 6",
         "año": 2014,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone6-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP705?locale=es_ES",
         "colores": [
             "Plateado",
             "Gris espacial",
             "Dorado"
         ],
         "capacidades": [
-            "16 GB",
+            "128 GB",
             "64 GB",
-            "32 GB",
-            "128 GB"
+            "16 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1549": "Región global o no especificada",
@@ -994,15 +1036,16 @@
         "nombre": "iPhone 6 Plus",
         "año": 2014,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone6plus-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP706?locale=es_ES",
         "colores": [
             "Plateado",
             "Gris espacial",
             "Dorado"
         ],
         "capacidades": [
-            "16 GB",
+            "128 GB",
             "64 GB",
-            "128 GB"
+            "16 GB"
         ],
         "modelos": {
             "A1522": "Región global o no especificada",
@@ -1015,14 +1058,15 @@
         "nombre": "iPhone 5s",
         "año": 2013,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5s-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP685?locale=es_ES",
         "colores": [
             "Plateado",
             "Gris espacial",
             "Dorado"
         ],
         "capacidades": [
-            "16 GB",
             "64 GB",
+            "16 GB",
             "32 GB"
         ],
         "modelos": {
@@ -1039,16 +1083,17 @@
         "nombre": "iPhone 5c",
         "año": 2013,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5c-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP684?locale=es_ES",
         "colores": [
-            "Rosa",
             "Azul",
-            "Verde",
+            "Rosa",
             "Blanco",
-            "Amarillo"
+            "Amarillo",
+            "Verde"
         ],
         "capacidades": [
-            "16 GB",
             "8 GB",
+            "16 GB",
             "32 GB"
         ],
         "modelos": {
@@ -1064,13 +1109,14 @@
         "nombre": "iPhone 5",
         "año": 2012,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP655?locale=es_ES",
         "colores": [
-            "Blanco",
-            "Negro"
+            "Negro",
+            "Blanco"
         ],
         "capacidades": [
-            "16 GB",
             "64 GB",
+            "16 GB",
             "32 GB"
         ],
         "modelos": {
@@ -1084,15 +1130,16 @@
         "nombre": "iPhone 4s",
         "año": 2011,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone4s-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP643?locale=es_ES",
         "colores": [
-            "Blanco",
-            "Negro"
+            "Negro",
+            "Blanco"
         ],
         "capacidades": [
-            "16 GB",
             "8 GB",
-            "64 GB",
-            "32 GB"
+            "16 GB",
+            "32 GB",
+            "64 GB"
         ],
         "modelos": {
             "A1431": "Región global o no especificada",
@@ -1104,13 +1151,14 @@
         "nombre": "iPhone 4",
         "año": 2010,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone4-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP587?locale=es_ES",
         "colores": [
-            "Blanco",
-            "Negro"
+            "Negro",
+            "Blanco"
         ],
         "capacidades": [
-            "16 GB",
             "8 GB",
+            "16 GB",
             "32 GB"
         ],
         "modelos": {
@@ -1123,13 +1171,14 @@
         "nombre": "iPhone 3GS",
         "año": 2009,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone3gs-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP565?locale=es_ES",
         "colores": [
-            "Blanco",
-            "Negro"
+            "Negro",
+            "Blanco"
         ],
         "capacidades": [
-            "16 GB",
             "8 GB",
+            "16 GB",
             "32 GB"
         ],
         "modelos": {
@@ -1142,12 +1191,13 @@
         "nombre": "iPhone 3G",
         "año": 2008,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone3g-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP495?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "16 GB",
-            "8 GB"
+            "8 GB",
+            "16 GB"
         ],
         "modelos": {
             "A1324": "Región global o no especificada",
@@ -1159,13 +1209,14 @@
         "nombre": "iPhone",
         "año": 2007,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone-original-colors.jpg",
+        "url_specs": "https://support.apple.com/kb/SP2?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "16 GB",
             "4 GB",
-            "8 GB"
+            "8 GB",
+            "16 GB"
         ],
         "modelos": {
             "A1203": "Región global o no especificada",
@@ -1181,14 +1232,15 @@
         "nombre": "iPad Pro de 13 pulgadas (M5)",
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/fall-2025-ipad-pro-m5-13in.png",
+        "url_specs": "https://support.apple.com/es-es/HT201471",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "2 TB"
+            "2 TB",
+            "512 GB"
         ],
         "modelos": {
             "A3360": "Región global o no especificada",
@@ -1201,14 +1253,15 @@
         "nombre": "iPad Pro de 11 pulgadas (M5)",
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/fall-2025-ipad-pro-m5-11in.png",
+        "url_specs": "https://support.apple.com/es-es/HT201471",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "2 TB"
+            "2 TB",
+            "512 GB"
         ],
         "modelos": {
             "A3357": "Región global o no especificada",
@@ -1221,14 +1274,15 @@
         "nombre": "iPad Pro de 13 pulgadas (M4)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-1.png",
+        "url_specs": "https://support.apple.com/119891",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "2 TB"
+            "2 TB",
+            "512 GB"
         ],
         "modelos": {
             "A2925": "Región global o no especificada",
@@ -1241,14 +1295,15 @@
         "nombre": "iPad Pro de 11 pulgadas (M4)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-2.png",
+        "url_specs": "https://support.apple.com/119892",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "2 TB"
+            "2 TB",
+            "512 GB"
         ],
         "modelos": {
             "A2836": "Región global o no especificada",
@@ -1261,15 +1316,16 @@
         "nombre": "iPad Pro de 12,9 pulgadas (6.ª generación)",
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-12-9-inch-6gen-ipad-pro.png",
+        "url_specs": "https://support.apple.com/kb/SP883?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "128 GB",
             "1 TB",
             "256 GB",
-            "512 GB",
-            "2 TB"
+            "128 GB",
+            "2 TB",
+            "512 GB"
         ],
         "modelos": {
             "A2436": "Región global o no especificada",
@@ -1283,16 +1339,17 @@
         "nombre": "iPad Pro de 11 pulgadas (4.ª generación)",
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-11-inch-4gen-ipad-pro.png",
+        "url_specs": "https://support.apple.com/kb/SP882?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "128 GB",
             "1 TB",
             "256 GB",
-            "512 GB",
+            "4 GB",
+            "128 GB",
             "2 TB",
-            "4 GB"
+            "512 GB"
         ],
         "modelos": {
             "A2759": "Región global o no especificada",
@@ -1306,15 +1363,16 @@
         "nombre": "iPad Pro de 12,9 pulgadas (5.ª generación)",
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/2021-ipad-pro-12-9-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP844?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "128 GB",
             "1 TB",
             "256 GB",
-            "512 GB",
-            "2 TB"
+            "128 GB",
+            "2 TB",
+            "512 GB"
         ],
         "modelos": {
             "A2378": "Región global o no especificada",
@@ -1328,15 +1386,16 @@
         "nombre": "iPad Pro de 11 pulgadas (3.ª generación)",
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/2021-ipad-pro-11-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP843?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "128 GB",
             "1 TB",
             "256 GB",
-            "512 GB",
-            "2 TB"
+            "128 GB",
+            "2 TB",
+            "512 GB"
         ],
         "modelos": {
             "A2377": "Región global o no especificada",
@@ -1350,14 +1409,15 @@
         "nombre": "iPad Pro de 12,9 pulgadas (4.ª generación)",
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios13-4-ipad-pro-4gen-12-9-in.png",
+        "url_specs": "https://support.apple.com/kb/SP815?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2229": "Región global o no especificada",
@@ -1371,14 +1431,15 @@
         "nombre": "iPad Pro de 11 pulgadas (2.ª generación)",
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios13-4-ipad-pro-4gen-11-in.png",
+        "url_specs": "https://support.apple.com/kb/SP814?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2228": "Región global o no especificada",
@@ -1392,13 +1453,14 @@
         "nombre": "iPad Pro de 12,9 pulgadas (3.ª generación)",
         "año": 2018,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios12-ipad-pro-12-9-in.png",
+        "url_specs": "https://support.apple.com/kb/SP785?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "1 TB",
-            "64 GB",
             "256 GB",
+            "64 GB",
             "512 GB"
         ],
         "modelos": {
@@ -1413,13 +1475,14 @@
         "nombre": "iPad Pro de 11 pulgadas",
         "año": 2018,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios12-ipad-pro-11-in.png",
+        "url_specs": "https://support.apple.com/kb/SP784?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "1 TB",
-            "64 GB",
             "256 GB",
+            "64 GB",
             "512 GB"
         ],
         "modelos": {
@@ -1434,12 +1497,13 @@
         "nombre": "iPad Pro de 12,9 pulgadas (2.ª generación)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios11-ipad-pro-12-in.png",
+        "url_specs": "https://support.apple.com/kb/SP761?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "64 GB",
             "256 GB",
+            "64 GB",
             "512 GB"
         ],
         "modelos": {
@@ -1453,12 +1517,13 @@
         "nombre": "iPad Pro (10,5 pulgadas)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios11-ipad-pro-10-in.png",
+        "url_specs": "https://support.apple.com/kb/SP762?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "64 GB",
             "256 GB",
+            "64 GB",
             "512 GB"
         ],
         "modelos": {
@@ -1472,13 +1537,14 @@
         "nombre": "iPad Pro (9,7 pulgadas)",
         "año": 2016,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-pro-9-7.png",
+        "url_specs": "https://support.apple.com/kb/SP739?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "256 GB",
-            "32 GB",
-            "128 GB"
+            "128 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1673": "Región global o no especificada",
@@ -1491,13 +1557,14 @@
         "nombre": "iPad Pro (12,9 pulgadas)",
         "año": 2015,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-pro.png",
+        "url_specs": "https://support.apple.com/kb/SP723?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "256 GB",
-            "32 GB",
-            "128 GB"
+            "128 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1584": "Región global o no especificada",
@@ -1509,14 +1576,15 @@
         "nombre": "iPad Air de 13 pulgadas (M3)",
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad-air-13.png",
+        "url_specs": "https://support.apple.com/122242",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A3268": "Región global o no especificada",
@@ -1529,14 +1597,15 @@
         "nombre": "iPad Air de 11 pulgadas (M3)",
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad-air-11.png",
+        "url_specs": "https://support.apple.com/122241",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A3266": "Región global o no especificada",
@@ -1549,14 +1618,15 @@
         "nombre": "iPad Air de 13 pulgadas (M2)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-3.png",
+        "url_specs": "https://support.apple.com/119893",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2898": "Región global o no especificada",
@@ -1569,14 +1639,15 @@
         "nombre": "iPad Air de 11 pulgadas (M2)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-4.png",
+        "url_specs": "https://support.apple.com/119894",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "1 TB",
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2902": "Región global o no especificada",
@@ -1589,12 +1660,13 @@
         "nombre": "iPad Air (5.ª generación)",
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad-air-5th-gen-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP866?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "64 GB",
-            "256 GB"
+            "256 GB",
+            "64 GB"
         ],
         "modelos": {
             "A2588": "Región global o no especificada",
@@ -1607,13 +1679,14 @@
         "nombre": "iPad Air (4.ª generación)",
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-air-4th-gen-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP828?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "4 GB",
-            "64 GB",
-            "256 GB"
+            "256 GB",
+            "64 GB"
         ],
         "modelos": {
             "A2316": "Región global o no especificada",
@@ -1627,12 +1700,13 @@
         "nombre": "iPad Air (3.ª generación)",
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-air-3gen.png",
+        "url_specs": "https://support.apple.com/kb/SP787?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "64 GB",
-            "256 GB"
+            "256 GB",
+            "64 GB"
         ],
         "modelos": {
             "A2152": "Región global o no especificada",
@@ -1646,14 +1720,15 @@
         "nombre": "iPad Air 2",
         "año": 2014,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-air2.png",
+        "url_specs": "https://support.apple.com/kb/SP708?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "64 GB",
             "32 GB",
-            "128 GB",
             "16 GB",
+            "64 GB",
+            "128 GB",
             "2 TB"
         ],
         "modelos": {
@@ -1666,14 +1741,15 @@
         "nombre": "iPad Air",
         "año": 2013,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-air.png",
+        "url_specs": "https://support.apple.com/kb/SP692?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "16 GB",
+            "128 GB",
             "64 GB",
-            "32 GB",
-            "128 GB"
+            "16 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1474": "Región global o no especificada",
@@ -1686,13 +1762,14 @@
         "nombre": "iPad mini (A17 Pro)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad-mini/ipad-mini-2024-colors.png",
+        "url_specs": "https://support.apple.com/121456",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2993": "Región global o no especificada",
@@ -1705,12 +1782,13 @@
         "nombre": "iPad mini (6.ª generación)",
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-mini-2021-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP850?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "64 GB",
-            "256 GB"
+            "256 GB",
+            "64 GB"
         ],
         "modelos": {
             "A2567": "Región global o no especificada",
@@ -1723,12 +1801,13 @@
         "nombre": "iPad mini (5.ª generación)",
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-mini-5gen.png",
+        "url_specs": "https://support.apple.com/kb/SP788?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "64 GB",
-            "256 GB"
+            "256 GB",
+            "64 GB"
         ],
         "modelos": {
             "A2133": "Región global o no especificada",
@@ -1742,15 +1821,16 @@
         "nombre": "iPad mini 4",
         "año": 2015,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-mini4.png",
+        "url_specs": "https://support.apple.com/kb/SP725?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "64 GB",
-            "32 GB",
-            "128 GB",
             "16 GB",
-            "4 GB"
+            "4 GB",
+            "64 GB",
+            "128 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1538": "Región global o no especificada",
@@ -1762,13 +1842,14 @@
         "nombre": "iPad mini 3",
         "año": 2014,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-mini3.png",
+        "url_specs": "https://support.apple.com/kb/SP709?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "16 GB",
+            "128 GB",
             "64 GB",
-            "128 GB"
+            "16 GB"
         ],
         "modelos": {
             "A1599": "Región global o no especificada",
@@ -1780,14 +1861,15 @@
         "nombre": "iPad mini 2",
         "año": 2013,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-mini2.png",
+        "url_specs": "https://support.apple.com/kb/SP693?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "64 GB",
             "32 GB",
-            "128 GB",
             "16 GB",
+            "64 GB",
+            "128 GB",
             "2 TB"
         ],
         "modelos": {
@@ -1801,12 +1883,13 @@
         "nombre": "iPad mini",
         "año": 2012,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-mini.png",
+        "url_specs": "https://support.apple.com/kb/SP661?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "16 GB",
             "64 GB",
+            "16 GB",
             "32 GB"
         ],
         "modelos": {
@@ -1820,13 +1903,14 @@
         "nombre": "iPad (A16)",
         "año": 2025,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad.png",
+        "url_specs": "https://support.apple.com/122240",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "256 GB",
-            "512 GB",
-            "128 GB"
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A3354": "Región global o no especificada",
@@ -1839,12 +1923,13 @@
         "nombre": "iPad (10.ª generación)",
         "año": 2022,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-10-gen-ipad.png",
+        "url_specs": "https://support.apple.com/kb/SP884?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "64 GB",
-            "256 GB"
+            "256 GB",
+            "64 GB"
         ],
         "modelos": {
             "A2696": "Región global o no especificada",
@@ -1858,12 +1943,13 @@
         "nombre": "iPad (9.ª generación)",
         "año": 2021,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-2021-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP849?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "64 GB",
-            "256 GB"
+            "256 GB",
+            "64 GB"
         ],
         "modelos": {
             "A2602": "Región global o no especificada",
@@ -1877,13 +1963,14 @@
         "nombre": "iPad (8.ª generación)",
         "año": 2020,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-8th-gen-colors.png",
+        "url_specs": "https://support.apple.com/kb/SP822?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
             "8 GB",
-            "32 GB",
-            "128 GB"
+            "128 GB",
+            "32 GB"
         ],
         "modelos": {
             "A2270": "Región global o no especificada",
@@ -1897,12 +1984,13 @@
         "nombre": "iPad (7.ª generación)",
         "año": 2019,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-7th-gen.png",
+        "url_specs": "https://support.apple.com/kb/SP807?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "32 GB",
-            "128 GB"
+            "128 GB",
+            "32 GB"
         ],
         "modelos": {
             "A2197": "Región global o no especificada",
@@ -1915,12 +2003,13 @@
         "nombre": "iPad (6.ª generación)",
         "año": 2018,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios11-3-ipad-9-7-in-2018.png",
+        "url_specs": "https://support.apple.com/kb/SP774?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "32 GB",
-            "128 GB"
+            "128 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1893": "Región global o no especificada",
@@ -1932,12 +2021,13 @@
         "nombre": "iPad (5.ª generación)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios11-ipad-5gen.png",
+        "url_specs": "https://support.apple.com/kb/SP751?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "32 GB",
-            "128 GB"
+            "128 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1822": "Región global o no especificada",
@@ -1949,15 +2039,16 @@
         "nombre": "iPad (4.ª generación)",
         "año": 2012,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-4gen.png",
+        "url_specs": "https://support.apple.com/kb/SP662?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "64 GB",
-            "32 GB",
-            "128 GB",
             "16 GB",
-            "4 GB"
+            "4 GB",
+            "64 GB",
+            "128 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1458": "Región global o no especificada",
@@ -1970,12 +2061,13 @@
         "nombre": "iPad (3.ª generación)",
         "año": 2012,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-3gen.png",
+        "url_specs": "https://support.apple.com/kb/SP647?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "16 GB",
             "64 GB",
+            "16 GB",
             "32 GB"
         ],
         "modelos": {
@@ -1989,14 +2081,15 @@
         "nombre": "iPad 2",
         "año": 2011,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad-2gen.png",
+        "url_specs": "https://support.apple.com/kb/SP622?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "16 GB",
+            "2 TB",
             "64 GB",
-            "32 GB",
-            "2 TB"
+            "16 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1395": "Región global o no especificada",
@@ -2009,12 +2102,13 @@
         "nombre": "iPad",
         "año": 2010,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/identify-ipad.png",
+        "url_specs": "https://support.apple.com/kb/SP580?locale=es_ES",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "16 GB",
             "64 GB",
+            "16 GB",
             "32 GB"
         ],
         "modelos": {
@@ -2027,12 +2121,13 @@
         "nombre": "MacBook Pro (14 pulgadas, M5)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m5-colors.png",
+        "url_specs": "https://support.apple.com/es-es/125405",
         "colores": [
             "Negro espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "MDE04xx/A": "Número de pieza comercial",
@@ -2048,12 +2143,13 @@
         "nombre": "MacBook Pro (14 pulgadas, 2024)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-2024-m4-pro-m4-max-colors.png",
+        "url_specs": "https://support.apple.com/es-es/121553",
         "colores": [
             "Negro espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "MXE63xx/A": "Número de pieza comercial",
@@ -2070,12 +2166,13 @@
         "nombre": "MacBook Pro (16 pulgadas, 2024)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-2024-colors.png",
+        "url_specs": "https://support.apple.com/es-es/121554",
         "colores": [
             "Negro espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "MX2T3xx/A": "Número de pieza comercial",
@@ -2093,12 +2190,13 @@
         "nombre": "MacBook Pro (14 pulgadas, noviembre de 2023)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m3-pro-m3-max-nov-2023-silver-space-black.png",
+        "url_specs": "https://support.apple.com/es-es/117736",
         "colores": [
             "Negro espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "FRX33xx/A": "Número de pieza comercial",
@@ -2120,12 +2218,13 @@
         "nombre": "MacBook Pro (16 pulgadas, noviembre de 2023)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-m3-pro-m3-max-nov-2023-silver-space-black.png",
+        "url_specs": "https://support.apple.com/es-es/117737",
         "colores": [
             "Negro espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "FRW13xx/A": "Número de pieza comercial",
@@ -2149,12 +2248,13 @@
         "nombre": "MacBook Pro (14 pulgadas, 2023)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-2023.png",
+        "url_specs": "https://support.apple.com/es-es/111340",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "MPHE3xx/A": "Número de pieza comercial",
@@ -2170,12 +2270,13 @@
         "nombre": "MacBook Pro (16 pulgadas, 2023)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-2023.png",
+        "url_specs": "https://support.apple.com/es-es/111838",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "MNWG3xx/A": "Número de pieza comercial",
@@ -2193,12 +2294,13 @@
         "nombre": "MacBook Pro (13 pulgadas, M2, 2022)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-13-in-M2-2022.png",
+        "url_specs": "https://support.apple.com/es-es/111869",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2338": "Número de chasis (Físico)",
@@ -2213,12 +2315,13 @@
         "nombre": "MacBook Pro (14 pulgadas, 2021)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2021-14in.png",
+        "url_specs": "https://support.apple.com/es-es/111902",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "MKGP3xx/A": "Número de pieza comercial",
@@ -2232,12 +2335,13 @@
         "nombre": "MacBook Pro (16 pulgadas, 2021)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2021-16in.png",
+        "url_specs": "https://support.apple.com/es-es/111901",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "MK183xx/A": "Número de pieza comercial",
@@ -2253,12 +2357,13 @@
         "nombre": "MacBook Pro (13 pulgadas, M1, 2020)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2020-late-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111893",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2338": "Número de chasis (Físico)",
@@ -2273,12 +2378,13 @@
         "nombre": "MacBook Pro (13 pulgadas, 2020, dos puertos Thunderbolt 3)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2020-13in-device-3.jpg",
+        "url_specs": "https://support.apple.com/es-es/111981",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2289": "Número de chasis (Físico)",
@@ -2294,12 +2400,13 @@
         "nombre": "MacBook Pro (16 pulgadas, 2019)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-2019.jpg",
+        "url_specs": "https://support.apple.com/es-es/111932",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2141": "Número de chasis (Físico)",
@@ -2314,12 +2421,13 @@
         "nombre": "MacBook Pro (13 pulgadas, 2019, dos puertos Thunderbolt 3)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2018-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111945",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1989": "Número de chasis (Físico)",
@@ -2336,12 +2444,13 @@
         "nombre": "MacBook Pro (15 pulgadas, 2019)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2018-15in-device-2.jpg",
+        "url_specs": "https://support.apple.com/es-es/111941",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1990": "Número de chasis (Físico)",
@@ -2358,12 +2467,13 @@
         "nombre": "MacBook Pro (15 pulgadas, 2018)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2018-15in-device-2.jpg",
+        "url_specs": "https://support.apple.com/es-es/111949",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1990": "Número de chasis (Físico)",
@@ -2380,12 +2490,13 @@
         "nombre": "MacBook Pro (15 pulgadas, 2017)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2017-15in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111947",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1707": "Número de chasis (Físico)",
@@ -2402,12 +2513,13 @@
         "nombre": "MacBook Pro (13 pulgadas, 2017, dos puertos Thunderbolt 3)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2017-13in-device-2thunderbolt-3ports.jpg",
+        "url_specs": "https://support.apple.com/es-es/111951",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1706": "Número de chasis (Físico)",
@@ -2423,12 +2535,13 @@
         "nombre": "MacBook Pro (15 pulgadas, 2016)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2016-15in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111975",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1707": "Número de chasis (Físico)",
@@ -2445,12 +2558,13 @@
         "nombre": "MacBook Pro (13 pulgadas, 2016, dos puertos Thunderbolt 3)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2016-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111999",
         "colores": [
             "Gris espacial",
             "Plata"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1706": "Número de chasis (Físico)",
@@ -2464,11 +2578,12 @@
         "nombre": "MacBook Pro (Retina, 15 pulgadas, mediados de 2015)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2015-15in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111955",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1398": "Número de chasis (Físico)",
@@ -2482,11 +2597,12 @@
         "nombre": "MacBook Pro (Retina, 13 pulgadas, principios de 2015)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2015-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111959",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1502": "Número de chasis (Físico)",
@@ -2501,11 +2617,12 @@
         "nombre": "MacBook Pro (Retina, 15 pulgadas, mediados de 2014)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2014-15in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111935",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "MGXC2xx/A": "Número de pieza comercial",
@@ -2517,11 +2634,12 @@
         "nombre": "MacBook Pro (Retina, 13 pulgadas, mediados de 2014)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2014-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111942",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1502": "Número de chasis (Físico)",
@@ -2535,11 +2653,12 @@
         "nombre": "MacBook Pro (Retina, 15 pulgadas, finales de 2013)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2013-15in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111971",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1425": "Número de chasis (Físico)",
@@ -2552,11 +2671,12 @@
         "nombre": "MacBook Pro (Retina, 13 pulgadas, finales de 2013)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2013-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111946",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1425": "Número de chasis (Físico)",
@@ -2570,11 +2690,12 @@
         "nombre": "MacBook Pro (Retina, 15 pulgadas, principios de 2013)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2013-15in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/118465",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1425": "Número de chasis (Físico)",
@@ -2587,11 +2708,12 @@
         "nombre": "MacBook Pro (Retina, 13 pulgadas, principios de 2013)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2013-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/118466",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1425": "Número de chasis (Físico)",
@@ -2604,11 +2726,12 @@
         "nombre": "MacBook Pro (Retina, 13 pulgadas, finales de 2012)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2012-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/118463",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1425": "Número de chasis (Físico)",
@@ -2621,11 +2744,12 @@
         "nombre": "MacBook Pro (Retina, 15 pulgadas, mediados de 2012)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2012-15in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112576",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1398": "Número de chasis (Físico)"
@@ -2636,11 +2760,12 @@
         "nombre": "MacBook Pro (15 pulgadas, mediados de 2012)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2012-15in-device2.jpg",
+        "url_specs": "https://support.apple.com/es-es/112568",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1286": "Número de chasis (Físico)",
@@ -2653,11 +2778,12 @@
         "nombre": "MacBook Pro (13 pulgadas, mediados de 2012)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2012-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111958",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1278": "Número de chasis (Físico)",
@@ -2670,11 +2796,12 @@
         "nombre": "MacBook Pro (17 pulgadas, finales de 2011)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2011-17in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112418",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1151": "Número de chasis (Físico)",
@@ -2690,11 +2817,12 @@
         "nombre": "MacBook Pro (15 pulgadas, finales de 2011)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2011-15in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112586",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1286": "Número de chasis (Físico)",
@@ -2707,11 +2835,12 @@
         "nombre": "MacBook Pro (13 pulgadas, finales de 2011)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2011-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111341",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1278": "Número de chasis (Físico)",
@@ -2724,11 +2853,12 @@
         "nombre": "MacBook Pro (17 pulgadas, principios de 2011)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2011-17in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112598",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1151": "Número de chasis (Físico)",
@@ -2744,11 +2874,12 @@
         "nombre": "MacBook Pro (15 pulgadas, principios de 2011)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2011-15in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112599",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1286": "Número de chasis (Físico)",
@@ -2761,11 +2892,12 @@
         "nombre": "MacBook Pro (13 pulgadas, principios de 2011)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2011-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112600",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1278": "Número de chasis (Físico)",
@@ -2778,11 +2910,12 @@
         "nombre": "MacBook Pro (17 pulgadas, mediados de 2010)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2010-17in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112606",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1151": "Número de chasis (Físico)",
@@ -2798,11 +2931,12 @@
         "nombre": "MacBook Pro (15 pulgadas, mediados de 2010)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2010-15in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112605",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1286": "Número de chasis (Físico)",
@@ -2816,11 +2950,12 @@
         "nombre": "MacBook Pro (13 pulgadas, mediados de 2010)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2010-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112604",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1278": "Número de chasis (Físico)",
@@ -2833,11 +2968,12 @@
         "nombre": "MacBook Pro (17 pulgadas, mediados de 2009)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-mid-2009-17in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112473",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1151": "Número de chasis (Físico)",
@@ -2853,11 +2989,12 @@
         "nombre": "MacBook Pro (15 pulgadas, mediados de 2009)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2009-15in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112624",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1286": "Número de chasis (Físico)",
@@ -2870,11 +3007,12 @@
         "nombre": "MacBook Pro (15 pulgadas; 2,53 GHz, mediados de 2009)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2009-15in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112624",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1286": "Número de chasis (Físico)",
@@ -2886,11 +3024,12 @@
         "nombre": "MacBook Pro (13 pulgadas, mediados de 2009)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-mid-2009-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112474",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1278": "Número de chasis (Físico)",
@@ -2903,11 +3042,12 @@
         "nombre": "MacBook Pro (17 pulgadas, principios de 2009)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-mid-2009-17in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112526",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1151": "Número de chasis (Físico)",
@@ -2923,11 +3063,12 @@
         "nombre": "MacBook Pro (15 pulgadas, finales de 2008)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-late-2008-15in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/HT201300",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1150": "Número de chasis (Físico)",
@@ -2943,11 +3084,12 @@
         "nombre": "MacBook Pro (17 pulgadas, principios de 2008)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2008-17in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/HT201300",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1151": "Número de chasis (Físico)",
@@ -2963,11 +3105,12 @@
         "nombre": "MacBook Pro (15 pulgadas, principios de 2008)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-early-2008-15in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/HT201300",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1150": "Número de chasis (Físico)",
@@ -2983,14 +3126,15 @@
         "nombre": "MacBook Air (15 pulgadas, M4, 2025)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2025-macbook-air-15in-colors.png",
+        "url_specs": "https://support.apple.com/es-es/122210",
         "colores": [
             "Blanco estrella",
             "Plata",
-            "Medianoche",
-            "Azul cielo"
+            "Azul cielo",
+            "Medianoche"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "MC6J4xx/A": "Número de pieza comercial",
@@ -3015,14 +3159,15 @@
         "nombre": "MacBook Air (13 pulgadas, M4, 2025)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2025-macbook-air-13in-colors.png",
+        "url_specs": "https://support.apple.com/es-es/122209",
         "colores": [
             "Blanco estrella",
             "Plata",
-            "Medianoche",
-            "Azul cielo"
+            "Azul cielo",
+            "Medianoche"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "MC654xx/A": "Número de pieza comercial",
@@ -3047,14 +3192,15 @@
         "nombre": "MacBook Air (15 pulgadas, M3, 2024)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2024-macbook-air-15in-m3-colors.png",
+        "url_specs": "https://support.apple.com/es-es/118552",
         "colores": [
+            "Gris espacial",
             "Blanco estrella",
             "Plata",
-            "Gris espacial",
             "Medianoche"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A3114": "Número de chasis (Físico)",
@@ -3077,14 +3223,15 @@
         "nombre": "MacBook Air (13 pulgadas, M3, 2024)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2024-macbook-air-13in-m3-colors.png",
+        "url_specs": "https://support.apple.com/es-es/118551",
         "colores": [
+            "Gris espacial",
             "Blanco estrella",
             "Plata",
-            "Gris espacial",
             "Medianoche"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A3113": "Número de chasis (Físico)",
@@ -3108,14 +3255,15 @@
         "nombre": "MacBook Air (15 pulgadas, M2, 2023)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2023-macbook-air-15in-m2-colors.png",
+        "url_specs": "https://support.apple.com/es-es/111346",
         "colores": [
+            "Gris espacial",
             "Blanco estrella",
             "Plata",
-            "Gris espacial",
             "Medianoche"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2941": "Número de chasis (Físico)",
@@ -3134,14 +3282,15 @@
         "nombre": "MacBook Air (M2, 2022)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2022-macbook-air-m2-colors.png",
+        "url_specs": "https://support.apple.com/es-es/111867",
         "colores": [
+            "Gris espacial",
             "Blanco estrella",
             "Plata",
-            "Gris espacial",
             "Medianoche"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "MLXW3xx/A": "Número de pieza comercial",
@@ -3159,13 +3308,14 @@
         "nombre": "MacBook Air (M1, 2020)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2020-late-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111883",
         "colores": [
-            "Oro",
             "Gris espacial",
-            "Plata"
+            "Plata",
+            "Oro"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "MGN63xx/A": "Número de pieza comercial",
@@ -3181,13 +3331,14 @@
         "nombre": "MacBook Air (Retina, 13 pulgadas, 2020)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2020-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111991",
         "colores": [
-            "Oro",
             "Gris espacial",
-            "Plata"
+            "Plata",
+            "Oro"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2179": "Número de chasis (Físico)",
@@ -3204,13 +3355,14 @@
         "nombre": "MacBook Air (Retina, 13 pulgadas, 2019)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2018-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111948",
         "colores": [
-            "Oro",
             "Gris espacial",
-            "Plata"
+            "Plata",
+            "Oro"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1932": "Número de chasis (Físico)",
@@ -3229,13 +3381,14 @@
         "nombre": "MacBook Air (Retina, 13 pulgadas, 2018)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2018-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111933",
         "colores": [
-            "Oro",
             "Gris espacial",
-            "Plata"
+            "Plata",
+            "Oro"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1932": "Número de chasis (Físico)",
@@ -3255,11 +3408,12 @@
         "nombre": "MacBook Air (13 pulgadas, 2017)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2017-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111924",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1466": "Número de chasis (Físico)",
@@ -3273,11 +3427,12 @@
         "nombre": "MacBook Air (13 pulgadas, principios de 2015)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2015-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111956",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1466": "Número de chasis (Físico)",
@@ -3292,11 +3447,12 @@
         "nombre": "MacBook Air (11 pulgadas, principios de 2015)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2015-11in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112441",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1465": "Número de chasis (Físico)",
@@ -3309,11 +3465,12 @@
         "nombre": "MacBook Air (13 pulgadas, principios de 2014)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2013-2014-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111944",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1466": "Número de chasis (Físico)",
@@ -3326,11 +3483,12 @@
         "nombre": "MacBook Air (11 pulgadas, principios de 2014)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2013-2014-11in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112032",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1465": "Número de chasis (Físico)",
@@ -3343,11 +3501,12 @@
         "nombre": "MacBook Air (13 pulgadas, mediados de 2013)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2013-2014-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111938",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1466": "Número de chasis (Físico)",
@@ -3360,11 +3519,12 @@
         "nombre": "MacBook Air (11 pulgadas, mediados de 2013)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2013-2014-11in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112437",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1465": "Número de chasis (Físico)",
@@ -3377,11 +3537,12 @@
         "nombre": "MacBook Air (13 pulgadas, mediados de 2012)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2012-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/111966",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1466": "Número de chasis (Físico)",
@@ -3394,11 +3555,12 @@
         "nombre": "MacBook Air (11 pulgadas, mediados de 2012)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2012-11in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112008",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1465": "Número de chasis (Físico)",
@@ -3411,11 +3573,12 @@
         "nombre": "MacBook Air (13 pulgadas, mediados de 2011)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2011-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112038",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1370": "Número de chasis (Físico)",
@@ -3428,11 +3591,12 @@
         "nombre": "MacBook Air (11 pulgadas, mediados de 2011)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2011-11in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112439",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1370": "Número de chasis (Físico)",
@@ -3445,11 +3609,12 @@
         "nombre": "MacBook Air (13 pulgadas, finales de 2010)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2009-2010-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112585",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1369": "Número de chasis (Físico)",
@@ -3462,11 +3627,12 @@
         "nombre": "MacBook Air (11 pulgadas, finales de 2010)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2010-11in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112580",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1370": "Número de chasis (Físico)",
@@ -3479,11 +3645,12 @@
         "nombre": "MacBook Air (mediados de 2009)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-2009-2010-13in-device.jpg",
+        "url_specs": "https://support.apple.com/es-es/112660",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "MC505xx/A": "Número de pieza comercial",
@@ -3496,11 +3663,12 @@
         "nombre": "Lista de modelos de MacBook",
         "año": 2024,
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+        "url_specs": "https://support.apple.com/es-es/HT201608",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1181": "Número de chasis (Físico)"
@@ -3511,17 +3679,18 @@
         "nombre": "iMac (24 pulgadas, 2024, cuatro puertos)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2024-four-ports-colors.png",
+        "url_specs": "https://support.apple.com/es-es/121557",
         "colores": [
-            "Morado",
-            "Rosa",
             "Azul",
-            "Verde",
-            "Plata",
+            "Rosa",
             "Naranja",
-            "Amarillo"
+            "Plata",
+            "Amarillo",
+            "Morado",
+            "Verde"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3575,42 +3744,43 @@
         "nombre": "iMac (24 pulgadas, 2024, dos puertos)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2023-two-ports-colors.png",
+        "url_specs": "https://support.apple.com/es-es/117733",
         "colores": [
-            "Rosa",
-            "Dos puertos)",
-            "Dos puertos) manual de uso del imac (24 pulgadas",
-            "Mqrp3xx/a",
-            "Cuatro puertos) manual de uso del mac (24 pulgadas",
-            "Mqry3xx/a sistema operativo compatible más reciente: macos tahoe 26 especificaciones técnicas para imac (24 pulgadas",
-            "Mqrw3xx/a",
-            "Mqrc3xx/a",
-            "Verde",
-            "Amarillo identificador de modelo: mac15",
-            "4 números de pieza: mqr93xx/a",
-            "Plata",
-            "Naranja",
-            "Mqrt3xx/a",
-            "Morado",
-            "Mqrl3xx/a",
-            "Mqrx3xx/a",
-            "2023",
-            "Mqrv3xx/a",
-            "Mqru3xx/a",
-            "Mqrr3xx/a",
-            "Amarillo",
-            "Cuatro puertos)",
-            "Mqrk3xx/a",
-            "Verde identificador de modelo: mac15",
-            "Mqrm3xx/a",
-            "Mqrd3xx/a sistema operativo compatible más reciente: macos tahoe 26 especificaciones técnicas para imac (24 pulgadas",
-            "Mqrn3xx/a",
             "Azul",
-            "Mqra3xx/a",
+            "Mqrt3xx/a",
+            "Dos puertos) manual de uso del imac (24 pulgadas",
+            "Amarillo",
+            "Mqrc3xx/a",
+            "Mqrn3xx/a",
+            "Mqru3xx/a",
+            "2023",
+            "Plata",
+            "Mqrv3xx/a",
+            "Mqrk3xx/a",
+            "Mqrx3xx/a",
+            "4 números de pieza: mqr93xx/a",
+            "Mqrm3xx/a",
+            "Amarillo identificador de modelo: mac15",
             "Mqrq3xx/a",
-            "5 números de pieza: mqrj3xx/a"
+            "Mqry3xx/a sistema operativo compatible más reciente: macos tahoe 26 especificaciones técnicas para imac (24 pulgadas",
+            "Mqrp3xx/a",
+            "Mqrw3xx/a",
+            "Cuatro puertos)",
+            "5 números de pieza: mqrj3xx/a",
+            "Mqra3xx/a",
+            "Rosa",
+            "Naranja",
+            "Cuatro puertos) manual de uso del mac (24 pulgadas",
+            "Mqrr3xx/a",
+            "Mqrl3xx/a",
+            "Verde identificador de modelo: mac15",
+            "Mqrd3xx/a sistema operativo compatible más reciente: macos tahoe 26 especificaciones técnicas para imac (24 pulgadas",
+            "Morado",
+            "Dos puertos)",
+            "Verde"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3660,17 +3830,18 @@
         "nombre": "iMac (24 pulgadas, 2023, cuatro puertos)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2023-four-ports-colors.png",
+        "url_specs": "https://support.apple.com/es-es/117734",
         "colores": [
-            "Morado",
-            "Rosa",
             "Azul",
-            "Verde",
-            "Plata",
+            "Rosa",
             "Naranja",
-            "Amarillo"
+            "Plata",
+            "Amarillo",
+            "Morado",
+            "Verde"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3696,14 +3867,15 @@
         "nombre": "iMac (24 pulgadas, 2023, dos puertos)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2023-two-ports-colors.png",
+        "url_specs": "https://support.apple.com/es-es/117733",
         "colores": [
+            "Azul",
             "Verde",
-            "Rosa",
             "Plata",
-            "Azul"
+            "Rosa"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3719,14 +3891,15 @@
         "nombre": "iMac (24 pulgadas, M1, 2021)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/id-imac-24-2021-2.png",
+        "url_specs": "https://support.apple.com/es-es/111895",
         "colores": [
+            "Azul",
             "Verde",
-            "Rosa",
             "Plata",
-            "Azul"
+            "Rosa"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3742,11 +3915,12 @@
         "nombre": "iMac (Retina 5K, 27 pulgadas, 2020)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2020.jpg",
+        "url_specs": "https://support.apple.com/es-es/111913",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3761,11 +3935,12 @@
         "nombre": "iMac (Retina 5K, 27 pulgadas, 2019)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2019.jpg",
+        "url_specs": "https://support.apple.com/es-es/111998",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3779,11 +3954,12 @@
         "nombre": "iMac (Retina 4K, 21,5 pulgadas, 2019)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2019.jpg",
+        "url_specs": "https://support.apple.com/es-es/111963",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3798,11 +3974,12 @@
         "nombre": "iMac Pro (2017)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-pro-2017.jpg",
+        "url_specs": "https://support.apple.com/es-es/111995",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3816,11 +3993,12 @@
         "nombre": "iMac (Retina 5K, 27 pulgadas, 2017)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2017.jpg",
+        "url_specs": "https://support.apple.com/es-es/111969",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3835,11 +4013,12 @@
         "nombre": "iMac (Retina 4K, 21,5 pulgadas, 2017)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2017.jpg",
+        "url_specs": "https://support.apple.com/es-es/112026",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3853,11 +4032,12 @@
         "nombre": "iMac (21,5 pulgadas, 2017)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2017.jpg",
+        "url_specs": "https://support.apple.com/es-es/111921",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3871,11 +4051,12 @@
         "nombre": "iMac (Retina 5K, 27 pulgadas, finales de 2015)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-late-2015.jpg",
+        "url_specs": "https://support.apple.com/es-es/112035",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3890,11 +4071,12 @@
         "nombre": "iMac (Retina 4K, 21,5 pulgadas, finales de 2015)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2015.jpg",
+        "url_specs": "https://support.apple.com/es-es/112034",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3907,11 +4089,12 @@
         "nombre": "iMac (21,5 pulgadas, finales de 2015)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2015.jpg",
+        "url_specs": "https://support.apple.com/es-es/112036",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3925,11 +4108,12 @@
         "nombre": "iMac (Retina 5K, 27 pulgadas, mediados de 2015)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-mid-2015.jpg",
+        "url_specs": "https://support.apple.com/es-es/112434",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3942,11 +4126,12 @@
         "nombre": "iMac (Retina 5K, 27 pulgadas, finales de 2014)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2014.jpg",
+        "url_specs": "https://support.apple.com/es-es/112436",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3959,11 +4144,12 @@
         "nombre": "iMac (21,5 pulgadas, mediados de 2014)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2014.jpg",
+        "url_specs": "https://support.apple.com/es-es/112031",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3977,11 +4163,12 @@
         "nombre": "iMac (27 pulgadas, finales de 2013)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2013.jpg",
+        "url_specs": "https://support.apple.com/es-es/111970",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -3995,11 +4182,12 @@
         "nombre": "iMac (21,5 pulgadas, finales de 2013)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2013.jpg",
+        "url_specs": "https://support.apple.com/es-es/111967",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -4013,11 +4201,12 @@
         "nombre": "iMac (27 pulgadas, finales de 2012)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2012.jpg",
+        "url_specs": "https://support.apple.com/es-es/112433",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -4031,11 +4220,12 @@
         "nombre": "iMac (21,5 pulgadas, finales de 2012)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2012.jpg",
+        "url_specs": "https://support.apple.com/es-es/112435",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -4049,11 +4239,12 @@
         "nombre": "iMac (27 pulgadas, mediados de 2011)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2011.jpg",
+        "url_specs": "https://support.apple.com/es-es/112569",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -4067,11 +4258,12 @@
         "nombre": "iMac (21,5 pulgadas, mediados de 2011)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2011.jpg",
+        "url_specs": "https://support.apple.com/es-es/111983",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -4085,11 +4277,12 @@
         "nombre": "iMac (27 pulgadas, mediados de 2010)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2010.jpg",
+        "url_specs": "https://support.apple.com/es-es/112566",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -4103,11 +4296,12 @@
         "nombre": "iMac (21,5 pulgadas, mediados de 2010)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2010.jpg",
+        "url_specs": "https://support.apple.com/es-es/112567",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -4121,11 +4315,12 @@
         "nombre": "iMac (27 pulgadas, finales de 2009)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-27-2009-late.jpg",
+        "url_specs": "https://support.apple.com/es-es/112564",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -4139,11 +4334,12 @@
         "nombre": "iMac (21,5 pulgadas, finales de 2009)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-21-5-2009-late.jpg",
+        "url_specs": "https://support.apple.com/es-es/112565",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -4157,11 +4353,12 @@
         "nombre": "iMac (24 pulgadas, principios de 2009)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24-2009-early.jpg",
+        "url_specs": "https://support.apple.com/es-es/112427",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -4175,11 +4372,12 @@
         "nombre": "iMac (20 pulgadas, principios de 2009)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-20-2009-early.jpg",
+        "url_specs": "https://support.apple.com/es-es/112427",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1224": "Número de chasis (Físico)",
@@ -4193,11 +4391,12 @@
         "nombre": "Mac mini (2024)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-2024.png",
+        "url_specs": "https://support.apple.com/es-es/121555",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "MCX44xx/A": "Número de pieza comercial",
@@ -4214,11 +4413,12 @@
         "nombre": "Mac mini (2023)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-2023-m2-pro.png",
+        "url_specs": "https://support.apple.com/es-es/111837",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "Mac14": "Identificador interno (Sistema)",
@@ -4230,11 +4430,12 @@
         "nombre": "Mac mini (M1, 2020)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-2020-m1.png",
+        "url_specs": "https://support.apple.com/es-es/111894",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2348": "Número de chasis (Físico)",
@@ -4248,11 +4449,12 @@
         "nombre": "Mac mini (2018)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-2018.png",
+        "url_specs": "https://support.apple.com/es-es/111912",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1993": "Número de chasis (Físico)",
@@ -4268,11 +4470,12 @@
         "nombre": "Mac mini (finales de 2014)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-late-2014.png",
+        "url_specs": "https://support.apple.com/es-es/111931",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1347": "Número de chasis (Físico)",
@@ -4287,11 +4490,12 @@
         "nombre": "Mac mini (finales de 2012)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-late-2012.png",
+        "url_specs": "https://support.apple.com/es-es/111926",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1347": "Número de chasis (Físico)",
@@ -4307,11 +4511,12 @@
         "nombre": "Mac mini (mediados de 2011)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-mid-2011.png",
+        "url_specs": "https://support.apple.com/es-es/112007",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1347": "Número de chasis (Físico)",
@@ -4327,11 +4532,12 @@
         "nombre": "Mac mini (mediados de 2010)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-mid-2010.png",
+        "url_specs": "https://support.apple.com/es-es/112588",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1347": "Número de chasis (Físico)",
@@ -4345,11 +4551,12 @@
         "nombre": "Mac mini (finales de 2009)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-late-2009.png",
+        "url_specs": "https://support.apple.com/es-es/112482",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1283": "Número de chasis (Físico)",
@@ -4364,11 +4571,12 @@
         "nombre": "Mac mini (principios de 2009)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-mini/mac-mini-early-2009.png",
+        "url_specs": "https://support.apple.com/es-es/111345",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1283": "Número de chasis (Físico)",
@@ -4382,11 +4590,12 @@
         "nombre": "Mac Pro (2023)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2019.jpg",
+        "url_specs": "https://support.apple.com/es-es/111343",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2786": "Número de chasis (Físico)"
@@ -4397,11 +4606,12 @@
         "nombre": "Mac Pro (rack, 2023)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2019-rack.jpg",
+        "url_specs": "https://support.apple.com/es-es/111343",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2786": "Número de chasis (Físico)"
@@ -4412,11 +4622,12 @@
         "nombre": "Mac Pro (2019)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2019.jpg",
+        "url_specs": "https://support.apple.com/es-es/118461",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1991": "Número de chasis (Físico)",
@@ -4428,11 +4639,12 @@
         "nombre": "Mac Pro (rack, 2019)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2019-rack.jpg",
+        "url_specs": "https://support.apple.com/es-es/111907",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1991": "Número de chasis (Físico)",
@@ -4444,11 +4656,12 @@
         "nombre": "Mac Pro (finales de 2013)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2013.jpg",
+        "url_specs": "https://support.apple.com/es-es/112025",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1481": "Número de chasis (Físico)",
@@ -4462,11 +4675,12 @@
         "nombre": "Mac Pro (mediados de 2012)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2009-2012.jpg",
+        "url_specs": "https://support.apple.com/es-es/118464",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1289": "Número de chasis (Físico)",
@@ -4480,11 +4694,12 @@
         "nombre": "Mac Pro Server (mediados de 2012)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2009-2012.jpg",
+        "url_specs": "https://support.apple.com/es-es/118464",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1289": "Número de chasis (Físico)",
@@ -4497,11 +4712,12 @@
         "nombre": "Mac Pro (mediados de 2010)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2009-2012.jpg",
+        "url_specs": "https://support.apple.com/es-es/112578",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1289": "Número de chasis (Físico)",
@@ -4516,11 +4732,12 @@
         "nombre": "Mac Pro Server (mediados de 2010)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2009-2012.jpg",
+        "url_specs": "https://support.apple.com/es-es/112578",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1289": "Número de chasis (Físico)",
@@ -4533,11 +4750,12 @@
         "nombre": "Mac Pro (principios de 2009)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-pro/id-mac-pro-2009-2012.jpg",
+        "url_specs": "https://support.apple.com/es-es/112590",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1289": "Número de chasis (Físico)",
@@ -4551,11 +4769,12 @@
         "nombre": "Mac Studio (2025)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-2025-m3-ultra.png",
+        "url_specs": "https://support.apple.com/es-es/122211",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "MU973xx/A": "Número de pieza comercial"
@@ -4566,11 +4785,12 @@
         "nombre": "Mac Studio (2023)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-2023-m2-ultra.png",
+        "url_specs": "https://support.apple.com/es-es/111835",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2901": "Número de chasis (Físico)",
@@ -4582,11 +4802,12 @@
         "nombre": "Mac Studio (2022)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/mac-studio/mac-studio-2022-m1-ultra.png",
+        "url_specs": "https://support.apple.com/es-es/111900",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2615": "Número de chasis (Físico)",
@@ -4598,11 +4819,12 @@
         "nombre": "Apple Watch Series 11 (GPS)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-11-aluminum-gps.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A3331": "Región global o no especificada",
@@ -4616,11 +4838,12 @@
         "nombre": "Apple Watch Series 11 (GPS + Cellular) aluminio",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-11-aluminum-gps-cell.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A3335": "Región global o no especificada",
@@ -4634,11 +4857,12 @@
         "nombre": "Apple Watch Series 11 (GPS + Cellular) titanio",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-11-titanium-gps-cell.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A3335": "Región global o no especificada",
@@ -4652,11 +4876,12 @@
         "nombre": "Apple Watch Hermès Series 11 (GPS + Cellular)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-11-hermes.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A3335": "Región global o no especificada",
@@ -4670,11 +4895,12 @@
         "nombre": "Apple Watch SE 3 (GPS)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-se-3.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A3324": "Región global o no especificada",
@@ -4688,11 +4914,12 @@
         "nombre": "Apple Watch SE 3 (GPS + Cellular)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-se-3.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A3326": "Región global o no especificada",
@@ -4706,11 +4933,12 @@
         "nombre": "Apple Watch Ultra 3 (GPS + Cellular)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-3-colors.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A3281": "Región global o no especificada",
@@ -4722,11 +4950,12 @@
         "nombre": "Apple Watch Hermès Ultra 3 (GPS + Cellular)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-3-hermes.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A3281": "Región global o no especificada",
@@ -4738,11 +4967,12 @@
         "nombre": "Apple Watch Series 10 (GPS)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-10-aluminum-gps.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2997": "Región global o no especificada",
@@ -4756,11 +4986,12 @@
         "nombre": "Apple Watch Series 10 (GPS + Cellular) de aluminio",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-10-aluminum-gps-cell.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A3001": "Región global o no especificada",
@@ -4774,11 +5005,12 @@
         "nombre": "Apple Watch Series 10 (GPS + Cellular) de titanio",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-10-titanium.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A3001": "Región global o no especificada",
@@ -4792,11 +5024,12 @@
         "nombre": "Apple Watch Hermès Series 10 (GPS + Cellular)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-10-hermes.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A3001": "Región global o no especificada",
@@ -4810,11 +5043,12 @@
         "nombre": "Apple Watch Ultra 2 (GPS + Cellular)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-2-colors.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2986": "Región global o no especificada",
@@ -4826,11 +5060,12 @@
         "nombre": "Apple Watch Hermès Ultra 2 (GPS + Cellular)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-hermes.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2986": "Región global o no especificada",
@@ -4842,11 +5077,12 @@
         "nombre": "Apple Watch Series 9 (GPS)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-9-gps.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2978": "Región global o no especificada",
@@ -4858,11 +5094,12 @@
         "nombre": "Apple Watch Series 9 (GPS + Cellular) de aluminio",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-9-gps-cellular.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2982": "Región global o no especificada",
@@ -4876,11 +5113,12 @@
         "nombre": "Apple Watch Series 9 (GPS + Cellular) de acero inoxidable",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-9-stainless-gps-cellular.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2982": "Región global o no especificada",
@@ -4894,11 +5132,12 @@
         "nombre": "Apple Watch Series 9 Hermès (GPS + Cellular)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-9-hermes.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2982": "Región global o no especificada",
@@ -4912,11 +5151,12 @@
         "nombre": "Apple Watch Ultra (GPS + Cellular)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-apple-watch-ultra.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2622": "Región global o no especificada",
@@ -4929,11 +5169,12 @@
         "nombre": "Apple Watch Series 8 (GPS)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-aluminum-gps.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2770": "Región global o no especificada",
@@ -4945,11 +5186,12 @@
         "nombre": "Apple Watch Series 8 (GPS + Cellular) de aluminio",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-aluminum-gps-cellular.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2772": "Región global o no especificada",
@@ -4965,11 +5207,12 @@
         "nombre": "Apple Watch Series 8 (GPS + Cellular) de acero inoxidable",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-stainless-gps-cellular.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2772": "Región global o no especificada",
@@ -4985,11 +5228,12 @@
         "nombre": "Apple Watch Series 8 Hermès (GPS + Cellular)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series-8-hermes.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2772": "Región global o no especificada",
@@ -5005,11 +5249,12 @@
         "nombre": "Apple Watch SE 2 (GPS)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-se-gps.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2722": "Región global o no especificada",
@@ -5021,11 +5266,12 @@
         "nombre": "Apple Watch SE 2 (GPS + Cellular)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-se-gps-cellular.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2726": "Región global o no especificada",
@@ -5041,11 +5287,12 @@
         "nombre": "Apple Watch Series 7 (GPS)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/2021-apple-watch-series7-aluminum-gps.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2473": "Región global o no especificada",
@@ -5057,11 +5304,12 @@
         "nombre": "Apple Watch Nike (GPS)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-nike-gps.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2092": "Región global o no especificada",
@@ -5073,11 +5321,12 @@
         "nombre": "Apple Watch Series 7 (GPS + Cellular) de aluminio",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/2021-apple-watch-series7-aluminum-gps-cellular.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2475": "Región global o no especificada",
@@ -5091,11 +5340,12 @@
         "nombre": "Apple Watch Nike (GPS + Cellular)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-nike-gps-cellular.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2094": "Región global o no especificada",
@@ -5109,11 +5359,12 @@
         "nombre": "Apple Watch Series 7 (GPS + Cellular) de acero inoxidable",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/2021-apple-watch-series7-stainless-gps-cellular.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2475": "Región global o no especificada",
@@ -5127,11 +5378,12 @@
         "nombre": "Apple Watch Hermès (GPS + Cellular)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-hermes.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1860": "Región global o no especificada",
@@ -5147,11 +5399,12 @@
         "nombre": "Apple Watch Edition (GPS + Cellular) de titanio",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-titanium-edition.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2094": "Región global o no especificada",
@@ -5165,11 +5418,12 @@
         "nombre": "Apple Watch Series 6 (GPS)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-aluminum-gps-colors.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2291": "Región global o no especificada",
@@ -5181,11 +5435,12 @@
         "nombre": "Apple Watch Series 6 (GPS + Cellular) de aluminio",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-aluminum-gps-cellular-colors.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2293": "Región global o no especificada",
@@ -5199,11 +5454,12 @@
         "nombre": "Apple Watch Series 6 (GPS + Cellular) de acero inoxidable",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-stainless-gps-cellular-colors.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2293": "Región global o no especificada",
@@ -5217,11 +5473,12 @@
         "nombre": "Apple Watch SE (GPS)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-000-aluminum-gps-colors.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2351": "Región global o no especificada",
@@ -5233,11 +5490,12 @@
         "nombre": "Apple Watch SE (GPS + Cellular) de aluminio",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series6-000-aluminum-gps-cellular-colors.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2353": "Región global o no especificada",
@@ -5251,11 +5509,12 @@
         "nombre": "Apple Watch Series 5 (GPS)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-aluminum-gps.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2092": "Región global o no especificada",
@@ -5267,11 +5526,12 @@
         "nombre": "Apple Watch Series 5 (GPS + Cellular) de aluminio",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-aluminum-gps-cellular.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2094": "Región global o no especificada",
@@ -5285,11 +5545,12 @@
         "nombre": "Apple Watch Series 5 (GPS + Cellular) de acero inoxidable",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-cellular-gps-stainless.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2094": "Región global o no especificada",
@@ -5303,11 +5564,12 @@
         "nombre": "Apple Watch Edition (GPS + Cellular) de cerámica",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-ceramic-edition.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A2094": "Región global o no especificada",
@@ -5321,11 +5583,12 @@
         "nombre": "Apple Watch Series 4 (GPS)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series4-apple-watch-aluminum-gps.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1977": "Región global o no especificada",
@@ -5337,11 +5600,12 @@
         "nombre": "Apple Watch Nike+ (GPS)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-gps-nike.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1858": "Región global o no especificada",
@@ -5353,11 +5617,12 @@
         "nombre": "Apple Watch Series 4 (GPS + Cellular) de aluminio",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series4-apple-watch-aluminum-gps-cellular.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1975": "Región global o no especificada",
@@ -5371,11 +5636,12 @@
         "nombre": "Apple Watch Nike+ (GPS + Cellular)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-nike.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1860": "Región global o no especificada",
@@ -5391,11 +5657,12 @@
         "nombre": "Apple Watch Series 4 (GPS + Cellular) de acero inoxidable",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series4-apple-watch-stainless-gps-cellular.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1975": "Región global o no especificada",
@@ -5409,11 +5676,12 @@
         "nombre": "Apple Watch Series 3 (GPS)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-gps-aluminum.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1858": "Región global o no especificada",
@@ -5425,11 +5693,12 @@
         "nombre": "Apple Watch Series 3 (GPS + Cellular) de aluminio",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-aluminum.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1860": "Región global o no especificada",
@@ -5445,11 +5714,12 @@
         "nombre": "Apple Watch Series 3 (GPS + Cellular) de acero inoxidable",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-stainless.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1860": "Región global o no especificada",
@@ -5465,11 +5735,12 @@
         "nombre": "Apple Watch Edition (GPS + Cellular)",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-ceramic.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1860": "Región global o no especificada",
@@ -5485,11 +5756,12 @@
         "nombre": "Apple Watch Series 2 de aluminio",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watch-series2-aluminum.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1757": "Región global o no especificada",
@@ -5501,11 +5773,12 @@
         "nombre": "Apple Watch Nike+",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watch-series2-nike.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1757": "Región global o no especificada",
@@ -5517,11 +5790,12 @@
         "nombre": "Apple Watch Series 2 de acero inoxidable",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watch-series2-stainless.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1757": "Región global o no especificada",
@@ -5533,11 +5807,12 @@
         "nombre": "Apple Watch Hermès",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-hermes-1st-gen.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1553": "Región global o no especificada",
@@ -5549,11 +5824,12 @@
         "nombre": "Apple Watch Edition",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/1st-gen-apple-watch-edition-gold.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1553": "Región global o no especificada",
@@ -5565,11 +5841,12 @@
         "nombre": "Apple Watch Series 1 de aluminio",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watch-series1-aluminum.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1802": "Región global o no especificada",
@@ -5581,11 +5858,12 @@
         "nombre": "Apple Watch",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/1st-gen-apple-watch-stainless.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1553": "Región global o no especificada",
@@ -5597,11 +5875,12 @@
         "nombre": "Apple Watch Sport",
         "año": 2024,
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-sport-1st-gen.png",
+        "url_specs": "https://support.apple.com/es-es/HT204507",
         "colores": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "capacidades": [
-            "Consultar especificaciones"
+            "Consultar Especificaciones"
         ],
         "modelos": {
             "A1553": "Región global o no especificada",
