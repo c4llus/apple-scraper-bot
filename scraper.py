@@ -4,7 +4,6 @@ import json
 import re
 import time
 
-# --- BANCO DE IMÁGENES DE LOS SERVIDORES INTERNOS DE APPLE ---
 def obtener_imagen_respaldo(nombre):
     n = nombre.lower()
     if "imac" in n: return "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/imac/imac-27-2019-icon.png"
@@ -75,7 +74,7 @@ def deducir_numero_a_fisico(nombre):
     elif "macbook" in n and "pro" not in n and "air" not in n:
         if "12" in n: modelos.append("A1534")
         elif "2008" in n and "aluminio" in n: modelos.append("A1278")
-        elif any(y in n for y in ["2009", "2010"]) and ("blanco" in n or "policarbonato" in n): modelos.append("A1342")
+        elif any(y in n for y in["2009", "2010"]) and ("blanco" in n or "policarbonato" in n): modelos.append("A1342")
         else: modelos.append("A1181")
     elif "mac mini" in n:
         if any(y in n for y in["2006", "2007"]): modelos.append("A1176")
@@ -94,10 +93,9 @@ def deducir_numero_a_fisico(nombre):
         if "m1" in n or "2022" in n: modelos.append("A2615")
         elif "m2" in n or "2023" in n: modelos.append("A2901")
     return modelos
-# ---------------------------------------------------------------------------------
 
 def extraer_ecosistema_apple():
-    print("🤖 Iniciando escaneo masivo (Con Lector de Fotos Ocultas)...")
+    print("🤖 Iniciando escaneo masivo (Con Inteligencia de Paleta de Colores)...")
     paginas_soporte =[
         {"url": "https://support.apple.com/es-es/HT201296", "categoria": "iPhone", "filtro": "iPhone"},
         {"url": "https://support.apple.com/es-es/HT201471", "categoria": "iPad", "filtro": "iPad"},
@@ -128,10 +126,9 @@ def extraer_ecosistema_apple():
             nombre = titulo.get_text(strip=True).replace('\xa0', ' ')
             
             if pagina['filtro'].lower() in nombre.lower() and len(nombre) < 60 and "identificar" not in nombre.lower():
-                diccionario_modelos, colores, capacidades = {}, [],[]
+                diccionario_modelos, colores, capacidades = {},[],[]
                 año = 2024
                 
-                # Cargamos foto oficial interna de Apple
                 imagen = obtener_imagen_respaldo(nombre)
                 url_specs = pagina['url'] 
                 
@@ -153,7 +150,6 @@ def extraer_ecosistema_apple():
                     if getattr(nodo, 'name', None) == 'img': img_tag = nodo
                     else: img_tag = nodo.find('img') if getattr(nodo, 'name', None) else None
                         
-                    # 🔥 LECTOR DE FOTOS OCULTAS (DATA-SRC y Protocolos Relativos)
                     if img_tag:
                         src = img_tag.get('data-src') or img_tag.get('data-hires') or img_tag.get('src')
                         if src:
@@ -189,9 +185,31 @@ def extraer_ecosistema_apple():
                             if num in[4, 8, 16, 32, 64, 128, 256, 512]: capacidades.append(f"{num} GB")
                             elif num in[1, 2, 4, 8]: capacidades.append(f"{num} TB")
                             
-                    if "color" in texto.lower() or "acabado" in texto.lower():
-                        partes = re.split(r'colores:|color:|acabados:|acabado:', texto, flags=re.IGNORECASE)
-                        if len(partes) > 1: colores.extend([c.strip().capitalize() for c in re.split(r',|\by\b', partes[1].strip()) if len(c.strip()) > 2])
+                    # 🔥 LA MAGIA DE LOS COLORES (Inteligencia Apple Palette) 🔥
+                    texto_lower = texto.lower()
+                    # Ignoramos si es una frase descriptiva de la pantalla plana, pero admitimos si habla de la carcasa
+                    if "pantalla" not in texto_lower or "carcasa" in texto_lower or "bisel" in texto_lower:
+                        # Si es un párrafo cortito (viñetas de colores) o menciona palabras clave
+                        if len(texto_lower) < 150 or any(p in texto_lower for p in["color", "acabado", "caja", "carcasa", "bisel", "tonos"]):
+                            colores_apple =[
+                                "gris espacial", "negro espacial", "negro azabache", "blanco estrella", 
+                                "oro rosa", "azul sierra", "azul pacífico", "verde alpino", "verde noche",
+                                "titanio natural", "titanio azul", "titanio blanco", "titanio negro", "titanio pulido",
+                                "product(red)", "rojo", "plata", "oro", "medianoche", "blanco", "negro", 
+                                "azul", "verde", "rosa", "amarillo", "púrpura", "coral", "grafito", 
+                                "acero inoxidable", "cerámica", "titanio", "aluminio"
+                            ]
+                            for c in colores_apple:
+                                if c == "product(red)":
+                                    if "product(red)" in texto_lower or "product (red)" in texto_lower:
+                                        colores.append("PRODUCT(RED)")
+                                        texto_lower = texto_lower.replace("product(red)", "").replace("product (red)", "")
+                                else:
+                                    # Busca la palabra exacta del color
+                                    if re.search(r'\b' + c + r'\b', texto_lower):
+                                        colores.append(c.capitalize())
+                                        # Lo borramos del texto para que no se dupliquen (Ej: 'Oro rosa' no dispare luego 'Oro')
+                                        texto_lower = re.sub(r'\b' + c + r'\b', '', texto_lower)
 
                     nodo = nodo.find_next_sibling()
                 
