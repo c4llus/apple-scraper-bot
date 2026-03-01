@@ -4,7 +4,6 @@ import json
 import re
 import time
 
-# --- BANCO DE IMÁGENES DE RESPALDO (Por si Apple borró la foto original) ---
 def obtener_imagen_respaldo(nombre):
     n = nombre.lower()
     if "imac" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/IMac_27_inch.png/512px-IMac_27_inch.png"
@@ -14,10 +13,8 @@ def obtener_imagen_respaldo(nombre):
     if "mac mini" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mac_mini_with_M1_chip_front_view.jpg/512px-Mac_mini_with_M1_chip_front_view.jpg"
     if "mac pro" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mac_Pro_Late_2013.jpg/512px-Mac_Pro_Late_2013.jpg"
     if "mac studio" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mac_Studio.jpg/512px-Mac_Studio.jpg"
-    # Si no es ninguno de esos, ponemos el logo de Apple
     return "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png"
 
-# --- CEREBRO INTERNO PARA ORDENADORES MAC ---
 def deducir_numero_a_fisico(nombre):
     n = nombre.lower()
     modelos =[]
@@ -101,7 +98,7 @@ def deducir_numero_a_fisico(nombre):
 # ---------------------------------------------------------------------------------
 
 def extraer_ecosistema_apple():
-    print("🤖 Iniciando escaneo masivo (Con Banco de Imágenes de Rescate)...")
+    print("🤖 Iniciando escaneo masivo (Con filtro Anti-Píxeles Invisibles)...")
     paginas_soporte =[
         {"url": "https://support.apple.com/es-es/HT201296", "categoria": "iPhone", "filtro": "iPhone"},
         {"url": "https://support.apple.com/es-es/HT201471", "categoria": "iPad", "filtro": "iPad"},
@@ -119,9 +116,7 @@ def extraer_ecosistema_apple():
     base_de_datos = {}
     
     for pagina in paginas_soporte:
-        print(f"\n📡 Escaneando: {pagina['url']}...")
         respuesta = requests.get(pagina['url'], headers=headers)
-        
         if respuesta.status_code != 200:
             time.sleep(3)
             continue
@@ -141,14 +136,12 @@ def extraer_ecosistema_apple():
                 capacidades =[]
                 año = 2024
                 
-                # 🔥 Cargamos primero la foto genérica por defecto de este modelo
+                # Cargamos la foto oficial de Wikipedia
                 imagen = obtener_imagen_respaldo(nombre)
-                
                 url_specs = pagina['url'] 
                 
                 if pagina['categoria'] == 'Mac':
-                    codigos_fisicos = deducir_numero_a_fisico(nombre)
-                    for cod in codigos_fisicos: diccionario_modelos[cod] = "Número de chasis (Físico)"
+                    for cod in deducir_numero_a_fisico(nombre): diccionario_modelos[cod] = "Número de chasis (Físico)"
 
                 nodo = titulo.parent.find_next_sibling() if titulo.name == 'strong' else titulo.find_next_sibling()
                 
@@ -158,30 +151,26 @@ def extraer_ecosistema_apple():
                         if pagina['filtro'].lower() in strong_txt.lower() and len(strong_txt) < 60: break
                             
                     if getattr(nodo, 'name', None):
-                        enlaces = nodo.find_all('a', href=True)
-                        for a in enlaces:
+                        for a in nodo.find_all('a', href=True):
                             if "especificaci" in a.text.lower() or "sp" in a['href'].lower() or "specs" in a.text.lower():
-                                href = a['href']
-                                url_specs = href if href.startswith('http') else "https://support.apple.com" + href
+                                url_specs = a['href'] if a['href'].startswith('http') else "https://support.apple.com" + a['href']
                                 
                     if getattr(nodo, 'name', None) == 'img': img_tag = nodo
                     else: img_tag = nodo.find('img') if getattr(nodo, 'name', None) else None
                         
-                    # 🔥 Si Apple TIENE una imagen, sustituimos nuestra imagen genérica por la oficial
+                    # 🔥 EL FILTRO ANTI-PÍXELES DE APPLE 🔥
                     if img_tag and img_tag.get('src'):
                         src = img_tag.get('src')
-                        if "image/svg" not in src and "icon" not in src:
+                        src_low = src.lower()
+                        # Prohibimos los .gif, los iconos y los 'spacer' invisibles
+                        if "svg" not in src_low and "icon" not in src_low and "spacer" not in src_low and not src_low.endswith(".gif") and "globalnav" not in src_low:
                             imagen = "https://support.apple.com" + src if src.startswith('/') else src
 
                     texto = nodo.get_text(" ", strip=True)
                     
-                    matches_a = re.finditer(r'(A\d{4})(?:\s*\(([^)]+)\))?', texto)
-                    for match in matches_a:
-                        modelo = match.group(1)
-                        region = match.group(2)
-                        if region: diccionario_modelos[modelo] = region.replace("otros países y regiones", "Modelo Internacional").strip().capitalize()
-                        else: 
-                            if modelo not in diccionario_modelos: diccionario_modelos[modelo] = "Región global o no especificada"
+                    for match in re.finditer(r'(A\d{4})(?:\s*\(([^)]+)\))?', texto):
+                        m, r = match.group(1), match.group(2)
+                        diccionario_modelos[m] = r.replace("otros países y regiones", "Modelo Internacional").strip().capitalize() if r else "Región global o no especificada"
                     
                     if pagina['categoria'] == 'Mac':
                         match_id = re.search(r'identificador(?:es)? d[e|el] modelo:\s*([^.]+)', texto, re.IGNORECASE)
@@ -194,9 +183,8 @@ def extraer_ecosistema_apple():
                             for p in re.split(r',|\by\b|\s+', match_pieza.group(1)):
                                 if len(p.strip()) > 4 and any(c.isdigit() for c in p.strip()): diccionario_modelos[p.strip()] = "Número de pieza comercial"
 
-                    if "presentación:" in texto.lower() or "lanzamiento:" in texto.lower() or "año:" in texto.lower():
-                        match_año = re.search(r'(\d{4})', texto)
-                        if match_año: año = int(match_año.group(1))
+                    match_año = re.search(r'(?:presentación|lanzamiento|año).*?(\d{4})', texto, re.IGNORECASE)
+                    if match_año: año = int(match_año.group(1))
                             
                     if "capacidad" in texto.lower() or "gb" in texto.lower() or "tb" in texto.lower() or "almacenamiento" in texto.lower():
                         for n in re.findall(r'\b\d{1,4}\b', texto):
@@ -223,7 +211,6 @@ def extraer_ecosistema_apple():
                     
         time.sleep(3)
 
-    # 🔥 LA CAJA FUERTE (Hemos añadido las fotos de Wikipedia aquí también)
     clasicos = {
         "imac_vintage_a1225": {
             "categoria": "Mac", "nombre": "iMac (24 pulgadas, Clásico)", "año": 2007,
@@ -248,12 +235,14 @@ def extraer_ecosistema_apple():
         }
     }
     
+    # Comprobación de que no se dupliquen al inyectarlos
     for key, data in clasicos.items():
-        if not any(key in bd['modelos'] for bd in base_de_datos.values()): base_de_datos[key] = data
+        modelo_buscado = list(data["modelos"].keys())[0]
+        if not any(modelo_buscado in bd['modelos'] for bd in base_de_datos.values()):
+            base_de_datos[key] = data
 
     with open("datos_apple.json", "w", encoding="utf-8") as archivo:
         json.dump(base_de_datos, archivo, indent=4, ensure_ascii=False)
-    print("\n🚀 ¡Base de datos completada al 100%!")
 
 if __name__ == "__main__":
-    extraer_ecosistema_apple()  
+    extraer_ecosistema_apple()
