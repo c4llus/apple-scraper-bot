@@ -4,16 +4,15 @@ import json
 import re
 import time
 
+# --- BANCO DE IMÁGENES DE LOS SERVIDORES INTERNOS DE APPLE ---
 def obtener_imagen_respaldo(nombre):
     n = nombre.lower()
-    if "imac" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/IMac_27_inch.png/512px-IMac_27_inch.png"
-    if "macbook pro" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/MacBook_with_Retina_Display.png/512px-MacBook_with_Retina_Display.png"
-    if "macbook air" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/MacBook_with_Retina_Display.png/512px-MacBook_with_Retina_Display.png"
-    if "macbook" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MacBook_white.png/512px-MacBook_white.png"
-    if "mac mini" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mac_mini_with_M1_chip_front_view.jpg/512px-Mac_mini_with_M1_chip_front_view.jpg"
-    if "mac pro" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mac_Pro_Late_2013.jpg/512px-Mac_Pro_Late_2013.jpg"
-    if "mac studio" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mac_Studio.jpg/512px-Mac_Studio.jpg"
-    return "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png"
+    if "imac" in n: return "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/imac/imac-27-2019-icon.png"
+    if "macbook" in n: return "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/macbookpro/macbook-pro-16-2019-icon.png"
+    if "mac mini" in n: return "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/macmini/mac-mini-2018-icon.png"
+    if "mac pro" in n: return "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/mac-pro/mac-pro-2019-icon.png"
+    if "mac studio" in n: return "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/mac-studio/mac-studio-2022-icon.png"
+    return "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
 
 def deducir_numero_a_fisico(nombre):
     n = nombre.lower()
@@ -98,7 +97,7 @@ def deducir_numero_a_fisico(nombre):
 # ---------------------------------------------------------------------------------
 
 def extraer_ecosistema_apple():
-    print("🤖 Iniciando escaneo masivo (Con filtro Anti-Píxeles Invisibles)...")
+    print("🤖 Iniciando escaneo masivo (Con Lector de Fotos Ocultas)...")
     paginas_soporte =[
         {"url": "https://support.apple.com/es-es/HT201296", "categoria": "iPhone", "filtro": "iPhone"},
         {"url": "https://support.apple.com/es-es/HT201471", "categoria": "iPad", "filtro": "iPad"},
@@ -125,18 +124,14 @@ def extraer_ecosistema_apple():
         titulos_brutos = sopa.find_all(['h2', 'h3', 'strong'])
         
         for titulo in titulos_brutos:
-            if titulo.name == 'strong' and titulo.parent and getattr(titulo.parent, 'name', None) in['h2', 'h3']:
-                continue
-                
+            if titulo.name == 'strong' and titulo.parent and getattr(titulo.parent, 'name', None) in['h2', 'h3']: continue
             nombre = titulo.get_text(strip=True).replace('\xa0', ' ')
             
             if pagina['filtro'].lower() in nombre.lower() and len(nombre) < 60 and "identificar" not in nombre.lower():
-                diccionario_modelos = {}
-                colores =[]
-                capacidades =[]
+                diccionario_modelos, colores, capacidades = {}, [],[]
                 año = 2024
                 
-                # Cargamos la foto oficial de Wikipedia
+                # Cargamos foto oficial interna de Apple
                 imagen = obtener_imagen_respaldo(nombre)
                 url_specs = pagina['url'] 
                 
@@ -158,13 +153,15 @@ def extraer_ecosistema_apple():
                     if getattr(nodo, 'name', None) == 'img': img_tag = nodo
                     else: img_tag = nodo.find('img') if getattr(nodo, 'name', None) else None
                         
-                    # 🔥 EL FILTRO ANTI-PÍXELES DE APPLE 🔥
-                    if img_tag and img_tag.get('src'):
-                        src = img_tag.get('src')
-                        src_low = src.lower()
-                        # Prohibimos los .gif, los iconos y los 'spacer' invisibles
-                        if "svg" not in src_low and "icon" not in src_low and "spacer" not in src_low and not src_low.endswith(".gif") and "globalnav" not in src_low:
-                            imagen = "https://support.apple.com" + src if src.startswith('/') else src
+                    # 🔥 LECTOR DE FOTOS OCULTAS (DATA-SRC y Protocolos Relativos)
+                    if img_tag:
+                        src = img_tag.get('data-src') or img_tag.get('data-hires') or img_tag.get('src')
+                        if src:
+                            src_low = src.lower()
+                            if "svg" not in src_low and "icon" not in src_low and "spacer" not in src_low and not src_low.endswith(".gif"):
+                                if src.startswith('//'): imagen = "https:" + src
+                                elif src.startswith('/'): imagen = "https://support.apple.com" + src
+                                else: imagen = src
 
                     texto = nodo.get_text(" ", strip=True)
                     
@@ -194,16 +191,14 @@ def extraer_ecosistema_apple():
                             
                     if "color" in texto.lower() or "acabado" in texto.lower():
                         partes = re.split(r'colores:|color:|acabados:|acabado:', texto, flags=re.IGNORECASE)
-                        if len(partes) > 1:
-                            colores.extend([c.strip().capitalize() for c in re.split(r',|\by\b', partes[1].strip()) if len(c.strip()) > 2])
+                        if len(partes) > 1: colores.extend([c.strip().capitalize() for c in re.split(r',|\by\b', partes[1].strip()) if len(c.strip()) > 2])
 
                     nodo = nodo.find_next_sibling()
                 
                 if diccionario_modelos:
                     id_prod = nombre.lower().replace(" ", "_").replace("(", "").replace(")", "").replace(".", "").replace('"', '').replace("-", "_")
                     base_de_datos[id_prod] = {
-                        "categoria": pagina['categoria'],
-                        "nombre": nombre, "año": año, "imagen": imagen, "url_specs": url_specs,
+                        "categoria": pagina['categoria'], "nombre": nombre, "año": año, "imagen": imagen, "url_specs": url_specs,
                         "colores": list(set(colores)) if colores else["Consultar Especificaciones"],
                         "capacidades": list(set(capacidades)) if capacidades else["Consultar Especificaciones"],
                         "modelos": diccionario_modelos
@@ -214,32 +209,30 @@ def extraer_ecosistema_apple():
     clasicos = {
         "imac_vintage_a1225": {
             "categoria": "Mac", "nombre": "iMac (24 pulgadas, Clásico)", "año": 2007,
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/IMac_27_inch.png/512px-IMac_27_inch.png",
+            "imagen": "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/imac/imac-27-2019-icon.png",
             "url_specs": "https://support.apple.com/es-es/112573",
             "colores": ["Plata (Aluminio)"], "capacidades":["250 GB", "320 GB", "500 GB"],
             "modelos": {"A1225": "Número de chasis (Físico)", "MA878": "Número de pieza comercial"}
         },
         "imac_vintage_a1311": {
             "categoria": "Mac", "nombre": "iMac (21.5 pulgadas, Clásico)", "año": 2009,
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/IMac_27_inch.png/512px-IMac_27_inch.png",
+            "imagen": "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/imac/imac-27-2019-icon.png",
             "url_specs": "https://support.apple.com/es-es/112469",
             "colores":["Plata (Aluminio)"], "capacidades":["500 GB", "1 TB"],
             "modelos": {"A1311": "Número de chasis (Físico)", "MB950": "Número de pieza comercial"}
         },
         "macbook_vintage_a1181": {
             "categoria": "Mac", "nombre": "MacBook (13 pulgadas, Policarbonato)", "año": 2006,
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MacBook_white.png/512px-MacBook_white.png",
+            "imagen": "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/macbookpro/macbook-pro-16-2019-icon.png",
             "url_specs": "https://support.apple.com/es-es/112602",
-            "colores": ["Blanco", "Negro"], "capacidades":["60 GB", "80 GB", "120 GB"],
+            "colores":["Blanco", "Negro"], "capacidades":["60 GB", "80 GB", "120 GB"],
             "modelos": {"A1181": "Número de chasis (Físico)", "MA254": "Número de pieza comercial"}
         }
     }
     
-    # Comprobación de que no se dupliquen al inyectarlos
     for key, data in clasicos.items():
         modelo_buscado = list(data["modelos"].keys())[0]
-        if not any(modelo_buscado in bd['modelos'] for bd in base_de_datos.values()):
-            base_de_datos[key] = data
+        if not any(modelo_buscado in bd['modelos'] for bd in base_de_datos.values()): base_de_datos[key] = data
 
     with open("datos_apple.json", "w", encoding="utf-8") as archivo:
         json.dump(base_de_datos, archivo, indent=4, ensure_ascii=False)
