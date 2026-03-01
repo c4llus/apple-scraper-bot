@@ -3,26 +3,29 @@ from bs4 import BeautifulSoup
 import json
 import re
 
-# --- CEREBRO INTERNO PARA ORDENADORES (Ya que Apple no los publica en su web) ---
+# --- CEREBRO INTERNO PARA ORDENADORES MAC (Desde 2006 hasta Hoy) ---
 def deducir_numero_a_fisico(nombre):
     n = nombre.lower()
     modelos =[]
     
-    # Familia iMac
+    # 🖥️ Familia iMac
     if "imac" in n:
-        if "21.5" in n or "21,5" in n:
+        if "20" in n:  # Modelos antiguos de 20" (2007-2009)
+            modelos.append("A1224")
+        elif "21.5" in n or "21,5" in n:
             if any(y in n for y in["2009", "2010", "2011"]): modelos.append("A1311")
             elif any(y in n for y in["2012", "2013", "2014", "2015", "2017"]): modelos.append("A1418")
             elif "2019" in n: modelos.append("A2116")
+        elif "24" in n:
+            if any(y in n for y in["2007", "2008", "2009"]): modelos.append("A1225") # ¡Aquí está el A1225!
+            elif "m1" in n or "2021" in n: modelos.extend(["A2438", "A2439"])
+            elif "m3" in n or "2023" in n: modelos.append("A2902")
         elif "27" in n:
             if any(y in n for y in["2009", "2010", "2011"]): modelos.append("A1312")
             elif any(y in n for y in["2012", "2013", "2014", "2015", "2017"]): modelos.append("A1419")
             elif any(y in n for y in ["2019", "2020"]): modelos.append("A2115")
-        elif "24" in n:
-            if "m1" in n or "2021" in n: modelos.extend(["A2438", "A2439"])
-            elif "m3" in n or "2023" in n: modelos.append("A2902")
             
-    # Familia MacBook Air
+    # 💻 Familia MacBook Air
     elif "macbook air" in n:
         if "11" in n:
             if "2010" in n or "2011" in n: modelos.append("A1370")
@@ -39,7 +42,7 @@ def deducir_numero_a_fisico(nombre):
             if "m2" in n: modelos.append("A2941")
             elif "m3" in n: modelos.append("A3114")
             
-    # Familia MacBook Pro
+    # 💻 Familia MacBook Pro
     elif "macbook pro" in n:
         if "13" in n:
             if any(y in n for y in["2009", "2010", "2011", "2012"]) and "retina" not in n: modelos.append("A1278")
@@ -54,8 +57,9 @@ def deducir_numero_a_fisico(nombre):
             elif "m2" in n: modelos.append("A2779")
             elif "m3" in n: modelos.extend(["A2918", "A2992"])
         elif "15" in n:
-            if any(y in n for y in["2008", "2009", "2010", "2011", "2012"]) and "retina" not in n: modelos.append("A1286")
-            elif "retina" in n or any(y in n for y in ["2012", "2013", "2014", "2015"]): modelos.append("A1398")
+            if any(y in n for y in["2006", "2007", "2008"]) and "unibody" not in n: modelos.extend(["A1150", "A1211", "A1226", "A1260"])
+            elif any(y in n for y in["2008", "2009", "2010", "2011", "2012"]) and "retina" not in n: modelos.append("A1286")
+            elif "retina" in n or any(y in n for y in["2012", "2013", "2014", "2015"]): modelos.append("A1398")
             elif "2016" in n or "2017" in n: modelos.append("A1707")
             elif "2018" in n or "2019" in n: modelos.append("A1990")
         elif "16" in n:
@@ -64,21 +68,55 @@ def deducir_numero_a_fisico(nombre):
             elif "m2" in n: modelos.append("A2780")
             elif "m3" in n: modelos.append("A2991")
         elif "17" in n:
-            modelos.append("A1297")
+            modelos.extend(["A1151", "A1212", "A1229", "A1261", "A1297"])
+            
+    # 💻 Familia MacBook Normal (El blanquito, el negro y el de 12")
+    elif "macbook" in n and "pro" not in n and "air" not in n:
+        if "12" in n: modelos.append("A1534")
+        elif "2008" in n and "aluminio" in n: modelos.append("A1278")
+        elif any(y in n for y in ["2009", "2010"]) and ("blanco" in n or "policarbonato" in n): modelos.append("A1342")
+        else: modelos.append("A1181") # El clásico MacBook Blanco/Negro (2006-2009)
+        
+    # 💽 Familia Mac mini
+    elif "mac mini" in n:
+        if any(y in n for y in["2006", "2007"]): modelos.append("A1176")
+        elif "2009" in n: modelos.append("A1283")
+        elif any(y in n for y in["2010", "2011", "2012", "2014"]): modelos.append("A1347")
+        elif "2018" in n: modelos.append("A1993")
+        elif "m1" in n: modelos.append("A2348")
+        elif "m2" in n: modelos.extend(["A2686", "A2816"])
+        
+    # 🖥️ Familia Mac Pro (Las torres y la papelera)
+    elif "mac pro" in n:
+        if any(y in n for y in["2006", "2007", "2008"]): modelos.append("A1186")
+        elif any(y in n for y in["2009", "2010", "2012"]): modelos.append("A1289")
+        elif "2013" in n: modelos.append("A1481")
+        elif "2019" in n: modelos.append("A1991")
+        elif "2023" in n: modelos.append("A2786")
+        
+    # ⬛ Familia Mac Studio
+    elif "mac studio" in n:
+        if "m1" in n or "2022" in n: modelos.append("A2615")
+        elif "m2" in n or "2023" in n: modelos.append("A2901")
             
     return modelos
 # ---------------------------------------------------------------------------------
 
 
 def extraer_ecosistema_apple():
-    print("🤖 Iniciando escaneo masivo del Ecosistema Apple...")
+    print("🤖 Iniciando escaneo masivo de Apple (Incluyendo Retro/Clásicos)...")
+    
+    # 🚨 Hemos añadido las páginas del MacBook normal, Mac Pro y Mac Studio
     paginas_soporte =[
         {"url": "https://support.apple.com/es-es/HT201296", "categoria": "iPhone", "filtro": "iPhone"},
         {"url": "https://support.apple.com/es-es/HT201471", "categoria": "iPad", "filtro": "iPad"},
         {"url": "https://support.apple.com/es-es/HT201300", "categoria": "Mac", "filtro": "MacBook Pro"},
         {"url": "https://support.apple.com/es-es/HT201862", "categoria": "Mac", "filtro": "MacBook Air"},
+        {"url": "https://support.apple.com/es-es/HT201608", "categoria": "Mac", "filtro": "MacBook"},
         {"url": "https://support.apple.com/es-es/HT201634", "categoria": "Mac", "filtro": "iMac"},
         {"url": "https://support.apple.com/es-es/HT201894", "categoria": "Mac", "filtro": "Mac mini"},
+        {"url": "https://support.apple.com/es-es/HT202888", "categoria": "Mac", "filtro": "Mac Pro"},
+        {"url": "https://support.apple.com/es-es/HT213073", "categoria": "Mac", "filtro": "Mac Studio"},
         {"url": "https://support.apple.com/es-es/HT204507", "categoria": "Watch", "filtro": "Apple Watch"}
     ]
     
@@ -86,7 +124,7 @@ def extraer_ecosistema_apple():
     base_de_datos = {}
     
     for pagina in paginas_soporte:
-        print(f"\n📡 Escaneando {pagina['categoria']}s...")
+        print(f"\n📡 Escaneando: {pagina['url']}...")
         respuesta = requests.get(pagina['url'], headers=headers)
         sopa = BeautifulSoup(respuesta.text, 'html.parser')
         
@@ -95,6 +133,7 @@ def extraer_ecosistema_apple():
         for titulo in titulos:
             nombre = titulo.get_text(strip=True).replace('\xa0', ' ')
             
+            # Filtro inteligente para asegurar que lee el nombre correcto
             if pagina['filtro'].lower() in nombre.lower() and len(nombre) < 60 and "identificar" not in nombre.lower():
                 diccionario_modelos = {}
                 colores = []
@@ -102,7 +141,7 @@ def extraer_ecosistema_apple():
                 año = 2024
                 imagen = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png"
                 
-                # 🧠 SI ES UN MAC, LE INYECTAMOS EL CÓDIGO FÍSICO A-XXXX
+                # 🧠 INYECTAMOS EL CÓDIGO FÍSICO A-XXXX (A1225, A1181, etc)
                 if pagina['categoria'] == 'Mac':
                     codigos_fisicos = deducir_numero_a_fisico(nombre)
                     for cod in codigos_fisicos:
@@ -110,7 +149,7 @@ def extraer_ecosistema_apple():
 
                 nodo = titulo.find_next_sibling()
                 
-                while nodo and nodo.name not in ['h2', 'h3']:
+                while nodo and nodo.name not in['h2', 'h3']:
                     if nodo.name == 'img': img_tag = nodo
                     else: img_tag = nodo.find('img')
                         
@@ -134,12 +173,12 @@ def extraer_ecosistema_apple():
                         match_id = re.search(r'identificador(?:es)? d[e|el] modelo:\s*([^.]+)', texto, re.IGNORECASE)
                         if match_id:
                             for i in re.split(r',|\by\b', match_id.group(1)):
-                                if len(i.strip()) > 4: diccionario_modelos[i.strip()] = "Identificador interno (Sistema Mac)"
+                                if len(i.strip()) > 4: diccionario_modelos[i.strip()] = "Identificador interno (Sistema)"
                             
                         match_pieza = re.search(r'pieza:\s*([^.]+)', texto, re.IGNORECASE)
                         if match_pieza:
                             for p in re.split(r',|\by\b|\s+', match_pieza.group(1)):
-                                if len(p.strip()) > 4 and any(c.isdigit() for c in p.strip()): diccionario_modelos[p.strip()] = "Número de pieza (Caja)"
+                                if len(p.strip()) > 4 and any(c.isdigit() for c in p.strip()): diccionario_modelos[p.strip()] = "Número de pieza comercial"
 
                     if "presentación:" in texto.lower() or "lanzamiento:" in texto.lower() or "año:" in texto.lower():
                         match_año = re.search(r'(\d{4})', texto)
@@ -149,7 +188,7 @@ def extraer_ecosistema_apple():
                         for n in re.findall(r'\b\d{1,4}\b', texto):
                             num = int(n)
                             if num in[4, 8, 16, 32, 64, 128, 256, 512]: capacidades.append(f"{num} GB")
-                            elif num in [1, 2, 4, 8]: capacidades.append(f"{num} TB")
+                            elif num in[1, 2, 4, 8]: capacidades.append(f"{num} TB")
                             
                     if "color" in texto.lower() or "acabado" in texto.lower():
                         partes = re.split(r'colores:|color:|acabados:|acabado:', texto, flags=re.IGNORECASE)
@@ -166,7 +205,7 @@ def extraer_ecosistema_apple():
                         "nombre": nombre,
                         "año": año,
                         "imagen": imagen,
-                        "colores": list(set(colores)) if colores else ["Consultar especificaciones"],
+                        "colores": list(set(colores)) if colores else["Consultar especificaciones"],
                         "capacidades": list(set(capacidades)) if capacidades else["Consultar especificaciones"],
                         "modelos": diccionario_modelos
                     }
