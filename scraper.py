@@ -95,7 +95,7 @@ def deducir_numero_a_fisico(nombre):
     return modelos
 
 def extraer_ecosistema_apple():
-    print("🤖 Iniciando escaneo masivo (Con Inteligencia de Paleta de Colores)...")
+    print("🤖 Iniciando escaneo masivo (Con Módulo avanzado de Acabados/Colores)...")
     paginas_soporte =[
         {"url": "https://support.apple.com/es-es/HT201296", "categoria": "iPhone", "filtro": "iPhone"},
         {"url": "https://support.apple.com/es-es/HT201471", "categoria": "iPad", "filtro": "iPad"},
@@ -126,7 +126,7 @@ def extraer_ecosistema_apple():
             nombre = titulo.get_text(strip=True).replace('\xa0', ' ')
             
             if pagina['filtro'].lower() in nombre.lower() and len(nombre) < 60 and "identificar" not in nombre.lower():
-                diccionario_modelos, colores, capacidades = {},[],[]
+                diccionario_modelos, colores, capacidades = {}, [],[]
                 año = 2024
                 
                 imagen = obtener_imagen_respaldo(nombre)
@@ -160,6 +160,7 @@ def extraer_ecosistema_apple():
                                 else: imagen = src
 
                     texto = nodo.get_text(" ", strip=True)
+                    texto_lower = texto.lower()
                     
                     for match in re.finditer(r'(A\d{4})(?:\s*\(([^)]+)\))?', texto):
                         m, r = match.group(1), match.group(2)
@@ -176,40 +177,48 @@ def extraer_ecosistema_apple():
                             for p in re.split(r',|\by\b|\s+', match_pieza.group(1)):
                                 if len(p.strip()) > 4 and any(c.isdigit() for c in p.strip()): diccionario_modelos[p.strip()] = "Número de pieza comercial"
 
-                    match_año = re.search(r'(?:presentación|lanzamiento|año).*?(\d{4})', texto, re.IGNORECASE)
+                    match_año = re.search(r'(?:presentación|lanzamiento|año).*?(\d{4})', texto_lower)
                     if match_año: año = int(match_año.group(1))
                             
-                    if "capacidad" in texto.lower() or "gb" in texto.lower() or "tb" in texto.lower() or "almacenamiento" in texto.lower():
+                    if "capacidad" in texto_lower or "gb" in texto_lower or "tb" in texto_lower or "almacenamiento" in texto_lower:
                         for n in re.findall(r'\b\d{1,4}\b', texto):
                             num = int(n)
                             if num in[4, 8, 16, 32, 64, 128, 256, 512]: capacidades.append(f"{num} GB")
                             elif num in[1, 2, 4, 8]: capacidades.append(f"{num} TB")
                             
-                    # 🔥 LA MAGIA DE LOS COLORES (Inteligencia Apple Palette) 🔥
-                    texto_lower = texto.lower()
-                    # Ignoramos si es una frase descriptiva de la pantalla plana, pero admitimos si habla de la carcasa
-                    if "pantalla" not in texto_lower or "carcasa" in texto_lower or "bisel" in texto_lower:
-                        # Si es un párrafo cortito (viñetas de colores) o menciona palabras clave
-                        if len(texto_lower) < 150 or any(p in texto_lower for p in["color", "acabado", "caja", "carcasa", "bisel", "tonos"]):
-                            colores_apple =[
-                                "gris espacial", "negro espacial", "negro azabache", "blanco estrella", 
-                                "oro rosa", "azul sierra", "azul pacífico", "verde alpino", "verde noche",
-                                "titanio natural", "titanio azul", "titanio blanco", "titanio negro", "titanio pulido",
-                                "product(red)", "rojo", "plata", "oro", "medianoche", "blanco", "negro", 
-                                "azul", "verde", "rosa", "amarillo", "púrpura", "coral", "grafito", 
-                                "acero inoxidable", "cerámica", "titanio", "aluminio"
-                            ]
-                            for c in colores_apple:
-                                if c == "product(red)":
-                                    if "product(red)" in texto_lower or "product (red)" in texto_lower:
-                                        colores.append("PRODUCT(RED)")
-                                        texto_lower = texto_lower.replace("product(red)", "").replace("product (red)", "")
-                                else:
-                                    # Busca la palabra exacta del color
-                                    if re.search(r'\b' + c + r'\b', texto_lower):
-                                        colores.append(c.capitalize())
-                                        # Lo borramos del texto para que no se dupliquen (Ej: 'Oro rosa' no dispare luego 'Oro')
-                                        texto_lower = re.sub(r'\b' + c + r'\b', '', texto_lower)
+                    # 🔥 DETECTOR DEFINITIVO DE ACABADOS (Para iPad, Mac y Watch) 🔥
+                    # Método 1: Búsqueda explícita de "Acabado: plata, oro..."
+                    match_prefijo = re.search(r'(acabados?|colores?)\s*:(.*?)(?:\.|$)', texto_lower)
+                    if match_prefijo:
+                        texto_colores = match_prefijo.group(2)
+                        # Cortamos por comas y por las letras "y", "o", "u"
+                        lista_c = re.split(r',|\by\b|\bu\b|\bo\b', texto_colores)
+                        for c in lista_c:
+                            c_limpio = c.strip().capitalize()
+                            if len(c_limpio) > 2 and c_limpio not in colores:
+                                colores.append(c_limpio)
+                    else:
+                        # Método 2: Respaldo por Inteligencia de Paleta (Para Watch o textos raros sin ":")
+                        if "pantalla" not in texto_lower or "carcasa" in texto_lower or "bisel" in texto_lower:
+                            if len(texto_lower) < 150 or any(p in texto_lower for p in["acabado", "color", "caja", "carcasa", "bisel", "aluminio"]):
+                                colores_apple =[
+                                    "gris espacial", "negro espacial", "negro azabache", "blanco estrella", "estrella", 
+                                    "oro rosa", "azul sierra", "azul pacífico", "verde alpino", "verde noche",
+                                    "titanio natural", "titanio azul", "titanio blanco", "titanio negro", "titanio pulido",
+                                    "product(red)", "rojo", "plata", "oro", "medianoche", "blanco", "negro", 
+                                    "azul", "verde", "rosa", "amarillo", "púrpura", "coral", "grafito", 
+                                    "acero inoxidable", "cerámica", "aluminio"
+                                ]
+                                for c in colores_apple:
+                                    if c == "product(red)":
+                                        if "product(red)" in texto_lower or "product (red)" in texto_lower:
+                                            if "PRODUCT(RED)" not in colores: colores.append("PRODUCT(RED)")
+                                            texto_lower = texto_lower.replace("product(red)", "").replace("product (red)", "")
+                                    else:
+                                        if re.search(r'\b' + c + r'\b', texto_lower):
+                                            c_cap = c.capitalize()
+                                            if c_cap not in colores: colores.append(c_cap)
+                                            texto_lower = re.sub(r'\b' + c + r'\b', '', texto_lower)
 
                     nodo = nodo.find_next_sibling()
                 
@@ -217,7 +226,7 @@ def extraer_ecosistema_apple():
                     id_prod = nombre.lower().replace(" ", "_").replace("(", "").replace(")", "").replace(".", "").replace('"', '').replace("-", "_")
                     base_de_datos[id_prod] = {
                         "categoria": pagina['categoria'], "nombre": nombre, "año": año, "imagen": imagen, "url_specs": url_specs,
-                        "colores": list(set(colores)) if colores else["Consultar Especificaciones"],
+                        "colores": colores if colores else["Consultar Especificaciones"],
                         "capacidades": list(set(capacidades)) if capacidades else["Consultar Especificaciones"],
                         "modelos": diccionario_modelos
                     }
