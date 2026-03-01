@@ -95,7 +95,7 @@ def deducir_numero_a_fisico(nombre):
     return modelos
 
 def extraer_ecosistema_apple():
-    print("🤖 Iniciando escaneo masivo (Con Escáner Frase a Frase para iPad/Watch)...")
+    print("🤖 Iniciando escaneo masivo (Con Lector Preciso de Enlaces de Apple)...")
     paginas_soporte =[
         {"url": "https://support.apple.com/es-es/HT201296", "categoria": "iPhone", "filtro": "iPhone"},
         {"url": "https://support.apple.com/es-es/HT201471", "categoria": "iPad", "filtro": "iPad"},
@@ -109,7 +109,6 @@ def extraer_ecosistema_apple():
         {"url": "https://support.apple.com/es-es/HT204507", "categoria": "Watch", "filtro": "Apple Watch"}
     ]
     
-    # 🎨 PALETA DE COLORES (Ordenada estratégicamente de compuestos a simples)
     colores_apple =[
         "gris espacial", "negro espacial", "negro azabache", "blanco estrella", 
         "oro rosa", "azul sierra", "azul pacífico", "verde alpino", "verde noche",
@@ -140,7 +139,9 @@ def extraer_ecosistema_apple():
                 año = 2024
                 
                 imagen = obtener_imagen_respaldo(nombre)
-                url_specs = pagina['url'] 
+                
+                # Usamos la URL de destino final de Apple (Ej: resuelve el HT201471 a 108043)
+                url_specs = respuesta.url
                 
                 if pagina['categoria'] == 'Mac':
                     for cod in deducir_numero_a_fisico(nombre): diccionario_modelos[cod] = "Número de chasis (Físico)"
@@ -148,14 +149,26 @@ def extraer_ecosistema_apple():
                 nodo = titulo.parent.find_next_sibling() if titulo.name == 'strong' else titulo.find_next_sibling()
                 
                 while nodo and getattr(nodo, 'name', None) not in['h2', 'h3']:
+                    # Rompemos SOLO si es un texto en negrita MUY CORTO (título del siguiente dispositivo)
                     if getattr(nodo, 'name', None) == 'p' and nodo.find('strong'):
                         strong_txt = nodo.find('strong').get_text(strip=True)
-                        if pagina['filtro'].lower() in strong_txt.lower() and len(strong_txt) < 60: break
+                        if pagina['filtro'].lower() in strong_txt.lower() and len(nodo.get_text(strip=True)) < 80: break
                             
+                    # 🔥 ESCÁNER DE ENLACES DE PRECISIÓN (Lee la frase que rodea al enlace)
                     if getattr(nodo, 'name', None):
                         for a in nodo.find_all('a', href=True):
-                            if "especificaci" in a.text.lower() or "sp" in a['href'].lower() or "specs" in a.text.lower():
-                                url_specs = a['href'] if a['href'].startswith('http') else "https://support.apple.com" + a['href']
+                            txt = a.get_text(strip=True).lower()
+                            ptxt = a.parent.get_text(strip=True).lower() if a.parent else ""
+                            
+                            if "especificaci" in txt or "specs" in txt or "especificaci" in ptxt or "sp" in a['href'].lower():
+                                href = a['href']
+                                if href.startswith('http'): 
+                                    url_specs = href
+                                elif href.startswith('/'): 
+                                    url_specs = "https://support.apple.com" + href
+                                else: 
+                                    # Corrige los enlaces huérfanos de Apple como '125407'
+                                    url_specs = "https://support.apple.com/es-es/" + href.split('/')[-1]
                                 
                     if getattr(nodo, 'name', None) == 'img': img_tag = nodo
                     else: img_tag = nodo.find('img') if getattr(nodo, 'name', None) else None
@@ -196,21 +209,14 @@ def extraer_ecosistema_apple():
                             if num in[4, 8, 16, 32, 64, 128, 256, 512]: capacidades.append(f"{num} GB")
                             elif num in[1, 2, 4, 8]: capacidades.append(f"{num} TB")
                             
-                    # 🔥 NUEVO ESCÁNER FRASE A FRASE (Especial para iPad y Watch) 🔥
-                    # Cortamos el párrafo en frases pequeñas separadas por puntos o saltos de línea
                     frases = re.split(r'\n|\.\s|<br>', texto_lower)
                     for frase in frases:
-                        # Si la frase es corta o menciona palabras clave de color...
                         if any(kw in frase for kw in["acabado", "color", "carcasa", "bisel", "aluminio", "disponible"]) or len(frase) < 100:
-                            
-                            # Pasamos el filtro explícito (Acabados: plata, oro)
                             match_prefijo = re.search(r'(?:acabados?|colores?)\s*:\s*(.*)', frase)
                             if match_prefijo:
                                 for c in re.split(r',|\by\b|\bo\b|\bu\b', match_prefijo.group(1)):
                                     c_limpio = c.strip().capitalize()
                                     if len(c_limpio) > 2 and c_limpio not in colores: colores.append(c_limpio)
-                            
-                            # Pasamos el filtro de Paleta (Para frases como "Bisel frontal blanco o negro")
                             else:
                                 for c in colores_apple:
                                     if c == "product(red)":
@@ -218,11 +224,9 @@ def extraer_ecosistema_apple():
                                             if "PRODUCT(RED)" not in colores: colores.append("PRODUCT(RED)")
                                             frase = frase.replace("product(red)", "").replace("product (red)", "")
                                     else:
-                                        # Si encuentra el color exacto sin formar parte de otra palabra...
                                         if re.search(r'\b' + re.escape(c) + r'\b', frase):
                                             c_cap = c.capitalize()
                                             if c_cap not in colores: colores.append(c_cap)
-                                            # Lo borramos de la frase para que "Blanco estrella" no active luego "Blanco"
                                             frase = re.sub(r'\b' + re.escape(c) + r'\b', '', frase)
 
                     nodo = nodo.find_next_sibling()
@@ -243,7 +247,7 @@ def extraer_ecosistema_apple():
             "categoria": "Mac", "nombre": "iMac (24 pulgadas, Clásico)", "año": 2007,
             "imagen": "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/imac/imac-27-2019-icon.png",
             "url_specs": "https://support.apple.com/es-es/112573",
-            "colores":["Plata (Aluminio)"], "capacidades":["250 GB", "320 GB", "500 GB"],
+            "colores": ["Plata (Aluminio)"], "capacidades":["250 GB", "320 GB", "500 GB"],
             "modelos": {"A1225": "Número de chasis (Físico)", "MA878": "Número de pieza comercial"}
         },
         "imac_vintage_a1311": {
