@@ -95,7 +95,7 @@ def deducir_numero_a_fisico(nombre):
     return modelos
 
 def extraer_ecosistema_apple():
-    print("🤖 Iniciando escaneo masivo (Con Módulo avanzado de Acabados/Colores)...")
+    print("🤖 Iniciando escaneo masivo (Con Escáner Frase a Frase para iPad/Watch)...")
     paginas_soporte =[
         {"url": "https://support.apple.com/es-es/HT201296", "categoria": "iPhone", "filtro": "iPhone"},
         {"url": "https://support.apple.com/es-es/HT201471", "categoria": "iPad", "filtro": "iPad"},
@@ -107,6 +107,16 @@ def extraer_ecosistema_apple():
         {"url": "https://support.apple.com/es-es/HT202888", "categoria": "Mac", "filtro": "Mac Pro"},
         {"url": "https://support.apple.com/es-es/HT213073", "categoria": "Mac", "filtro": "Mac Studio"},
         {"url": "https://support.apple.com/es-es/HT204507", "categoria": "Watch", "filtro": "Apple Watch"}
+    ]
+    
+    # 🎨 PALETA DE COLORES (Ordenada estratégicamente de compuestos a simples)
+    colores_apple =[
+        "gris espacial", "negro espacial", "negro azabache", "blanco estrella", 
+        "oro rosa", "azul sierra", "azul pacífico", "verde alpino", "verde noche",
+        "titanio natural", "titanio azul", "titanio blanco", "titanio negro", "titanio pulido",
+        "acero inoxidable", "product(red)", "amarillo", "púrpura", "grafito", 
+        "cerámica", "aluminio", "titanio", "plata", "coral", "rojo",
+        "oro", "medianoche", "blanco", "negro", "azul", "verde", "rosa", "estrella"
     ]
     
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
@@ -126,7 +136,7 @@ def extraer_ecosistema_apple():
             nombre = titulo.get_text(strip=True).replace('\xa0', ' ')
             
             if pagina['filtro'].lower() in nombre.lower() and len(nombre) < 60 and "identificar" not in nombre.lower():
-                diccionario_modelos, colores, capacidades = {}, [],[]
+                diccionario_modelos, colores, capacidades = {},[],[]
                 año = 2024
                 
                 imagen = obtener_imagen_respaldo(nombre)
@@ -186,39 +196,34 @@ def extraer_ecosistema_apple():
                             if num in[4, 8, 16, 32, 64, 128, 256, 512]: capacidades.append(f"{num} GB")
                             elif num in[1, 2, 4, 8]: capacidades.append(f"{num} TB")
                             
-                    # 🔥 DETECTOR DEFINITIVO DE ACABADOS (Para iPad, Mac y Watch) 🔥
-                    # Método 1: Búsqueda explícita de "Acabado: plata, oro..."
-                    match_prefijo = re.search(r'(acabados?|colores?)\s*:(.*?)(?:\.|$)', texto_lower)
-                    if match_prefijo:
-                        texto_colores = match_prefijo.group(2)
-                        # Cortamos por comas y por las letras "y", "o", "u"
-                        lista_c = re.split(r',|\by\b|\bu\b|\bo\b', texto_colores)
-                        for c in lista_c:
-                            c_limpio = c.strip().capitalize()
-                            if len(c_limpio) > 2 and c_limpio not in colores:
-                                colores.append(c_limpio)
-                    else:
-                        # Método 2: Respaldo por Inteligencia de Paleta (Para Watch o textos raros sin ":")
-                        if "pantalla" not in texto_lower or "carcasa" in texto_lower or "bisel" in texto_lower:
-                            if len(texto_lower) < 150 or any(p in texto_lower for p in["acabado", "color", "caja", "carcasa", "bisel", "aluminio"]):
-                                colores_apple =[
-                                    "gris espacial", "negro espacial", "negro azabache", "blanco estrella", "estrella", 
-                                    "oro rosa", "azul sierra", "azul pacífico", "verde alpino", "verde noche",
-                                    "titanio natural", "titanio azul", "titanio blanco", "titanio negro", "titanio pulido",
-                                    "product(red)", "rojo", "plata", "oro", "medianoche", "blanco", "negro", 
-                                    "azul", "verde", "rosa", "amarillo", "púrpura", "coral", "grafito", 
-                                    "acero inoxidable", "cerámica", "aluminio"
-                                ]
+                    # 🔥 NUEVO ESCÁNER FRASE A FRASE (Especial para iPad y Watch) 🔥
+                    # Cortamos el párrafo en frases pequeñas separadas por puntos o saltos de línea
+                    frases = re.split(r'\n|\.\s|<br>', texto_lower)
+                    for frase in frases:
+                        # Si la frase es corta o menciona palabras clave de color...
+                        if any(kw in frase for kw in["acabado", "color", "carcasa", "bisel", "aluminio", "disponible"]) or len(frase) < 100:
+                            
+                            # Pasamos el filtro explícito (Acabados: plata, oro)
+                            match_prefijo = re.search(r'(?:acabados?|colores?)\s*:\s*(.*)', frase)
+                            if match_prefijo:
+                                for c in re.split(r',|\by\b|\bo\b|\bu\b', match_prefijo.group(1)):
+                                    c_limpio = c.strip().capitalize()
+                                    if len(c_limpio) > 2 and c_limpio not in colores: colores.append(c_limpio)
+                            
+                            # Pasamos el filtro de Paleta (Para frases como "Bisel frontal blanco o negro")
+                            else:
                                 for c in colores_apple:
                                     if c == "product(red)":
-                                        if "product(red)" in texto_lower or "product (red)" in texto_lower:
+                                        if "product(red)" in frase or "product (red)" in frase:
                                             if "PRODUCT(RED)" not in colores: colores.append("PRODUCT(RED)")
-                                            texto_lower = texto_lower.replace("product(red)", "").replace("product (red)", "")
+                                            frase = frase.replace("product(red)", "").replace("product (red)", "")
                                     else:
-                                        if re.search(r'\b' + c + r'\b', texto_lower):
+                                        # Si encuentra el color exacto sin formar parte de otra palabra...
+                                        if re.search(r'\b' + re.escape(c) + r'\b', frase):
                                             c_cap = c.capitalize()
                                             if c_cap not in colores: colores.append(c_cap)
-                                            texto_lower = re.sub(r'\b' + c + r'\b', '', texto_lower)
+                                            # Lo borramos de la frase para que "Blanco estrella" no active luego "Blanco"
+                                            frase = re.sub(r'\b' + re.escape(c) + r'\b', '', frase)
 
                     nodo = nodo.find_next_sibling()
                 
@@ -226,7 +231,7 @@ def extraer_ecosistema_apple():
                     id_prod = nombre.lower().replace(" ", "_").replace("(", "").replace(")", "").replace(".", "").replace('"', '').replace("-", "_")
                     base_de_datos[id_prod] = {
                         "categoria": pagina['categoria'], "nombre": nombre, "año": año, "imagen": imagen, "url_specs": url_specs,
-                        "colores": colores if colores else["Consultar Especificaciones"],
+                        "colores": list(set(colores)) if colores else["Consultar Especificaciones"],
                         "capacidades": list(set(capacidades)) if capacidades else["Consultar Especificaciones"],
                         "modelos": diccionario_modelos
                     }
@@ -238,7 +243,7 @@ def extraer_ecosistema_apple():
             "categoria": "Mac", "nombre": "iMac (24 pulgadas, Clásico)", "año": 2007,
             "imagen": "https://support.apple.com/content/dam/edam/applecare/images/en_US/mac/imac/imac-27-2019-icon.png",
             "url_specs": "https://support.apple.com/es-es/112573",
-            "colores": ["Plata (Aluminio)"], "capacidades":["250 GB", "320 GB", "500 GB"],
+            "colores":["Plata (Aluminio)"], "capacidades":["250 GB", "320 GB", "500 GB"],
             "modelos": {"A1225": "Número de chasis (Físico)", "MA878": "Número de pieza comercial"}
         },
         "imac_vintage_a1311": {
