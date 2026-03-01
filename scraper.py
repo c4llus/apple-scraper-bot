@@ -4,6 +4,19 @@ import json
 import re
 import time
 
+# --- BANCO DE IMÁGENES DE RESPALDO (Por si Apple borró la foto original) ---
+def obtener_imagen_respaldo(nombre):
+    n = nombre.lower()
+    if "imac" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/IMac_27_inch.png/512px-IMac_27_inch.png"
+    if "macbook pro" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/MacBook_with_Retina_Display.png/512px-MacBook_with_Retina_Display.png"
+    if "macbook air" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/MacBook_with_Retina_Display.png/512px-MacBook_with_Retina_Display.png"
+    if "macbook" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MacBook_white.png/512px-MacBook_white.png"
+    if "mac mini" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mac_mini_with_M1_chip_front_view.jpg/512px-Mac_mini_with_M1_chip_front_view.jpg"
+    if "mac pro" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mac_Pro_Late_2013.jpg/512px-Mac_Pro_Late_2013.jpg"
+    if "mac studio" in n: return "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mac_Studio.jpg/512px-Mac_Studio.jpg"
+    # Si no es ninguno de esos, ponemos el logo de Apple
+    return "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png"
+
 # --- CEREBRO INTERNO PARA ORDENADORES MAC ---
 def deducir_numero_a_fisico(nombre):
     n = nombre.lower()
@@ -88,7 +101,7 @@ def deducir_numero_a_fisico(nombre):
 # ---------------------------------------------------------------------------------
 
 def extraer_ecosistema_apple():
-    print("🤖 Iniciando escaneo masivo (Con lectura de Negritas e Inyección Clásica)...")
+    print("🤖 Iniciando escaneo masivo (Con Banco de Imágenes de Rescate)...")
     paginas_soporte =[
         {"url": "https://support.apple.com/es-es/HT201296", "categoria": "iPhone", "filtro": "iPhone"},
         {"url": "https://support.apple.com/es-es/HT201471", "categoria": "iPad", "filtro": "iPad"},
@@ -110,17 +123,13 @@ def extraer_ecosistema_apple():
         respuesta = requests.get(pagina['url'], headers=headers)
         
         if respuesta.status_code != 200:
-            print(f"⚠️ Error {respuesta.status_code}. Saltando página...")
             time.sleep(3)
             continue
             
         sopa = BeautifulSoup(respuesta.text, 'html.parser')
-        
-        # 🔥 TRUCO 1: Buscar títulos y Textos en Negrita (donde Apple esconde a los abuelos)
         titulos_brutos = sopa.find_all(['h2', 'h3', 'strong'])
         
         for titulo in titulos_brutos:
-            # Evitar leer el doble si un texto negrita está dentro de un título
             if titulo.name == 'strong' and titulo.parent and getattr(titulo.parent, 'name', None) in['h2', 'h3']:
                 continue
                 
@@ -128,45 +137,41 @@ def extraer_ecosistema_apple():
             
             if pagina['filtro'].lower() in nombre.lower() and len(nombre) < 60 and "identificar" not in nombre.lower():
                 diccionario_modelos = {}
-                colores = []
+                colores =[]
                 capacidades =[]
                 año = 2024
-                imagen = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png"
+                
+                # 🔥 Cargamos primero la foto genérica por defecto de este modelo
+                imagen = obtener_imagen_respaldo(nombre)
+                
                 url_specs = pagina['url'] 
                 
                 if pagina['categoria'] == 'Mac':
                     codigos_fisicos = deducir_numero_a_fisico(nombre)
-                    for cod in codigos_fisicos:
-                        diccionario_modelos[cod] = "Número de chasis (Físico)"
+                    for cod in codigos_fisicos: diccionario_modelos[cod] = "Número de chasis (Físico)"
 
-                if titulo.name == 'strong':
-                    nodo = titulo.parent.find_next_sibling()
-                else:
-                    nodo = titulo.find_next_sibling()
+                nodo = titulo.parent.find_next_sibling() if titulo.name == 'strong' else titulo.find_next_sibling()
                 
-                while nodo and getattr(nodo, 'name', None) not in ['h2', 'h3']:
-                    # Cortar si chocamos con otro ordenador antiguo en negrita
+                while nodo and getattr(nodo, 'name', None) not in['h2', 'h3']:
                     if getattr(nodo, 'name', None) == 'p' and nodo.find('strong'):
                         strong_txt = nodo.find('strong').get_text(strip=True)
-                        if pagina['filtro'].lower() in strong_txt.lower() and len(strong_txt) < 60:
-                            break
+                        if pagina['filtro'].lower() in strong_txt.lower() and len(strong_txt) < 60: break
                             
                     if getattr(nodo, 'name', None):
                         enlaces = nodo.find_all('a', href=True)
                         for a in enlaces:
                             if "especificaci" in a.text.lower() or "sp" in a['href'].lower() or "specs" in a.text.lower():
                                 href = a['href']
-                                if href.startswith('http'): url_specs = href
-                                else: url_specs = "https://support.apple.com" + href
+                                url_specs = href if href.startswith('http') else "https://support.apple.com" + href
                                 
                     if getattr(nodo, 'name', None) == 'img': img_tag = nodo
                     else: img_tag = nodo.find('img') if getattr(nodo, 'name', None) else None
                         
+                    # 🔥 Si Apple TIENE una imagen, sustituimos nuestra imagen genérica por la oficial
                     if img_tag and img_tag.get('src'):
                         src = img_tag.get('src')
                         if "image/svg" not in src and "icon" not in src:
-                            if src.startswith('/'): imagen = "https://support.apple.com" + src
-                            elif src.startswith('http'): imagen = src
+                            imagen = "https://support.apple.com" + src if src.startswith('/') else src
 
                     texto = nodo.get_text(" ", strip=True)
                     
@@ -202,8 +207,7 @@ def extraer_ecosistema_apple():
                     if "color" in texto.lower() or "acabado" in texto.lower():
                         partes = re.split(r'colores:|color:|acabados:|acabado:', texto, flags=re.IGNORECASE)
                         if len(partes) > 1:
-                            colores_limpios =[c.strip().capitalize() for c in re.split(r',|\by\b', partes[1].strip()) if len(c.strip()) > 2]
-                            colores.extend(colores_limpios)
+                            colores.extend([c.strip().capitalize() for c in re.split(r',|\by\b', partes[1].strip()) if len(c.strip()) > 2])
 
                     nodo = nodo.find_next_sibling()
                 
@@ -211,10 +215,7 @@ def extraer_ecosistema_apple():
                     id_prod = nombre.lower().replace(" ", "_").replace("(", "").replace(")", "").replace(".", "").replace('"', '').replace("-", "_")
                     base_de_datos[id_prod] = {
                         "categoria": pagina['categoria'],
-                        "nombre": nombre,
-                        "año": año,
-                        "imagen": imagen,
-                        "url_specs": url_specs,
+                        "nombre": nombre, "año": año, "imagen": imagen, "url_specs": url_specs,
                         "colores": list(set(colores)) if colores else["Consultar Especificaciones"],
                         "capacidades": list(set(capacidades)) if capacidades else["Consultar Especificaciones"],
                         "modelos": diccionario_modelos
@@ -222,39 +223,37 @@ def extraer_ecosistema_apple():
                     
         time.sleep(3)
 
-    # 🔥 TRUCO 2: LA CAJA FUERTE (Inyección de los modelos que Apple borró del todo)
+    # 🔥 LA CAJA FUERTE (Hemos añadido las fotos de Wikipedia aquí también)
     clasicos = {
         "imac_vintage_a1225": {
             "categoria": "Mac", "nombre": "iMac (24 pulgadas, Clásico)", "año": 2007,
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/IMac_27_inch.png/512px-IMac_27_inch.png",
             "url_specs": "https://support.apple.com/es-es/112573",
             "colores": ["Plata (Aluminio)"], "capacidades":["250 GB", "320 GB", "500 GB"],
             "modelos": {"A1225": "Número de chasis (Físico)", "MA878": "Número de pieza comercial"}
         },
         "imac_vintage_a1311": {
             "categoria": "Mac", "nombre": "iMac (21.5 pulgadas, Clásico)", "año": 2009,
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/IMac_27_inch.png/512px-IMac_27_inch.png",
             "url_specs": "https://support.apple.com/es-es/112469",
-            "colores": ["Plata (Aluminio)"], "capacidades":["500 GB", "1 TB"],
+            "colores":["Plata (Aluminio)"], "capacidades":["500 GB", "1 TB"],
             "modelos": {"A1311": "Número de chasis (Físico)", "MB950": "Número de pieza comercial"}
         },
         "macbook_vintage_a1181": {
-            "categoria": "Mac", "nombre": "MacBook (13 pulgadas, Policarbonato Clásico)", "año": 2006,
-            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png",
+            "categoria": "Mac", "nombre": "MacBook (13 pulgadas, Policarbonato)", "año": 2006,
+            "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MacBook_white.png/512px-MacBook_white.png",
             "url_specs": "https://support.apple.com/es-es/112602",
             "colores": ["Blanco", "Negro"], "capacidades":["60 GB", "80 GB", "120 GB"],
             "modelos": {"A1181": "Número de chasis (Físico)", "MA254": "Número de pieza comercial"}
         }
     }
     
-    # Comprobamos si el modelo A1225 o A1311 falta, y si es así, ¡lo metemos a la fuerza!
     for key, data in clasicos.items():
-        if not any(key in bd['modelos'] for bd in base_de_datos.values()):
-            base_de_datos[key] = data
+        if not any(key in bd['modelos'] for bd in base_de_datos.values()): base_de_datos[key] = data
 
     with open("datos_apple.json", "w", encoding="utf-8") as archivo:
         json.dump(base_de_datos, archivo, indent=4, ensure_ascii=False)
     print("\n🚀 ¡Base de datos completada al 100%!")
 
 if __name__ == "__main__":
-    extraer_ecosistema_apple()
+    extraer_ecosistema_apple()  
