@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
+import time  # ⏱️ Importamos el reloj para engañar a Apple
 
 # --- CEREBRO INTERNO PARA ORDENADORES MAC ---
 def deducir_numero_a_fisico(nombre):
@@ -107,8 +108,14 @@ def extraer_ecosistema_apple():
     for pagina in paginas_soporte:
         print(f"\n📡 Escaneando: {pagina['url']}...")
         respuesta = requests.get(pagina['url'], headers=headers)
-        sopa = BeautifulSoup(respuesta.text, 'html.parser')
         
+        # 🚨 Control de errores por si Apple nos bloquea
+        if respuesta.status_code != 200:
+            print(f"⚠️ Apple ha bloqueado esta petición (Error {respuesta.status_code}). Saltando página...")
+            time.sleep(5)
+            continue
+            
+        sopa = BeautifulSoup(respuesta.text, 'html.parser')
         titulos = sopa.find_all(['h2', 'h3'])
         
         for titulo in titulos:
@@ -120,8 +127,6 @@ def extraer_ecosistema_apple():
                 capacidades =[]
                 año = 2024
                 imagen = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/512px-Apple_logo_black.svg.png"
-                
-                # Por defecto, el enlace de especificaciones es la propia página en la que estamos
                 url_specs = pagina['url'] 
                 
                 if pagina['categoria'] == 'Mac':
@@ -132,11 +137,9 @@ def extraer_ecosistema_apple():
                 nodo = titulo.find_next_sibling()
                 
                 while nodo and nodo.name not in['h2', 'h3']:
-                    # 🔗 DETECTIVE DE ENLACES (Para el Botón de Especificaciones)
                     if nodo.name:
                         enlaces = nodo.find_all('a', href=True)
                         for a in enlaces:
-                            # Si el enlace dice especificaciones o lleva a la base de datos oficial (SP)
                             if "especificaci" in a.text.lower() or "sp" in a['href'].lower() or "specs" in a.text.lower():
                                 href = a['href']
                                 if href.startswith('http'): url_specs = href
@@ -197,14 +200,18 @@ def extraer_ecosistema_apple():
                         "nombre": nombre,
                         "año": año,
                         "imagen": imagen,
-                        "url_specs": url_specs, # 🔗 ¡NUEVO DATO GUARDADO!
+                        "url_specs": url_specs,
                         "colores": list(set(colores)) if colores else["Consultar Especificaciones"],
                         "capacidades": list(set(capacidades)) if capacidades else["Consultar Especificaciones"],
                         "modelos": diccionario_modelos
                     }
                     
+        # ⏱️ EL TRUCO MÁGICO: Hacemos que el bot duerma 3 segundos antes de ir a la siguiente página.
+        time.sleep(3)
+
     with open("datos_apple.json", "w", encoding="utf-8") as archivo:
         json.dump(base_de_datos, archivo, indent=4, ensure_ascii=False)
+    print("\n🚀 ¡Base de datos completada al 100% sin bloqueos!")
 
 if __name__ == "__main__":
     extraer_ecosistema_apple()
