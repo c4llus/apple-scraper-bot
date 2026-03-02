@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador Apple</title>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.js"></script>
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: #f5f5f7; color: #1d1d1f;
+            display: flex; flex-direction: column; align-items: center;
+            padding: 50px 20px; margin: 0;
+        }
+        
+        h1 { font-size: 32px; font-weight: 600; text-align: center; margin-bottom: 5px; display: flex; align-items: center; gap: 10px; justify-content: center; }
+        p.subtitle { color: #86868b; text-align: center; margin-bottom: 40px; }
+        
+        .search-container { position: relative; width: 100%; max-width: 500px; }
+        .search-wrapper { position: relative; display: flex; align-items: center; }
+        .search-wrapper i { position: absolute; left: 18px; font-size: 20px; color: #86868b; }
+        
+        input {
+            width: 100%; padding: 18px 20px 18px 50px; font-size: 18px;
+            border: 2px solid transparent; border-radius: 14px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05); outline: none; transition: 0.3s;
+        }
+        input:focus { border-color: #0071e3; box-shadow: 0 4px 15px rgba(0, 113, 227, 0.2); }
+        input:disabled { background-color: #e8e8ed; color: #86868b; cursor: not-allowed; }
+        
+        .suggestions {
+            position: absolute; top: 100%; left: 0; right: 0;
+            background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(10px);
+            border-radius: 14px; margin-top: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            overflow: hidden; z-index: 10; display: none; padding: 0; margin-bottom: 0;
+        }
+        .suggestions li {
+            list-style: none; padding: 15px 20px; cursor: pointer;
+            border-bottom: 1px solid #f0f0f0; display: flex; justify-content: space-between; align-items: center;
+        }
+        .suggestions li:hover { background: #f5f5f7; color: #0071e3; }
+        .badge { background: #e8e8ed; padding: 3px 8px; border-radius: 8px; font-size: 12px; color: #86868b; }
+
+        .result-card {
+            background: white; padding: 35px; border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.05); margin-top: 30px;
+            width: 100%; max-width: 500px; box-sizing: border-box; display: none;
+        }
+        .product-image-container {
+            width: 100%; height: 220px; background-color: #fbfbfd; border-radius: 16px;
+            display: flex; justify-content: center; align-items: center; margin-bottom: 20px; padding: 10px; box-sizing: border-box;
+        }
+        .product-image-container img { max-width: 100%; max-height: 100%; object-fit: contain; filter: drop-shadow(0 10px 15px rgba(0,0,0,0.1)); }
+        
+        .category-tag { 
+            display: inline-flex; align-items: center; gap: 5px; 
+            background: #0071e3; color: white; padding: 5px 12px; 
+            border-radius: 12px; font-size: 12px; font-weight: bold; margin-bottom: 10px; 
+        }
+        
+        .result-card h2 { margin-top: 0; font-size: 24px; margin-bottom: 5px; }
+        .info-row { display: flex; align-items: center; gap: 6px; color: #86868b; margin-top: -10px; font-size: 15px; margin-bottom: 20px;}
+        h4 { display: flex; align-items: center; gap: 6px; margin-bottom: 10px; color: #1d1d1f; }
+        h4 i { font-size: 20px; color: #0071e3; }
+
+        .tag-list { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0 25px 0; padding:0;}
+        .tag-list li { 
+            list-style: none; background: #f5f5f7; padding: 8px 12px; 
+            border-radius: 10px; font-size: 14px; display: flex; align-items: center; gap: 6px;
+        }
+        
+        .specs-button {
+            text-decoration: none; color: #1d1d1f; font-weight: 600; 
+            display: flex; align-items: center; justify-content: center; gap: 8px;
+            background: #f5f5f7; padding: 14px; border-radius: 12px; margin-top: 25px;
+            transition: 0.2s; font-size: 15px;
+        }
+        .specs-button:hover { background: #e8e8ed; color: #0071e3; }
+        .specs-button i { font-size: 20px; color: #0071e3; }
+
+        .models-list { padding-left: 0; font-size: 15px; color: #515154;}
+        .models-list li { 
+            list-style: none; margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px;
+            padding-bottom: 12px; border-bottom: 1px solid #f0f0f0;
+        }
+        .models-list li:last-child { border-bottom: none; }
+        .highlight-model { color: #0071e3; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <h1><i class="ph-fill ph-apple-logo"></i> Ecosistema Apple</h1>
+    <p class="subtitle">Buscador interno de modelos y dispositivos</p>
+
+    <div class="search-container">
+        <div class="search-wrapper">
+            <i class="ph ph-magnifying-glass" id="search-icon"></i>
+            <input type="text" id="buscador" placeholder="Conectando con la nube..." autocomplete="off" disabled>
+        </div>
+        <ul class="suggestions" id="sugerencias"></ul>
+    </div>
+
+    <div class="result-card" id="resultado"></div>
+
+    <script>
+        let baseDeDatos = {};
+        let fuse;
+        let itemsBuscables =[];
+
+        const inputBuscador = document.getElementById('buscador');
+        const cajaSugerencias = document.getElementById('sugerencias');
+        const tarjetaResultado = document.getElementById('resultado');
+        const searchIcon = document.getElementById('search-icon');
+
+        async function descargarDatos() {
+            try {
+                // 👇👇 PEGA AQUÍ TU ENLACE RAW DE GITHUB 👇👇
+                const urlNube = 'https://raw.githubusercontent.com/c4llus/apple-scraper-bot/refs/heads/main/datos_apple.json'; 
+                
+                searchIcon.className = "ph ph-spinner ph-spin";
+                const respuesta = await fetch(urlNube + '?t=' + new Date().getTime(), { cache: "no-store" });
+                baseDeDatos = await respuesta.json(); 
+                
+                prepararBuscador();
+                
+                searchIcon.className = "ph ph-magnifying-glass";
+                inputBuscador.placeholder = "Busca un modelo (Ej: A2848, iPad...)";
+                inputBuscador.disabled = false;
+            } catch (error) {
+                searchIcon.className = "ph ph-warning-circle";
+                searchIcon.style.color = "#ff3b30";
+                inputBuscador.placeholder = "Error: Sin conexión a internet";
+            }
+        }
+
+        function prepararBuscador() {
+            itemsBuscables =[];
+            for (const[id, producto] of Object.entries(baseDeDatos)) {
+                itemsBuscables.push({ id_producto: id, texto: producto.nombre, tipo: producto.categoria });
+                for (const numModelo of Object.keys(producto.modelos)) {
+                    itemsBuscables.push({ id_producto: id, texto: numModelo, tipo: `Modelo de ${producto.categoria}` });
+                }
+            }
+            fuse = new Fuse(itemsBuscables, { keys: ['texto'], threshold: 0.3, minMatchCharLength: 2 });
+        }
+
+        inputBuscador.addEventListener('input', function() {
+            const textoIngresado = this.value;
+            if (textoIngresado.length < 2) { cajaSugerencias.style.display = 'none'; return; }
+
+            const resultados = fuse.search(textoIngresado);
+            cajaSugerencias.innerHTML = ''; 
+
+            if (resultados.length > 0) {
+                cajaSugerencias.style.display = 'block';
+                resultados.slice(0, 5).forEach(res => {
+                    const li = document.createElement('li');
+                    
+                    // 🔥 ICONOS CORREGIDOS (device-tablet en lugar de tablet)
+                    let iconoSugerencia = "ph-device-mobile";
+                    if(res.item.tipo.includes("Mac")) iconoSugerencia = "ph-laptop";
+                    else if(res.item.tipo.includes("Watch")) iconoSugerencia = "ph-watch";
+                    else if(res.item.tipo.includes("iPad")) iconoSugerencia = "ph-device-tablet";
+                    
+                    li.innerHTML = `
+                        <div style="display:flex; align-items:center; gap:8px;">
+                            <i class="ph-fill ${iconoSugerencia}" style="color:#0071e3; font-size:22px;"></i> 
+                            <b>${res.item.texto}</b>
+                        </div> 
+                        <span class="badge">${res.item.tipo}</span>
+                    `;
+                    
+                    li.addEventListener('click', () => {
+                        inputBuscador.value = res.item.texto;
+                        cajaSugerencias.style.display = 'none';
+                        mostrarResultado(res.item.id_producto, res.item.texto);
+                    });
+                    cajaSugerencias.appendChild(li);
+                });
+            } else { cajaSugerencias.style.display = 'none'; }
+        });
+
+        function mostrarResultado(id_producto, terminoBusqueda) {
+            const producto = baseDeDatos[id_producto];
+            let listaModelosHTML = '';
+            
+            for (const[modelo, region] of Object.entries(producto.modelos)) {
+                if(modelo === terminoBusqueda) {
+                    listaModelosHTML += `<li><i class="ph-fill ph-check-circle" style="color:#0071e3; font-size:20px;"></i> <div><span class="highlight-model">${modelo}</span><br><span style="font-size:13px; color:#86868b;">${region} (Tu búsqueda)</span></div></li>`;
+                } else {
+                    listaModelosHTML += `<li><i class="ph ph-globe-hemisphere-west" style="font-size:20px;"></i> <div><b>${modelo}</b><br><span style="font-size:13px; color:#86868b;">${region}</span></div></li>`;
+                }
+            }
+            
+            let coloresHTML = producto.colores[0].includes("Consultar") 
+                ? `<li><i class="ph ph-palette"></i> Varios colores</li>`
+                : producto.colores.map(c => `<li><i class="ph ph-palette"></i> ${c}</li>`).join('');
+
+            let capHTML = producto.capacidades[0].includes("Consultar")
+                ? `<li><i class="ph ph-hard-drives"></i> Varias capacidades</li>`
+                : producto.capacidades.map(c => `<li><i class="ph ph-hard-drives"></i> ${c}</li>`).join('');
+
+            let botonSpecs = '';
+            if (producto.url_specs) {
+                botonSpecs = `<a href="${producto.url_specs}" target="_blank" class="specs-button"><i class="ph-bold ph-arrow-square-out"></i> Ver especificaciones en Apple.com</a>`;
+            }
+
+            // 🔥 ICONOS CORREGIDOS EN LA TARJETA TAMBIÉN
+            let iconoCategoria = "ph-device-mobile";
+            if(producto.categoria === "Mac") iconoCategoria = "ph-laptop";
+            else if(producto.categoria === "Watch") iconoCategoria = "ph-watch";
+            else if(producto.categoria === "iPad") iconoCategoria = "ph-device-tablet";
+
+            tarjetaResultado.innerHTML = `
+                <div class="product-image-container"><img src="${producto.imagen}" onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg'"></div>
+                <span class="category-tag"><i class="ph-fill ${iconoCategoria}"></i> ${producto.categoria}</span>
+                <h2>${producto.nombre}</h2>
+                <div class="info-row"><i class="ph ph-calendar-blank"></i> Lanzamiento: ${producto.año}</div>
+                
+                <h4><i class="ph-fill ph-swatches"></i> Variantes disponibles</h4>
+                <ul class="tag-list">${coloresHTML}</ul>
+                <ul class="tag-list">${capHTML}</ul>
+                
+                <h4><i class="ph-fill ph-map-pin"></i> Números de modelo y regiones</h4>
+                <ul class="models-list">${listaModelosHTML}</ul>
+                
+                ${botonSpecs}
+            `;
+            tarjetaResultado.style.display = 'block';
+        }
+
+        document.addEventListener('click', (e) => {
+            if (!inputBuscador.contains(e.target) && !cajaSugerencias.contains(e.target)) { cajaSugerencias.style.display = 'none'; }
+        });
+
+        descargarDatos();
+    </script>
+</body>
+</html>
