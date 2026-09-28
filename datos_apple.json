@@ -1,4 +1,54 @@
 {
+    "iphone_18_pro_max": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 18 Pro Max",
+        "año": 2026,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-18-pro-max-colors.png",
+        "url_specs": "https://support.apple.com/148591",
+        "colores": [
+            "Plata",
+            "Aluminio",
+            "Negro",
+            "Azul glacial",
+            "Burdeos"
+        ],
+        "capacidades": [
+            "2 TB",
+            "1 TB",
+            "512 GB",
+            "256 GB"
+        ],
+        "modelos": {
+            "A3473": "Ee. uu., puerto rico, a3716, arabia saudí, baréin, canadá, catar, eau, guam, islas vírgenes de ee. uu., japón, ksa, kuwait, méxico y omán",
+            "A3718": "China continental",
+            "A3717": "Modelo internacional"
+        }
+    },
+    "iphone_18_pro": {
+        "categoria": "iPhone",
+        "nombre": "iPhone 18 Pro",
+        "año": 2026,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-18-pro-colors.png",
+        "url_specs": "https://support.apple.com/148590",
+        "colores": [
+            "Plata",
+            "Aluminio",
+            "Negro",
+            "Azul glacial",
+            "Burdeos"
+        ],
+        "capacidades": [
+            "1 TB",
+            "512 GB",
+            "256 GB"
+        ],
+        "modelos": {
+            "A3472": "Ee. uu., puerto rico",
+            "A3713": "Arabia saudí, baréin, canadá, catar, eau, guam, islas vírgenes de ee. uu., japón, ksa, kuwait, méxico y omán",
+            "A3715": "China continental",
+            "A3714": "Modelo internacional"
+        }
+    },
     "iphone_17e": {
         "categoria": "iPhone",
         "nombre": "iPhone 17e",
@@ -6,14 +56,14 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17e/iphone-17e-colors.png",
         "url_specs": "https://support.apple.com/126470",
         "colores": [
-            "Rosa palo",
-            "Aluminio",
             "Negro",
-            "Blanco"
+            "Blanco",
+            "Rosa palo",
+            "Aluminio"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A3575": "Estados unidos, puerto rico, baréin, canadá, guam, japón, kuwait, méxico, omán, qatar, arabia saudí, emiratos árabes unidos e islas vírgenes de los estados unidos",
@@ -28,16 +78,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-max-colors.png",
         "url_specs": "https://support.apple.com/125091",
         "colores": [
+            "Plata",
             "Azul oscuro",
-            "Aluminio",
             "Naranja cósmico",
-            "Plata"
+            "Aluminio"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB",
             "2 TB",
-            "1 TB"
+            "1 TB",
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A3257": "Estados unidos, puerto rico",
@@ -53,15 +103,15 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-colors.png",
         "url_specs": "https://support.apple.com/125090",
         "colores": [
+            "Plata",
             "Azul oscuro",
-            "Aluminio",
             "Naranja cósmico",
-            "Plata"
+            "Aluminio"
         ],
         "capacidades": [
-            "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A3256": "Estados unidos, puerto rico",
@@ -77,16 +127,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-colors.png",
         "url_specs": "https://support.apple.com/125089",
         "colores": [
-            "Azul neblina",
-            "Aluminio",
             "Lavanda",
-            "Verde salvia",
+            "Aluminio",
             "Negro",
-            "Blanco"
+            "Blanco",
+            "Azul neblina",
+            "Verde salvia"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB"
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A3258": "Estados unidos, puerto rico",
@@ -102,15 +152,15 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-air-colors.png",
         "url_specs": "https://support.apple.com/125092",
         "colores": [
-            "Dorado claro",
             "Negro espacial",
-            "Azul cielo",
-            "Blanco nube"
+            "Blanco nube",
+            "Dorado claro",
+            "Azul cielo"
         ],
         "capacidades": [
-            "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A3260": "Estados unidos, puerto rico, baréin, canadá, guam, kuwait, méxico, omán, qatar, arabia saudí, emiratos árabes unidos e islas vírgenes de los estados unidos",
@@ -126,14 +176,14 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16e/iphone-16e-colors.png",
         "url_specs": "https://support.apple.com/122208",
         "colores": [
-            "Aluminio",
             "Negro",
-            "Blanco"
+            "Blanco",
+            "Aluminio"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
-            "512 GB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A3212": "Estados unidos, puerto rico",
@@ -149,15 +199,15 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-max-colors.png",
         "url_specs": "https://support.apple.com/121032",
         "colores": [
-            "Titanio negro",
-            "Titanio blanco",
+            "Titanio desierto",
             "Titanio natural",
-            "Titanio desierto"
+            "Titanio blanco",
+            "Titanio negro"
         ],
         "capacidades": [
-            "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A3084": "Estados unidos, puerto rico",
@@ -173,16 +223,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-colors.png",
         "url_specs": "https://support.apple.com/121031",
         "colores": [
-            "Titanio negro",
-            "Titanio blanco",
+            "Titanio desierto",
             "Titanio natural",
-            "Titanio desierto"
+            "Titanio blanco",
+            "Titanio negro"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "128 GB"
         ],
         "modelos": {
             "A3083": "Estados unidos, puerto rico",
@@ -199,16 +249,16 @@
         "url_specs": "https://support.apple.com/121030",
         "colores": [
             "Verde azulado",
-            "Azul ultramar",
             "Aluminio",
-            "Rosa",
             "Negro",
-            "Blanco"
+            "Rosa",
+            "Blanco",
+            "Azul ultramar"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
-            "512 GB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A3082": "Estados unidos, puerto rico",
@@ -225,16 +275,16 @@
         "url_specs": "https://support.apple.com/121029",
         "colores": [
             "Verde azulado",
-            "Azul ultramar",
             "Aluminio",
-            "Rosa",
             "Negro",
-            "Blanco"
+            "Rosa",
+            "Blanco",
+            "Azul ultramar"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
-            "512 GB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A3081": "Estados unidos, puerto rico",
@@ -250,15 +300,15 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-pro-max.png",
         "url_specs": "https://support.apple.com/kb/SP904?locale=es_ES",
         "colores": [
-            "Titanio negro",
+            "Titanio azul",
             "Titanio blanco",
             "Titanio natural",
-            "Titanio azul"
+            "Titanio negro"
         ],
         "capacidades": [
-            "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "256 GB"
         ],
         "modelos": {
             "A2849": "Estados unidos, puerto rico",
@@ -274,16 +324,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-pro.png",
         "url_specs": "https://support.apple.com/kb/SP903?locale=es_ES",
         "colores": [
-            "Titanio negro",
+            "Titanio azul",
             "Titanio blanco",
             "Titanio natural",
-            "Titanio azul"
+            "Titanio negro"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "128 GB"
         ],
         "modelos": {
             "A2848": "Estados unidos, puerto rico",
@@ -299,17 +349,17 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-plus.png",
         "url_specs": "https://support.apple.com/kb/SP902?locale=es_ES",
         "colores": [
-            "Aluminio",
-            "Amarillo",
-            "Rosa",
             "Azul",
+            "Amarillo",
+            "Aluminio",
             "Negro",
+            "Rosa",
             "Verde"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
-            "512 GB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2847": "Estados unidos, puerto rico",
@@ -325,17 +375,17 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15.png",
         "url_specs": "https://support.apple.com/kb/SP901?locale=es_ES",
         "colores": [
-            "Aluminio",
-            "Amarillo",
-            "Rosa",
             "Azul",
+            "Amarillo",
+            "Aluminio",
             "Negro",
+            "Rosa",
             "Verde"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
-            "512 GB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2846": "Estados unidos, puerto rico",
@@ -351,16 +401,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-max-colors.png",
         "url_specs": "https://support.apple.com/kb/SP876?locale=es_ES",
         "colores": [
-            "Morado oscuro",
+            "Plata",
             "Negro espacial",
-            "Oro",
-            "Plata"
+            "Morado oscuro",
+            "Oro"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "128 GB"
         ],
         "modelos": {
             "A2651": "Estados unidos, puerto rico",
@@ -377,16 +427,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-colors.png",
         "url_specs": "https://support.apple.com/kb/SP875?locale=es_ES",
         "colores": [
-            "Morado oscuro",
+            "Plata",
             "Negro espacial",
-            "Oro",
-            "Plata"
+            "Morado oscuro",
+            "Oro"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "128 GB"
         ],
         "modelos": {
             "A2650": "Estados unidos, puerto rico",
@@ -403,18 +453,18 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-plus-colors-spring-2023.png",
         "url_specs": "https://support.apple.com/kb/SP874?locale=es_ES",
         "colores": [
-            "Medianoche",
-            "Aluminio",
-            "Amarillo",
-            "(product)red",
             "Azul",
-            "Blanco estrella",
-            "Morado"
+            "(product)red",
+            "Amarillo",
+            "Aluminio",
+            "Morado",
+            "Medianoche",
+            "Blanco estrella"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
-            "512 GB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2632": "Estados unidos, puerto rico",
@@ -431,18 +481,18 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-colors-spring-2023.png",
         "url_specs": "https://support.apple.com/kb/SP873?locale=es_ES",
         "colores": [
-            "Medianoche",
-            "Aluminio",
-            "Amarillo",
-            "(product)red",
             "Azul",
-            "Blanco estrella",
-            "Morado"
+            "(product)red",
+            "Amarillo",
+            "Aluminio",
+            "Morado",
+            "Medianoche",
+            "Blanco estrella"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
-            "512 GB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2649": "Estados unidos, puerto rico",
@@ -459,14 +509,14 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se-3rd-gen-colors.png",
         "url_specs": "https://support.apple.com/kb/SP867?locale=es_ES",
         "colores": [
-            "(product)red",
+            "Medianoche",
             "Blanco estrella",
-            "Aluminio",
-            "Medianoche"
+            "(product)red",
+            "Aluminio"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "128 GB",
             "64 GB"
         ],
         "modelos": {
@@ -484,17 +534,17 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-max-colors.png",
         "url_specs": "https://support.apple.com/kb/SP848?locale=es_ES",
         "colores": [
-            "Azul sierra",
             "Plata",
+            "Azul sierra",
+            "Verde alpino",
             "Oro",
-            "Grafito",
-            "Verde alpino"
+            "Grafito"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "128 GB"
         ],
         "modelos": {
             "A2484": "Estados unidos",
@@ -511,17 +561,17 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-colors.png",
         "url_specs": "https://support.apple.com/kb/SP852?locale=es_ES",
         "colores": [
-            "Azul sierra",
             "Plata",
+            "Azul sierra",
+            "Verde alpino",
             "Oro",
-            "Grafito",
-            "Verde alpino"
+            "Grafito"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "128 GB"
         ],
         "modelos": {
             "A2483": "Estados unidos",
@@ -538,18 +588,18 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-colors.png",
         "url_specs": "https://support.apple.com/kb/SP851?locale=es_ES",
         "colores": [
-            "Medianoche",
+            "Azul",
+            "(product)red",
             "Aluminio",
             "Rosa",
-            "(product)red",
-            "Azul",
-            "Blanco estrella",
-            "Verde"
+            "Verde",
+            "Medianoche",
+            "Blanco estrella"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
-            "512 GB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2482": "Estados unidos",
@@ -566,18 +616,18 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-iphone13-mini-colors.png",
         "url_specs": "https://support.apple.com/kb/SP847?locale=es_ES",
         "colores": [
-            "Medianoche",
+            "Azul",
+            "(product)red",
             "Aluminio",
             "Rosa",
-            "(product)red",
-            "Azul",
-            "Blanco estrella",
-            "Verde"
+            "Verde",
+            "Medianoche",
+            "Blanco estrella"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
-            "512 GB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2481": "Estados unidos",
@@ -594,15 +644,15 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro-max/iphone12-pro-max-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP832?locale=es_ES",
         "colores": [
+            "Plata",
             "Azul pacífico",
             "Grafito",
-            "Oro",
-            "Plata"
+            "Oro"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
-            "512 GB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2342": "Estados unidos",
@@ -618,15 +668,15 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro/iphone12-pro-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP831?locale=es_ES",
         "colores": [
+            "Plata",
             "Azul pacífico",
             "Grafito",
-            "Oro",
-            "Plata"
+            "Oro"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
-            "512 GB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2341": "Estados unidos",
@@ -642,17 +692,17 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-colors.png",
         "url_specs": "https://support.apple.com/kb/SP830?locale=es_ES",
         "colores": [
-            "Aluminio",
-            "(product)red",
             "Azul",
+            "(product)red",
+            "Aluminio",
             "Negro",
-            "Morado",
+            "Blanco",
             "Verde",
-            "Blanco"
+            "Morado"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "128 GB",
             "64 GB"
         ],
         "modelos": {
@@ -669,17 +719,17 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-mini-colors.png",
         "url_specs": "https://support.apple.com/kb/SP829?locale=es_ES",
         "colores": [
-            "Aluminio",
-            "(product)red",
             "Azul",
+            "(product)red",
+            "Aluminio",
             "Negro",
-            "Morado",
+            "Blanco",
             "Verde",
-            "Blanco"
+            "Morado"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "128 GB",
             "64 GB"
         ],
         "modelos": {
@@ -696,14 +746,14 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se/iphone-se-2nd-gen-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP820?locale=es_ES",
         "colores": [
-            "(product)red",
-            "Aluminio",
             "Negro",
-            "Blanco"
+            "(product)red",
+            "Blanco",
+            "Aluminio"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "128 GB",
             "64 GB"
         ],
         "modelos": {
@@ -719,15 +769,15 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11pro.jpg",
         "url_specs": "https://support.apple.com/kb/SP805?locale=es_ES",
         "colores": [
+            "Plata",
             "Verde noche",
             "Gris espacial",
-            "Oro",
-            "Plata"
+            "Oro"
         ],
         "capacidades": [
+            "512 GB",
             "256 GB",
-            "64 GB",
-            "512 GB"
+            "64 GB"
         ],
         "modelos": {
             "A2160": "Canadá y estados unidos",
@@ -742,15 +792,15 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11pro-max.jpg",
         "url_specs": "https://support.apple.com/kb/SP806?locale=es_ES",
         "colores": [
+            "Plata",
             "Verde noche",
             "Gris espacial",
-            "Oro",
-            "Plata"
+            "Oro"
         ],
         "capacidades": [
+            "512 GB",
             "256 GB",
-            "64 GB",
-            "512 GB"
+            "64 GB"
         ],
         "modelos": {
             "A2161": "Canadá, estados unidos",
@@ -765,17 +815,17 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/identify-iphone-11-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP804?locale=es_ES",
         "colores": [
-            "Malva",
-            "Aluminio",
-            "Amarillo",
             "(product)red",
+            "Amarillo",
+            "Aluminio",
             "Negro",
+            "Blanco",
             "Verde",
-            "Blanco"
+            "Malva"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "128 GB",
             "64 GB"
         ],
         "modelos": {
@@ -791,15 +841,15 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xs-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP779?locale=es_ES",
         "colores": [
+            "Plata",
             "Acero inoxidable",
             "Gris espacial",
-            "Oro",
-            "Plata"
+            "Oro"
         ],
         "capacidades": [
+            "512 GB",
             "256 GB",
-            "64 GB",
-            "512 GB"
+            "64 GB"
         ],
         "modelos": {
             "A1920": "Región global o no especificada",
@@ -816,15 +866,15 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xs-max-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP780?locale=es_ES",
         "colores": [
+            "Plata",
             "Acero inoxidable",
             "Gris espacial",
-            "Oro",
-            "Plata"
+            "Oro"
         ],
         "capacidades": [
+            "512 GB",
             "256 GB",
-            "64 GB",
-            "512 GB"
+            "64 GB"
         ],
         "modelos": {
             "A1921": "Región global o no especificada",
@@ -841,17 +891,17 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-xr/identify-iphone-xr-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP781?locale=es_ES",
         "colores": [
-            "Aluminio",
-            "Amarillo",
-            "(product)red",
             "Azul",
-            "Coral",
+            "(product)red",
+            "Amarillo",
+            "Aluminio",
             "Negro",
-            "Blanco"
+            "Blanco",
+            "Coral"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "128 GB",
             "64 GB"
         ],
         "modelos": {
@@ -869,9 +919,9 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-x-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP770?locale=es_ES",
         "colores": [
-            "Gris espacial",
+            "Plata",
             "Acero inoxidable",
-            "Plata"
+            "Gris espacial"
         ],
         "capacidades": [
             "256 GB",
@@ -890,15 +940,15 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8/iphone-8-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP767?locale=es_ES",
         "colores": [
-            "Dorado",
-            "Plateado",
-            "Aluminio",
             "(product)red",
-            "Gris espacial"
+            "Aluminio",
+            "Plateado",
+            "Gris espacial",
+            "Dorado"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "128 GB",
             "64 GB"
         ],
         "modelos": {
@@ -914,15 +964,15 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-8-plus/iphone-8plus-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP768?locale=es_ES",
         "colores": [
-            "Dorado",
-            "Plateado",
-            "Aluminio",
             "(product)red",
-            "Gris espacial"
+            "Aluminio",
+            "Plateado",
+            "Gris espacial",
+            "Dorado"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "128 GB",
             "64 GB"
         ],
         "modelos": {
@@ -938,18 +988,18 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7/iphone7-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP743?locale=es_ES",
         "colores": [
-            "Plateado",
-            "Aluminio",
-            "Negro brillante",
             "(product)red",
-            "Oro",
+            "Negro brillante",
+            "Aluminio",
+            "Plateado",
             "Negro",
+            "Oro",
             "Oro rosa"
         ],
         "capacidades": [
-            "128 GB",
+            "32 GB",
             "256 GB",
-            "32 GB"
+            "128 GB"
         ],
         "modelos": {
             "A1660": "Región global o no especificada",
@@ -964,18 +1014,18 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-7-plus/iphone7plus-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP744?locale=es_ES",
         "colores": [
-            "Plateado",
-            "Aluminio",
-            "Negro brillante",
             "(product)red",
-            "Oro",
+            "Negro brillante",
+            "Aluminio",
+            "Plateado",
             "Negro",
+            "Oro",
             "Oro rosa"
         ],
         "capacidades": [
-            "128 GB",
+            "32 GB",
             "256 GB",
-            "32 GB"
+            "128 GB"
         ],
         "modelos": {
             "A1661": "Región global o no especificada",
@@ -990,18 +1040,18 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se/iphone-se-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP738?locale=es_ES",
         "colores": [
-            "Dorado",
-            "Plateado",
-            "Aluminio",
             "Acero inoxidable",
+            "Aluminio",
+            "Plateado",
             "Gris espacial",
-            "Oro rosa"
+            "Oro rosa",
+            "Dorado"
         ],
         "capacidades": [
-            "64 GB",
             "16 GB",
-            "32 GB",
-            "128 GB"
+            "64 GB",
+            "128 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1723": "Región global o no especificada",
@@ -1016,17 +1066,17 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-6s-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP726?locale=es_ES",
         "colores": [
-            "Dorado",
-            "Plateado",
             "Aluminio",
+            "Plateado",
             "Gris espacial",
-            "Oro rosa"
+            "Oro rosa",
+            "Dorado"
         ],
         "capacidades": [
-            "64 GB",
             "16 GB",
-            "32 GB",
-            "128 GB"
+            "64 GB",
+            "128 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1633": "Región global o no especificada",
@@ -1041,17 +1091,17 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-6splus-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP727?locale=es_ES",
         "colores": [
-            "Dorado",
-            "Plateado",
             "Aluminio",
+            "Plateado",
             "Gris espacial",
-            "Oro rosa"
+            "Oro rosa",
+            "Dorado"
         ],
         "capacidades": [
-            "64 GB",
             "16 GB",
-            "32 GB",
-            "128 GB"
+            "64 GB",
+            "128 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1634": "Región global o no especificada",
@@ -1066,16 +1116,16 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone6-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP705?locale=es_ES",
         "colores": [
+            "Plateado",
             "Dorado",
-            "Aluminio",
             "Gris espacial",
-            "Plateado"
+            "Aluminio"
         ],
         "capacidades": [
-            "64 GB",
             "16 GB",
-            "32 GB",
-            "128 GB"
+            "64 GB",
+            "128 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1549": "Región global o no especificada",
@@ -1090,15 +1140,15 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone6plus-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP706?locale=es_ES",
         "colores": [
+            "Plateado",
             "Dorado",
-            "Aluminio",
             "Gris espacial",
-            "Plateado"
+            "Aluminio"
         ],
         "capacidades": [
-            "64 GB",
             "16 GB",
-            "128 GB"
+            "128 GB",
+            "64 GB"
         ],
         "modelos": {
             "A1522": "Región global o no especificada",
@@ -1113,14 +1163,14 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5s-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP685?locale=es_ES",
         "colores": [
+            "Plateado",
             "Dorado",
-            "Aluminio",
             "Gris espacial",
-            "Plateado"
+            "Aluminio"
         ],
         "capacidades": [
-            "64 GB",
             "16 GB",
+            "64 GB",
             "32 GB"
         ],
         "modelos": {
@@ -1139,11 +1189,11 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5c-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP684?locale=es_ES",
         "colores": [
+            "Azul",
             "Amarillo",
             "Rosa",
-            "Azul",
-            "Verde",
-            "Blanco"
+            "Blanco",
+            "Verde"
         ],
         "capacidades": [
             "16 GB",
@@ -1165,13 +1215,13 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-iphone5-colors.jpg",
         "url_specs": "https://support.apple.com/kb/SP655?locale=es_ES",
         "colores": [
-            "Aluminio",
             "Negro",
-            "Blanco"
+            "Blanco",
+            "Aluminio"
         ],
         "capacidades": [
-            "64 GB",
             "16 GB",
+            "64 GB",
             "32 GB"
         ],
         "modelos": {
@@ -1191,8 +1241,8 @@
             "Blanco"
         ],
         "capacidades": [
-            "64 GB",
             "16 GB",
+            "64 GB",
             "8 GB",
             "32 GB"
         ],
@@ -1270,8 +1320,8 @@
         ],
         "capacidades": [
             "16 GB",
-            "8 GB",
-            "4 GB"
+            "4 GB",
+            "8 GB"
         ],
         "modelos": {
             "A1203": "Región global o no especificada",
@@ -1292,10 +1342,10 @@
             "Negro"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB",
             "2 TB",
-            "1 TB"
+            "1 TB",
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A3360": "Región global o no especificada",
@@ -1313,10 +1363,10 @@
             "Negro"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB",
             "2 TB",
-            "1 TB"
+            "1 TB",
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A3357": "Región global o no especificada",
@@ -1334,10 +1384,10 @@
             "Negro"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB",
             "2 TB",
-            "1 TB"
+            "1 TB",
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2925": "Región global o no especificada",
@@ -1355,10 +1405,10 @@
             "Negro"
         ],
         "capacidades": [
-            "256 GB",
-            "512 GB",
             "2 TB",
-            "1 TB"
+            "1 TB",
+            "512 GB",
+            "256 GB"
         ],
         "modelos": {
             "A2836": "Región global o no especificada",
@@ -1376,11 +1426,11 @@
             "Negro"
         ],
         "capacidades": [
-            "256 GB",
-            "2 TB",
-            "512 GB",
             "1 TB",
-            "128 GB"
+            "2 TB",
+            "256 GB",
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2436": "Región global o no especificada",
@@ -1399,12 +1449,12 @@
             "Negro"
         ],
         "capacidades": [
-            "256 GB",
+            "1 TB",
             "2 TB",
             "4 GB",
-            "512 GB",
-            "1 TB",
-            "128 GB"
+            "256 GB",
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2759": "Región global o no especificada",
@@ -1423,11 +1473,11 @@
             "Negro"
         ],
         "capacidades": [
-            "256 GB",
-            "2 TB",
-            "512 GB",
             "1 TB",
-            "128 GB"
+            "2 TB",
+            "256 GB",
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2378": "Región global o no especificada",
@@ -1446,11 +1496,11 @@
             "Negro"
         ],
         "capacidades": [
-            "256 GB",
-            "2 TB",
-            "512 GB",
             "1 TB",
-            "128 GB"
+            "2 TB",
+            "256 GB",
+            "128 GB",
+            "512 GB"
         ],
         "modelos": {
             "A2377": "Región global o no especificada",
@@ -1469,10 +1519,10 @@
             "Negro"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "128 GB"
         ],
         "modelos": {
             "A2229": "Región global o no especificada",
@@ -1491,10 +1541,10 @@
             "Negro"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "128 GB"
         ],
         "modelos": {
             "A2228": "Región global o no especificada",
@@ -1513,10 +1563,10 @@
             "Negro"
         ],
         "capacidades": [
-            "256 GB",
-            "64 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "256 GB",
+            "64 GB"
         ],
         "modelos": {
             "A1876": "Región global o no especificada",
@@ -1535,10 +1585,10 @@
             "Negro"
         ],
         "capacidades": [
-            "256 GB",
-            "64 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "256 GB",
+            "64 GB"
         ],
         "modelos": {
             "A1980": "Región global o no especificada",
@@ -1558,9 +1608,9 @@
             "Blanco"
         ],
         "capacidades": [
+            "512 GB",
             "256 GB",
-            "64 GB",
-            "512 GB"
+            "64 GB"
         ],
         "modelos": {
             "A1670": "Región global o no especificada",
@@ -1579,9 +1629,9 @@
             "Blanco"
         ],
         "capacidades": [
+            "512 GB",
             "256 GB",
-            "64 GB",
-            "512 GB"
+            "64 GB"
         ],
         "modelos": {
             "A1701": "Región global o no especificada",
@@ -1600,9 +1650,9 @@
             "Blanco"
         ],
         "capacidades": [
-            "128 GB",
+            "32 GB",
             "256 GB",
-            "32 GB"
+            "128 GB"
         ],
         "modelos": {
             "A1673": "Región global o no especificada",
@@ -1621,9 +1671,9 @@
             "Blanco"
         ],
         "capacidades": [
-            "128 GB",
+            "32 GB",
             "256 GB",
-            "32 GB"
+            "128 GB"
         ],
         "modelos": {
             "A1584": "Región global o no especificada",
@@ -1640,10 +1690,10 @@
             "Consultar Especificaciones"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "128 GB"
         ],
         "modelos": {
             "A3461": "Región global o no especificada",
@@ -1661,10 +1711,10 @@
             "Consultar Especificaciones"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "128 GB"
         ],
         "modelos": {
             "A3459": "Región global o no especificada",
@@ -1682,10 +1732,10 @@
             "Consultar Especificaciones"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "128 GB"
         ],
         "modelos": {
             "A3268": "Región global o no especificada",
@@ -1703,10 +1753,10 @@
             "Consultar Especificaciones"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "128 GB"
         ],
         "modelos": {
             "A3266": "Región global o no especificada",
@@ -1724,10 +1774,10 @@
             "Consultar Especificaciones"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "128 GB"
         ],
         "modelos": {
             "A2898": "Región global o no especificada",
@@ -1745,10 +1795,10 @@
             "Consultar Especificaciones"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
+            "1 TB",
             "512 GB",
-            "1 TB"
+            "128 GB"
         ],
         "modelos": {
             "A2902": "Región global o no especificada",
@@ -1785,9 +1835,9 @@
             "Consultar Especificaciones"
         ],
         "capacidades": [
+            "4 GB",
             "256 GB",
-            "64 GB",
-            "4 GB"
+            "64 GB"
         ],
         "modelos": {
             "A2316": "Región global o no especificada",
@@ -1828,10 +1878,10 @@
         ],
         "capacidades": [
             "64 GB",
-            "32 GB",
             "2 TB",
-            "16 GB",
-            "128 GB"
+            "32 GB",
+            "128 GB",
+            "16 GB"
         ],
         "modelos": {
             "A1566": "Región global o no especificada",
@@ -1849,10 +1899,10 @@
             "Blanco"
         ],
         "capacidades": [
-            "64 GB",
             "16 GB",
-            "32 GB",
-            "128 GB"
+            "64 GB",
+            "128 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1474": "Región global o no especificada",
@@ -1870,9 +1920,9 @@
             "Consultar Especificaciones"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
-            "512 GB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2993": "Región global o no especificada",
@@ -1931,10 +1981,10 @@
         ],
         "capacidades": [
             "64 GB",
-            "32 GB",
             "4 GB",
-            "16 GB",
-            "128 GB"
+            "32 GB",
+            "128 GB",
+            "16 GB"
         ],
         "modelos": {
             "A1538": "Región global o no especificada",
@@ -1952,9 +2002,9 @@
             "Blanco"
         ],
         "capacidades": [
-            "64 GB",
             "16 GB",
-            "128 GB"
+            "128 GB",
+            "64 GB"
         ],
         "modelos": {
             "A1599": "Región global o no especificada",
@@ -1973,10 +2023,10 @@
         ],
         "capacidades": [
             "64 GB",
-            "32 GB",
             "2 TB",
-            "16 GB",
-            "128 GB"
+            "32 GB",
+            "128 GB",
+            "16 GB"
         ],
         "modelos": {
             "A1489": "Región global o no especificada",
@@ -1995,8 +2045,8 @@
             "Blanco"
         ],
         "capacidades": [
-            "64 GB",
             "16 GB",
+            "64 GB",
             "32 GB"
         ],
         "modelos": {
@@ -2015,9 +2065,9 @@
             "Negro"
         ],
         "capacidades": [
-            "128 GB",
             "256 GB",
-            "512 GB"
+            "512 GB",
+            "128 GB"
         ],
         "modelos": {
             "A3354": "Región global o no especificada",
@@ -2076,9 +2126,9 @@
             "Blanco"
         ],
         "capacidades": [
-            "128 GB",
+            "32 GB",
             "8 GB",
-            "32 GB"
+            "128 GB"
         ],
         "modelos": {
             "A2270": "Región global o no especificada",
@@ -2098,8 +2148,8 @@
             "Blanco"
         ],
         "capacidades": [
-            "128 GB",
-            "32 GB"
+            "32 GB",
+            "128 GB"
         ],
         "modelos": {
             "A2197": "Región global o no especificada",
@@ -2118,8 +2168,8 @@
             "Blanco"
         ],
         "capacidades": [
-            "128 GB",
-            "32 GB"
+            "32 GB",
+            "128 GB"
         ],
         "modelos": {
             "A1893": "Región global o no especificada",
@@ -2137,8 +2187,8 @@
             "Blanco"
         ],
         "capacidades": [
-            "128 GB",
-            "32 GB"
+            "32 GB",
+            "128 GB"
         ],
         "modelos": {
             "A1822": "Región global o no especificada",
@@ -2157,10 +2207,10 @@
         ],
         "capacidades": [
             "64 GB",
-            "32 GB",
             "4 GB",
-            "16 GB",
-            "128 GB"
+            "32 GB",
+            "128 GB",
+            "16 GB"
         ],
         "modelos": {
             "A1458": "Región global o no especificada",
@@ -2179,8 +2229,8 @@
             "Blanco"
         ],
         "capacidades": [
-            "64 GB",
             "16 GB",
+            "64 GB",
             "32 GB"
         ],
         "modelos": {
@@ -2200,10 +2250,10 @@
             "Blanco"
         ],
         "capacidades": [
-            "64 GB",
             "16 GB",
-            "32 GB",
-            "2 TB"
+            "2 TB",
+            "64 GB",
+            "32 GB"
         ],
         "modelos": {
             "A1395": "Región global o no especificada",
@@ -2221,8 +2271,8 @@
             "Negro"
         ],
         "capacidades": [
-            "64 GB",
             "16 GB",
+            "64 GB",
             "32 GB"
         ],
         "modelos": {
@@ -2237,8 +2287,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m5-pro-m5-max.png",
         "url_specs": "https://support.apple.com/es-es/126318",
         "colores": [
-            "Negro espacial",
-            "Plata"
+            "Plata",
+            "Negro espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2258,8 +2308,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-m5-pro-m5-max.png",
         "url_specs": "https://support.apple.com/es-es/126319",
         "colores": [
-            "Negro espacial",
-            "Plata"
+            "Plata",
+            "Negro espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2282,8 +2332,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m5-colors.png",
         "url_specs": "https://support.apple.com/es-es/125405",
         "colores": [
-            "Negro espacial",
-            "Plata"
+            "Plata",
+            "Negro espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2304,8 +2354,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-2024-m4-colors.png",
         "url_specs": "https://support.apple.com/es-es/121552",
         "colores": [
-            "Negro espacial",
-            "Plata"
+            "Plata",
+            "Negro espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2328,8 +2378,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-2024-colors.png",
         "url_specs": "https://support.apple.com/es-es/121554",
         "colores": [
-            "Negro espacial",
-            "Plata"
+            "Plata",
+            "Negro espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2352,8 +2402,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-m3-pro-m3-max-nov-2023-silver-space-black.png",
         "url_specs": "https://support.apple.com/es-es/117736",
         "colores": [
-            "Negro espacial",
-            "Plata"
+            "Plata",
+            "Negro espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2380,8 +2430,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-m3-pro-m3-max-nov-2023-silver-space-black.png",
         "url_specs": "https://support.apple.com/es-es/117737",
         "colores": [
-            "Negro espacial",
-            "Plata"
+            "Plata",
+            "Negro espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2410,8 +2460,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-14in-2023.png",
         "url_specs": "https://support.apple.com/es-es/111340",
         "colores": [
-            "Gris espacial",
-            "Plata"
+            "Plata",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2432,8 +2482,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-2023.png",
         "url_specs": "https://support.apple.com/es-es/111838",
         "colores": [
-            "Gris espacial",
-            "Plata"
+            "Plata",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2456,8 +2506,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-13-in-M2-2022.png",
         "url_specs": "https://support.apple.com/es-es/111869",
         "colores": [
-            "Gris espacial",
-            "Plata"
+            "Plata",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2477,8 +2527,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2021-14in.png",
         "url_specs": "https://support.apple.com/es-es/111902",
         "colores": [
-            "Gris espacial",
-            "Plata"
+            "Plata",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2497,8 +2547,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2021-16in.png",
         "url_specs": "https://support.apple.com/es-es/111901",
         "colores": [
-            "Gris espacial",
-            "Plata"
+            "Plata",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2519,8 +2569,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2020-late-13in-device.jpg",
         "url_specs": "https://support.apple.com/es-es/111893",
         "colores": [
-            "Gris espacial",
-            "Plata"
+            "Plata",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2540,8 +2590,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2020-13in-device-3.jpg",
         "url_specs": "https://support.apple.com/es-es/111981",
         "colores": [
-            "Gris espacial",
-            "Plata"
+            "Plata",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2562,8 +2612,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-16in-2019.jpg",
         "url_specs": "https://support.apple.com/es-es/111932",
         "colores": [
-            "Gris espacial",
-            "Plata"
+            "Plata",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2583,8 +2633,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2018-13in-device.jpg",
         "url_specs": "https://support.apple.com/es-es/111945",
         "colores": [
-            "Gris espacial",
-            "Plata"
+            "Plata",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2606,8 +2656,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2018-15in-device-2.jpg",
         "url_specs": "https://support.apple.com/es-es/111941",
         "colores": [
-            "Gris espacial",
-            "Plata"
+            "Plata",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2629,8 +2679,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2018-15in-device-2.jpg",
         "url_specs": "https://support.apple.com/es-es/111949",
         "colores": [
-            "Gris espacial",
-            "Plata"
+            "Plata",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2652,8 +2702,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2017-15in-device.jpg",
         "url_specs": "https://support.apple.com/es-es/111947",
         "colores": [
-            "Gris espacial",
-            "Plata"
+            "Plata",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2675,8 +2725,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2017-13in-device-2thunderbolt-3ports.jpg",
         "url_specs": "https://support.apple.com/es-es/111951",
         "colores": [
-            "Gris espacial",
-            "Plata"
+            "Plata",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2697,8 +2747,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2016-15in-device.jpg",
         "url_specs": "https://support.apple.com/es-es/111975",
         "colores": [
-            "Gris espacial",
-            "Plata"
+            "Plata",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -2720,8 +2770,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-pro/macbook-pro-2016-13in-device.jpg",
         "url_specs": "https://support.apple.com/es-es/111999",
         "colores": [
-            "Gris espacial",
-            "Plata"
+            "Plata",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -3288,10 +3338,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-15in-m5-colors.png",
         "url_specs": "https://support.apple.com/es-es/126321",
         "colores": [
-            "Blanco estrella",
-            "Azul cielo",
+            "Plata",
             "Medianoche",
-            "Plata"
+            "Blanco estrella",
+            "Azul cielo"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -3318,10 +3368,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/macbook-air-13in-m5-colors.png",
         "url_specs": "https://support.apple.com/es-es/126320",
         "colores": [
-            "Blanco estrella",
-            "Azul cielo",
+            "Plata",
             "Medianoche",
-            "Plata"
+            "Blanco estrella",
+            "Azul cielo"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -3347,10 +3397,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2025-macbook-air-15in-colors.png",
         "url_specs": "https://support.apple.com/es-es/122210",
         "colores": [
-            "Blanco estrella",
-            "Azul cielo",
+            "Plata",
             "Medianoche",
-            "Plata"
+            "Blanco estrella",
+            "Azul cielo"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -3380,10 +3430,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2025-macbook-air-13in-colors.png",
         "url_specs": "https://support.apple.com/es-es/122209",
         "colores": [
-            "Blanco estrella",
-            "Azul cielo",
+            "Plata",
             "Medianoche",
-            "Plata"
+            "Blanco estrella",
+            "Azul cielo"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -3413,10 +3463,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2024-macbook-air-15in-m3-colors.png",
         "url_specs": "https://support.apple.com/es-es/118552",
         "colores": [
-            "Blanco estrella",
-            "Gris espacial",
+            "Plata",
             "Medianoche",
-            "Plata"
+            "Blanco estrella",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -3444,10 +3494,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2024-macbook-air-13in-m3-colors.png",
         "url_specs": "https://support.apple.com/es-es/118551",
         "colores": [
-            "Blanco estrella",
-            "Gris espacial",
+            "Plata",
             "Medianoche",
-            "Plata"
+            "Blanco estrella",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -3476,10 +3526,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2023-macbook-air-15in-m2-colors.png",
         "url_specs": "https://support.apple.com/es-es/111346",
         "colores": [
-            "Blanco estrella",
-            "Gris espacial",
+            "Plata",
             "Medianoche",
-            "Plata"
+            "Blanco estrella",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -3503,10 +3553,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/macbook-air/2022-macbook-air-m2-colors.png",
         "url_specs": "https://support.apple.com/es-es/111867",
         "colores": [
-            "Blanco estrella",
-            "Gris espacial",
+            "Plata",
             "Medianoche",
-            "Plata"
+            "Blanco estrella",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -3884,13 +3934,13 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2024-four-ports-colors.png",
         "url_specs": "https://support.apple.com/es-es/121557",
         "colores": [
-            "Amarillo",
-            "Rosa",
             "Plata",
             "Azul",
+            "Amarillo",
+            "Rosa",
+            "Verde",
             "Morado",
-            "Naranja",
-            "Verde"
+            "Naranja"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -3949,38 +3999,38 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2023-two-ports-colors.png",
         "url_specs": "https://support.apple.com/es-es/117733",
         "colores": [
+            "Plata",
+            "Azul",
+            "5 números de pieza: mqrj3xx/a",
+            "Amarillo",
+            "Mqry3xx/a sistema operativo compatible más reciente: macos tahoe 26 especificaciones técnicas para imac (24 pulgadas",
+            "Mqrd3xx/a sistema operativo compatible más reciente: macos tahoe 26 especificaciones técnicas para imac (24 pulgadas",
+            "Mqru3xx/a",
+            "Morado",
+            "Dos puertos) manual de uso del imac (24 pulgadas",
+            "Mqrc3xx/a",
+            "Mqrv3xx/a",
+            "Mqrw3xx/a",
+            "Verde",
             "Mqrr3xx/a",
-            "Mqrx3xx/a",
-            "4 números de pieza: mqr93xx/a",
-            "Dos puertos)",
-            "Verde identificador de modelo: mac15",
-            "Mqrk3xx/a",
+            "Cuatro puertos) manual de uso del mac (24 pulgadas",
+            "2023",
             "Mqrp3xx/a",
-            "Mqrt3xx/a",
-            "Naranja",
             "Mqrl3xx/a",
+            "Mqrt3xx/a",
             "Cuatro puertos)",
+            "Mqrm3xx/a",
+            "Naranja",
+            "Verde identificador de modelo: mac15",
+            "Amarillo identificador de modelo: mac15",
+            "Mqrk3xx/a",
             "Rosa",
             "Mqrn3xx/a",
-            "Dos puertos) manual de uso del imac (24 pulgadas",
-            "5 números de pieza: mqrj3xx/a",
-            "Verde",
-            "Mqrw3xx/a",
-            "Cuatro puertos) manual de uso del mac (24 pulgadas",
-            "Plata",
-            "Mqrq3xx/a",
-            "2023",
-            "Mqrd3xx/a sistema operativo compatible más reciente: macos tahoe 26 especificaciones técnicas para imac (24 pulgadas",
-            "Morado",
+            "Mqrx3xx/a",
+            "4 números de pieza: mqr93xx/a",
             "Mqra3xx/a",
-            "Amarillo",
-            "Azul",
-            "Mqrm3xx/a",
-            "Mqrv3xx/a",
-            "Mqrc3xx/a",
-            "Mqru3xx/a",
-            "Amarillo identificador de modelo: mac15",
-            "Mqry3xx/a sistema operativo compatible más reciente: macos tahoe 26 especificaciones técnicas para imac (24 pulgadas"
+            "Dos puertos)",
+            "Mqrq3xx/a"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -4035,13 +4085,13 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2023-four-ports-colors.png",
         "url_specs": "https://support.apple.com/es-es/117734",
         "colores": [
-            "Amarillo",
-            "Rosa",
             "Plata",
             "Azul",
+            "Amarillo",
+            "Rosa",
+            "Verde",
             "Morado",
-            "Naranja",
-            "Verde"
+            "Naranja"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -4072,10 +4122,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/imac-24in-2023-two-ports-colors.png",
         "url_specs": "https://support.apple.com/es-es/117733",
         "colores": [
-            "Rosa",
+            "Plata",
             "Azul",
-            "Verde",
-            "Plata"
+            "Rosa",
+            "Verde"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -4096,10 +4146,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/imac/id-imac-24-2021-2.png",
         "url_specs": "https://support.apple.com/es-es/111895",
         "colores": [
-            "Rosa",
+            "Plata",
             "Azul",
-            "Verde",
-            "Plata"
+            "Rosa",
+            "Verde"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5017,6 +5067,144 @@
             "MJMW3xx/a": "Número de pieza comercial"
         }
     },
+    "apple_watch_series_12_gps": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 12 (GPS)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-12-aluminum-gps.png",
+        "url_specs": "https://support.apple.com/es-es/108056",
+        "colores": [
+            "Negro",
+            "Gris espacial",
+            "Aluminio"
+        ],
+        "capacidades": [
+            "Consultar Especificaciones"
+        ],
+        "modelos": {
+            "A3581": "Región global o no especificada",
+            "A3583": "Región global o no especificada",
+            "A3584": "Región global o no especificada",
+            "A3585": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_12_gps_+_cellular_aluminio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 12 (GPS + Cellular) aluminio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-12-aluminum-gps-cell.png",
+        "url_specs": "https://support.apple.com/es-es/108056",
+        "colores": [
+            "Negro",
+            "Gris espacial",
+            "Aluminio"
+        ],
+        "capacidades": [
+            "Consultar Especificaciones"
+        ],
+        "modelos": {
+            "A3582": "Región global o no especificada",
+            "A3586": "Región global o no especificada",
+            "A3587": "Región global o no especificada",
+            "A3588": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_12_gps_+_cellular_titanio": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 12 (GPS + Cellular) titanio",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-12-titanium-gps-cell.png",
+        "url_specs": "https://support.apple.com/es-es/108056",
+        "colores": [
+            "Titanio",
+            "Oro"
+        ],
+        "capacidades": [
+            "Consultar Especificaciones"
+        ],
+        "modelos": {
+            "A3582": "Región global o no especificada",
+            "A3586": "Región global o no especificada",
+            "A3587": "Región global o no especificada",
+            "A3588": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_12_gps_+_cellular_cerámica": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 12 (GPS + Cellular) cerámica",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-12-ceramic.png",
+        "url_specs": "https://support.apple.com/es-es/108056",
+        "colores": [
+            "Cerámica",
+            "Azul",
+            "Blanco"
+        ],
+        "capacidades": [
+            "Consultar Especificaciones"
+        ],
+        "modelos": {
+            "A3582": "Región global o no especificada",
+            "A3586": "Región global o no especificada",
+            "A3587": "Región global o no especificada",
+            "A3588": "Región global o no especificada"
+        }
+    },
+    "apple_watch_series_12_hermès_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Series 12 Hermès (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-12-hermes.png",
+        "url_specs": "https://support.apple.com/es-es/108056",
+        "colores": [
+            "Plata",
+            "Titanio",
+            "Oro"
+        ],
+        "capacidades": [
+            "Consultar Especificaciones"
+        ],
+        "modelos": {
+            "A3582": "Región global o no especificada",
+            "A3586": "Región global o no especificada",
+            "A3587": "Región global o no especificada",
+            "A3588": "Región global o no especificada"
+        }
+    },
+    "apple_watch_ultra_4_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Ultra 4 (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-4.png",
+        "url_specs": "https://support.apple.com/es-es/108056",
+        "colores": [
+            "Consultar Especificaciones"
+        ],
+        "capacidades": [
+            "Consultar Especificaciones"
+        ],
+        "modelos": {
+            "A3579": "Región global o no especificada",
+            "A3580": "Región global o no especificada"
+        }
+    },
+    "apple_watch_ultra_4_hermès_gps_+_cellular": {
+        "categoria": "Watch",
+        "nombre": "Apple Watch Ultra 4 Hermès (GPS + Cellular)",
+        "año": 2024,
+        "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-ultra-4-hermes.png",
+        "url_specs": "https://support.apple.com/es-es/108056",
+        "colores": [
+            "Consultar Especificaciones"
+        ],
+        "capacidades": [
+            "Consultar Especificaciones"
+        ],
+        "modelos": {
+            "A3579": "Región global o no especificada",
+            "A3580": "Región global o no especificada"
+        }
+    },
     "apple_watch_series_11_gps": {
         "categoria": "Watch",
         "nombre": "Apple Watch Series 11 (GPS)",
@@ -5024,10 +5212,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-11-aluminum-gps.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Negro azabache",
-            "Aluminio",
             "Plata",
+            "Aluminio",
             "Gris espacial",
+            "Negro azabache",
             "Oro rosa"
         ],
         "capacidades": [
@@ -5047,10 +5235,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-11-aluminum-gps-cell.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Negro azabache",
-            "Aluminio",
             "Plata",
+            "Aluminio",
             "Gris espacial",
+            "Negro azabache",
             "Oro rosa"
         ],
         "capacidades": [
@@ -5108,9 +5296,9 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-se-3.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
+            "Medianoche",
             "Blanco estrella",
-            "Aluminio",
-            "Medianoche"
+            "Aluminio"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5129,9 +5317,9 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-se-3.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
+            "Medianoche",
             "Blanco estrella",
-            "Aluminio",
-            "Medianoche"
+            "Aluminio"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5184,10 +5372,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-10-aluminum-gps.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Aluminio",
-            "Oro rosa",
+            "Plata",
             "Negro",
-            "Plata"
+            "Oro rosa",
+            "Aluminio"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5206,10 +5394,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-10-aluminum-gps-cell.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Aluminio",
-            "Oro rosa",
+            "Plata",
             "Negro",
-            "Plata"
+            "Oro rosa",
+            "Aluminio"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5300,11 +5488,11 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-9-gps.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Medianoche",
             "Cerámica",
-            "Aluminio",
             "Plata",
+            "Aluminio",
             "Rosa",
+            "Medianoche",
             "Blanco estrella"
         ],
         "capacidades": [
@@ -5322,13 +5510,13 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-9-gps-cellular.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Medianoche",
             "Cerámica",
-            "Aluminio",
             "Plata",
+            "Rojo",
+            "Aluminio",
             "Rosa",
-            "Blanco estrella",
-            "Rojo"
+            "Medianoche",
+            "Blanco estrella"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5348,8 +5536,8 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Cerámica",
-            "Acero inoxidable",
             "Plata",
+            "Acero inoxidable",
             "Rojo",
             "Oro",
             "Grafito"
@@ -5371,11 +5559,11 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-series-9-hermes.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Negro espacial",
+            "Plata",
             "Cerámica",
             "Acero inoxidable",
-            "Plata",
-            "Rojo"
+            "Rojo",
+            "Negro espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5412,11 +5600,11 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-aluminum-gps.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Medianoche",
             "Cerámica",
             "Aluminio",
-            "Blanco estrella",
-            "Verde"
+            "Verde",
+            "Medianoche",
+            "Blanco estrella"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5433,11 +5621,11 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-aluminum-gps-cellular.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Medianoche",
             "Cerámica",
+            "Rojo",
             "Aluminio",
-            "Blanco estrella",
-            "Rojo"
+            "Medianoche",
+            "Blanco estrella"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5459,8 +5647,8 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Cerámica",
-            "Acero inoxidable",
             "Plata",
+            "Acero inoxidable",
             "Rojo",
             "Oro",
             "Grafito"
@@ -5484,11 +5672,11 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series-8-hermes.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Negro espacial",
+            "Plata",
             "Cerámica",
             "Acero inoxidable",
-            "Plata",
-            "Rojo"
+            "Rojo",
+            "Negro espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5509,10 +5697,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-se-gps.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Blanco estrella",
-            "Aluminio",
+            "Plata",
             "Medianoche",
-            "Plata"
+            "Blanco estrella",
+            "Aluminio"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5529,11 +5717,11 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/fall-2022-watch-series8-se-gps-cellular.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Medianoche",
-            "Aluminio",
             "Plata",
-            "Blanco estrella",
-            "Rojo"
+            "Rojo",
+            "Aluminio",
+            "Medianoche",
+            "Blanco estrella"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5554,12 +5742,12 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/2021-apple-watch-series7-aluminum-gps.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Medianoche",
             "Cerámica",
-            "Aluminio",
             "Azul",
-            "Blanco estrella",
-            "Verde"
+            "Aluminio",
+            "Verde",
+            "Medianoche",
+            "Blanco estrella"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5576,10 +5764,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-nike-gps.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Aluminio",
             "Cerámica",
+            "Plata",
             "Gris espacial",
-            "Plata"
+            "Aluminio"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5596,13 +5784,13 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/2021-apple-watch-series7-aluminum-gps-cellular.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Medianoche",
             "Cerámica",
-            "Aluminio",
             "Azul",
-            "Blanco estrella",
             "Rojo",
-            "Verde"
+            "Aluminio",
+            "Verde",
+            "Medianoche",
+            "Blanco estrella"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5622,10 +5810,10 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Cerámica",
-            "Aluminio",
             "Plata",
-            "Gris espacial",
-            "Rojo"
+            "Rojo",
+            "Aluminio",
+            "Gris espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5645,8 +5833,8 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Cerámica",
-            "Acero inoxidable",
             "Plata",
+            "Acero inoxidable",
             "Rojo",
             "Oro",
             "Grafito"
@@ -5709,11 +5897,11 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Cerámica",
-            "Aluminio",
             "Plata",
             "Azul",
-            "Gris espacial",
             "Rojo",
+            "Aluminio",
+            "Gris espacial",
             "Oro"
         ],
         "capacidades": [
@@ -5732,11 +5920,11 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Cerámica",
-            "Aluminio",
             "Plata",
             "Azul",
-            "Gris espacial",
             "Rojo",
+            "Aluminio",
+            "Gris espacial",
             "Oro"
         ],
         "capacidades": [
@@ -5757,8 +5945,8 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Cerámica",
-            "Acero inoxidable",
             "Plata",
+            "Acero inoxidable",
             "Rojo",
             "Oro",
             "Grafito"
@@ -5781,8 +5969,8 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Cerámica",
-            "Aluminio",
             "Plata",
+            "Aluminio",
             "Gris espacial",
             "Oro"
         ],
@@ -5802,10 +5990,10 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Cerámica",
-            "Aluminio",
             "Plata",
-            "Gris espacial",
             "Rojo",
+            "Aluminio",
+            "Gris espacial",
             "Oro"
         ],
         "capacidades": [
@@ -5826,8 +6014,8 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Cerámica",
-            "Aluminio",
             "Plata",
+            "Aluminio",
             "Gris espacial",
             "Oro"
         ],
@@ -5847,10 +6035,10 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Cerámica",
-            "Aluminio",
             "Plata",
-            "Gris espacial",
             "Rojo",
+            "Aluminio",
+            "Gris espacial",
             "Oro"
         ],
         "capacidades": [
@@ -5870,11 +6058,11 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series5-apple-watch-cellular-gps-stainless.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Negro espacial",
             "Cerámica",
             "Acero inoxidable",
+            "Rojo",
             "Oro",
-            "Rojo"
+            "Negro espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5913,8 +6101,8 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Cerámica",
-            "Aluminio",
             "Plata",
+            "Aluminio",
             "Gris espacial",
             "Oro"
         ],
@@ -5933,9 +6121,9 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-gps-nike.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Aluminio",
+            "Plata",
             "Gris espacial",
-            "Plata"
+            "Aluminio"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -5953,10 +6141,10 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Cerámica",
-            "Aluminio",
             "Plata",
-            "Gris espacial",
             "Rojo",
+            "Aluminio",
+            "Gris espacial",
             "Oro"
         ],
         "capacidades": [
@@ -5976,10 +6164,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-cellular-gps-nike.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Aluminio",
             "Cerámica",
+            "Plata",
             "Gris espacial",
-            "Plata"
+            "Aluminio"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -6000,11 +6188,11 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series4-apple-watch-stainless-gps-cellular.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Negro espacial",
             "Cerámica",
             "Acero inoxidable",
+            "Rojo",
             "Oro",
-            "Rojo"
+            "Negro espacial"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -6023,10 +6211,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/series3-apple-watch-gps-aluminum.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Aluminio",
-            "Gris espacial",
+            "Plata",
             "Oro",
-            "Plata"
+            "Gris espacial",
+            "Aluminio"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -6044,8 +6232,8 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Cerámica",
-            "Aluminio",
             "Plata",
+            "Aluminio",
             "Gris espacial",
             "Oro"
         ],
@@ -6069,8 +6257,8 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Negro espacial",
-            "Acero inoxidable",
-            "Cerámica"
+            "Cerámica",
+            "Acero inoxidable"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -6113,8 +6301,8 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Cerámica",
-            "Aluminio",
             "Plata",
+            "Aluminio",
             "Gris espacial",
             "Oro",
             "Oro rosa"
@@ -6134,10 +6322,10 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watch-series2-nike.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Aluminio",
             "Cerámica",
+            "Plata",
             "Gris espacial",
-            "Plata"
+            "Aluminio"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -6155,8 +6343,8 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Negro espacial",
-            "Acero inoxidable",
-            "Cerámica"
+            "Cerámica",
+            "Acero inoxidable"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -6207,8 +6395,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/watch-series1-aluminum.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Aluminio",
             "Plata",
+            "Aluminio",
             "Gris espacial",
             "Oro",
             "Oro rosa"
@@ -6229,8 +6417,8 @@
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
             "Negro espacial",
-            "Acero inoxidable",
-            "Cerámica"
+            "Cerámica",
+            "Acero inoxidable"
         ],
         "capacidades": [
             "Consultar Especificaciones"
@@ -6247,8 +6435,8 @@
         "imagen": "https://cdsassets.apple.com/live/7WUAS350/images/apple-watch/apple-watch-sport-1st-gen.png",
         "url_specs": "https://support.apple.com/es-es/108056",
         "colores": [
-            "Aluminio",
             "Plata",
+            "Aluminio",
             "Gris espacial",
             "Oro",
             "Oro rosa"
